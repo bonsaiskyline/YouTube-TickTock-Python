@@ -12,7 +12,8 @@
 	"vscode": {
 		"extensions": [
 			"GitHub.copilot",
-			"ms-python.python"
+			"ms-python.python",
+			"ms-python.pylint"
 		]
 	}
 }

@@ -15,7 +15,7 @@ for filename in os.listdir("./transcription"):
       text = f.read()
       embedding = get_embedding(text, "text-embedding-ada-002")
       embedding_name = filename.replace(".txt", "")
-      df.loc[len(df)] = embedding
+      df = df.append({'name': embedding_name, 'embedding': embedding}, ignore_index=True)
 df.to_csv('embedding/whole-transcription.csv', index=False)
 
 #     with open("./embedding/{}.csv".format(name), 'w') as output:

@@ -1,6 +1,8 @@
 """Transcribe speech from a video stored on GCS."""
 from google.cloud import videointelligence
 
+path = "gs://yt-tiktok/tiktok.mp4"
+
 video_client = videointelligence.VideoIntelligenceServiceClient()
 features = [videointelligence.Feature.SPEECH_TRANSCRIPTION]
 
@@ -16,7 +18,7 @@ video_context = videointelligence.VideoContext(
 operation = video_client.annotate_video(
     request={
         "features": features,
-        "input_uri": "https://www.youtube.com/watch?v=sZDpJHl6amo",
+        "input_uri": path,
         "video_context": video_context,
     }
 )
@@ -28,6 +30,10 @@ result = operation.result(timeout=600)
 # There is only one annotation_result since only
 # one video is processed.
 annotation_results = result.annotation_results[0]
+
+import pdb
+pdb.set_trace()
+
 for speech_transcription in annotation_results.speech_transcriptions:
 
     # The number of alternatives for each transcription is limited by

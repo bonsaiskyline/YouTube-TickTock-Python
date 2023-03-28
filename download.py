@@ -4,8 +4,8 @@ from pytube import YouTube
 SAVE_PATH = "./video/"  #to_do
 
 youtube_urls = [
-  # "https://www.youtube.com/watch?v=sZDpJHl6amo",
-  # "https://www.youtube.com/shorts/vbXfyNxnkcs",
+  "https://www.youtube.com/watch?v=sZDpJHl6amo",
+  "https://www.youtube.com/shorts/vbXfyNxnkcs",
   "https://www.youtube.com/watch?v=AvsIogVNs7w",
   "https://www.youtube.com/shorts/xq3aFCEnFrQ",
   "https://www.youtube.com/shorts/IhvEU-6bnrM",

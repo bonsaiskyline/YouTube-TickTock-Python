@@ -1,7 +1,8 @@
 {
 	"[python]": {
 		"editor.formatOnPaste": true,
-		"editor.formatOnSave": true
+		"editor.formatOnSave": false
 	},
-	"editor.detectIndentation": false
+	"editor.detectIndentation": false,
+	"editor.indentSize": "tabSize"
 }

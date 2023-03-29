@@ -28,10 +28,14 @@ def download_youtube_videos(
 ):
     """
     Downloads videos.
+
+    Args:
+        youtube_urls (list): List of YouTube URLs.
+        save_path (str): Path to save videos.
     """
-    for i in youtube_urls:
+    for url in youtube_urls:
         try:
-            youtube = YouTube(i)
+            youtube = YouTube(url)
             name = youtube.author.lower().replace(" ", "") + '.mp4'
             filtered_streams = youtube.streams.filter(
                 progressive=True,

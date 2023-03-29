@@ -1,6 +1,6 @@
 """
-This module does something cool that helps with X.
-Author: [your name]
+This module created embeddings from text.
+Author: bonsaiskyline
 """
 import os
 import pandas as pd

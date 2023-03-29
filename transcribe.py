@@ -1,3 +1,7 @@
+"""
+This module transcribes audio from mp4 files.
+Author: bonsaiskyline
+"""
 import openai_utils
 import os
 
@@ -9,7 +13,7 @@ TRANSCIPTION_DIR = "./transcription/"
 
 def get_mp4_filenames(
         dir_path: str
-):
+) -> list:
     """
     Gets mp4 filenames.
 
@@ -42,7 +46,7 @@ def transcribe_audio(
 
 def get_transcription_path(
         video_filename: str
-):
+) -> str:
     """
     Gets the path to the transcription of a video.
 
@@ -64,6 +68,9 @@ def transcribe_mp4_audio(
 ):
     """
     Transcribes videos.
+
+    Args:
+        mp4_filenames (str): Names of mp4 files.
     """
     for mp4_filename in mp4_filenames:
         mp4_path = VIDEO_DIR_PATH + mp4_filename

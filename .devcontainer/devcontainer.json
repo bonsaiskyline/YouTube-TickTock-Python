@@ -7,14 +7,17 @@
 		"ghcr.io/devcontainers-contrib/features/poetry:2": {
 			"version": "1.4.1"
 		}
-},
-"customizations": {
-	"vscode": {
-		"extensions": [
-			"GitHub.copilot",
-			"ms-python.python",
-			"ms-python.pylint"
-		]
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"ms-python.python",
+				"ms-python.pylint"
+			]
+		}
+	},
+	"remoteEnv": {
+		"GOOGLE_APPLICATION_CREDENTIALS": "./cred.json"
 	}
-}
 }

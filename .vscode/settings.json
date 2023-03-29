@@ -1,0 +1,6 @@
+{
+	"[python]": {
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true
+	}
+}

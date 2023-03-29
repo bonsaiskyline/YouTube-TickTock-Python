@@ -6,9 +6,9 @@ import openai_utils
 import os
 
 MAX_MP4_SIZE = 26214400
-VIDEO_DIR_PATH = "./video/"
+VIDEO_DIR = "../video/"
 MP4_EXTENSION = ".mp4"
-TRANSCIPTION_DIR = "./transcription/"
+TRANSCIPTION_DIR = "../transcription/"
 
 
 def get_mp4_filenames(
@@ -73,7 +73,7 @@ def transcribe_mp4_audio(
         mp4_filenames (str): Names of mp4 files.
     """
     for mp4_filename in mp4_filenames:
-        mp4_path = VIDEO_DIR_PATH + mp4_filename
+        mp4_path = VIDEO_DIR + mp4_filename
         mp4_filesize = os.path.getsize(mp4_path)
         if mp4_filesize < MAX_MP4_SIZE:
             transcription_path = get_transcription_path(mp4_filename)
@@ -88,7 +88,7 @@ def transcribe_mp4_audio(
 
 if __name__ == "__main__":
     mp4_filenames = get_mp4_filenames(
-        dir_path=VIDEO_DIR_PATH
+        dir_path=VIDEO_DIR
     )
     transcribe_mp4_audio(
         mp4_filenames=mp4_filenames

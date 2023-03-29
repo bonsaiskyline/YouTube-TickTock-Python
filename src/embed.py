@@ -2,17 +2,15 @@
 This module created embeddings from text.
 Author: bonsaiskyline
 """
-import os
 import pandas as pd
 import openai_utils
+import util.file_utils as file_utils
 
-
-def get_transcription_filenames():
-    """
-    Returns:
-            list: List of transcription files.
-    """
-    return [f for f in os.listdir("./transcription") if f.endswith(".txt")]
+TRANSCRIPTION_DIR = "../transcription/"
+EMBEDDING_DIR = "../embedding/"
+TXT_EXTENSION = ".txt"
+EMBEDDING_MODEL = "text-embedding-ada-002"
+UTF_8 = "utf-8"
 
 
 def get_embeddings_df(
@@ -32,11 +30,11 @@ def get_embeddings_df(
     dfs = []
     for filename in filenames:
         path = path_prefix + filename
-        video_name = filename.replace(".txt", "")
-        with open(path, "r", encoding="utf-8") as f:
+        video_name = filename.replace(TXT_EXTENSION, "")
+        with open(path, "r", encoding=UTF_8) as f:
             embedding = openai_utils.create_embedding(
                 text=f.read(),
-                model="text-embedding-ada-002"
+                model=EMBEDDING_MODEL
             )
             dfs.append(
                 pd.DataFrame(
@@ -54,12 +52,15 @@ def get_embeddings_df(
 
 
 if __name__ == "__main__":
-    transcription_filenames = get_transcription_filenames()
+    transcription_filenames = file_utils.get_filenames(
+        dir_path=TRANSCRIPTION_DIR,
+        extension=TXT_EXTENSION
+    )
     embeddings_df = get_embeddings_df(
         filenames=transcription_filenames,
-        path_prefix="./transcription/"
+        path_prefix=TRANSCRIPTION_DIR
     )
     embeddings_df.to_csv(
-        "embedding/embeddings.csv",
+        EMBEDDING_DIR + "embeddings.csv",
         index=False
     )

@@ -4,7 +4,7 @@ Author: bonsaiskyline
 """
 from pytube import YouTube
 
-SAVE_PATH = "./video/"
+VIDEO_DIR = "./video/"
 
 YOUTUBE_URLS = [
     # "https://www.youtube.com/watch?v=sZDpJHl6amo",
@@ -53,5 +53,5 @@ def download_youtube_videos(
 if __name__ == "__main__":
     download_youtube_videos(
         youtube_urls=YOUTUBE_URLS,
-        save_path=SAVE_PATH
+        save_path=VIDEO_DIR
     )

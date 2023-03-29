@@ -1,0 +1,52 @@
+{
+    "text": " We're talking about-",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.76,
+            "text": " We're talking about-",
+            "tokens": [
+                50364,
+                492,
+                434,
+                1417,
+                466,
+                12,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.882310152053833,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.8153567314147949,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.464341476559639
+                },
+                {
+                    "word": " talking",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.746089518070221
+                },
+                {
+                    "word": " about",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.7935139536857605
+                },
+                {
+                    "word": "-",
+                    "start": 0.76,
+                    "end": 0.76,
+                    "probability": 0.060322199016809464
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

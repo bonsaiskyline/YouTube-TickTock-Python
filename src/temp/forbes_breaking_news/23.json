@@ -1,0 +1,56 @@
+{
+    "text": " Congressman, first, I'm Singaporean.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 2.06,
+            "text": " Congressman, first, I'm Singaporean.",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                700,
+                11,
+                286,
+                478,
+                14491,
+                282,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4185468355814616,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.06774146109819412,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.08,
+                    "end": 0.62,
+                    "probability": 0.5039710998535156
+                },
+                {
+                    "word": " first,",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.7916643619537354
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.2,
+                    "end": 1.48,
+                    "probability": 0.9892937242984772
+                },
+                {
+                    "word": " Singaporean.",
+                    "start": 1.48,
+                    "end": 2.06,
+                    "probability": 0.9029452800750732
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,822 @@
+{
+    "text": " Yeah, and it's interesting. You mentioned what will the administration do, what will the courts do. Congress has the ball at the moment. And the chairwoman, Cathy McMorris-Rogers, just scornful from the beginning, just full of distrust. And again, they want definitive answers. They want yes or no. Listen here as she presses for answers, and she says, I'm not getting them on the question of can you actually keep the Chinese? Can you say no to Xi Jinping, essentially?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " Yeah, and it's interesting.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                293,
+                309,
+                311,
+                1880,
+                13,
+                50440
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.3673093914985657
+                },
+                {
+                    "word": " and",
+                    "start": 0.3,
+                    "end": 0.74,
+                    "probability": 0.879133939743042
+                },
+                {
+                    "word": " it's",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.9319820404052734
+                },
+                {
+                    "word": " interesting.",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.635316014289856
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.52,
+            "end": 3.5,
+            "text": " You mentioned what will the administration do,",
+            "tokens": [
+                50440,
+                509,
+                2835,
+                437,
+                486,
+                264,
+                7236,
+                360,
+                11,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 1.52,
+                    "end": 1.6,
+                    "probability": 0.8909978270530701
+                },
+                {
+                    "word": " mentioned",
+                    "start": 1.6,
+                    "end": 1.88,
+                    "probability": 0.7735365629196167
+                },
+                {
+                    "word": " what",
+                    "start": 1.88,
+                    "end": 2.72,
+                    "probability": 0.26083606481552124
+                },
+                {
+                    "word": " will",
+                    "start": 2.72,
+                    "end": 2.82,
+                    "probability": 0.7188665866851807
+                },
+                {
+                    "word": " the",
+                    "start": 2.82,
+                    "end": 2.92,
+                    "probability": 0.811714231967926
+                },
+                {
+                    "word": " administration",
+                    "start": 2.92,
+                    "end": 3.28,
+                    "probability": 0.8277390599250793
+                },
+                {
+                    "word": " do,",
+                    "start": 3.28,
+                    "end": 3.5,
+                    "probability": 0.8992719054222107
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.54,
+            "end": 4.28,
+            "text": " what will the courts do.",
+            "tokens": [
+                50540,
+                437,
+                486,
+                264,
+                14141,
+                360,
+                13,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " what",
+                    "start": 3.54,
+                    "end": 3.62,
+                    "probability": 0.8763062357902527
+                },
+                {
+                    "word": " will",
+                    "start": 3.62,
+                    "end": 3.72,
+                    "probability": 0.817206621170044
+                },
+                {
+                    "word": " the",
+                    "start": 3.72,
+                    "end": 3.84,
+                    "probability": 0.80454021692276
+                },
+                {
+                    "word": " courts",
+                    "start": 3.84,
+                    "end": 4.1,
+                    "probability": 0.8566654920578003
+                },
+                {
+                    "word": " do.",
+                    "start": 4.1,
+                    "end": 4.28,
+                    "probability": 0.8976327776908875
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.4,
+            "end": 5.92,
+            "text": " Congress has the ball at the moment.",
+            "tokens": [
+                50582,
+                6426,
+                575,
+                264,
+                2594,
+                412,
+                264,
+                1623,
+                13,
+                50666
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " Congress",
+                    "start": 4.4,
+                    "end": 4.64,
+                    "probability": 0.8920344114303589
+                },
+                {
+                    "word": " has",
+                    "start": 4.64,
+                    "end": 4.88,
+                    "probability": 0.8984424471855164
+                },
+                {
+                    "word": " the",
+                    "start": 4.88,
+                    "end": 5.04,
+                    "probability": 0.8160178661346436
+                },
+                {
+                    "word": " ball",
+                    "start": 5.04,
+                    "end": 5.26,
+                    "probability": 0.8280759453773499
+                },
+                {
+                    "word": " at",
+                    "start": 5.26,
+                    "end": 5.46,
+                    "probability": 0.899886429309845
+                },
+                {
+                    "word": " the",
+                    "start": 5.46,
+                    "end": 5.62,
+                    "probability": 0.8179926872253418
+                },
+                {
+                    "word": " moment.",
+                    "start": 5.62,
+                    "end": 5.92,
+                    "probability": 0.922971248626709
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.08,
+            "end": 7.8,
+            "text": " And the chairwoman, Cathy McMorris-Rogers,",
+            "tokens": [
+                50666,
+                400,
+                264,
+                6090,
+                18339,
+                11,
+                39799,
+                25549,
+                284,
+                5714,
+                12,
+                49,
+                664,
+                433,
+                11,
+                50757
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 6.08,
+                    "end": 6.12,
+                    "probability": 0.8478120565414429
+                },
+                {
+                    "word": " the",
+                    "start": 6.12,
+                    "end": 6.26,
+                    "probability": 0.8115909099578857
+                },
+                {
+                    "word": " chairwoman,",
+                    "start": 6.26,
+                    "end": 6.66,
+                    "probability": 0.8599837124347687
+                },
+                {
+                    "word": " Cathy",
+                    "start": 6.78,
+                    "end": 6.96,
+                    "probability": 0.3281683325767517
+                },
+                {
+                    "word": " McMorris",
+                    "start": 6.96,
+                    "end": 7.44,
+                    "probability": 0.9264938433965048
+                },
+                {
+                    "word": "-Rogers,",
+                    "start": 7.44,
+                    "end": 7.8,
+                    "probability": 0.7677769064903259
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 7.88,
+            "end": 9.26,
+            "text": " just scornful from the beginning,",
+            "tokens": [
+                50757,
+                445,
+                795,
+                1865,
+                906,
+                490,
+                264,
+                2863,
+                11,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 7.88,
+                    "end": 8.04,
+                    "probability": 0.8495187759399414
+                },
+                {
+                    "word": " scornful",
+                    "start": 8.04,
+                    "end": 8.58,
+                    "probability": 0.9416471719741821
+                },
+                {
+                    "word": " from",
+                    "start": 8.58,
+                    "end": 8.8,
+                    "probability": 0.8243727087974548
+                },
+                {
+                    "word": " the",
+                    "start": 8.8,
+                    "end": 8.94,
+                    "probability": 0.8149521946907043
+                },
+                {
+                    "word": " beginning,",
+                    "start": 8.94,
+                    "end": 9.26,
+                    "probability": 0.8003159761428833
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 9.38,
+            "end": 10.22,
+            "text": " just full of distrust.",
+            "tokens": [
+                50832,
+                445,
+                1577,
+                295,
+                1483,
+                22326,
+                13,
+                50890
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 9.38,
+                    "end": 9.48,
+                    "probability": 0.8661051988601685
+                },
+                {
+                    "word": " full",
+                    "start": 9.48,
+                    "end": 9.64,
+                    "probability": 0.8140940070152283
+                },
+                {
+                    "word": " of",
+                    "start": 9.64,
+                    "end": 9.74,
+                    "probability": 0.9025917053222656
+                },
+                {
+                    "word": " distrust.",
+                    "start": 9.74,
+                    "end": 10.22,
+                    "probability": 0.89645716547966
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 10.58,
+            "end": 12.26,
+            "text": " And again, they want definitive answers.",
+            "tokens": [
+                50890,
+                400,
+                797,
+                11,
+                436,
+                528,
+                28152,
+                6338,
+                13,
+                50980
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 10.58,
+                    "end": 10.68,
+                    "probability": 0.8812400102615356
+                },
+                {
+                    "word": " again,",
+                    "start": 10.68,
+                    "end": 10.94,
+                    "probability": 0.8521942496299744
+                },
+                {
+                    "word": " they",
+                    "start": 11.22,
+                    "end": 11.44,
+                    "probability": 0.7322726845741272
+                },
+                {
+                    "word": " want",
+                    "start": 11.44,
+                    "end": 11.64,
+                    "probability": 0.8176600337028503
+                },
+                {
+                    "word": " definitive",
+                    "start": 11.64,
+                    "end": 11.96,
+                    "probability": 0.9040222764015198
+                },
+                {
+                    "word": " answers.",
+                    "start": 11.96,
+                    "end": 12.26,
+                    "probability": 0.8567907810211182
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 12.32,
+            "end": 13.58,
+            "text": " They want yes or no.",
+            "tokens": [
+                50980,
+                814,
+                528,
+                2086,
+                420,
+                572,
+                13,
+                51048
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 12.32,
+                    "end": 12.4,
+                    "probability": 0.7389136552810669
+                },
+                {
+                    "word": " want",
+                    "start": 12.4,
+                    "end": 12.62,
+                    "probability": 0.8066262602806091
+                },
+                {
+                    "word": " yes",
+                    "start": 12.62,
+                    "end": 12.98,
+                    "probability": 0.8480195999145508
+                },
+                {
+                    "word": " or",
+                    "start": 12.98,
+                    "end": 13.28,
+                    "probability": 0.9063174724578857
+                },
+                {
+                    "word": " no.",
+                    "start": 13.28,
+                    "end": 13.58,
+                    "probability": 0.9077152609825134
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 13.72,
+            "end": 15.34,
+            "text": " Listen here as she presses for answers,",
+            "tokens": [
+                51048,
+                7501,
+                510,
+                382,
+                750,
+                40892,
+                337,
+                6338,
+                11,
+                51136
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " Listen",
+                    "start": 13.72,
+                    "end": 13.92,
+                    "probability": 0.7370123267173767
+                },
+                {
+                    "word": " here",
+                    "start": 13.92,
+                    "end": 14.16,
+                    "probability": 0.798054575920105
+                },
+                {
+                    "word": " as",
+                    "start": 14.16,
+                    "end": 14.3,
+                    "probability": 0.670132577419281
+                },
+                {
+                    "word": " she",
+                    "start": 14.3,
+                    "end": 14.46,
+                    "probability": 0.8090041875839233
+                },
+                {
+                    "word": " presses",
+                    "start": 14.46,
+                    "end": 14.76,
+                    "probability": 0.7044039964675903
+                },
+                {
+                    "word": " for",
+                    "start": 14.76,
+                    "end": 15.02,
+                    "probability": 0.8983879089355469
+                },
+                {
+                    "word": " answers,",
+                    "start": 15.02,
+                    "end": 15.34,
+                    "probability": 0.8352097868919373
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 15.44,
+            "end": 17.14,
+            "text": " and she says, I'm not getting them on the question",
+            "tokens": [
+                51136,
+                293,
+                750,
+                1619,
+                11,
+                286,
+                478,
+                406,
+                1242,
+                552,
+                322,
+                264,
+                1168,
+                51224
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 15.44,
+                    "end": 15.52,
+                    "probability": 0.892892599105835
+                },
+                {
+                    "word": " she",
+                    "start": 15.52,
+                    "end": 15.7,
+                    "probability": 0.8175681233406067
+                },
+                {
+                    "word": " says,",
+                    "start": 15.7,
+                    "end": 15.96,
+                    "probability": 0.8059006929397583
+                },
+                {
+                    "word": " I'm",
+                    "start": 16.06,
+                    "end": 16.22,
+                    "probability": 0.8394460380077362
+                },
+                {
+                    "word": " not",
+                    "start": 16.22,
+                    "end": 16.36,
+                    "probability": 0.8995040059089661
+                },
+                {
+                    "word": " getting",
+                    "start": 16.36,
+                    "end": 16.56,
+                    "probability": 0.9077813029289246
+                },
+                {
+                    "word": " them",
+                    "start": 16.56,
+                    "end": 16.7,
+                    "probability": 0.7318227291107178
+                },
+                {
+                    "word": " on",
+                    "start": 16.7,
+                    "end": 16.8,
+                    "probability": 0.7162682414054871
+                },
+                {
+                    "word": " the",
+                    "start": 16.8,
+                    "end": 16.88,
+                    "probability": 0.8185796737670898
+                },
+                {
+                    "word": " question",
+                    "start": 16.88,
+                    "end": 17.14,
+                    "probability": 0.8038814067840576
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 17.14,
+            "end": 18.58,
+            "text": " of can you actually keep the Chinese?",
+            "tokens": [
+                51224,
+                295,
+                393,
+                291,
+                767,
+                1066,
+                264,
+                4649,
+                30,
+                51298
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 17.14,
+                    "end": 17.26,
+                    "probability": 0.887561559677124
+                },
+                {
+                    "word": " can",
+                    "start": 17.26,
+                    "end": 17.48,
+                    "probability": 0.7089078426361084
+                },
+                {
+                    "word": " you",
+                    "start": 17.48,
+                    "end": 17.64,
+                    "probability": 0.8972548842430115
+                },
+                {
+                    "word": " actually",
+                    "start": 17.64,
+                    "end": 18.0,
+                    "probability": 0.788266122341156
+                },
+                {
+                    "word": " keep",
+                    "start": 18.0,
+                    "end": 18.26,
+                    "probability": 0.8021784424781799
+                },
+                {
+                    "word": " the",
+                    "start": 18.26,
+                    "end": 18.36,
+                    "probability": 0.8078306317329407
+                },
+                {
+                    "word": " Chinese?",
+                    "start": 18.36,
+                    "end": 18.58,
+                    "probability": 0.8082040548324585
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 18.68,
+            "end": 20.48,
+            "text": " Can you say no to Xi Jinping, essentially?",
+            "tokens": [
+                51298,
+                1664,
+                291,
+                584,
+                572,
+                281,
+                15712,
+                45898,
+                11,
+                4476,
+                30,
+                51404
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26508292029885683,
+            "compression_ratio": 1.6206896551724137,
+            "no_speech_prob": 0.007099519949406385,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 18.68,
+                    "end": 18.76,
+                    "probability": 0.8994950652122498
+                },
+                {
+                    "word": " you",
+                    "start": 18.76,
+                    "end": 18.86,
+                    "probability": 0.8954366445541382
+                },
+                {
+                    "word": " say",
+                    "start": 18.86,
+                    "end": 19.02,
+                    "probability": 0.8953806161880493
+                },
+                {
+                    "word": " no",
+                    "start": 19.02,
+                    "end": 19.34,
+                    "probability": 0.8982492685317993
+                },
+                {
+                    "word": " to",
+                    "start": 19.34,
+                    "end": 19.68,
+                    "probability": 0.8982535004615784
+                },
+                {
+                    "word": " Xi",
+                    "start": 19.68,
+                    "end": 19.82,
+                    "probability": 0.9132611751556396
+                },
+                {
+                    "word": " Jinping,",
+                    "start": 19.82,
+                    "end": 20.08,
+                    "probability": 0.947421669960022
+                },
+                {
+                    "word": " essentially?",
+                    "start": 20.26,
+                    "end": 20.48,
+                    "probability": 0.6432928442955017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

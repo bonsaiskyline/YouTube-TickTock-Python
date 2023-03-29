@@ -1,0 +1,164 @@
+{
+    "text": " Only if the user turns on the Wi-Fi. I'm sorry, I may not understand the question.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " Only if the user turns on the Wi-Fi.",
+            "tokens": [
+                50364,
+                5686,
+                498,
+                264,
+                4195,
+                4523,
+                322,
+                264,
+                14035,
+                12,
+                13229,
+                13,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4209275069060149,
+            "compression_ratio": 1.025,
+            "no_speech_prob": 0.042623188346624374,
+            "words": [
+                {
+                    "word": " Only",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.1851826012134552
+                },
+                {
+                    "word": " if",
+                    "start": 0.32,
+                    "end": 0.58,
+                    "probability": 0.8986268639564514
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.94,
+                    "probability": 0.8018604516983032
+                },
+                {
+                    "word": " user",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.8392162919044495
+                },
+                {
+                    "word": " turns",
+                    "start": 1.44,
+                    "end": 1.8,
+                    "probability": 0.738825261592865
+                },
+                {
+                    "word": " on",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.9109416007995605
+                },
+                {
+                    "word": " the",
+                    "start": 1.98,
+                    "end": 2.12,
+                    "probability": 0.8001384139060974
+                },
+                {
+                    "word": " Wi",
+                    "start": 2.12,
+                    "end": 2.24,
+                    "probability": 0.69832843542099
+                },
+                {
+                    "word": "-Fi.",
+                    "start": 2.24,
+                    "end": 2.42,
+                    "probability": 0.8889449834823608
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.76,
+            "end": 4.18,
+            "text": " I'm sorry, I may not understand the question.",
+            "tokens": [
+                50500,
+                286,
+                478,
+                2597,
+                11,
+                286,
+                815,
+                406,
+                1223,
+                264,
+                1168,
+                13,
+                50618
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4209275069060149,
+            "compression_ratio": 1.025,
+            "no_speech_prob": 0.042623188346624374,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 2.76,
+                    "end": 2.92,
+                    "probability": 0.9156721532344818
+                },
+                {
+                    "word": " sorry,",
+                    "start": 2.92,
+                    "end": 3.12,
+                    "probability": 0.7513589859008789
+                },
+                {
+                    "word": " I",
+                    "start": 3.22,
+                    "end": 3.26,
+                    "probability": 0.9926349520683289
+                },
+                {
+                    "word": " may",
+                    "start": 3.26,
+                    "end": 3.4,
+                    "probability": 0.9118726253509521
+                },
+                {
+                    "word": " not",
+                    "start": 3.4,
+                    "end": 3.5,
+                    "probability": 0.8989319205284119
+                },
+                {
+                    "word": " understand",
+                    "start": 3.5,
+                    "end": 3.9,
+                    "probability": 0.7584484219551086
+                },
+                {
+                    "word": " the",
+                    "start": 3.9,
+                    "end": 4.12,
+                    "probability": 0.41175395250320435
+                },
+                {
+                    "word": " question.",
+                    "start": 4.12,
+                    "end": 4.18,
+                    "probability": 0.6260552406311035
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

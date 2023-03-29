@@ -1,0 +1,179 @@
+{
+    "text": " you will have to access the network to get connections to the internet, if that's the question.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " you will have to access the network",
+            "tokens": [
+                50364,
+                291,
+                486,
+                362,
+                281,
+                2105,
+                264,
+                3209,
+                50475
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33752480259648077,
+            "compression_ratio": 1.1728395061728396,
+            "no_speech_prob": 0.01704130880534649,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.20280423760414124
+                },
+                {
+                    "word": " will",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.7693701982498169
+                },
+                {
+                    "word": " have",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.8801605105400085
+                },
+                {
+                    "word": " to",
+                    "start": 0.52,
+                    "end": 0.86,
+                    "probability": 0.9005311727523804
+                },
+                {
+                    "word": " access",
+                    "start": 0.86,
+                    "end": 1.66,
+                    "probability": 0.5951954126358032
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 1.86,
+                    "probability": 0.760208010673523
+                },
+                {
+                    "word": " network",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.8328632712364197
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.12,
+            "end": 3.68,
+            "text": " to get connections to the internet,",
+            "tokens": [
+                50475,
+                281,
+                483,
+                9271,
+                281,
+                264,
+                4705,
+                11,
+                50557
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33752480259648077,
+            "compression_ratio": 1.1728395061728396,
+            "no_speech_prob": 0.01704130880534649,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 2.12,
+                    "end": 2.3,
+                    "probability": 0.8794589042663574
+                },
+                {
+                    "word": " get",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.8880049586296082
+                },
+                {
+                    "word": " connections",
+                    "start": 2.48,
+                    "end": 3.02,
+                    "probability": 0.8546955585479736
+                },
+                {
+                    "word": " to",
+                    "start": 3.02,
+                    "end": 3.22,
+                    "probability": 0.8934812545776367
+                },
+                {
+                    "word": " the",
+                    "start": 3.22,
+                    "end": 3.36,
+                    "probability": 0.8169511556625366
+                },
+                {
+                    "word": " internet,",
+                    "start": 3.36,
+                    "end": 3.68,
+                    "probability": 0.5342879295349121
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.84,
+            "end": 4.66,
+            "text": " if that's the question.",
+            "tokens": [
+                50557,
+                498,
+                300,
+                311,
+                264,
+                1168,
+                13,
+                50615
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33752480259648077,
+            "compression_ratio": 1.1728395061728396,
+            "no_speech_prob": 0.01704130880534649,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 3.84,
+                    "end": 4.08,
+                    "probability": 0.9070031046867371
+                },
+                {
+                    "word": " that's",
+                    "start": 4.08,
+                    "end": 4.3,
+                    "probability": 0.9280537962913513
+                },
+                {
+                    "word": " the",
+                    "start": 4.3,
+                    "end": 4.4,
+                    "probability": 0.8153256773948669
+                },
+                {
+                    "word": " question.",
+                    "start": 4.4,
+                    "end": 4.66,
+                    "probability": 0.8047939538955688
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

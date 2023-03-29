@@ -1,0 +1,31 @@
+{
+    "text": " in.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.12,
+            "text": " in.",
+            "tokens": [
+                50364,
+                294,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9700838088989258,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.8841990828514099,
+            "words": [
+                {
+                    "word": " in.",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.04702911153435707
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

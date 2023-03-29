@@ -1,0 +1,844 @@
+{
+    "text": " Oh tick tock CEO goes under oath and says his company is not a glaring risk to U.S. national security. Lawmakers though in both parties clearly not convinced. Piercing questions today up on Capitol Hill the hearing in the House Energy and Commerce Committee kicking off with a reminder that misleading Congress is a federal crime. Tick tocks chief very very careful in his answers. He says the app can keep data for millions of American users off limits from the Chinese government. But lawmakers counter. They say simply they don't believe it. They see tick tock as a weapon for the Chinese regime.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.08,
+            "text": " Oh tick tock CEO goes under oath and says his company is not a glaring risk to U.S. national security. Lawmakers though in both",
+            "tokens": [
+                50364,
+                876,
+                5204,
+                281,
+                547,
+                9282,
+                1709,
+                833,
+                29450,
+                293,
+                1619,
+                702,
+                2237,
+                307,
+                406,
+                257,
+                1563,
+                1921,
+                3148,
+                281,
+                624,
+                13,
+                50,
+                13,
+                4048,
+                3825,
+                13,
+                7744,
+                15870,
+                1673,
+                294,
+                1293,
+                50768
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.252083420753479,
+            "compression_ratio": 1.598746081504702,
+            "no_speech_prob": 0.009405271150171757,
+            "words": [
+                {
+                    "word": " Oh",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.07690172642469406
+                },
+                {
+                    "word": " tick",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.06442014127969742
+                },
+                {
+                    "word": " tock",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.8351808786392212
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.74,
+                    "end": 1.2,
+                    "probability": 0.6195435523986816
+                },
+                {
+                    "word": " goes",
+                    "start": 1.2,
+                    "end": 1.88,
+                    "probability": 0.7488301396369934
+                },
+                {
+                    "word": " under",
+                    "start": 1.88,
+                    "end": 2.08,
+                    "probability": 0.6971233487129211
+                },
+                {
+                    "word": " oath",
+                    "start": 2.08,
+                    "end": 2.36,
+                    "probability": 0.9168546795845032
+                },
+                {
+                    "word": " and",
+                    "start": 2.36,
+                    "end": 2.52,
+                    "probability": 0.873144268989563
+                },
+                {
+                    "word": " says",
+                    "start": 2.52,
+                    "end": 2.72,
+                    "probability": 0.770797610282898
+                },
+                {
+                    "word": " his",
+                    "start": 2.72,
+                    "end": 2.92,
+                    "probability": 0.8848958015441895
+                },
+                {
+                    "word": " company",
+                    "start": 2.92,
+                    "end": 3.3,
+                    "probability": 0.8035053014755249
+                },
+                {
+                    "word": " is",
+                    "start": 3.3,
+                    "end": 3.66,
+                    "probability": 0.9017634987831116
+                },
+                {
+                    "word": " not",
+                    "start": 3.66,
+                    "end": 4.08,
+                    "probability": 0.8951438665390015
+                },
+                {
+                    "word": " a",
+                    "start": 4.08,
+                    "end": 4.32,
+                    "probability": 0.9807378649711609
+                },
+                {
+                    "word": " glaring",
+                    "start": 4.32,
+                    "end": 4.6,
+                    "probability": 0.9538912177085876
+                },
+                {
+                    "word": " risk",
+                    "start": 4.6,
+                    "end": 4.92,
+                    "probability": 0.798041820526123
+                },
+                {
+                    "word": " to",
+                    "start": 4.92,
+                    "end": 5.46,
+                    "probability": 0.6885293126106262
+                },
+                {
+                    "word": " U",
+                    "start": 5.46,
+                    "end": 5.6,
+                    "probability": 0.4390062689781189
+                },
+                {
+                    "word": ".S.",
+                    "start": 5.6,
+                    "end": 5.74,
+                    "probability": 0.7659737169742584
+                },
+                {
+                    "word": " national",
+                    "start": 5.78,
+                    "end": 6.08,
+                    "probability": 0.6551896333694458
+                },
+                {
+                    "word": " security.",
+                    "start": 6.08,
+                    "end": 6.54,
+                    "probability": 0.9124721884727478
+                },
+                {
+                    "word": " Lawmakers",
+                    "start": 6.84,
+                    "end": 7.34,
+                    "probability": 0.8765031397342682
+                },
+                {
+                    "word": " though",
+                    "start": 7.34,
+                    "end": 7.64,
+                    "probability": 0.6452215909957886
+                },
+                {
+                    "word": " in",
+                    "start": 7.64,
+                    "end": 7.86,
+                    "probability": 0.8978632688522339
+                },
+                {
+                    "word": " both",
+                    "start": 7.86,
+                    "end": 8.08,
+                    "probability": 0.8109598159790039
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.08,
+            "end": 14.2,
+            "text": " parties clearly not convinced. Piercing questions today up on Capitol Hill the hearing in the House Energy and Commerce Committee",
+            "tokens": [
+                50768,
+                8265,
+                4448,
+                406,
+                12561,
+                13,
+                16676,
+                2175,
+                1651,
+                965,
+                493,
+                322,
+                25081,
+                9109,
+                264,
+                4763,
+                294,
+                264,
+                4928,
+                14939,
+                293,
+                34493,
+                11556,
+                51076
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.252083420753479,
+            "compression_ratio": 1.598746081504702,
+            "no_speech_prob": 0.009405271150171757,
+            "words": [
+                {
+                    "word": " parties",
+                    "start": 8.08,
+                    "end": 8.44,
+                    "probability": 0.9051252007484436
+                },
+                {
+                    "word": " clearly",
+                    "start": 8.44,
+                    "end": 8.88,
+                    "probability": 0.807010293006897
+                },
+                {
+                    "word": " not",
+                    "start": 8.88,
+                    "end": 9.62,
+                    "probability": 0.8912712931632996
+                },
+                {
+                    "word": " convinced.",
+                    "start": 9.62,
+                    "end": 10.2,
+                    "probability": 0.7791840434074402
+                },
+                {
+                    "word": " Piercing",
+                    "start": 10.38,
+                    "end": 10.62,
+                    "probability": 0.7771183550357819
+                },
+                {
+                    "word": " questions",
+                    "start": 10.62,
+                    "end": 11.0,
+                    "probability": 0.8407722115516663
+                },
+                {
+                    "word": " today",
+                    "start": 11.0,
+                    "end": 11.28,
+                    "probability": 0.7686911225318909
+                },
+                {
+                    "word": " up",
+                    "start": 11.28,
+                    "end": 11.46,
+                    "probability": 0.8537114262580872
+                },
+                {
+                    "word": " on",
+                    "start": 11.46,
+                    "end": 11.62,
+                    "probability": 0.9079051613807678
+                },
+                {
+                    "word": " Capitol",
+                    "start": 11.62,
+                    "end": 11.9,
+                    "probability": 0.8641946911811829
+                },
+                {
+                    "word": " Hill",
+                    "start": 11.9,
+                    "end": 12.06,
+                    "probability": 0.8470311164855957
+                },
+                {
+                    "word": " the",
+                    "start": 12.06,
+                    "end": 12.22,
+                    "probability": 0.46484506130218506
+                },
+                {
+                    "word": " hearing",
+                    "start": 12.22,
+                    "end": 12.52,
+                    "probability": 0.759523332118988
+                },
+                {
+                    "word": " in",
+                    "start": 12.52,
+                    "end": 13.0,
+                    "probability": 0.3600815236568451
+                },
+                {
+                    "word": " the",
+                    "start": 13.0,
+                    "end": 13.04,
+                    "probability": 0.8145213723182678
+                },
+                {
+                    "word": " House",
+                    "start": 13.04,
+                    "end": 13.22,
+                    "probability": 0.7038417458534241
+                },
+                {
+                    "word": " Energy",
+                    "start": 13.22,
+                    "end": 13.48,
+                    "probability": 0.9013260006904602
+                },
+                {
+                    "word": " and",
+                    "start": 13.48,
+                    "end": 13.64,
+                    "probability": 0.882523775100708
+                },
+                {
+                    "word": " Commerce",
+                    "start": 13.64,
+                    "end": 13.94,
+                    "probability": 0.8132892847061157
+                },
+                {
+                    "word": " Committee",
+                    "start": 13.94,
+                    "end": 14.2,
+                    "probability": 0.8151200413703918
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.2,
+            "end": 21.54,
+            "text": " kicking off with a reminder that misleading Congress is a federal crime. Tick tocks chief very very careful in his answers. He",
+            "tokens": [
+                51076,
+                19137,
+                766,
+                365,
+                257,
+                13548,
+                300,
+                36429,
+                6426,
+                307,
+                257,
+                6019,
+                7206,
+                13,
+                314,
+                618,
+                281,
+                2761,
+                9588,
+                588,
+                588,
+                5026,
+                294,
+                702,
+                6338,
+                13,
+                634,
+                51440
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.252083420753479,
+            "compression_ratio": 1.598746081504702,
+            "no_speech_prob": 0.009405271150171757,
+            "words": [
+                {
+                    "word": " kicking",
+                    "start": 14.2,
+                    "end": 14.52,
+                    "probability": 0.7272309064865112
+                },
+                {
+                    "word": " off",
+                    "start": 14.52,
+                    "end": 14.78,
+                    "probability": 0.7977876663208008
+                },
+                {
+                    "word": " with",
+                    "start": 14.78,
+                    "end": 14.92,
+                    "probability": 0.8058425784111023
+                },
+                {
+                    "word": " a",
+                    "start": 14.92,
+                    "end": 15.04,
+                    "probability": 0.9800281524658203
+                },
+                {
+                    "word": " reminder",
+                    "start": 15.04,
+                    "end": 15.46,
+                    "probability": 0.7241424918174744
+                },
+                {
+                    "word": " that",
+                    "start": 15.46,
+                    "end": 16.14,
+                    "probability": 0.5557565689086914
+                },
+                {
+                    "word": " misleading",
+                    "start": 16.14,
+                    "end": 16.42,
+                    "probability": 0.7927085757255554
+                },
+                {
+                    "word": " Congress",
+                    "start": 16.42,
+                    "end": 16.88,
+                    "probability": 0.9026356339454651
+                },
+                {
+                    "word": " is",
+                    "start": 16.88,
+                    "end": 17.2,
+                    "probability": 0.9045424461364746
+                },
+                {
+                    "word": " a",
+                    "start": 17.2,
+                    "end": 17.34,
+                    "probability": 0.9998905658721924
+                },
+                {
+                    "word": " federal",
+                    "start": 17.34,
+                    "end": 17.56,
+                    "probability": 0.8543708920478821
+                },
+                {
+                    "word": " crime.",
+                    "start": 17.56,
+                    "end": 18.02,
+                    "probability": 0.8224296569824219
+                },
+                {
+                    "word": " Tick",
+                    "start": 18.42,
+                    "end": 18.54,
+                    "probability": 0.8579232096672058
+                },
+                {
+                    "word": " tocks",
+                    "start": 18.54,
+                    "end": 18.74,
+                    "probability": 0.5944949090480804
+                },
+                {
+                    "word": " chief",
+                    "start": 18.74,
+                    "end": 19.04,
+                    "probability": 0.6988195180892944
+                },
+                {
+                    "word": " very",
+                    "start": 19.04,
+                    "end": 19.66,
+                    "probability": 0.5161838531494141
+                },
+                {
+                    "word": " very",
+                    "start": 19.66,
+                    "end": 20.12,
+                    "probability": 0.74937504529953
+                },
+                {
+                    "word": " careful",
+                    "start": 20.12,
+                    "end": 20.56,
+                    "probability": 0.895879864692688
+                },
+                {
+                    "word": " in",
+                    "start": 20.56,
+                    "end": 20.84,
+                    "probability": 0.8898651003837585
+                },
+                {
+                    "word": " his",
+                    "start": 20.84,
+                    "end": 20.98,
+                    "probability": 0.8897369503974915
+                },
+                {
+                    "word": " answers.",
+                    "start": 20.98,
+                    "end": 21.32,
+                    "probability": 0.8092264533042908
+                },
+                {
+                    "word": " He",
+                    "start": 21.42,
+                    "end": 21.54,
+                    "probability": 0.9117978811264038
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 21.54,
+            "end": 28.18,
+            "text": " says the app can keep data for millions of American users off limits from the Chinese government. But lawmakers counter. They",
+            "tokens": [
+                51440,
+                1619,
+                264,
+                724,
+                393,
+                1066,
+                1412,
+                337,
+                6803,
+                295,
+                2665,
+                5022,
+                766,
+                10406,
+                490,
+                264,
+                4649,
+                2463,
+                13,
+                583,
+                40988,
+                5682,
+                13,
+                814,
+                51772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.252083420753479,
+            "compression_ratio": 1.598746081504702,
+            "no_speech_prob": 0.009405271150171757,
+            "words": [
+                {
+                    "word": " says",
+                    "start": 21.54,
+                    "end": 21.92,
+                    "probability": 0.7887377142906189
+                },
+                {
+                    "word": " the",
+                    "start": 21.92,
+                    "end": 22.4,
+                    "probability": 0.8092628121376038
+                },
+                {
+                    "word": " app",
+                    "start": 22.4,
+                    "end": 22.6,
+                    "probability": 0.7949491739273071
+                },
+                {
+                    "word": " can",
+                    "start": 22.6,
+                    "end": 22.88,
+                    "probability": 0.9026114344596863
+                },
+                {
+                    "word": " keep",
+                    "start": 22.88,
+                    "end": 23.12,
+                    "probability": 0.6779804229736328
+                },
+                {
+                    "word": " data",
+                    "start": 23.12,
+                    "end": 23.38,
+                    "probability": 0.8099105358123779
+                },
+                {
+                    "word": " for",
+                    "start": 23.38,
+                    "end": 23.62,
+                    "probability": 0.8331734538078308
+                },
+                {
+                    "word": " millions",
+                    "start": 23.62,
+                    "end": 23.88,
+                    "probability": 0.860443651676178
+                },
+                {
+                    "word": " of",
+                    "start": 23.88,
+                    "end": 24.08,
+                    "probability": 0.9052215814590454
+                },
+                {
+                    "word": " American",
+                    "start": 24.08,
+                    "end": 24.38,
+                    "probability": 0.7658430933952332
+                },
+                {
+                    "word": " users",
+                    "start": 24.38,
+                    "end": 24.78,
+                    "probability": 0.8063114285469055
+                },
+                {
+                    "word": " off",
+                    "start": 24.78,
+                    "end": 25.16,
+                    "probability": 0.7932589650154114
+                },
+                {
+                    "word": " limits",
+                    "start": 25.16,
+                    "end": 25.44,
+                    "probability": 0.8781848549842834
+                },
+                {
+                    "word": " from",
+                    "start": 25.44,
+                    "end": 25.62,
+                    "probability": 0.8182436227798462
+                },
+                {
+                    "word": " the",
+                    "start": 25.62,
+                    "end": 25.76,
+                    "probability": 0.8150509595870972
+                },
+                {
+                    "word": " Chinese",
+                    "start": 25.76,
+                    "end": 26.0,
+                    "probability": 0.767174243927002
+                },
+                {
+                    "word": " government.",
+                    "start": 26.0,
+                    "end": 26.36,
+                    "probability": 0.7890953421592712
+                },
+                {
+                    "word": " But",
+                    "start": 26.5,
+                    "end": 26.72,
+                    "probability": 0.9058546423912048
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 26.72,
+                    "end": 27.54,
+                    "probability": 0.7691395878791809
+                },
+                {
+                    "word": " counter.",
+                    "start": 27.54,
+                    "end": 27.96,
+                    "probability": 0.7072288393974304
+                },
+                {
+                    "word": " They",
+                    "start": 28.08,
+                    "end": 28.18,
+                    "probability": 0.7266951203346252
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2818,
+            "start": 28.18,
+            "end": 32.06,
+            "text": " say simply they don't believe it. They see tick tock as a weapon for the Chinese regime.",
+            "tokens": [
+                50364,
+                584,
+                2935,
+                436,
+                500,
+                380,
+                1697,
+                309,
+                13,
+                814,
+                536,
+                5204,
+                281,
+                547,
+                382,
+                257,
+                7463,
+                337,
+                264,
+                4649,
+                13120,
+                13,
+                50566
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21037248770395914,
+            "compression_ratio": 1.0602409638554218,
+            "no_speech_prob": 0.014841788448393345,
+            "words": [
+                {
+                    "word": " say",
+                    "start": 28.18,
+                    "end": 28.36,
+                    "probability": 0.14790254831314087
+                },
+                {
+                    "word": " simply",
+                    "start": 28.36,
+                    "end": 28.62,
+                    "probability": 0.8552213311195374
+                },
+                {
+                    "word": " they",
+                    "start": 28.62,
+                    "end": 28.74,
+                    "probability": 0.5133588910102844
+                },
+                {
+                    "word": " don't",
+                    "start": 28.74,
+                    "end": 28.94,
+                    "probability": 0.9496318697929382
+                },
+                {
+                    "word": " believe",
+                    "start": 28.94,
+                    "end": 29.2,
+                    "probability": 0.6786336302757263
+                },
+                {
+                    "word": " it.",
+                    "start": 29.2,
+                    "end": 29.32,
+                    "probability": 0.9047195911407471
+                },
+                {
+                    "word": " They",
+                    "start": 29.38,
+                    "end": 29.52,
+                    "probability": 0.7421475052833557
+                },
+                {
+                    "word": " see",
+                    "start": 29.52,
+                    "end": 29.7,
+                    "probability": 0.8212617635726929
+                },
+                {
+                    "word": " tick",
+                    "start": 29.7,
+                    "end": 29.9,
+                    "probability": 0.010016038082540035
+                },
+                {
+                    "word": " tock",
+                    "start": 29.9,
+                    "end": 30.2,
+                    "probability": 0.7309810221195221
+                },
+                {
+                    "word": " as",
+                    "start": 30.2,
+                    "end": 30.62,
+                    "probability": 0.8953056335449219
+                },
+                {
+                    "word": " a",
+                    "start": 30.62,
+                    "end": 30.74,
+                    "probability": 0.9990112781524658
+                },
+                {
+                    "word": " weapon",
+                    "start": 30.74,
+                    "end": 31.0,
+                    "probability": 0.8575557470321655
+                },
+                {
+                    "word": " for",
+                    "start": 31.0,
+                    "end": 31.4,
+                    "probability": 0.8878899216651917
+                },
+                {
+                    "word": " the",
+                    "start": 31.4,
+                    "end": 31.52,
+                    "probability": 0.8129807114601135
+                },
+                {
+                    "word": " Chinese",
+                    "start": 31.52,
+                    "end": 31.8,
+                    "probability": 0.789767861366272
+                },
+                {
+                    "word": " regime.",
+                    "start": 31.8,
+                    "end": 32.06,
+                    "probability": 0.9230181574821472
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

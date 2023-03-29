@@ -1,0 +1,81 @@
+{
+    "text": " He works under Chinese business, not on TikTok.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " He works under Chinese business, not on TikTok.",
+            "tokens": [
+                50364,
+                634,
+                1985,
+                833,
+                4649,
+                1606,
+                11,
+                406,
+                322,
+                20211,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49419546127319336,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.009681791067123413,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7491351962089539
+                },
+                {
+                    "word": " works",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.6949104070663452
+                },
+                {
+                    "word": " under",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.43483999371528625
+                },
+                {
+                    "word": " Chinese",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.7403367161750793
+                },
+                {
+                    "word": " business,",
+                    "start": 0.82,
+                    "end": 1.22,
+                    "probability": 0.6759152412414551
+                },
+                {
+                    "word": " not",
+                    "start": 1.44,
+                    "end": 1.58,
+                    "probability": 0.8927741050720215
+                },
+                {
+                    "word": " on",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.8978254795074463
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.8063675165176392
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,39 @@
+{
+    "text": " So here's.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.52,
+            "text": " So here's.",
+            "tokens": [
+                50364,
+                407,
+                510,
+                311,
+                13,
+                50406
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.8954307011195591,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.3523285388946533,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.40147605538368225
+                },
+                {
+                    "word": " here's.",
+                    "start": 0.18,
+                    "end": 0.52,
+                    "probability": 0.5056270509958267
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

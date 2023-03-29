@@ -1,0 +1,483 @@
+{
+    "text": " TikTok CEO Shou Chu testified before the House Energy and Commerce Committee. Here's three things you should know from the hearing. First, everyone, seriously everyone on the committee criticized TikTok. And while the main concern was national security, they also brought up the potential for harmful content, things that glorify eating disorders.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.24,
+            "end": 4.24,
+            "text": " TikTok CEO Shou Chu testified before the House Energy and Commerce Committee.",
+            "tokens": [
+                50364,
+                20211,
+                9282,
+                1160,
+                263,
+                25585,
+                47639,
+                949,
+                264,
+                4928,
+                14939,
+                293,
+                34493,
+                11556,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34343265232286957,
+            "compression_ratio": 1.5021645021645023,
+            "no_speech_prob": 0.00584331713616848,
+            "words": [
+                {
+                    "word": " TikTok",
+                    "start": 0.24,
+                    "end": 0.8,
+                    "probability": 0.4221736788749695
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.7752097249031067
+                },
+                {
+                    "word": " Shou",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.5534430593252182
+                },
+                {
+                    "word": " Chu",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.5630117058753967
+                },
+                {
+                    "word": " testified",
+                    "start": 1.64,
+                    "end": 2.02,
+                    "probability": 0.8029215335845947
+                },
+                {
+                    "word": " before",
+                    "start": 2.02,
+                    "end": 2.36,
+                    "probability": 0.7789044976234436
+                },
+                {
+                    "word": " the",
+                    "start": 2.36,
+                    "end": 2.56,
+                    "probability": 0.7984383702278137
+                },
+                {
+                    "word": " House",
+                    "start": 2.56,
+                    "end": 2.78,
+                    "probability": 0.6693465113639832
+                },
+                {
+                    "word": " Energy",
+                    "start": 2.78,
+                    "end": 3.2,
+                    "probability": 0.9041627049446106
+                },
+                {
+                    "word": " and",
+                    "start": 3.2,
+                    "end": 3.48,
+                    "probability": 0.7811406254768372
+                },
+                {
+                    "word": " Commerce",
+                    "start": 3.48,
+                    "end": 3.88,
+                    "probability": 0.8319080471992493
+                },
+                {
+                    "word": " Committee.",
+                    "start": 3.88,
+                    "end": 4.24,
+                    "probability": 0.7578957676887512
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.36,
+            "end": 5.84,
+            "text": " Here's three things you should know from the hearing.",
+            "tokens": [
+                50580,
+                1692,
+                311,
+                1045,
+                721,
+                291,
+                820,
+                458,
+                490,
+                264,
+                4763,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34343265232286957,
+            "compression_ratio": 1.5021645021645023,
+            "no_speech_prob": 0.00584331713616848,
+            "words": [
+                {
+                    "word": " Here's",
+                    "start": 4.36,
+                    "end": 4.54,
+                    "probability": 0.7685092985630035
+                },
+                {
+                    "word": " three",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.7067900896072388
+                },
+                {
+                    "word": " things",
+                    "start": 4.74,
+                    "end": 5.0,
+                    "probability": 0.7441009283065796
+                },
+                {
+                    "word": " you",
+                    "start": 5.0,
+                    "end": 5.1,
+                    "probability": 0.8776150345802307
+                },
+                {
+                    "word": " should",
+                    "start": 5.1,
+                    "end": 5.22,
+                    "probability": 0.9312595129013062
+                },
+                {
+                    "word": " know",
+                    "start": 5.22,
+                    "end": 5.36,
+                    "probability": 0.8243136405944824
+                },
+                {
+                    "word": " from",
+                    "start": 5.36,
+                    "end": 5.48,
+                    "probability": 0.8177919387817383
+                },
+                {
+                    "word": " the",
+                    "start": 5.48,
+                    "end": 5.6,
+                    "probability": 0.8098967671394348
+                },
+                {
+                    "word": " hearing.",
+                    "start": 5.6,
+                    "end": 5.84,
+                    "probability": 0.7818540930747986
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.06,
+            "end": 10.16,
+            "text": " First, everyone, seriously everyone on the committee criticized TikTok.",
+            "tokens": [
+                50664,
+                2386,
+                11,
+                1518,
+                11,
+                6638,
+                1518,
+                322,
+                264,
+                7482,
+                28011,
+                20211,
+                13,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34343265232286957,
+            "compression_ratio": 1.5021645021645023,
+            "no_speech_prob": 0.00584331713616848,
+            "words": [
+                {
+                    "word": " First,",
+                    "start": 6.06,
+                    "end": 6.32,
+                    "probability": 0.7143751978874207
+                },
+                {
+                    "word": " everyone,",
+                    "start": 6.66,
+                    "end": 7.06,
+                    "probability": 0.889228105545044
+                },
+                {
+                    "word": " seriously",
+                    "start": 7.28,
+                    "end": 7.64,
+                    "probability": 0.7810401916503906
+                },
+                {
+                    "word": " everyone",
+                    "start": 7.64,
+                    "end": 8.24,
+                    "probability": 0.5290783047676086
+                },
+                {
+                    "word": " on",
+                    "start": 8.24,
+                    "end": 8.54,
+                    "probability": 0.7722357511520386
+                },
+                {
+                    "word": " the",
+                    "start": 8.54,
+                    "end": 8.66,
+                    "probability": 0.8177859783172607
+                },
+                {
+                    "word": " committee",
+                    "start": 8.66,
+                    "end": 8.9,
+                    "probability": 0.7769580483436584
+                },
+                {
+                    "word": " criticized",
+                    "start": 8.9,
+                    "end": 9.64,
+                    "probability": 0.5915269255638123
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 9.64,
+                    "end": 10.16,
+                    "probability": 0.9181495308876038
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.66,
+            "end": 12.9,
+            "text": " And while the main concern was national security,",
+            "tokens": [
+                50892,
+                400,
+                1339,
+                264,
+                2135,
+                3136,
+                390,
+                4048,
+                3825,
+                11,
+                51024
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34343265232286957,
+            "compression_ratio": 1.5021645021645023,
+            "no_speech_prob": 0.00584331713616848,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 10.66,
+                    "end": 10.72,
+                    "probability": 0.8241352438926697
+                },
+                {
+                    "word": " while",
+                    "start": 10.72,
+                    "end": 10.84,
+                    "probability": 0.9052724838256836
+                },
+                {
+                    "word": " the",
+                    "start": 10.84,
+                    "end": 11.02,
+                    "probability": 0.8177248239517212
+                },
+                {
+                    "word": " main",
+                    "start": 11.02,
+                    "end": 11.3,
+                    "probability": 0.819993257522583
+                },
+                {
+                    "word": " concern",
+                    "start": 11.3,
+                    "end": 11.78,
+                    "probability": 0.900894045829773
+                },
+                {
+                    "word": " was",
+                    "start": 11.78,
+                    "end": 12.08,
+                    "probability": 0.8907027244567871
+                },
+                {
+                    "word": " national",
+                    "start": 12.08,
+                    "end": 12.44,
+                    "probability": 0.696652889251709
+                },
+                {
+                    "word": " security,",
+                    "start": 12.44,
+                    "end": 12.9,
+                    "probability": 0.9213050603866577
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.26,
+            "end": 15.58,
+            "text": " they also brought up the potential for harmful content,",
+            "tokens": [
+                51024,
+                436,
+                611,
+                3038,
+                493,
+                264,
+                3995,
+                337,
+                19727,
+                2701,
+                11,
+                51148
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34343265232286957,
+            "compression_ratio": 1.5021645021645023,
+            "no_speech_prob": 0.00584331713616848,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 13.26,
+                    "end": 13.36,
+                    "probability": 0.7435190081596375
+                },
+                {
+                    "word": " also",
+                    "start": 13.36,
+                    "end": 13.66,
+                    "probability": 0.8195942640304565
+                },
+                {
+                    "word": " brought",
+                    "start": 13.66,
+                    "end": 13.9,
+                    "probability": 0.9218987226486206
+                },
+                {
+                    "word": " up",
+                    "start": 13.9,
+                    "end": 14.02,
+                    "probability": 0.9049010276794434
+                },
+                {
+                    "word": " the",
+                    "start": 14.02,
+                    "end": 14.14,
+                    "probability": 0.813920259475708
+                },
+                {
+                    "word": " potential",
+                    "start": 14.14,
+                    "end": 14.48,
+                    "probability": 0.8546847701072693
+                },
+                {
+                    "word": " for",
+                    "start": 14.48,
+                    "end": 14.72,
+                    "probability": 0.9023210406303406
+                },
+                {
+                    "word": " harmful",
+                    "start": 14.72,
+                    "end": 15.08,
+                    "probability": 0.7882641553878784
+                },
+                {
+                    "word": " content,",
+                    "start": 15.08,
+                    "end": 15.58,
+                    "probability": 0.8250611424446106
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.74,
+            "end": 17.56,
+            "text": " things that glorify eating disorders.",
+            "tokens": [
+                51148,
+                721,
+                300,
+                26623,
+                2505,
+                3936,
+                20261,
+                13,
+                51244
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34343265232286957,
+            "compression_ratio": 1.5021645021645023,
+            "no_speech_prob": 0.00584331713616848,
+            "words": [
+                {
+                    "word": " things",
+                    "start": 15.74,
+                    "end": 15.92,
+                    "probability": 0.7393101453781128
+                },
+                {
+                    "word": " that",
+                    "start": 15.92,
+                    "end": 16.12,
+                    "probability": 0.8774680495262146
+                },
+                {
+                    "word": " glorify",
+                    "start": 16.12,
+                    "end": 16.78,
+                    "probability": 0.93319171667099
+                },
+                {
+                    "word": " eating",
+                    "start": 16.78,
+                    "end": 17.1,
+                    "probability": 0.8897803425788879
+                },
+                {
+                    "word": " disorders.",
+                    "start": 17.1,
+                    "end": 17.56,
+                    "probability": 0.8660984635353088
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

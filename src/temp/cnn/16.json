@@ -1,0 +1,679 @@
+{
+    "text": " The members simply don't buy it. They don't think that any company that has any ties to China, even if you try to reduce your ties to China, your footprint in China, that if the Chinese have even a small entry, they can, if they wish, take your data and get access to it. But if you notice the CEO there, Mr. Chu, working in the 150 million Americans, he's trying to tell Congress, dare you, I dare you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " The members simply don't buy it.",
+            "tokens": [
+                50364,
+                440,
+                2679,
+                2935,
+                500,
+                380,
+                2256,
+                309,
+                13,
+                50469
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21655243960293857,
+            "compression_ratio": 1.6448979591836734,
+            "no_speech_prob": 0.0023690350353717804,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.668605625629425
+                },
+                {
+                    "word": " members",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.7774254083633423
+                },
+                {
+                    "word": " simply",
+                    "start": 0.4,
+                    "end": 0.9,
+                    "probability": 0.8483870625495911
+                },
+                {
+                    "word": " don't",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.9430457353591919
+                },
+                {
+                    "word": " buy",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.8271530866622925
+                },
+                {
+                    "word": " it.",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9021580815315247
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.0,
+            "end": 6.04,
+            "text": " They don't think that any company that has any ties to China, even if you try to reduce",
+            "tokens": [
+                50469,
+                814,
+                500,
+                380,
+                519,
+                300,
+                604,
+                2237,
+                300,
+                575,
+                604,
+                14039,
+                281,
+                3533,
+                11,
+                754,
+                498,
+                291,
+                853,
+                281,
+                5407,
+                50662
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21655243960293857,
+            "compression_ratio": 1.6448979591836734,
+            "no_speech_prob": 0.0023690350353717804,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.7245123386383057
+                },
+                {
+                    "word": " don't",
+                    "start": 2.18,
+                    "end": 2.38,
+                    "probability": 0.9467553496360779
+                },
+                {
+                    "word": " think",
+                    "start": 2.38,
+                    "end": 2.64,
+                    "probability": 0.8125337958335876
+                },
+                {
+                    "word": " that",
+                    "start": 2.64,
+                    "end": 2.8,
+                    "probability": 0.8666790127754211
+                },
+                {
+                    "word": " any",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.8049564361572266
+                },
+                {
+                    "word": " company",
+                    "start": 2.98,
+                    "end": 3.32,
+                    "probability": 0.8261105418205261
+                },
+                {
+                    "word": " that",
+                    "start": 3.32,
+                    "end": 3.74,
+                    "probability": 0.4462786912918091
+                },
+                {
+                    "word": " has",
+                    "start": 3.74,
+                    "end": 4.28,
+                    "probability": 0.888600766658783
+                },
+                {
+                    "word": " any",
+                    "start": 4.28,
+                    "end": 4.52,
+                    "probability": 0.7994956374168396
+                },
+                {
+                    "word": " ties",
+                    "start": 4.52,
+                    "end": 4.78,
+                    "probability": 0.8218390941619873
+                },
+                {
+                    "word": " to",
+                    "start": 4.78,
+                    "end": 4.92,
+                    "probability": 0.8991628885269165
+                },
+                {
+                    "word": " China,",
+                    "start": 4.92,
+                    "end": 5.14,
+                    "probability": 0.8638625144958496
+                },
+                {
+                    "word": " even",
+                    "start": 5.2,
+                    "end": 5.36,
+                    "probability": 0.8169680237770081
+                },
+                {
+                    "word": " if",
+                    "start": 5.36,
+                    "end": 5.48,
+                    "probability": 0.9021505117416382
+                },
+                {
+                    "word": " you",
+                    "start": 5.48,
+                    "end": 5.56,
+                    "probability": 0.8936054110527039
+                },
+                {
+                    "word": " try",
+                    "start": 5.56,
+                    "end": 5.68,
+                    "probability": 0.8039169311523438
+                },
+                {
+                    "word": " to",
+                    "start": 5.68,
+                    "end": 5.78,
+                    "probability": 0.9051013588905334
+                },
+                {
+                    "word": " reduce",
+                    "start": 5.78,
+                    "end": 6.04,
+                    "probability": 0.7723768353462219
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.04,
+            "end": 9.96,
+            "text": " your ties to China, your footprint in China, that if the Chinese have even a small entry,",
+            "tokens": [
+                50662,
+                428,
+                14039,
+                281,
+                3533,
+                11,
+                428,
+                24222,
+                294,
+                3533,
+                11,
+                300,
+                498,
+                264,
+                4649,
+                362,
+                754,
+                257,
+                1359,
+                8729,
+                11,
+                50881
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21655243960293857,
+            "compression_ratio": 1.6448979591836734,
+            "no_speech_prob": 0.0023690350353717804,
+            "words": [
+                {
+                    "word": " your",
+                    "start": 6.04,
+                    "end": 6.22,
+                    "probability": 0.8058409690856934
+                },
+                {
+                    "word": " ties",
+                    "start": 6.22,
+                    "end": 6.48,
+                    "probability": 0.8410534262657166
+                },
+                {
+                    "word": " to",
+                    "start": 6.48,
+                    "end": 6.64,
+                    "probability": 0.9037491679191589
+                },
+                {
+                    "word": " China,",
+                    "start": 6.64,
+                    "end": 6.88,
+                    "probability": 0.8414502143859863
+                },
+                {
+                    "word": " your",
+                    "start": 7.24,
+                    "end": 7.38,
+                    "probability": 0.7892450094223022
+                },
+                {
+                    "word": " footprint",
+                    "start": 7.38,
+                    "end": 7.64,
+                    "probability": 0.7776643633842468
+                },
+                {
+                    "word": " in",
+                    "start": 7.64,
+                    "end": 7.88,
+                    "probability": 0.8927184343338013
+                },
+                {
+                    "word": " China,",
+                    "start": 7.88,
+                    "end": 8.06,
+                    "probability": 0.857065737247467
+                },
+                {
+                    "word": " that",
+                    "start": 8.16,
+                    "end": 8.3,
+                    "probability": 0.8533052802085876
+                },
+                {
+                    "word": " if",
+                    "start": 8.3,
+                    "end": 8.4,
+                    "probability": 0.8951025009155273
+                },
+                {
+                    "word": " the",
+                    "start": 8.4,
+                    "end": 8.56,
+                    "probability": 0.8135576844215393
+                },
+                {
+                    "word": " Chinese",
+                    "start": 8.56,
+                    "end": 8.76,
+                    "probability": 0.7838630676269531
+                },
+                {
+                    "word": " have",
+                    "start": 8.76,
+                    "end": 9.02,
+                    "probability": 0.881897509098053
+                },
+                {
+                    "word": " even",
+                    "start": 9.02,
+                    "end": 9.18,
+                    "probability": 0.8136183023452759
+                },
+                {
+                    "word": " a",
+                    "start": 9.18,
+                    "end": 9.34,
+                    "probability": 0.9980225563049316
+                },
+                {
+                    "word": " small",
+                    "start": 9.34,
+                    "end": 9.6,
+                    "probability": 0.8617253303527832
+                },
+                {
+                    "word": " entry,",
+                    "start": 9.6,
+                    "end": 9.96,
+                    "probability": 0.7632870674133301
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.28,
+            "end": 13.54,
+            "text": " they can, if they wish, take your data and get access to it.",
+            "tokens": [
+                50881,
+                436,
+                393,
+                11,
+                498,
+                436,
+                3172,
+                11,
+                747,
+                428,
+                1412,
+                293,
+                483,
+                2105,
+                281,
+                309,
+                13,
+                51047
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21655243960293857,
+            "compression_ratio": 1.6448979591836734,
+            "no_speech_prob": 0.0023690350353717804,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 10.28,
+                    "end": 10.44,
+                    "probability": 0.7367132306098938
+                },
+                {
+                    "word": " can,",
+                    "start": 10.44,
+                    "end": 10.72,
+                    "probability": 0.8968518972396851
+                },
+                {
+                    "word": " if",
+                    "start": 10.8,
+                    "end": 10.9,
+                    "probability": 0.9049787521362305
+                },
+                {
+                    "word": " they",
+                    "start": 10.9,
+                    "end": 11.1,
+                    "probability": 0.7336240410804749
+                },
+                {
+                    "word": " wish,",
+                    "start": 11.1,
+                    "end": 11.44,
+                    "probability": 0.8156352639198303
+                },
+                {
+                    "word": " take",
+                    "start": 11.78,
+                    "end": 11.98,
+                    "probability": 0.8089107275009155
+                },
+                {
+                    "word": " your",
+                    "start": 11.98,
+                    "end": 12.14,
+                    "probability": 0.802236795425415
+                },
+                {
+                    "word": " data",
+                    "start": 12.14,
+                    "end": 12.38,
+                    "probability": 0.8089691400527954
+                },
+                {
+                    "word": " and",
+                    "start": 12.38,
+                    "end": 12.78,
+                    "probability": 0.8574990630149841
+                },
+                {
+                    "word": " get",
+                    "start": 12.78,
+                    "end": 12.94,
+                    "probability": 0.901325523853302
+                },
+                {
+                    "word": " access",
+                    "start": 12.94,
+                    "end": 13.2,
+                    "probability": 0.7790924310684204
+                },
+                {
+                    "word": " to",
+                    "start": 13.2,
+                    "end": 13.44,
+                    "probability": 0.905227780342102
+                },
+                {
+                    "word": " it.",
+                    "start": 13.44,
+                    "end": 13.54,
+                    "probability": 0.9046520590782166
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.58,
+            "end": 18.24,
+            "text": " But if you notice the CEO there, Mr. Chu, working in the 150 million Americans, he's",
+            "tokens": [
+                51047,
+                583,
+                498,
+                291,
+                3449,
+                264,
+                9282,
+                456,
+                11,
+                2221,
+                13,
+                25585,
+                11,
+                1364,
+                294,
+                264,
+                8451,
+                2459,
+                6280,
+                11,
+                415,
+                311,
+                51270
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21655243960293857,
+            "compression_ratio": 1.6448979591836734,
+            "no_speech_prob": 0.0023690350353717804,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 13.58,
+                    "end": 13.7,
+                    "probability": 0.8912278413772583
+                },
+                {
+                    "word": " if",
+                    "start": 13.7,
+                    "end": 13.86,
+                    "probability": 0.8828232884407043
+                },
+                {
+                    "word": " you",
+                    "start": 13.86,
+                    "end": 13.98,
+                    "probability": 0.8877867460250854
+                },
+                {
+                    "word": " notice",
+                    "start": 13.98,
+                    "end": 14.24,
+                    "probability": 0.8267353773117065
+                },
+                {
+                    "word": " the",
+                    "start": 14.24,
+                    "end": 14.42,
+                    "probability": 0.48378437757492065
+                },
+                {
+                    "word": " CEO",
+                    "start": 14.42,
+                    "end": 14.78,
+                    "probability": 0.8098086714744568
+                },
+                {
+                    "word": " there,",
+                    "start": 14.78,
+                    "end": 15.06,
+                    "probability": 0.8327365517616272
+                },
+                {
+                    "word": " Mr.",
+                    "start": 15.38,
+                    "end": 15.52,
+                    "probability": 0.9125269055366516
+                },
+                {
+                    "word": " Chu,",
+                    "start": 15.66,
+                    "end": 15.8,
+                    "probability": 0.6078932285308838
+                },
+                {
+                    "word": " working",
+                    "start": 15.92,
+                    "end": 16.16,
+                    "probability": 0.7093536853790283
+                },
+                {
+                    "word": " in",
+                    "start": 16.16,
+                    "end": 16.34,
+                    "probability": 0.9005403518676758
+                },
+                {
+                    "word": " the",
+                    "start": 16.34,
+                    "end": 16.46,
+                    "probability": 0.8076847195625305
+                },
+                {
+                    "word": " 150",
+                    "start": 16.46,
+                    "end": 17.04,
+                    "probability": 0.8262819051742554
+                },
+                {
+                    "word": " million",
+                    "start": 17.04,
+                    "end": 17.52,
+                    "probability": 0.7474403977394104
+                },
+                {
+                    "word": " Americans,",
+                    "start": 17.52,
+                    "end": 17.92,
+                    "probability": 0.7375768423080444
+                },
+                {
+                    "word": " he's",
+                    "start": 18.04,
+                    "end": 18.24,
+                    "probability": 0.9401747584342957
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 18.24,
+            "end": 21.14,
+            "text": " trying to tell Congress, dare you, I dare you.",
+            "tokens": [
+                51270,
+                1382,
+                281,
+                980,
+                6426,
+                11,
+                8955,
+                291,
+                11,
+                286,
+                8955,
+                291,
+                13,
+                51424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21655243960293857,
+            "compression_ratio": 1.6448979591836734,
+            "no_speech_prob": 0.0023690350353717804,
+            "words": [
+                {
+                    "word": " trying",
+                    "start": 18.24,
+                    "end": 18.42,
+                    "probability": 0.7972123026847839
+                },
+                {
+                    "word": " to",
+                    "start": 18.42,
+                    "end": 18.56,
+                    "probability": 0.9045625925064087
+                },
+                {
+                    "word": " tell",
+                    "start": 18.56,
+                    "end": 18.72,
+                    "probability": 0.8243789076805115
+                },
+                {
+                    "word": " Congress,",
+                    "start": 18.72,
+                    "end": 19.22,
+                    "probability": 0.889963686466217
+                },
+                {
+                    "word": " dare",
+                    "start": 20.32,
+                    "end": 20.5,
+                    "probability": 0.6354961395263672
+                },
+                {
+                    "word": " you,",
+                    "start": 20.5,
+                    "end": 20.64,
+                    "probability": 0.8934711813926697
+                },
+                {
+                    "word": " I",
+                    "start": 20.7,
+                    "end": 20.84,
+                    "probability": 0.992878258228302
+                },
+                {
+                    "word": " dare",
+                    "start": 20.84,
+                    "end": 21.0,
+                    "probability": 0.8804236650466919
+                },
+                {
+                    "word": " you.",
+                    "start": 21.0,
+                    "end": 21.14,
+                    "probability": 0.896575927734375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

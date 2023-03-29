@@ -1,0 +1,91 @@
+{
+    "text": " Well, you know what? I find that actually preposterous.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " Well, you know what? I find that actually preposterous.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                291,
+                458,
+                437,
+                30,
+                286,
+                915,
+                300,
+                767,
+                2666,
+                7096,
+                563,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3884728375603171,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.016808921471238136,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.2648613750934601
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.34,
+                    "probability": 0.8268237113952637
+                },
+                {
+                    "word": " know",
+                    "start": 0.34,
+                    "end": 0.46,
+                    "probability": 0.8215047121047974
+                },
+                {
+                    "word": " what?",
+                    "start": 0.46,
+                    "end": 0.54,
+                    "probability": 0.8067997694015503
+                },
+                {
+                    "word": " I",
+                    "start": 0.54,
+                    "end": 1.54,
+                    "probability": 0.9161849021911621
+                },
+                {
+                    "word": " find",
+                    "start": 1.54,
+                    "end": 1.86,
+                    "probability": 0.7839207053184509
+                },
+                {
+                    "word": " that",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.8795760273933411
+                },
+                {
+                    "word": " actually",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.6596493721008301
+                },
+                {
+                    "word": " preposterous.",
+                    "start": 2.56,
+                    "end": 3.52,
+                    "probability": 0.8963677883148193
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Creators, lawmakers oppose ban of TikTok at Capitol rally</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			font-size: 14px;
+			color: #111;
+			padding: 0 0 1em 0;
+			background-color: #efe7dd;
+		}
+
+		table {
+			border-spacing: 10px;
+		}
+
+		th {
+			text-align: left;
+		}
+
+		.lt {
+			color: inherit;
+			text-decoration: inherit;
+		}
+
+		.l {
+			color: #050;
+		}
+
+		.s {
+			display: inline-block;
+		}
+
+		.c {
+			display: inline-block;
+		}
+
+		.e {
+			/*background-color: white; Changing background color */
+			border-radius: 10px;
+			/* Making border radius */
+			width: 50%;
+			/* Making auto-sizable width */
+			padding: 0 0 0 0;
+			/* Making space around letters */
+			font-size: 14px;
+			/* Changing font size */
+			margin-bottom: 0;
+		}
+
+		.t {
+			display: inline-block;
+		}
+
+		#player-div {
+			position: sticky;
+			top: 20px;
+			float: right;
+			width: 40%
+		}
+
+		#player {
+			aspect-ratio: 16 / 9;
+			width: 100%;
+			height: auto;
+
+		}
+
+		a {
+			display: inline;
+		}
+	</style>
+	<script>
+		var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/iframe_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		var player;
+		function onYouTubeIframeAPIReady() {
+			player = new YT.Player('player', {
+				//height: '210',
+				//width: '340',
+				videoId: 'm_H4zguqeRM',
+			});
+
+
+
+			// This is the source "window" that will emit the events.
+			var iframeWindow = player.getIframe().contentWindow;
+			var lastword = null;
+
+			// So we can compare against new updates.
+			var lastTimeUpdate = "-1";
+
+			// Listen to events triggered by postMessage,
+			// this is how different windows in a browser
+			// (such as a popup or iFrame) can communicate.
+			// See: https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
+			window.addEventListener("message", function (event) {
+				// Check that the event was sent from the YouTube IFrame.
+				if (event.source === iframeWindow) {
+					var data = JSON.parse(event.data);
+
+					// The "infoDelivery" event is used by YT to transmit any
+					// kind of information change in the player,
+					// such as the current time or a playback quality change.
+					if (
+						data.event === "infoDelivery" &&
+						data.info &&
+						data.info.currentTime
+					) {
+						// currentTime is emitted very frequently (milliseconds),
+						// but we only care about whole second changes.
+						var ts = (data.info.currentTime).toFixed(1).toString();
+						ts = (Math.round((data.info.currentTime) * 5) / 5).toFixed(1);
+						ts = ts.toString();
+						console.log(ts)
+						if (ts !== lastTimeUpdate) {
+							lastTimeUpdate = ts;
+
+							// It's now up to you to format the time.
+							//document.getElementById("time2").innerHTML = time;
+							word = document.getElementById(ts)
+							if (word) {
+								if (lastword) {
+									lastword.style.fontWeight = 'normal';
+								}
+								lastword = word;
+								//word.style.textDecoration = 'underline';
+								word.style.fontWeight = 'bold';
+
+								let toggle = document.getElementById("autoscroll");
+								if (toggle.checked) {
+									let position = word.offsetTop - 20;
+									window.scrollTo({
+										top: position,
+										behavior: 'smooth'
+									});
+								}
+
+							}
+						}
+					}
+				}
+			})
+		}
+		function jumptoTime(timepoint, id) {
+			event.preventDefault();
+			history.pushState(null, null, "#" + id);
+			player.seekTo(timepoint);
+			player.playVideo();
+		}
+	</script>
+</head>
+
+<body>
+	<h2>Creators, lawmakers oppose ban of TikTok at Capitol rally</h2>
+	<i>Click on a part of the transcription, to jump to its video, and get an anchor to it in the address
+		bar<br><br></i>
+	<div id="player-div">
+		<div id="player"></div>
+		<div><label for="autoscroll">auto-scroll: </label>
+			<input type="checkbox" id="autoscroll" checked>
+		</div>
+	</div>
+  <div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:00:000.29" id="0.2" class="lt" onclick="jumptoTime(0, this.id)"> TikTok</a><!--
+				--><a href="#00:00:000.85" id="0.8" class="lt" onclick="jumptoTime(0, this.id)"> CEO</a><!--
+				--><a href="#00:00:001.03" id="1.0" class="lt" onclick="jumptoTime(1, this.id)"> Shou</a><!--
+				--><a href="#00:00:001.41" id="1.4" class="lt" onclick="jumptoTime(1, this.id)"> Chu</a><!--
+				--><a href="#00:00:001.69" id="1.6" class="lt" onclick="jumptoTime(1, this.id)"> testified</a><!--
+				--><a href="#00:00:002.07" id="2.0" class="lt" onclick="jumptoTime(2, this.id)"> before</a><!--
+				--><a href="#00:00:002.41" id="2.4" class="lt" onclick="jumptoTime(2, this.id)"> the</a><!--
+				--><a href="#00:00:002.61" id="2.6" class="lt" onclick="jumptoTime(2, this.id)"> House</a><!--
+				--><a href="#00:00:002.83" id="2.8" class="lt" onclick="jumptoTime(2, this.id)"> Energy</a><!--
+				--><a href="#00:00:003.25" id="3.2" class="lt" onclick="jumptoTime(3, this.id)"> and</a><!--
+				--><a href="#00:00:003.53" id="3.6" class="lt" onclick="jumptoTime(3, this.id)"> Commerce</a><!--
+				--><a href="#00:00:003.93" id="4.0" class="lt" onclick="jumptoTime(3, this.id)"> Committee.</a><!--
+				--><a href="#00:00:004.41" id="4.4" class="lt" onclick="jumptoTime(4, this.id)"> Here's</a><!--
+				--><a href="#00:00:004.59" id="4.6" class="lt" onclick="jumptoTime(4, this.id)"> three</a><!--
+				--><a href="#00:00:004.79" id="4.8" class="lt" onclick="jumptoTime(4, this.id)"> things</a><!--
+				--><a href="#00:00:005.05" id="5.0" class="lt" onclick="jumptoTime(5, this.id)"> you</a><!--
+				--><a href="#00:00:005.15" id="5.2" class="lt" onclick="jumptoTime(5, this.id)"> should</a><!--
+				--><a href="#00:00:005.27" id="5.2" class="lt" onclick="jumptoTime(5, this.id)"> know</a><!--
+				--><a href="#00:00:005.41" id="5.4" class="lt" onclick="jumptoTime(5, this.id)"> from</a><!--
+				--><a href="#00:00:005.53" id="5.6" class="lt" onclick="jumptoTime(5, this.id)"> the</a><!--
+				--><a href="#00:00:005.65" id="5.6" class="lt" onclick="jumptoTime(5, this.id)"> hearing.</a><!--
+				--><a href="#00:00:006.11" id="6.2" class="lt" onclick="jumptoTime(6, this.id)"> First,</a><!--
+				--><a href="#00:00:006.71" id="6.8" class="lt" onclick="jumptoTime(6, this.id)"> everyone,</a><!--
+				--><a href="#00:00:007.33" id="7.4" class="lt" onclick="jumptoTime(7, this.id)"> seriously</a><!--
+				--><a href="#00:00:007.69" id="7.6" class="lt" onclick="jumptoTime(7, this.id)"> everyone</a><!--
+				--><a href="#00:00:008.29" id="8.2" class="lt" onclick="jumptoTime(8, this.id)"> on</a><!--
+				--><a href="#00:00:008.59" id="8.6" class="lt" onclick="jumptoTime(8, this.id)"> the</a><!--
+				--><a href="#00:00:008.71" id="8.8" class="lt" onclick="jumptoTime(8, this.id)"> committee</a><!--
+				--><a href="#00:00:008.95" id="9.0" class="lt" onclick="jumptoTime(8, this.id)"> criticized</a><!--
+				--><a href="#00:00:009.69" id="9.6" class="lt" onclick="jumptoTime(9, this.id)"> TikTok.</a><!--
+				--><a href="#00:00:010.71" id="10.8" class="lt" onclick="jumptoTime(10, this.id)"> And</a><!--
+				--><a href="#00:00:010.77" id="10.8" class="lt" onclick="jumptoTime(10, this.id)"> while</a><!--
+				--><a href="#00:00:010.89" id="10.8" class="lt" onclick="jumptoTime(10, this.id)"> the</a><!--
+				--><a href="#00:00:011.07" id="11.0" class="lt" onclick="jumptoTime(11, this.id)"> main</a><!--
+				--><a href="#00:00:011.35" id="11.4" class="lt" onclick="jumptoTime(11, this.id)"> concern</a><!--
+				--><a href="#00:00:011.83" id="11.8" class="lt" onclick="jumptoTime(11, this.id)"> was</a><!--
+				--><a href="#00:00:012.13" id="12.2" class="lt" onclick="jumptoTime(12, this.id)"> national</a><!--
+				--><a href="#00:00:012.49" id="12.4" class="lt" onclick="jumptoTime(12, this.id)"> security,</a><!--
+				--><a href="#00:00:013.31" id="13.4" class="lt" onclick="jumptoTime(13, this.id)"> they</a><!--
+				--><a href="#00:00:013.41" id="13.4" class="lt" onclick="jumptoTime(13, this.id)"> also</a><!--
+				--><a href="#00:00:013.71" id="13.8" class="lt" onclick="jumptoTime(13, this.id)"> brought</a><!--
+				--><a href="#00:00:013.95" id="14.0" class="lt" onclick="jumptoTime(13, this.id)"> up</a><!--
+				--><a href="#00:00:014.07" id="14.0" class="lt" onclick="jumptoTime(14, this.id)"> the</a><!--
+				--><a href="#00:00:014.19" id="14.2" class="lt" onclick="jumptoTime(14, this.id)"> potential</a><!--
+				--><a href="#00:00:014.53" id="14.6" class="lt" onclick="jumptoTime(14, this.id)"> for</a><!--
+				--><a href="#00:00:014.77" id="14.8" class="lt" onclick="jumptoTime(14, this.id)"> harmful</a><!--
+				--><a href="#00:00:015.13" id="15.2" class="lt" onclick="jumptoTime(15, this.id)"> content,</a><!--
+				--><a href="#00:00:015.79" id="15.8" class="lt" onclick="jumptoTime(15, this.id)"> things</a><!--
+				--><a href="#00:00:015.97" id="16.0" class="lt" onclick="jumptoTime(15, this.id)"> that</a><!--
+				--><a href="#00:00:016.17" id="16.2" class="lt" onclick="jumptoTime(16, this.id)"> glorify</a><!--
+				--><a href="#00:00:016.83" id="16.8" class="lt" onclick="jumptoTime(16, this.id)"> eating</a><!--
+				--><a href="#00:00:017.15" id="17.2" class="lt" onclick="jumptoTime(17, this.id)"> disorders.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_02</span><br>
+				<a href="#00:00:018.18" id="18.2" class="lt" onclick="jumptoTime(18, this.id)"> suicide.</a><!--
+				--><a href="#00:00:018.64" id="18.6" class="lt" onclick="jumptoTime(18, this.id)"> Just</a><!--
+				--><a href="#00:00:018.82" id="18.8" class="lt" onclick="jumptoTime(18, this.id)"> because</a><!--
+				--><a href="#00:00:019.12" id="19.2" class="lt" onclick="jumptoTime(19, this.id)"> you're</a><!--
+				--><a href="#00:00:019.25" id="19.2" class="lt" onclick="jumptoTime(19, this.id)"> removing</a><!--
+				--><a href="#00:00:019.57" id="19.6" class="lt" onclick="jumptoTime(19, this.id)"> something</a><!--
+				--><a href="#00:00:019.93" id="20.0" class="lt" onclick="jumptoTime(19, this.id)"> that</a><!--
+				--><a href="#00:00:020.14" id="20.2" class="lt" onclick="jumptoTime(20, this.id)"> says</a><!--
+				--><a href="#00:00:020.30" id="20.4" class="lt" onclick="jumptoTime(20, this.id)"> anorexia,</a><!--
+				--><a href="#00:00:021.16" id="21.2" class="lt" onclick="jumptoTime(21, this.id)"> bulimia,</a><!--
+				--><a href="#00:00:021.75" id="21.8" class="lt" onclick="jumptoTime(21, this.id)"> or</a><!--
+				--><a href="#00:00:021.80" id="21.8" class="lt" onclick="jumptoTime(21, this.id)"> eating</a><!--
+				--><a href="#00:00:022.05" id="22.0" class="lt" onclick="jumptoTime(22, this.id)"> disorder,</a><!--
+				--><a href="#00:00:022.48" id="22.4" class="lt" onclick="jumptoTime(22, this.id)"> that</a><!--
+				--><a href="#00:00:022.62" id="22.6" class="lt" onclick="jumptoTime(22, this.id)"> doesn't</a><!--
+				--><a href="#00:00:022.95" id="23.0" class="lt" onclick="jumptoTime(22, this.id)"> do</a><!--
+				--><a href="#00:00:023.12" id="23.2" class="lt" onclick="jumptoTime(23, this.id)"> it.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:00:023.44" id="23.4" class="lt" onclick="jumptoTime(23, this.id)"> One</a><!--
+				--><a href="#00:00:023.62" id="23.6" class="lt" onclick="jumptoTime(23, this.id)"> of</a><!--
+				--><a href="#00:00:023.70" id="23.6" class="lt" onclick="jumptoTime(23, this.id)"> the</a><!--
+				--><a href="#00:00:023.82" id="23.8" class="lt" onclick="jumptoTime(23, this.id)"> most</a><!--
+				--><a href="#00:00:023.98" id="24.0" class="lt" onclick="jumptoTime(23, this.id)"> memorable</a><!--
+				--><a href="#00:00:024.40" id="24.4" class="lt" onclick="jumptoTime(24, this.id)"> moments</a><!--
+				--><a href="#00:00:024.82" id="24.8" class="lt" onclick="jumptoTime(24, this.id)"> of</a><!--
+				--><a href="#00:00:024.98" id="25.0" class="lt" onclick="jumptoTime(24, this.id)"> the</a><!--
+				--><a href="#00:00:025.10" id="25.0" class="lt" onclick="jumptoTime(25, this.id)"> day</a><!--
+				--><a href="#00:00:025.32" id="25.4" class="lt" onclick="jumptoTime(25, this.id)"> came</a><!--
+				--><a href="#00:00:025.68" id="25.6" class="lt" onclick="jumptoTime(25, this.id)"> when</a><!--
+				--><a href="#00:00:025.94" id="26.0" class="lt" onclick="jumptoTime(25, this.id)"> Representative</a><!--
+				--><a href="#00:00:026.50" id="26.4" class="lt" onclick="jumptoTime(26, this.id)"> Kamek</a><!--
+				--><a href="#00:00:026.98" id="27.0" class="lt" onclick="jumptoTime(26, this.id)"> showed</a><!--
+				--><a href="#00:00:027.36" id="27.4" class="lt" onclick="jumptoTime(27, this.id)"> a</a><!--
+				--><a href="#00:00:027.60" id="27.6" class="lt" onclick="jumptoTime(27, this.id)"> TikTok</a><!--
+				--><a href="#00:00:027.86" id="27.8" class="lt" onclick="jumptoTime(27, this.id)"> video</a><!--
+				--><a href="#00:00:028.24" id="28.2" class="lt" onclick="jumptoTime(28, this.id)"> that</a><!--
+				--><a href="#00:00:028.46" id="28.4" class="lt" onclick="jumptoTime(28, this.id)"> she</a><!--
+				--><a href="#00:00:028.72" id="28.8" class="lt" onclick="jumptoTime(28, this.id)"> said</a><!--
+				--><a href="#00:00:029.10" id="29.0" class="lt" onclick="jumptoTime(29, this.id)"> threatened</a><!--
+				--><a href="#00:00:029.70" id="29.6" class="lt" onclick="jumptoTime(29, this.id)"> the</a><!--
+				--><a href="#00:00:029.90" id="29.8" class="lt" onclick="jumptoTime(29, this.id)"> life</a><!--
+				--><a href="#00:00:030.20" id="30.2" class="lt" onclick="jumptoTime(30, this.id)"> of</a><!--
+				--><a href="#00:00:030.38" id="30.4" class="lt" onclick="jumptoTime(30, this.id)"> Representative</a><!--
+				--><a href="#00:00:030.86" id="30.8" class="lt" onclick="jumptoTime(30, this.id)"> Rogers.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:00:031.12" id="31.2" class="lt" onclick="jumptoTime(31, this.id)"> That</a><!--
+				--><a href="#00:00:031.66" id="31.6" class="lt" onclick="jumptoTime(31, this.id)"> video</a><!--
+				--><a href="#00:00:032.00" id="32.0" class="lt" onclick="jumptoTime(31, this.id)"> was</a><!--
+				--><a href="#00:00:032.20" id="32.2" class="lt" onclick="jumptoTime(32, this.id)"> posted</a><!--
+				--><a href="#00:00:032.52" id="32.6" class="lt" onclick="jumptoTime(32, this.id)"> 41</a><!--
+				--><a href="#00:00:032.94" id="33.0" class="lt" onclick="jumptoTime(32, this.id)"> days</a><!--
+				--><a href="#00:00:033.36" id="33.4" class="lt" onclick="jumptoTime(33, this.id)"> ago.</a><!--
+				--><a href="#00:00:033.78" id="33.8" class="lt" onclick="jumptoTime(33, this.id)"> As</a><!--
+				--><a href="#00:00:033.94" id="34.0" class="lt" onclick="jumptoTime(33, this.id)"> you</a><!--
+				--><a href="#00:00:034.06" id="34.0" class="lt" onclick="jumptoTime(34, this.id)"> can</a><!--
+				--><a href="#00:00:034.24" id="34.2" class="lt" onclick="jumptoTime(34, this.id)"> see</a><!--
+				--><a href="#00:00:034.52" id="34.6" class="lt" onclick="jumptoTime(34, this.id)"> it</a><!--
+				--><a href="#00:00:034.70" id="34.6" class="lt" onclick="jumptoTime(34, this.id)"> is</a><!--
+				--><a href="#00:00:034.84" id="34.8" class="lt" onclick="jumptoTime(34, this.id)"> captioned</a><!--
+				--><a href="#00:00:035.34" id="35.4" class="lt" onclick="jumptoTime(35, this.id)"> me</a><!--
+				--><a href="#00:00:035.56" id="35.6" class="lt" onclick="jumptoTime(35, this.id)"> as</a><!--
+				--><a href="#00:00:035.94" id="36.0" class="lt" onclick="jumptoTime(35, this.id)"> F</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:00:036.84" id="36.8" class="lt" onclick="jumptoTime(36, this.id)"> She</a><!--
+				--><a href="#00:00:036.98" id="37.0" class="lt" onclick="jumptoTime(36, this.id)"> said</a><!--
+				--><a href="#00:00:037.20" id="37.2" class="lt" onclick="jumptoTime(37, this.id)"> if</a><!--
+				--><a href="#00:00:037.34" id="37.4" class="lt" onclick="jumptoTime(37, this.id)"> TikTok</a><!--
+				--><a href="#00:00:037.62" id="37.6" class="lt" onclick="jumptoTime(37, this.id)"> couldn't</a><!--
+				--><a href="#00:00:038.12" id="38.2" class="lt" onclick="jumptoTime(38, this.id)"> enforce</a><!--
+				--><a href="#00:00:038.44" id="38.4" class="lt" onclick="jumptoTime(38, this.id)"> its</a><!--
+				--><a href="#00:00:038.64" id="38.6" class="lt" onclick="jumptoTime(38, this.id)"> policies</a><!--
+				--><a href="#00:00:039.24" id="39.2" class="lt" onclick="jumptoTime(39, this.id)"> to</a><!--
+				--><a href="#00:00:039.66" id="39.6" class="lt" onclick="jumptoTime(39, this.id)"> protect</a><!--
+				--><a href="#00:00:040.12" id="40.2" class="lt" onclick="jumptoTime(40, this.id)"> the</a><!--
+				--><a href="#00:00:040.26" id="40.2" class="lt" onclick="jumptoTime(40, this.id)"> members</a><!--
+				--><a href="#00:00:040.52" id="40.6" class="lt" onclick="jumptoTime(40, this.id)"> of</a><!--
+				--><a href="#00:00:040.74" id="40.8" class="lt" onclick="jumptoTime(40, this.id)"> the</a><!--
+				--><a href="#00:00:040.86" id="40.8" class="lt" onclick="jumptoTime(40, this.id)"> committee,</a><!--
+				--><a href="#00:00:041.56" id="41.6" class="lt" onclick="jumptoTime(41, this.id)"> how</a><!--
+				--><a href="#00:00:041.72" id="41.8" class="lt" onclick="jumptoTime(41, this.id)"> could</a><!--
+				--><a href="#00:00:041.88" id="41.8" class="lt" onclick="jumptoTime(41, this.id)"> it</a><!--
+				--><a href="#00:00:041.98" id="42.0" class="lt" onclick="jumptoTime(41, this.id)"> protect</a><!--
+				--><a href="#00:00:042.28" id="42.2" class="lt" onclick="jumptoTime(42, this.id)"> 150</a><!--
+				--><a href="#00:00:042.94" id="43.0" class="lt" onclick="jumptoTime(42, this.id)"> million</a><!--
+				--><a href="#00:00:043.34" id="43.4" class="lt" onclick="jumptoTime(43, this.id)"> US</a><!--
+				--><a href="#00:00:043.64" id="43.6" class="lt" onclick="jumptoTime(43, this.id)"> users?</a><!--
+				--><a href="#00:00:044.38" id="44.4" class="lt" onclick="jumptoTime(44, this.id)"> Finally,</a><!--
+				--><a href="#00:00:044.82" id="44.8" class="lt" onclick="jumptoTime(44, this.id)"> it's</a><!--
+				--><a href="#00:00:044.92" id="45.0" class="lt" onclick="jumptoTime(44, this.id)"> important</a><!--
+				--><a href="#00:00:045.18" id="45.2" class="lt" onclick="jumptoTime(45, this.id)"> to</a><!--
+				--><a href="#00:00:045.36" id="45.4" class="lt" onclick="jumptoTime(45, this.id)"> note</a><!--
+				--><a href="#00:00:045.50" id="45.4" class="lt" onclick="jumptoTime(45, this.id)"> a</a><!--
+				--><a href="#00:00:045.70" id="45.6" class="lt" onclick="jumptoTime(45, this.id)"> lot</a><!--
+				--><a href="#00:00:045.82" id="45.8" class="lt" onclick="jumptoTime(45, this.id)"> of</a><!--
+				--><a href="#00:00:045.90" id="45.8" class="lt" onclick="jumptoTime(45, this.id)"> the</a><!--
+				--><a href="#00:00:046.00" id="46.0" class="lt" onclick="jumptoTime(45, this.id)"> concerns</a><!--
+				--><a href="#00:00:046.36" id="46.4" class="lt" onclick="jumptoTime(46, this.id)"> brought</a><!--
+				--><a href="#00:00:046.60" id="46.6" class="lt" onclick="jumptoTime(46, this.id)"> up</a><!--
+				--><a href="#00:00:046.76" id="46.8" class="lt" onclick="jumptoTime(46, this.id)"> are</a><!--
+				--><a href="#00:00:046.88" id="46.8" class="lt" onclick="jumptoTime(46, this.id)"> not</a><!--
+				--><a href="#00:00:047.10" id="47.0" class="lt" onclick="jumptoTime(47, this.id)"> unique</a><!--
+				--><a href="#00:00:047.54" id="47.6" class="lt" onclick="jumptoTime(47, this.id)"> to</a><!--
+				--><a href="#00:00:047.76" id="47.8" class="lt" onclick="jumptoTime(47, this.id)"> TikTok,</a><!--
+				--><a href="#00:00:048.46" id="48.4" class="lt" onclick="jumptoTime(48, this.id)"> but</a><!--
+				--><a href="#00:00:048.62" id="48.6" class="lt" onclick="jumptoTime(48, this.id)"> members</a><!--
+				--><a href="#00:00:048.94" id="49.0" class="lt" onclick="jumptoTime(48, this.id)"> of</a><!--
+				--><a href="#00:00:049.08" id="49.0" class="lt" onclick="jumptoTime(49, this.id)"> the</a><!--
+				--><a href="#00:00:049.18" id="49.2" class="lt" onclick="jumptoTime(49, this.id)"> committee</a><!--
+				--><a href="#00:00:049.40" id="49.4" class="lt" onclick="jumptoTime(49, this.id)"> were</a><!--
+				--><a href="#00:00:049.62" id="49.6" class="lt" onclick="jumptoTime(49, this.id)"> zeroed</a><!--
+				--><a href="#00:00:049.98" id="50.0" class="lt" onclick="jumptoTime(49, this.id)"> in</a><!--
+				--><a href="#00:00:050.08" id="50.0" class="lt" onclick="jumptoTime(50, this.id)"> on</a><!--
+				--><a href="#00:00:050.22" id="50.2" class="lt" onclick="jumptoTime(50, this.id)"> only</a><!--
+				--><a href="#00:00:050.58" id="50.6" class="lt" onclick="jumptoTime(50, this.id)"> this.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_02</span><br>
+				<a href="#00:00:051.10" id="51.0" class="lt" onclick="jumptoTime(51, this.id)"> This</a><!--
+				--><a href="#00:00:051.34" id="51.4" class="lt" onclick="jumptoTime(51, this.id)"> is</a><!--
+				--><a href="#00:00:051.50" id="51.4" class="lt" onclick="jumptoTime(51, this.id)"> a</a><!--
+				--><a href="#00:00:051.64" id="51.6" class="lt" onclick="jumptoTime(51, this.id)"> real</a><!--
+				--><a href="#00:00:051.88" id="51.8" class="lt" onclick="jumptoTime(51, this.id)"> industry</a><!--
+				--><a href="#00:00:052.32" id="52.4" class="lt" onclick="jumptoTime(52, this.id)"> challenge</a><!--
+				--><a href="#00:00:052.74" id="52.8" class="lt" onclick="jumptoTime(52, this.id)"> and</a><!--
+				--><a href="#00:00:052.94" id="53.0" class="lt" onclick="jumptoTime(52, this.id)"> we're</a><!--
+				--><a href="#00:00:053.10" id="53.0" class="lt" onclick="jumptoTime(53, this.id)"> working</a><!--
+				--><a href="#00:00:053.30" id="53.2" class="lt" onclick="jumptoTime(53, this.id)"> very</a><!--
+				--><a href="#00:00:053.84" id="53.8" class="lt" onclick="jumptoTime(53, this.id)"> hard.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:00:053.22" id="53.2" class="lt" onclick="jumptoTime(53, this.id)"> No,</a><!--
+				--><a href="#00:00:053.52" id="53.6" class="lt" onclick="jumptoTime(53, this.id)"> no,</a><!--
+				--><a href="#00:00:053.68" id="53.6" class="lt" onclick="jumptoTime(53, this.id)"> no,</a><!--
+				--><a href="#00:00:053.74" id="53.8" class="lt" onclick="jumptoTime(53, this.id)"> it's</a><!--
+				--><a href="#00:00:053.88" id="53.8" class="lt" onclick="jumptoTime(53, this.id)"> not</a><!--
+				--><a href="#00:00:053.96" id="54.0" class="lt" onclick="jumptoTime(53, this.id)"> the</a><!--
+				--><a href="#00:00:054.10" id="54.2" class="lt" onclick="jumptoTime(54, this.id)"> industry.</a><!--
+				--><a href="#00:00:054.56" id="54.6" class="lt" onclick="jumptoTime(54, this.id)"> This</a><!--
+				--><a href="#00:00:054.62" id="54.6" class="lt" onclick="jumptoTime(54, this.id)"> is</a><!--
+				--><a href="#00:00:054.80" id="54.8" class="lt" onclick="jumptoTime(54, this.id)"> TikTok.</a><!--
+				--><a href="#00:00:055.76" id="55.8" class="lt" onclick="jumptoTime(55, this.id)"> We're</a><!--
+				--><a href="#00:00:056.42" id="56.4" class="lt" onclick="jumptoTime(56, this.id)"> talking</a><!--
+				--><a href="#00:00:056.74" id="56.8" class="lt" onclick="jumptoTime(56, this.id)"> about...</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_02</span><br>
+				<a href="#00:00:056.06" id="56.0" class="lt" onclick="jumptoTime(56, this.id)"> We're</a><!--
+				--><a href="#00:00:056.42" id="56.4" class="lt" onclick="jumptoTime(56, this.id)"> talking</a><!--
+				--><a href="#00:00:056.68" id="56.6" class="lt" onclick="jumptoTime(56, this.id)"> about</a><!--
+				--><a href="#00:00:056.82" id="56.8" class="lt" onclick="jumptoTime(56, this.id)">-</a><!--
+				--></p>
+</div>
+	</body>
+</html>

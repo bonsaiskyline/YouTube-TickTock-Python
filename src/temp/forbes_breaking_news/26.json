@@ -1,0 +1,522 @@
+{
+    "text": " ByteDance owns TikTok. If ByteDance is told, and the CCP owns ByteDance because the CCP owns everybody in China. So by law, they can make them do whatever they want. And they say that by law, you can't tell anyone about it. So they can make you hand over that data. Is that correct?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.18,
+            "end": 2.06,
+            "text": " ByteDance owns TikTok.",
+            "tokens": [
+                50364,
+                3146,
+                975,
+                35,
+                719,
+                19143,
+                20211,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " ByteDance",
+                    "start": 1.18,
+                    "end": 1.62,
+                    "probability": 0.6293816864490509
+                },
+                {
+                    "word": " owns",
+                    "start": 1.62,
+                    "end": 1.62,
+                    "probability": 0.6594671607017517
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 1.62,
+                    "end": 2.06,
+                    "probability": 0.7142826318740845
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.46,
+            "end": 5.22,
+            "text": " If ByteDance is told, and the CCP owns ByteDance",
+            "tokens": [
+                50480,
+                759,
+                3146,
+                975,
+                35,
+                719,
+                307,
+                1907,
+                11,
+                293,
+                264,
+                27876,
+                19143,
+                3146,
+                975,
+                35,
+                719,
+                50626
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 2.46,
+                    "end": 2.48,
+                    "probability": 0.10005741566419601
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 2.48,
+                    "end": 2.92,
+                    "probability": 0.9375538975000381
+                },
+                {
+                    "word": " is",
+                    "start": 2.92,
+                    "end": 3.08,
+                    "probability": 0.5051319599151611
+                },
+                {
+                    "word": " told,",
+                    "start": 3.08,
+                    "end": 3.24,
+                    "probability": 0.16771236062049866
+                },
+                {
+                    "word": " and",
+                    "start": 3.44,
+                    "end": 3.56,
+                    "probability": 0.8838410377502441
+                },
+                {
+                    "word": " the",
+                    "start": 3.56,
+                    "end": 3.82,
+                    "probability": 0.7816613912582397
+                },
+                {
+                    "word": " CCP",
+                    "start": 3.82,
+                    "end": 4.22,
+                    "probability": 0.7131576538085938
+                },
+                {
+                    "word": " owns",
+                    "start": 4.22,
+                    "end": 4.68,
+                    "probability": 0.8293499946594238
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 4.68,
+                    "end": 5.22,
+                    "probability": 0.9508189857006073
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.22,
+            "end": 8.5,
+            "text": " because the CCP owns everybody in China.",
+            "tokens": [
+                50626,
+                570,
+                264,
+                27876,
+                19143,
+                2201,
+                294,
+                3533,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " because",
+                    "start": 5.22,
+                    "end": 5.36,
+                    "probability": 0.30730122327804565
+                },
+                {
+                    "word": " the",
+                    "start": 5.36,
+                    "end": 5.54,
+                    "probability": 0.7916643023490906
+                },
+                {
+                    "word": " CCP",
+                    "start": 5.54,
+                    "end": 5.84,
+                    "probability": 0.7956939339637756
+                },
+                {
+                    "word": " owns",
+                    "start": 5.84,
+                    "end": 7.4,
+                    "probability": 0.8295609951019287
+                },
+                {
+                    "word": " everybody",
+                    "start": 7.4,
+                    "end": 7.82,
+                    "probability": 0.7170573472976685
+                },
+                {
+                    "word": " in",
+                    "start": 7.82,
+                    "end": 8.18,
+                    "probability": 0.9041082262992859
+                },
+                {
+                    "word": " China.",
+                    "start": 8.18,
+                    "end": 8.5,
+                    "probability": 0.8589746952056885
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.98,
+            "end": 11.7,
+            "text": " So by law, they can make them do whatever they want.",
+            "tokens": [
+                50814,
+                407,
+                538,
+                2101,
+                11,
+                436,
+                393,
+                652,
+                552,
+                360,
+                2035,
+                436,
+                528,
+                13,
+                50952
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 8.98,
+                    "end": 9.14,
+                    "probability": 0.659196674823761
+                },
+                {
+                    "word": " by",
+                    "start": 9.14,
+                    "end": 9.38,
+                    "probability": 0.7879737019538879
+                },
+                {
+                    "word": " law,",
+                    "start": 9.38,
+                    "end": 9.74,
+                    "probability": 0.8098384737968445
+                },
+                {
+                    "word": " they",
+                    "start": 9.84,
+                    "end": 9.98,
+                    "probability": 0.730312168598175
+                },
+                {
+                    "word": " can",
+                    "start": 9.98,
+                    "end": 10.14,
+                    "probability": 0.8988887667655945
+                },
+                {
+                    "word": " make",
+                    "start": 10.14,
+                    "end": 10.4,
+                    "probability": 0.8779670596122742
+                },
+                {
+                    "word": " them",
+                    "start": 10.4,
+                    "end": 10.62,
+                    "probability": 0.7393484115600586
+                },
+                {
+                    "word": " do",
+                    "start": 10.62,
+                    "end": 10.8,
+                    "probability": 0.9118821620941162
+                },
+                {
+                    "word": " whatever",
+                    "start": 10.8,
+                    "end": 11.1,
+                    "probability": 0.8248705863952637
+                },
+                {
+                    "word": " they",
+                    "start": 11.1,
+                    "end": 11.36,
+                    "probability": 0.7390868067741394
+                },
+                {
+                    "word": " want.",
+                    "start": 11.36,
+                    "end": 11.7,
+                    "probability": 0.8182930946350098
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.82,
+            "end": 14.54,
+            "text": " And they say that by law, you can't tell anyone about it.",
+            "tokens": [
+                50952,
+                400,
+                436,
+                584,
+                300,
+                538,
+                2101,
+                11,
+                291,
+                393,
+                380,
+                980,
+                2878,
+                466,
+                309,
+                13,
+                51090
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 11.82,
+                    "end": 11.94,
+                    "probability": 0.8856492042541504
+                },
+                {
+                    "word": " they",
+                    "start": 11.94,
+                    "end": 12.1,
+                    "probability": 0.746562659740448
+                },
+                {
+                    "word": " say",
+                    "start": 12.1,
+                    "end": 12.34,
+                    "probability": 0.8911855220794678
+                },
+                {
+                    "word": " that",
+                    "start": 12.34,
+                    "end": 12.56,
+                    "probability": 0.8742246031761169
+                },
+                {
+                    "word": " by",
+                    "start": 12.56,
+                    "end": 12.78,
+                    "probability": 0.8312975168228149
+                },
+                {
+                    "word": " law,",
+                    "start": 12.78,
+                    "end": 13.22,
+                    "probability": 0.8090701103210449
+                },
+                {
+                    "word": " you",
+                    "start": 13.32,
+                    "end": 13.48,
+                    "probability": 0.8903779983520508
+                },
+                {
+                    "word": " can't",
+                    "start": 13.48,
+                    "end": 13.72,
+                    "probability": 0.9472597539424896
+                },
+                {
+                    "word": " tell",
+                    "start": 13.72,
+                    "end": 13.88,
+                    "probability": 0.8254537582397461
+                },
+                {
+                    "word": " anyone",
+                    "start": 13.88,
+                    "end": 14.1,
+                    "probability": 0.9083839654922485
+                },
+                {
+                    "word": " about",
+                    "start": 14.1,
+                    "end": 14.42,
+                    "probability": 0.8231235146522522
+                },
+                {
+                    "word": " it.",
+                    "start": 14.42,
+                    "end": 14.54,
+                    "probability": 0.9014519453048706
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.56,
+            "end": 16.26,
+            "text": " So they can make you hand over that data.",
+            "tokens": [
+                51090,
+                407,
+                436,
+                393,
+                652,
+                291,
+                1011,
+                670,
+                300,
+                1412,
+                13,
+                51182
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 14.56,
+                    "end": 14.64,
+                    "probability": 0.9012315273284912
+                },
+                {
+                    "word": " they",
+                    "start": 14.64,
+                    "end": 14.76,
+                    "probability": 0.7332634925842285
+                },
+                {
+                    "word": " can",
+                    "start": 14.76,
+                    "end": 14.92,
+                    "probability": 0.8989905714988708
+                },
+                {
+                    "word": " make",
+                    "start": 14.92,
+                    "end": 15.14,
+                    "probability": 0.8766855597496033
+                },
+                {
+                    "word": " you",
+                    "start": 15.14,
+                    "end": 15.26,
+                    "probability": 0.895984947681427
+                },
+                {
+                    "word": " hand",
+                    "start": 15.26,
+                    "end": 15.48,
+                    "probability": 0.844505786895752
+                },
+                {
+                    "word": " over",
+                    "start": 15.48,
+                    "end": 15.68,
+                    "probability": 0.8664859533309937
+                },
+                {
+                    "word": " that",
+                    "start": 15.68,
+                    "end": 15.94,
+                    "probability": 0.8836538195610046
+                },
+                {
+                    "word": " data.",
+                    "start": 15.94,
+                    "end": 16.26,
+                    "probability": 0.7987719774246216
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 16.4,
+            "end": 16.88,
+            "text": " Is that correct?",
+            "tokens": [
+                51182,
+                1119,
+                300,
+                3006,
+                30,
+                51224
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29534799402410333,
+            "compression_ratio": 1.630057803468208,
+            "no_speech_prob": 0.045734718441963196,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 16.4,
+                    "end": 16.5,
+                    "probability": 0.9082081913948059
+                },
+                {
+                    "word": " that",
+                    "start": 16.5,
+                    "end": 16.64,
+                    "probability": 0.8839793801307678
+                },
+                {
+                    "word": " correct?",
+                    "start": 16.64,
+                    "end": 16.88,
+                    "probability": 0.688809871673584
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

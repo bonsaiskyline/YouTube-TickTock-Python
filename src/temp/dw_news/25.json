@@ -1,0 +1,38 @@
+{
+    "text": " You know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.12,
+            "text": " You know.",
+            "tokens": [
+                50364,
+                509,
+                458,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9568406740824381,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.9494238495826721,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.02,
+                    "end": 0.1,
+                    "probability": 0.10070931166410446
+                },
+                {
+                    "word": " know.",
+                    "start": 0.1,
+                    "end": 0.12,
+                    "probability": 0.7257087826728821
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

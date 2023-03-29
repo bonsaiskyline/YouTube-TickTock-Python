@@ -1,0 +1,904 @@
+{
+    "text": " with me in studio to share their reporting and their insights. Leanne Caldwell of The Washington Post CNN's Melanie Zanona Francesca Chambers of USA Today and Sarah Fisher of Axios. The CEO is doing his best to say we will protect this data. We have this new project underway to get it out of Singapore get it out of Asia. We'll be all in America. They don't believe it. So the question is what will Congress do. The scorn is bipartisan. But there's a lot of scorn for Facebook and Instagram and Twitter and American social media companies and they can't agree on what to do. Will they agree here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " with me in studio to share their reporting and their insights.",
+            "tokens": [
+                50364,
+                365,
+                385,
+                294,
+                6811,
+                281,
+                2073,
+                641,
+                10031,
+                293,
+                641,
+                14310,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2965020792824881,
+            "compression_ratio": 1.5607142857142857,
+            "no_speech_prob": 0.016414303332567215,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.1839277446269989
+                },
+                {
+                    "word": " me",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.46872955560684204
+                },
+                {
+                    "word": " in",
+                    "start": 0.3,
+                    "end": 0.4,
+                    "probability": 0.7870470285415649
+                },
+                {
+                    "word": " studio",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.7889639735221863
+                },
+                {
+                    "word": " to",
+                    "start": 0.68,
+                    "end": 0.84,
+                    "probability": 0.8852561116218567
+                },
+                {
+                    "word": " share",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.8117012977600098
+                },
+                {
+                    "word": " their",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.8740255832672119
+                },
+                {
+                    "word": " reporting",
+                    "start": 1.12,
+                    "end": 1.52,
+                    "probability": 0.7436841130256653
+                },
+                {
+                    "word": " and",
+                    "start": 1.52,
+                    "end": 1.8,
+                    "probability": 0.8684409260749817
+                },
+                {
+                    "word": " their",
+                    "start": 1.8,
+                    "end": 1.94,
+                    "probability": 0.8979752063751221
+                },
+                {
+                    "word": " insights.",
+                    "start": 1.94,
+                    "end": 2.36,
+                    "probability": 0.8415259718894958
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.7,
+            "end": 9.58,
+            "text": " Leanne Caldwell of The Washington Post CNN's Melanie Zanona Francesca Chambers of USA Today and Sarah Fisher of Axios.",
+            "tokens": [
+                50494,
+                1456,
+                12674,
+                3511,
+                67,
+                6326,
+                295,
+                440,
+                6149,
+                10223,
+                24859,
+                311,
+                42798,
+                1176,
+                282,
+                266,
+                64,
+                31441,
+                496,
+                18054,
+                1616,
+                295,
+                10827,
+                2692,
+                293,
+                9519,
+                26676,
+                295,
+                20118,
+                2717,
+                13,
+                50846
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2965020792824881,
+            "compression_ratio": 1.5607142857142857,
+            "no_speech_prob": 0.016414303332567215,
+            "words": [
+                {
+                    "word": " Leanne",
+                    "start": 2.7,
+                    "end": 2.88,
+                    "probability": 0.6011184900999069
+                },
+                {
+                    "word": " Caldwell",
+                    "start": 2.88,
+                    "end": 3.22,
+                    "probability": 0.8503143787384033
+                },
+                {
+                    "word": " of",
+                    "start": 3.22,
+                    "end": 3.38,
+                    "probability": 0.5559530854225159
+                },
+                {
+                    "word": " The",
+                    "start": 3.38,
+                    "end": 3.48,
+                    "probability": 0.4689162075519562
+                },
+                {
+                    "word": " Washington",
+                    "start": 3.48,
+                    "end": 3.7,
+                    "probability": 0.8641236424446106
+                },
+                {
+                    "word": " Post",
+                    "start": 3.7,
+                    "end": 4.12,
+                    "probability": 0.8391042351722717
+                },
+                {
+                    "word": " CNN's",
+                    "start": 4.12,
+                    "end": 5.1,
+                    "probability": 0.6354507654905319
+                },
+                {
+                    "word": " Melanie",
+                    "start": 5.1,
+                    "end": 5.3,
+                    "probability": 0.7004033923149109
+                },
+                {
+                    "word": " Zanona",
+                    "start": 5.3,
+                    "end": 6.02,
+                    "probability": 0.5539926514029503
+                },
+                {
+                    "word": " Francesca",
+                    "start": 6.02,
+                    "end": 6.54,
+                    "probability": 0.7595087587833405
+                },
+                {
+                    "word": " Chambers",
+                    "start": 6.54,
+                    "end": 6.9,
+                    "probability": 0.8415137529373169
+                },
+                {
+                    "word": " of",
+                    "start": 6.9,
+                    "end": 7.04,
+                    "probability": 0.8722886443138123
+                },
+                {
+                    "word": " USA",
+                    "start": 7.04,
+                    "end": 7.32,
+                    "probability": 0.8728554844856262
+                },
+                {
+                    "word": " Today",
+                    "start": 7.32,
+                    "end": 7.72,
+                    "probability": 0.8239138722419739
+                },
+                {
+                    "word": " and",
+                    "start": 7.72,
+                    "end": 8.26,
+                    "probability": 0.80748051404953
+                },
+                {
+                    "word": " Sarah",
+                    "start": 8.26,
+                    "end": 8.5,
+                    "probability": 0.6066973805427551
+                },
+                {
+                    "word": " Fisher",
+                    "start": 8.5,
+                    "end": 8.8,
+                    "probability": 0.671252429485321
+                },
+                {
+                    "word": " of",
+                    "start": 8.8,
+                    "end": 9.06,
+                    "probability": 0.8839077353477478
+                },
+                {
+                    "word": " Axios.",
+                    "start": 9.06,
+                    "end": 9.58,
+                    "probability": 0.9222773909568787
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.32,
+            "end": 17.66,
+            "text": " The CEO is doing his best to say we will protect this data. We have this new project underway to get it out of Singapore get it out",
+            "tokens": [
+                50912,
+                440,
+                9282,
+                307,
+                884,
+                702,
+                1151,
+                281,
+                584,
+                321,
+                486,
+                2371,
+                341,
+                1412,
+                13,
+                492,
+                362,
+                341,
+                777,
+                1716,
+                27534,
+                281,
+                483,
+                309,
+                484,
+                295,
+                14491,
+                483,
+                309,
+                484,
+                51244
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2965020792824881,
+            "compression_ratio": 1.5607142857142857,
+            "no_speech_prob": 0.016414303332567215,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 10.32,
+                    "end": 11.1,
+                    "probability": 0.81966233253479
+                },
+                {
+                    "word": " CEO",
+                    "start": 11.1,
+                    "end": 11.42,
+                    "probability": 0.6861152052879333
+                },
+                {
+                    "word": " is",
+                    "start": 11.42,
+                    "end": 11.56,
+                    "probability": 0.8278928995132446
+                },
+                {
+                    "word": " doing",
+                    "start": 11.56,
+                    "end": 11.74,
+                    "probability": 0.9163321852684021
+                },
+                {
+                    "word": " his",
+                    "start": 11.74,
+                    "end": 11.92,
+                    "probability": 0.8780813813209534
+                },
+                {
+                    "word": " best",
+                    "start": 11.92,
+                    "end": 12.24,
+                    "probability": 0.807087779045105
+                },
+                {
+                    "word": " to",
+                    "start": 12.24,
+                    "end": 12.5,
+                    "probability": 0.9034348726272583
+                },
+                {
+                    "word": " say",
+                    "start": 12.5,
+                    "end": 12.86,
+                    "probability": 0.9016563892364502
+                },
+                {
+                    "word": " we",
+                    "start": 12.86,
+                    "end": 13.72,
+                    "probability": 0.8539747595787048
+                },
+                {
+                    "word": " will",
+                    "start": 13.72,
+                    "end": 13.84,
+                    "probability": 0.8023421764373779
+                },
+                {
+                    "word": " protect",
+                    "start": 13.84,
+                    "end": 14.12,
+                    "probability": 0.7820722460746765
+                },
+                {
+                    "word": " this",
+                    "start": 14.12,
+                    "end": 14.36,
+                    "probability": 0.8784769773483276
+                },
+                {
+                    "word": " data.",
+                    "start": 14.36,
+                    "end": 14.68,
+                    "probability": 0.7778252363204956
+                },
+                {
+                    "word": " We",
+                    "start": 14.96,
+                    "end": 15.0,
+                    "probability": 0.9097990393638611
+                },
+                {
+                    "word": " have",
+                    "start": 15.0,
+                    "end": 15.14,
+                    "probability": 0.8759572505950928
+                },
+                {
+                    "word": " this",
+                    "start": 15.14,
+                    "end": 15.3,
+                    "probability": 0.8826384544372559
+                },
+                {
+                    "word": " new",
+                    "start": 15.3,
+                    "end": 15.46,
+                    "probability": 0.8240548372268677
+                },
+                {
+                    "word": " project",
+                    "start": 15.46,
+                    "end": 15.8,
+                    "probability": 0.8438031077384949
+                },
+                {
+                    "word": " underway",
+                    "start": 15.8,
+                    "end": 16.14,
+                    "probability": 0.7911323308944702
+                },
+                {
+                    "word": " to",
+                    "start": 16.14,
+                    "end": 16.44,
+                    "probability": 0.8960382342338562
+                },
+                {
+                    "word": " get",
+                    "start": 16.44,
+                    "end": 16.58,
+                    "probability": 0.894787073135376
+                },
+                {
+                    "word": " it",
+                    "start": 16.58,
+                    "end": 16.68,
+                    "probability": 0.902662992477417
+                },
+                {
+                    "word": " out",
+                    "start": 16.68,
+                    "end": 16.82,
+                    "probability": 0.8196266889572144
+                },
+                {
+                    "word": " of",
+                    "start": 16.82,
+                    "end": 16.94,
+                    "probability": 0.9041549563407898
+                },
+                {
+                    "word": " Singapore",
+                    "start": 16.94,
+                    "end": 17.26,
+                    "probability": 0.8670265674591064
+                },
+                {
+                    "word": " get",
+                    "start": 17.26,
+                    "end": 17.48,
+                    "probability": 0.77034592628479
+                },
+                {
+                    "word": " it",
+                    "start": 17.48,
+                    "end": 17.56,
+                    "probability": 0.8211488723754883
+                },
+                {
+                    "word": " out",
+                    "start": 17.56,
+                    "end": 17.66,
+                    "probability": 0.8154744505882263
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.66,
+            "end": 23.66,
+            "text": " of Asia. We'll be all in America. They don't believe it. So the question is what will Congress do. The scorn is bipartisan.",
+            "tokens": [
+                51244,
+                295,
+                10038,
+                13,
+                492,
+                603,
+                312,
+                439,
+                294,
+                3374,
+                13,
+                814,
+                500,
+                380,
+                1697,
+                309,
+                13,
+                407,
+                264,
+                1168,
+                307,
+                437,
+                486,
+                6426,
+                360,
+                13,
+                440,
+                795,
+                1865,
+                307,
+                31954,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2965020792824881,
+            "compression_ratio": 1.5607142857142857,
+            "no_speech_prob": 0.016414303332567215,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 17.66,
+                    "end": 17.76,
+                    "probability": 0.9012914299964905
+                },
+                {
+                    "word": " Asia.",
+                    "start": 17.76,
+                    "end": 18.04,
+                    "probability": 0.9276000261306763
+                },
+                {
+                    "word": " We'll",
+                    "start": 18.18,
+                    "end": 18.32,
+                    "probability": 0.7325813472270966
+                },
+                {
+                    "word": " be",
+                    "start": 18.32,
+                    "end": 18.44,
+                    "probability": 0.8875099420547485
+                },
+                {
+                    "word": " all",
+                    "start": 18.44,
+                    "end": 18.56,
+                    "probability": 0.797893226146698
+                },
+                {
+                    "word": " in",
+                    "start": 18.56,
+                    "end": 18.64,
+                    "probability": 0.6617469787597656
+                },
+                {
+                    "word": " America.",
+                    "start": 18.64,
+                    "end": 18.88,
+                    "probability": 0.5583044290542603
+                },
+                {
+                    "word": " They",
+                    "start": 19.06,
+                    "end": 19.48,
+                    "probability": 0.664018452167511
+                },
+                {
+                    "word": " don't",
+                    "start": 19.48,
+                    "end": 19.68,
+                    "probability": 0.9480694234371185
+                },
+                {
+                    "word": " believe",
+                    "start": 19.68,
+                    "end": 19.9,
+                    "probability": 0.7162764072418213
+                },
+                {
+                    "word": " it.",
+                    "start": 19.9,
+                    "end": 20.2,
+                    "probability": 0.9011067152023315
+                },
+                {
+                    "word": " So",
+                    "start": 20.48,
+                    "end": 20.58,
+                    "probability": 0.9079381823539734
+                },
+                {
+                    "word": " the",
+                    "start": 20.58,
+                    "end": 20.72,
+                    "probability": 0.8195835947990417
+                },
+                {
+                    "word": " question",
+                    "start": 20.72,
+                    "end": 20.96,
+                    "probability": 0.8075346946716309
+                },
+                {
+                    "word": " is",
+                    "start": 20.96,
+                    "end": 21.12,
+                    "probability": 0.9072227478027344
+                },
+                {
+                    "word": " what",
+                    "start": 21.12,
+                    "end": 21.26,
+                    "probability": 0.8845903873443604
+                },
+                {
+                    "word": " will",
+                    "start": 21.26,
+                    "end": 21.38,
+                    "probability": 0.7977492213249207
+                },
+                {
+                    "word": " Congress",
+                    "start": 21.38,
+                    "end": 21.72,
+                    "probability": 0.883074939250946
+                },
+                {
+                    "word": " do.",
+                    "start": 21.72,
+                    "end": 21.96,
+                    "probability": 0.8862448334693909
+                },
+                {
+                    "word": " The",
+                    "start": 22.14,
+                    "end": 22.2,
+                    "probability": 0.6931317448616028
+                },
+                {
+                    "word": " scorn",
+                    "start": 22.2,
+                    "end": 22.88,
+                    "probability": 0.7820321917533875
+                },
+                {
+                    "word": " is",
+                    "start": 22.88,
+                    "end": 23.12,
+                    "probability": 0.9023146033287048
+                },
+                {
+                    "word": " bipartisan.",
+                    "start": 23.12,
+                    "end": 23.66,
+                    "probability": 0.8566923141479492
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2366,
+            "start": 23.96,
+            "end": 29.98,
+            "text": " But there's a lot of scorn for Facebook and Instagram and Twitter and American social media companies and they can't agree on what to",
+            "tokens": [
+                50390,
+                583,
+                456,
+                311,
+                257,
+                688,
+                295,
+                795,
+                1865,
+                337,
+                4384,
+                293,
+                5281,
+                293,
+                5794,
+                293,
+                2665,
+                2093,
+                3021,
+                3431,
+                293,
+                436,
+                393,
+                380,
+                3986,
+                322,
+                437,
+                281,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2898696508163061,
+            "compression_ratio": 1.282258064516129,
+            "no_speech_prob": 0.4165450930595398,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 23.96,
+                    "end": 24.36,
+                    "probability": 0.23086118698120117
+                },
+                {
+                    "word": " there's",
+                    "start": 24.36,
+                    "end": 24.54,
+                    "probability": 0.8707018196582794
+                },
+                {
+                    "word": " a",
+                    "start": 24.54,
+                    "end": 24.6,
+                    "probability": 0.9955861568450928
+                },
+                {
+                    "word": " lot",
+                    "start": 24.6,
+                    "end": 24.7,
+                    "probability": 0.8884287476539612
+                },
+                {
+                    "word": " of",
+                    "start": 24.7,
+                    "end": 24.8,
+                    "probability": 0.9038461446762085
+                },
+                {
+                    "word": " scorn",
+                    "start": 24.8,
+                    "end": 25.12,
+                    "probability": 0.8035317659378052
+                },
+                {
+                    "word": " for",
+                    "start": 25.12,
+                    "end": 25.34,
+                    "probability": 0.8932413458824158
+                },
+                {
+                    "word": " Facebook",
+                    "start": 25.34,
+                    "end": 25.8,
+                    "probability": 0.7941902279853821
+                },
+                {
+                    "word": " and",
+                    "start": 25.8,
+                    "end": 26.06,
+                    "probability": 0.6888179183006287
+                },
+                {
+                    "word": " Instagram",
+                    "start": 26.06,
+                    "end": 26.42,
+                    "probability": 0.8876410126686096
+                },
+                {
+                    "word": " and",
+                    "start": 26.42,
+                    "end": 26.72,
+                    "probability": 0.8723251819610596
+                },
+                {
+                    "word": " Twitter",
+                    "start": 26.72,
+                    "end": 27.0,
+                    "probability": 0.8821679353713989
+                },
+                {
+                    "word": " and",
+                    "start": 27.0,
+                    "end": 27.44,
+                    "probability": 0.7854663729667664
+                },
+                {
+                    "word": " American",
+                    "start": 27.44,
+                    "end": 27.78,
+                    "probability": 0.7819018959999084
+                },
+                {
+                    "word": " social",
+                    "start": 27.78,
+                    "end": 28.14,
+                    "probability": 0.8114631175994873
+                },
+                {
+                    "word": " media",
+                    "start": 28.14,
+                    "end": 28.44,
+                    "probability": 0.81492680311203
+                },
+                {
+                    "word": " companies",
+                    "start": 28.44,
+                    "end": 28.9,
+                    "probability": 0.8028736710548401
+                },
+                {
+                    "word": " and",
+                    "start": 28.9,
+                    "end": 29.16,
+                    "probability": 0.35757508873939514
+                },
+                {
+                    "word": " they",
+                    "start": 29.16,
+                    "end": 29.3,
+                    "probability": 0.7436561584472656
+                },
+                {
+                    "word": " can't",
+                    "start": 29.3,
+                    "end": 29.52,
+                    "probability": 0.9443743228912354
+                },
+                {
+                    "word": " agree",
+                    "start": 29.52,
+                    "end": 29.64,
+                    "probability": 0.855435311794281
+                },
+                {
+                    "word": " on",
+                    "start": 29.64,
+                    "end": 29.76,
+                    "probability": 0.906725287437439
+                },
+                {
+                    "word": " what",
+                    "start": 29.76,
+                    "end": 29.86,
+                    "probability": 0.8880271315574646
+                },
+                {
+                    "word": " to",
+                    "start": 29.86,
+                    "end": 29.98,
+                    "probability": 0.9066822528839111
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2366,
+            "start": 29.98,
+            "end": 30.8,
+            "text": " do. Will they agree here.",
+            "tokens": [
+                50678,
+                360,
+                13,
+                3099,
+                436,
+                3986,
+                510,
+                13,
+                50722
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2898696508163061,
+            "compression_ratio": 1.282258064516129,
+            "no_speech_prob": 0.4165450930595398,
+            "words": [
+                {
+                    "word": " do.",
+                    "start": 29.98,
+                    "end": 30.18,
+                    "probability": 0.9074674248695374
+                },
+                {
+                    "word": " Will",
+                    "start": 30.26,
+                    "end": 30.36,
+                    "probability": 0.8961163759231567
+                },
+                {
+                    "word": " they",
+                    "start": 30.36,
+                    "end": 30.46,
+                    "probability": 0.7229982018470764
+                },
+                {
+                    "word": " agree",
+                    "start": 30.46,
+                    "end": 30.64,
+                    "probability": 0.8625391125679016
+                },
+                {
+                    "word": " here.",
+                    "start": 30.64,
+                    "end": 30.8,
+                    "probability": 0.8106637001037598
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

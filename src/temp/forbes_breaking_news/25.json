@@ -1,0 +1,635 @@
+{
+    "text": " China. We understand this concern. In my opening statement, we said we hear these concerns. We didn't try to avoid them or trivialize them. We built something where we take that data and put it out of reach. This is what we did. We put it out of reach. Out of reach, but they own you. No, we put it out of reach by storing them.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.2,
+            "text": " China.",
+            "tokens": [
+                50364,
+                3533,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " China.",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.23166145384311676
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.32,
+            "end": 1.7,
+            "text": " We understand this concern.",
+            "tokens": [
+                50414,
+                492,
+                1223,
+                341,
+                3136,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.3670758008956909
+                },
+                {
+                    "word": " understand",
+                    "start": 0.64,
+                    "end": 1.12,
+                    "probability": 0.5407185554504395
+                },
+                {
+                    "word": " this",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.7392565608024597
+                },
+                {
+                    "word": " concern.",
+                    "start": 1.36,
+                    "end": 1.7,
+                    "probability": 0.8392733931541443
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 1.84,
+            "end": 4.42,
+            "text": " In my opening statement, we said we hear these concerns.",
+            "tokens": [
+                50464,
+                682,
+                452,
+                5193,
+                5629,
+                11,
+                321,
+                848,
+                321,
+                1568,
+                613,
+                7389,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 1.84,
+                    "end": 1.92,
+                    "probability": 0.8005234003067017
+                },
+                {
+                    "word": " my",
+                    "start": 1.92,
+                    "end": 2.02,
+                    "probability": 0.8528268337249756
+                },
+                {
+                    "word": " opening",
+                    "start": 2.02,
+                    "end": 2.3,
+                    "probability": 0.7745425701141357
+                },
+                {
+                    "word": " statement,",
+                    "start": 2.3,
+                    "end": 2.68,
+                    "probability": 0.8496973514556885
+                },
+                {
+                    "word": " we",
+                    "start": 2.88,
+                    "end": 2.92,
+                    "probability": 0.9029545187950134
+                },
+                {
+                    "word": " said",
+                    "start": 2.92,
+                    "end": 3.26,
+                    "probability": 0.818980872631073
+                },
+                {
+                    "word": " we",
+                    "start": 3.26,
+                    "end": 3.7,
+                    "probability": 0.5907345414161682
+                },
+                {
+                    "word": " hear",
+                    "start": 3.7,
+                    "end": 3.86,
+                    "probability": 0.8302271962165833
+                },
+                {
+                    "word": " these",
+                    "start": 3.86,
+                    "end": 4.04,
+                    "probability": 0.6008412837982178
+                },
+                {
+                    "word": " concerns.",
+                    "start": 4.04,
+                    "end": 4.42,
+                    "probability": 0.8297570943832397
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.6,
+            "end": 6.94,
+            "text": " We didn't try to avoid them or trivialize them.",
+            "tokens": [
+                50596,
+                492,
+                994,
+                380,
+                853,
+                281,
+                5042,
+                552,
+                420,
+                26703,
+                1125,
+                552,
+                13,
+                50727
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 4.6,
+                    "end": 4.68,
+                    "probability": 0.9082767367362976
+                },
+                {
+                    "word": " didn't",
+                    "start": 4.68,
+                    "end": 4.84,
+                    "probability": 0.9137330651283264
+                },
+                {
+                    "word": " try",
+                    "start": 4.84,
+                    "end": 5.02,
+                    "probability": 0.7624484896659851
+                },
+                {
+                    "word": " to",
+                    "start": 5.02,
+                    "end": 5.2,
+                    "probability": 0.9044806957244873
+                },
+                {
+                    "word": " avoid",
+                    "start": 5.2,
+                    "end": 5.48,
+                    "probability": 0.7065160274505615
+                },
+                {
+                    "word": " them",
+                    "start": 5.48,
+                    "end": 5.7,
+                    "probability": 0.7330607771873474
+                },
+                {
+                    "word": " or",
+                    "start": 5.7,
+                    "end": 5.96,
+                    "probability": 0.876184344291687
+                },
+                {
+                    "word": " trivialize",
+                    "start": 5.96,
+                    "end": 6.76,
+                    "probability": 0.8332587778568268
+                },
+                {
+                    "word": " them.",
+                    "start": 6.76,
+                    "end": 6.94,
+                    "probability": 0.7483303546905518
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 7.2,
+            "end": 10.16,
+            "text": " We built something where we take that data and put it out of reach.",
+            "tokens": [
+                50727,
+                492,
+                3094,
+                746,
+                689,
+                321,
+                747,
+                300,
+                1412,
+                293,
+                829,
+                309,
+                484,
+                295,
+                2524,
+                13,
+                50906
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 7.2,
+                    "end": 7.3,
+                    "probability": 0.9014508724212646
+                },
+                {
+                    "word": " built",
+                    "start": 7.3,
+                    "end": 7.62,
+                    "probability": 0.6966229677200317
+                },
+                {
+                    "word": " something",
+                    "start": 7.62,
+                    "end": 7.94,
+                    "probability": 0.7591736912727356
+                },
+                {
+                    "word": " where",
+                    "start": 7.94,
+                    "end": 8.16,
+                    "probability": 0.8651843667030334
+                },
+                {
+                    "word": " we",
+                    "start": 8.16,
+                    "end": 8.34,
+                    "probability": 0.8989245891571045
+                },
+                {
+                    "word": " take",
+                    "start": 8.34,
+                    "end": 8.82,
+                    "probability": 0.7488037347793579
+                },
+                {
+                    "word": " that",
+                    "start": 8.82,
+                    "end": 8.96,
+                    "probability": 0.525460422039032
+                },
+                {
+                    "word": " data",
+                    "start": 8.96,
+                    "end": 9.16,
+                    "probability": 0.8077239394187927
+                },
+                {
+                    "word": " and",
+                    "start": 9.16,
+                    "end": 9.28,
+                    "probability": 0.8655149340629578
+                },
+                {
+                    "word": " put",
+                    "start": 9.28,
+                    "end": 9.4,
+                    "probability": 0.8617841601371765
+                },
+                {
+                    "word": " it",
+                    "start": 9.4,
+                    "end": 9.48,
+                    "probability": 0.8869749307632446
+                },
+                {
+                    "word": " out",
+                    "start": 9.48,
+                    "end": 9.64,
+                    "probability": 0.8319194912910461
+                },
+                {
+                    "word": " of",
+                    "start": 9.64,
+                    "end": 9.78,
+                    "probability": 0.8959642648696899
+                },
+                {
+                    "word": " reach.",
+                    "start": 9.78,
+                    "end": 10.16,
+                    "probability": 0.862151026725769
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.74,
+            "end": 11.38,
+            "text": " This is what we did.",
+            "tokens": [
+                50906,
+                639,
+                307,
+                437,
+                321,
+                630,
+                13,
+                50956
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 10.74,
+                    "end": 10.88,
+                    "probability": 0.6936633586883545
+                },
+                {
+                    "word": " is",
+                    "start": 10.88,
+                    "end": 10.98,
+                    "probability": 0.9040535688400269
+                },
+                {
+                    "word": " what",
+                    "start": 10.98,
+                    "end": 11.06,
+                    "probability": 0.8958938717842102
+                },
+                {
+                    "word": " we",
+                    "start": 11.06,
+                    "end": 11.2,
+                    "probability": 0.9025174379348755
+                },
+                {
+                    "word": " did.",
+                    "start": 11.2,
+                    "end": 11.38,
+                    "probability": 0.8871812224388123
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 11.54,
+            "end": 12.24,
+            "text": " We put it out of reach.",
+            "tokens": [
+                50956,
+                492,
+                829,
+                309,
+                484,
+                295,
+                2524,
+                13,
+                51006
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 11.54,
+                    "end": 11.54,
+                    "probability": 0.6722351312637329
+                },
+                {
+                    "word": " put",
+                    "start": 11.54,
+                    "end": 11.68,
+                    "probability": 0.8884810209274292
+                },
+                {
+                    "word": " it",
+                    "start": 11.68,
+                    "end": 11.76,
+                    "probability": 0.8754348158836365
+                },
+                {
+                    "word": " out",
+                    "start": 11.76,
+                    "end": 11.88,
+                    "probability": 0.8331738114356995
+                },
+                {
+                    "word": " of",
+                    "start": 11.88,
+                    "end": 12.02,
+                    "probability": 0.8958678245544434
+                },
+                {
+                    "word": " reach.",
+                    "start": 12.02,
+                    "end": 12.24,
+                    "probability": 0.8470450043678284
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 12.26,
+            "end": 13.46,
+            "text": " Out of reach, but they own you.",
+            "tokens": [
+                51006,
+                5925,
+                295,
+                2524,
+                11,
+                457,
+                436,
+                1065,
+                291,
+                13,
+                51056
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " Out",
+                    "start": 12.26,
+                    "end": 12.32,
+                    "probability": 0.30827632546424866
+                },
+                {
+                    "word": " of",
+                    "start": 12.32,
+                    "end": 12.38,
+                    "probability": 0.8998903036117554
+                },
+                {
+                    "word": " reach,",
+                    "start": 12.38,
+                    "end": 12.52,
+                    "probability": 0.8503198623657227
+                },
+                {
+                    "word": " but",
+                    "start": 12.62,
+                    "end": 12.7,
+                    "probability": 0.9001001119613647
+                },
+                {
+                    "word": " they",
+                    "start": 12.7,
+                    "end": 12.9,
+                    "probability": 0.7404304146766663
+                },
+                {
+                    "word": " own",
+                    "start": 12.9,
+                    "end": 13.16,
+                    "probability": 0.7791047096252441
+                },
+                {
+                    "word": " you.",
+                    "start": 13.16,
+                    "end": 13.46,
+                    "probability": 0.8959656953811646
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 13.64,
+            "end": 15.94,
+            "text": " No, we put it out of reach by storing them.",
+            "tokens": [
+                51056,
+                883,
+                11,
+                321,
+                829,
+                309,
+                484,
+                295,
+                2524,
+                538,
+                26085,
+                552,
+                13,
+                51166
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2897839401707505,
+            "compression_ratio": 1.6734693877551021,
+            "no_speech_prob": 0.1426030993461609,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 13.64,
+                    "end": 13.8,
+                    "probability": 0.6449718475341797
+                },
+                {
+                    "word": " we",
+                    "start": 13.88,
+                    "end": 13.92,
+                    "probability": 0.8866212964057922
+                },
+                {
+                    "word": " put",
+                    "start": 13.92,
+                    "end": 14.08,
+                    "probability": 0.8845046758651733
+                },
+                {
+                    "word": " it",
+                    "start": 14.08,
+                    "end": 14.16,
+                    "probability": 0.8716159462928772
+                },
+                {
+                    "word": " out",
+                    "start": 14.16,
+                    "end": 14.26,
+                    "probability": 0.8352996110916138
+                },
+                {
+                    "word": " of",
+                    "start": 14.26,
+                    "end": 14.38,
+                    "probability": 0.9010043144226074
+                },
+                {
+                    "word": " reach",
+                    "start": 14.38,
+                    "end": 14.6,
+                    "probability": 0.854386568069458
+                },
+                {
+                    "word": " by",
+                    "start": 14.6,
+                    "end": 14.8,
+                    "probability": 0.7572327852249146
+                },
+                {
+                    "word": " storing",
+                    "start": 14.8,
+                    "end": 15.64,
+                    "probability": 0.6675060987472534
+                },
+                {
+                    "word": " them.",
+                    "start": 15.64,
+                    "end": 15.94,
+                    "probability": 0.7211552858352661
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

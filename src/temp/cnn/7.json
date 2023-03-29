@@ -1,0 +1,221 @@
+{
+    "text": " I have seen no evidence that the Chinese government has access to that data. They have never asked us. We have not provided.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.24,
+            "end": 4.56,
+            "text": " I have seen no evidence that the Chinese government has access to that data.",
+            "tokens": [
+                50364,
+                286,
+                362,
+                1612,
+                572,
+                4467,
+                300,
+                264,
+                4649,
+                2463,
+                575,
+                2105,
+                281,
+                300,
+                1412,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44854010957660095,
+            "compression_ratio": 1.2653061224489797,
+            "no_speech_prob": 0.09433626383543015,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.24,
+                    "end": 0.72,
+                    "probability": 0.1761654168367386
+                },
+                {
+                    "word": " have",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.7929018139839172
+                },
+                {
+                    "word": " seen",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.8756857514381409
+                },
+                {
+                    "word": " no",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.8900266289710999
+                },
+                {
+                    "word": " evidence",
+                    "start": 1.5,
+                    "end": 2.02,
+                    "probability": 0.9295474290847778
+                },
+                {
+                    "word": " that",
+                    "start": 2.02,
+                    "end": 2.36,
+                    "probability": 0.8785195350646973
+                },
+                {
+                    "word": " the",
+                    "start": 2.36,
+                    "end": 2.52,
+                    "probability": 0.8083335757255554
+                },
+                {
+                    "word": " Chinese",
+                    "start": 2.52,
+                    "end": 2.86,
+                    "probability": 0.7383719682693481
+                },
+                {
+                    "word": " government",
+                    "start": 2.86,
+                    "end": 3.22,
+                    "probability": 0.753533661365509
+                },
+                {
+                    "word": " has",
+                    "start": 3.22,
+                    "end": 3.52,
+                    "probability": 0.9012967944145203
+                },
+                {
+                    "word": " access",
+                    "start": 3.52,
+                    "end": 3.88,
+                    "probability": 0.7982089519500732
+                },
+                {
+                    "word": " to",
+                    "start": 3.88,
+                    "end": 4.12,
+                    "probability": 0.9021238684654236
+                },
+                {
+                    "word": " that",
+                    "start": 4.12,
+                    "end": 4.24,
+                    "probability": 0.6945731043815613
+                },
+                {
+                    "word": " data.",
+                    "start": 4.24,
+                    "end": 4.56,
+                    "probability": 0.7924812436103821
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.82,
+            "end": 5.74,
+            "text": " They have never asked us.",
+            "tokens": [
+                50592,
+                814,
+                362,
+                1128,
+                2351,
+                505,
+                13,
+                50654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44854010957660095,
+            "compression_ratio": 1.2653061224489797,
+            "no_speech_prob": 0.09433626383543015,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 4.82,
+                    "end": 4.96,
+                    "probability": 0.7287994623184204
+                },
+                {
+                    "word": " have",
+                    "start": 4.96,
+                    "end": 5.06,
+                    "probability": 0.8066657185554504
+                },
+                {
+                    "word": " never",
+                    "start": 5.06,
+                    "end": 5.28,
+                    "probability": 0.8653436899185181
+                },
+                {
+                    "word": " asked",
+                    "start": 5.28,
+                    "end": 5.56,
+                    "probability": 0.7521840929985046
+                },
+                {
+                    "word": " us.",
+                    "start": 5.56,
+                    "end": 5.74,
+                    "probability": 0.9061622619628906
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.82,
+            "end": 6.52,
+            "text": " We have not provided.",
+            "tokens": [
+                50654,
+                492,
+                362,
+                406,
+                5649,
+                13,
+                50766
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44854010957660095,
+            "compression_ratio": 1.2653061224489797,
+            "no_speech_prob": 0.09433626383543015,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.82,
+                    "end": 5.86,
+                    "probability": 0.8826237320899963
+                },
+                {
+                    "word": " have",
+                    "start": 5.86,
+                    "end": 5.96,
+                    "probability": 0.8601015210151672
+                },
+                {
+                    "word": " not",
+                    "start": 5.96,
+                    "end": 6.12,
+                    "probability": 0.8932982087135315
+                },
+                {
+                    "word": " provided.",
+                    "start": 6.12,
+                    "end": 6.52,
+                    "probability": 0.8313599228858948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,236 @@
+{
+    "text": " So there's not an internal CCP committee, which is a regular thing that happens in China. They have a CCP committee internally inside the company.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " So there's not an internal CCP committee,",
+            "tokens": [
+                50364,
+                407,
+                456,
+                311,
+                406,
+                364,
+                6920,
+                27876,
+                7482,
+                11,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3244129816691081,
+            "compression_ratio": 1.280701754385965,
+            "no_speech_prob": 0.05209728330373764,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.30320268869400024
+                },
+                {
+                    "word": " there's",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.8656117916107178
+                },
+                {
+                    "word": " not",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.8907694816589355
+                },
+                {
+                    "word": " an",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.906467616558075
+                },
+                {
+                    "word": " internal",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.7203180193901062
+                },
+                {
+                    "word": " CCP",
+                    "start": 1.2,
+                    "end": 1.62,
+                    "probability": 0.7418298721313477
+                },
+                {
+                    "word": " committee,",
+                    "start": 1.62,
+                    "end": 2.06,
+                    "probability": 0.7717187404632568
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.16,
+            "end": 4.56,
+            "text": " which is a regular thing that happens in China.",
+            "tokens": [
+                50472,
+                597,
+                307,
+                257,
+                3890,
+                551,
+                300,
+                2314,
+                294,
+                3533,
+                13,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3244129816691081,
+            "compression_ratio": 1.280701754385965,
+            "no_speech_prob": 0.05209728330373764,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 2.16,
+                    "end": 2.32,
+                    "probability": 0.9127280712127686
+                },
+                {
+                    "word": " is",
+                    "start": 2.32,
+                    "end": 2.46,
+                    "probability": 0.9042765498161316
+                },
+                {
+                    "word": " a",
+                    "start": 2.46,
+                    "end": 2.68,
+                    "probability": 0.9982342720031738
+                },
+                {
+                    "word": " regular",
+                    "start": 2.68,
+                    "end": 3.3,
+                    "probability": 0.8993385434150696
+                },
+                {
+                    "word": " thing",
+                    "start": 3.3,
+                    "end": 3.74,
+                    "probability": 0.814318060874939
+                },
+                {
+                    "word": " that",
+                    "start": 3.74,
+                    "end": 3.88,
+                    "probability": 0.8808489441871643
+                },
+                {
+                    "word": " happens",
+                    "start": 3.88,
+                    "end": 4.18,
+                    "probability": 0.911942720413208
+                },
+                {
+                    "word": " in",
+                    "start": 4.18,
+                    "end": 4.32,
+                    "probability": 0.9044315218925476
+                },
+                {
+                    "word": " China.",
+                    "start": 4.32,
+                    "end": 4.56,
+                    "probability": 0.8512742519378662
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.72,
+            "end": 6.84,
+            "text": " They have a CCP committee internally inside the company.",
+            "tokens": [
+                50600,
+                814,
+                362,
+                257,
+                27876,
+                7482,
+                19501,
+                1854,
+                264,
+                2237,
+                13,
+                50750
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3244129816691081,
+            "compression_ratio": 1.280701754385965,
+            "no_speech_prob": 0.05209728330373764,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 4.72,
+                    "end": 4.82,
+                    "probability": 0.7367193102836609
+                },
+                {
+                    "word": " have",
+                    "start": 4.82,
+                    "end": 4.96,
+                    "probability": 0.8833166360855103
+                },
+                {
+                    "word": " a",
+                    "start": 4.96,
+                    "end": 5.08,
+                    "probability": 0.998403012752533
+                },
+                {
+                    "word": " CCP",
+                    "start": 5.08,
+                    "end": 5.38,
+                    "probability": 0.7929579019546509
+                },
+                {
+                    "word": " committee",
+                    "start": 5.38,
+                    "end": 5.78,
+                    "probability": 0.7690461874008179
+                },
+                {
+                    "word": " internally",
+                    "start": 5.78,
+                    "end": 6.2,
+                    "probability": 0.7380887269973755
+                },
+                {
+                    "word": " inside",
+                    "start": 6.2,
+                    "end": 6.5,
+                    "probability": 0.8754981160163879
+                },
+                {
+                    "word": " the",
+                    "start": 6.5,
+                    "end": 6.64,
+                    "probability": 0.8119245767593384
+                },
+                {
+                    "word": " company.",
+                    "start": 6.64,
+                    "end": 6.84,
+                    "probability": 0.7638027667999268
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

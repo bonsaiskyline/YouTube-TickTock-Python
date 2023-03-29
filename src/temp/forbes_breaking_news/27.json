@@ -1,0 +1,44 @@
+{
+    "text": " And so my",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.44,
+            "text": " And so my",
+            "tokens": [
+                50364,
+                400,
+                370,
+                452,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8977454503377279,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.9208866357803345,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.060304541140794754
+                },
+                {
+                    "word": " so",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.5889424085617065
+                },
+                {
+                    "word": " my",
+                    "start": 0.26,
+                    "end": 0.44,
+                    "probability": 0.47696414589881897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

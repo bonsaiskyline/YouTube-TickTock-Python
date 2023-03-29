@@ -1,0 +1,1182 @@
+{
+    "text": " And I would point out, leadership in the House has actually not yet committed to bringing a ban forward. They said there's a number of different proposals. They're working their way through the committee process. I'd also point out, there are some lobbyists who are closely aligned to Kevin McCarthy, a former California Republican, who's lobbying on behalf of TikTok, a former McCarthy aide. So it is a question of what McCarthy's going to do, but this hearing was just a disaster for TikTok. You had lawmakers coming out in the middle of it, renewing their calls, or coming out for a ban on TikTok, if it shows you how well it went for TikTok. It's hard to imagine that there won't be some sort of congressional action.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " And I would point out, leadership in the House",
+            "tokens": [
+                50364,
+                400,
+                286,
+                576,
+                935,
+                484,
+                11,
+                5848,
+                294,
+                264,
+                4928,
+                50458
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.2308432161808014
+                },
+                {
+                    "word": " I",
+                    "start": 0.1,
+                    "end": 0.2,
+                    "probability": 0.9345829486846924
+                },
+                {
+                    "word": " would",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.7568278908729553
+                },
+                {
+                    "word": " point",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.7366740703582764
+                },
+                {
+                    "word": " out,",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.8218303918838501
+                },
+                {
+                    "word": " leadership",
+                    "start": 0.76,
+                    "end": 1.02,
+                    "probability": 0.714028537273407
+                },
+                {
+                    "word": " in",
+                    "start": 1.02,
+                    "end": 1.46,
+                    "probability": 0.9029671549797058
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.8128677010536194
+                },
+                {
+                    "word": " House",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.6315406560897827
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.78,
+            "end": 4.38,
+            "text": " has actually not yet committed to bringing a ban forward.",
+            "tokens": [
+                50458,
+                575,
+                767,
+                406,
+                1939,
+                7784,
+                281,
+                5062,
+                257,
+                5643,
+                2128,
+                13,
+                50591
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " has",
+                    "start": 1.78,
+                    "end": 1.98,
+                    "probability": 0.8254319429397583
+                },
+                {
+                    "word": " actually",
+                    "start": 1.98,
+                    "end": 2.2,
+                    "probability": 0.7915687561035156
+                },
+                {
+                    "word": " not",
+                    "start": 2.2,
+                    "end": 2.46,
+                    "probability": 0.8868855834007263
+                },
+                {
+                    "word": " yet",
+                    "start": 2.46,
+                    "end": 2.66,
+                    "probability": 0.8975697755813599
+                },
+                {
+                    "word": " committed",
+                    "start": 2.66,
+                    "end": 3.06,
+                    "probability": 0.9009526371955872
+                },
+                {
+                    "word": " to",
+                    "start": 3.06,
+                    "end": 3.42,
+                    "probability": 0.9005613923072815
+                },
+                {
+                    "word": " bringing",
+                    "start": 3.42,
+                    "end": 3.66,
+                    "probability": 0.7832229137420654
+                },
+                {
+                    "word": " a",
+                    "start": 3.66,
+                    "end": 3.84,
+                    "probability": 0.9958141446113586
+                },
+                {
+                    "word": " ban",
+                    "start": 3.84,
+                    "end": 4.02,
+                    "probability": 0.8661352396011353
+                },
+                {
+                    "word": " forward.",
+                    "start": 4.02,
+                    "end": 4.38,
+                    "probability": 0.8128803372383118
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.56,
+            "end": 6.02,
+            "text": " They said there's a number of different proposals.",
+            "tokens": [
+                50591,
+                814,
+                848,
+                456,
+                311,
+                257,
+                1230,
+                295,
+                819,
+                20198,
+                13,
+                50674
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 4.56,
+                    "end": 4.62,
+                    "probability": 0.7261452674865723
+                },
+                {
+                    "word": " said",
+                    "start": 4.62,
+                    "end": 4.78,
+                    "probability": 0.8511336445808411
+                },
+                {
+                    "word": " there's",
+                    "start": 4.78,
+                    "end": 4.96,
+                    "probability": 0.8803492784500122
+                },
+                {
+                    "word": " a",
+                    "start": 4.96,
+                    "end": 5.04,
+                    "probability": 0.8850200176239014
+                },
+                {
+                    "word": " number",
+                    "start": 5.04,
+                    "end": 5.28,
+                    "probability": 0.8721460700035095
+                },
+                {
+                    "word": " of",
+                    "start": 5.28,
+                    "end": 5.4,
+                    "probability": 0.9022760987281799
+                },
+                {
+                    "word": " different",
+                    "start": 5.4,
+                    "end": 5.56,
+                    "probability": 0.7146934270858765
+                },
+                {
+                    "word": " proposals.",
+                    "start": 5.56,
+                    "end": 6.02,
+                    "probability": 0.7908100485801697
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.24,
+            "end": 7.94,
+            "text": " They're working their way through the committee process.",
+            "tokens": [
+                50674,
+                814,
+                434,
+                1364,
+                641,
+                636,
+                807,
+                264,
+                7482,
+                1399,
+                13,
+                50780
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " They're",
+                    "start": 6.24,
+                    "end": 6.32,
+                    "probability": 0.8368499875068665
+                },
+                {
+                    "word": " working",
+                    "start": 6.32,
+                    "end": 6.6,
+                    "probability": 0.7350984811782837
+                },
+                {
+                    "word": " their",
+                    "start": 6.6,
+                    "end": 6.8,
+                    "probability": 0.9094018340110779
+                },
+                {
+                    "word": " way",
+                    "start": 6.8,
+                    "end": 6.96,
+                    "probability": 0.9001181721687317
+                },
+                {
+                    "word": " through",
+                    "start": 6.96,
+                    "end": 7.08,
+                    "probability": 0.7904329299926758
+                },
+                {
+                    "word": " the",
+                    "start": 7.08,
+                    "end": 7.22,
+                    "probability": 0.8175902366638184
+                },
+                {
+                    "word": " committee",
+                    "start": 7.22,
+                    "end": 7.42,
+                    "probability": 0.8049418926239014
+                },
+                {
+                    "word": " process.",
+                    "start": 7.42,
+                    "end": 7.94,
+                    "probability": 0.8689165115356445
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.28,
+            "end": 9.68,
+            "text": " I'd also point out, there are some lobbyists",
+            "tokens": [
+                50780,
+                286,
+                1116,
+                611,
+                935,
+                484,
+                11,
+                456,
+                366,
+                512,
+                21067,
+                1751,
+                50849
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " I'd",
+                    "start": 8.28,
+                    "end": 8.44,
+                    "probability": 0.9324166476726532
+                },
+                {
+                    "word": " also",
+                    "start": 8.44,
+                    "end": 8.56,
+                    "probability": 0.8216116428375244
+                },
+                {
+                    "word": " point",
+                    "start": 8.56,
+                    "end": 8.74,
+                    "probability": 0.8437766432762146
+                },
+                {
+                    "word": " out,",
+                    "start": 8.74,
+                    "end": 8.9,
+                    "probability": 0.813008189201355
+                },
+                {
+                    "word": " there",
+                    "start": 8.96,
+                    "end": 9.04,
+                    "probability": 0.84930419921875
+                },
+                {
+                    "word": " are",
+                    "start": 9.04,
+                    "end": 9.12,
+                    "probability": 0.8441332578659058
+                },
+                {
+                    "word": " some",
+                    "start": 9.12,
+                    "end": 9.28,
+                    "probability": 0.815301775932312
+                },
+                {
+                    "word": " lobbyists",
+                    "start": 9.28,
+                    "end": 9.68,
+                    "probability": 0.8725050389766693
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 9.68,
+            "end": 11.16,
+            "text": " who are closely aligned to Kevin McCarthy,",
+            "tokens": [
+                50849,
+                567,
+                366,
+                8185,
+                17962,
+                281,
+                9954,
+                44085,
+                11,
+                50929
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " who",
+                    "start": 9.68,
+                    "end": 9.8,
+                    "probability": 0.802188515663147
+                },
+                {
+                    "word": " are",
+                    "start": 9.8,
+                    "end": 9.9,
+                    "probability": 0.8728172183036804
+                },
+                {
+                    "word": " closely",
+                    "start": 9.9,
+                    "end": 10.24,
+                    "probability": 0.7449729442596436
+                },
+                {
+                    "word": " aligned",
+                    "start": 10.24,
+                    "end": 10.5,
+                    "probability": 0.819413423538208
+                },
+                {
+                    "word": " to",
+                    "start": 10.5,
+                    "end": 10.66,
+                    "probability": 0.885698676109314
+                },
+                {
+                    "word": " Kevin",
+                    "start": 10.66,
+                    "end": 10.88,
+                    "probability": 0.865180253982544
+                },
+                {
+                    "word": " McCarthy,",
+                    "start": 10.88,
+                    "end": 11.16,
+                    "probability": 0.784040629863739
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 11.28,
+            "end": 12.42,
+            "text": " a former California Republican,",
+            "tokens": [
+                50929,
+                257,
+                5819,
+                5384,
+                10937,
+                11,
+                50994
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 11.28,
+                    "end": 11.38,
+                    "probability": 0.9967484474182129
+                },
+                {
+                    "word": " former",
+                    "start": 11.38,
+                    "end": 11.58,
+                    "probability": 0.731518030166626
+                },
+                {
+                    "word": " California",
+                    "start": 11.58,
+                    "end": 12.02,
+                    "probability": 0.8235071897506714
+                },
+                {
+                    "word": " Republican,",
+                    "start": 12.02,
+                    "end": 12.42,
+                    "probability": 0.8709012866020203
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 12.42,
+            "end": 15.14,
+            "text": " who's lobbying on behalf of TikTok, a former McCarthy aide.",
+            "tokens": [
+                50994,
+                567,
+                311,
+                47142,
+                322,
+                9490,
+                295,
+                20211,
+                11,
+                257,
+                5819,
+                44085,
+                40890,
+                13,
+                51144
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " who's",
+                    "start": 12.42,
+                    "end": 12.76,
+                    "probability": 0.8314683139324188
+                },
+                {
+                    "word": " lobbying",
+                    "start": 12.76,
+                    "end": 12.98,
+                    "probability": 0.7053975462913513
+                },
+                {
+                    "word": " on",
+                    "start": 12.98,
+                    "end": 13.2,
+                    "probability": 0.9013141989707947
+                },
+                {
+                    "word": " behalf",
+                    "start": 13.2,
+                    "end": 13.44,
+                    "probability": 0.8853285908699036
+                },
+                {
+                    "word": " of",
+                    "start": 13.44,
+                    "end": 13.62,
+                    "probability": 0.9004116654396057
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 13.62,
+                    "end": 13.82,
+                    "probability": 0.7503309845924377
+                },
+                {
+                    "word": " a",
+                    "start": 14.04,
+                    "end": 14.18,
+                    "probability": 0.9978222846984863
+                },
+                {
+                    "word": " former",
+                    "start": 14.18,
+                    "end": 14.36,
+                    "probability": 0.7656496167182922
+                },
+                {
+                    "word": " McCarthy",
+                    "start": 14.36,
+                    "end": 14.72,
+                    "probability": 0.7818763256072998
+                },
+                {
+                    "word": " aide.",
+                    "start": 14.72,
+                    "end": 15.14,
+                    "probability": 0.7556405663490295
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 15.52,
+            "end": 17.5,
+            "text": " So it is a question of what McCarthy's going to do,",
+            "tokens": [
+                51144,
+                407,
+                309,
+                307,
+                257,
+                1168,
+                295,
+                437,
+                44085,
+                311,
+                516,
+                281,
+                360,
+                11,
+                51241
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 15.52,
+                    "end": 15.72,
+                    "probability": 0.901826024055481
+                },
+                {
+                    "word": " it",
+                    "start": 15.72,
+                    "end": 15.82,
+                    "probability": 0.7367950677871704
+                },
+                {
+                    "word": " is",
+                    "start": 15.82,
+                    "end": 15.92,
+                    "probability": 0.9027374386787415
+                },
+                {
+                    "word": " a",
+                    "start": 15.92,
+                    "end": 16.02,
+                    "probability": 0.9810287356376648
+                },
+                {
+                    "word": " question",
+                    "start": 16.02,
+                    "end": 16.22,
+                    "probability": 0.8017087578773499
+                },
+                {
+                    "word": " of",
+                    "start": 16.22,
+                    "end": 16.38,
+                    "probability": 0.9038435220718384
+                },
+                {
+                    "word": " what",
+                    "start": 16.38,
+                    "end": 16.54,
+                    "probability": 0.8802298307418823
+                },
+                {
+                    "word": " McCarthy's",
+                    "start": 16.54,
+                    "end": 17.0,
+                    "probability": 0.6324913501739502
+                },
+                {
+                    "word": " going",
+                    "start": 17.0,
+                    "end": 17.16,
+                    "probability": 0.8479296565055847
+                },
+                {
+                    "word": " to",
+                    "start": 17.16,
+                    "end": 17.32,
+                    "probability": 0.9065079689025879
+                },
+                {
+                    "word": " do,",
+                    "start": 17.32,
+                    "end": 17.5,
+                    "probability": 0.9057543873786926
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 17.58,
+            "end": 20.2,
+            "text": " but this hearing was just a disaster for TikTok.",
+            "tokens": [
+                51241,
+                457,
+                341,
+                4763,
+                390,
+                445,
+                257,
+                11293,
+                337,
+                20211,
+                13,
+                51384
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 17.58,
+                    "end": 17.7,
+                    "probability": 0.8955395221710205
+                },
+                {
+                    "word": " this",
+                    "start": 17.7,
+                    "end": 18.2,
+                    "probability": 0.8774666786193848
+                },
+                {
+                    "word": " hearing",
+                    "start": 18.2,
+                    "end": 18.48,
+                    "probability": 0.8104226589202881
+                },
+                {
+                    "word": " was",
+                    "start": 18.48,
+                    "end": 18.7,
+                    "probability": 0.8975834250450134
+                },
+                {
+                    "word": " just",
+                    "start": 18.7,
+                    "end": 18.92,
+                    "probability": 0.8892149925231934
+                },
+                {
+                    "word": " a",
+                    "start": 18.92,
+                    "end": 19.12,
+                    "probability": 0.9993337988853455
+                },
+                {
+                    "word": " disaster",
+                    "start": 19.12,
+                    "end": 19.64,
+                    "probability": 0.8087531328201294
+                },
+                {
+                    "word": " for",
+                    "start": 19.64,
+                    "end": 19.94,
+                    "probability": 0.898844301700592
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 19.94,
+                    "end": 20.2,
+                    "probability": 0.9255364537239075
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 20.4,
+            "end": 22.28,
+            "text": " You had lawmakers coming out in the middle of it,",
+            "tokens": [
+                51384,
+                509,
+                632,
+                40988,
+                1348,
+                484,
+                294,
+                264,
+                2808,
+                295,
+                309,
+                11,
+                51480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 20.4,
+                    "end": 20.5,
+                    "probability": 0.8958443999290466
+                },
+                {
+                    "word": " had",
+                    "start": 20.5,
+                    "end": 20.7,
+                    "probability": 0.8166388273239136
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 20.7,
+                    "end": 21.08,
+                    "probability": 0.7053125500679016
+                },
+                {
+                    "word": " coming",
+                    "start": 21.08,
+                    "end": 21.42,
+                    "probability": 0.8144235610961914
+                },
+                {
+                    "word": " out",
+                    "start": 21.42,
+                    "end": 21.6,
+                    "probability": 0.8229243159294128
+                },
+                {
+                    "word": " in",
+                    "start": 21.6,
+                    "end": 21.72,
+                    "probability": 0.9030705690383911
+                },
+                {
+                    "word": " the",
+                    "start": 21.72,
+                    "end": 21.84,
+                    "probability": 0.8143299221992493
+                },
+                {
+                    "word": " middle",
+                    "start": 21.84,
+                    "end": 21.98,
+                    "probability": 0.9104530811309814
+                },
+                {
+                    "word": " of",
+                    "start": 21.98,
+                    "end": 22.16,
+                    "probability": 0.9001941084861755
+                },
+                {
+                    "word": " it,",
+                    "start": 22.16,
+                    "end": 22.28,
+                    "probability": 0.900901198387146
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 22.38,
+            "end": 25.0,
+            "text": " renewing their calls, or coming out for a ban on TikTok,",
+            "tokens": [
+                51480,
+                10162,
+                278,
+                641,
+                5498,
+                11,
+                420,
+                1348,
+                484,
+                337,
+                257,
+                5643,
+                322,
+                20211,
+                11,
+                51624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " renewing",
+                    "start": 22.38,
+                    "end": 22.68,
+                    "probability": 0.8322813510894775
+                },
+                {
+                    "word": " their",
+                    "start": 22.68,
+                    "end": 22.84,
+                    "probability": 0.8951632380485535
+                },
+                {
+                    "word": " calls,",
+                    "start": 22.84,
+                    "end": 23.14,
+                    "probability": 0.752204418182373
+                },
+                {
+                    "word": " or",
+                    "start": 23.22,
+                    "end": 23.32,
+                    "probability": 0.894673764705658
+                },
+                {
+                    "word": " coming",
+                    "start": 23.32,
+                    "end": 23.54,
+                    "probability": 0.8230059146881104
+                },
+                {
+                    "word": " out",
+                    "start": 23.54,
+                    "end": 23.7,
+                    "probability": 0.8140084147453308
+                },
+                {
+                    "word": " for",
+                    "start": 23.7,
+                    "end": 24.12,
+                    "probability": 0.6740538477897644
+                },
+                {
+                    "word": " a",
+                    "start": 24.12,
+                    "end": 24.32,
+                    "probability": 0.9986177682876587
+                },
+                {
+                    "word": " ban",
+                    "start": 24.32,
+                    "end": 24.52,
+                    "probability": 0.9016108512878418
+                },
+                {
+                    "word": " on",
+                    "start": 24.52,
+                    "end": 24.74,
+                    "probability": 0.9050969481468201
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 24.74,
+                    "end": 25.0,
+                    "probability": 0.9242986440658569
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 25.18,
+            "end": 27.78,
+            "text": " if it shows you how well it went for TikTok.",
+            "tokens": [
+                51624,
+                498,
+                309,
+                3110,
+                291,
+                577,
+                731,
+                309,
+                1437,
+                337,
+                20211,
+                13,
+                51782
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21075108846028645,
+            "compression_ratio": 1.752717391304348,
+            "no_speech_prob": 0.007118633948266506,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 25.18,
+                    "end": 25.3,
+                    "probability": 0.8327838182449341
+                },
+                {
+                    "word": " it",
+                    "start": 25.3,
+                    "end": 25.4,
+                    "probability": 0.8993861675262451
+                },
+                {
+                    "word": " shows",
+                    "start": 25.4,
+                    "end": 25.56,
+                    "probability": 0.8007678985595703
+                },
+                {
+                    "word": " you",
+                    "start": 25.56,
+                    "end": 25.68,
+                    "probability": 0.8973263502120972
+                },
+                {
+                    "word": " how",
+                    "start": 25.68,
+                    "end": 25.84,
+                    "probability": 0.8900848031044006
+                },
+                {
+                    "word": " well",
+                    "start": 25.84,
+                    "end": 26.16,
+                    "probability": 0.8753886818885803
+                },
+                {
+                    "word": " it",
+                    "start": 26.16,
+                    "end": 26.74,
+                    "probability": 0.8984297513961792
+                },
+                {
+                    "word": " went",
+                    "start": 26.74,
+                    "end": 27.12,
+                    "probability": 0.8046566843986511
+                },
+                {
+                    "word": " for",
+                    "start": 27.12,
+                    "end": 27.46,
+                    "probability": 0.8940278887748718
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 27.46,
+                    "end": 27.78,
+                    "probability": 0.901526927947998
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2778,
+            "start": 28.2,
+            "end": 29.82,
+            "text": " It's hard to imagine that there won't be",
+            "tokens": [
+                50392,
+                467,
+                311,
+                1152,
+                281,
+                3811,
+                300,
+                456,
+                1582,
+                380,
+                312,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37995163599650067,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.8409397602081299,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 28.2,
+                    "end": 28.56,
+                    "probability": 0.6989223062992096
+                },
+                {
+                    "word": " hard",
+                    "start": 28.56,
+                    "end": 28.78,
+                    "probability": 0.8123707175254822
+                },
+                {
+                    "word": " to",
+                    "start": 28.78,
+                    "end": 28.9,
+                    "probability": 0.9111982583999634
+                },
+                {
+                    "word": " imagine",
+                    "start": 28.9,
+                    "end": 29.2,
+                    "probability": 0.80583256483078
+                },
+                {
+                    "word": " that",
+                    "start": 29.2,
+                    "end": 29.38,
+                    "probability": 0.8763632774353027
+                },
+                {
+                    "word": " there",
+                    "start": 29.38,
+                    "end": 29.5,
+                    "probability": 0.8575713634490967
+                },
+                {
+                    "word": " won't",
+                    "start": 29.5,
+                    "end": 29.66,
+                    "probability": 0.9459779262542725
+                },
+                {
+                    "word": " be",
+                    "start": 29.66,
+                    "end": 29.82,
+                    "probability": 0.9090802669525146
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2778,
+            "start": 29.82,
+            "end": 31.2,
+            "text": " some sort of congressional action.",
+            "tokens": [
+                50480,
+                512,
+                1333,
+                295,
+                32962,
+                3069,
+                13,
+                50570
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37995163599650067,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.8409397602081299,
+            "words": [
+                {
+                    "word": " some",
+                    "start": 29.82,
+                    "end": 30.34,
+                    "probability": 0.8129640817642212
+                },
+                {
+                    "word": " sort",
+                    "start": 30.34,
+                    "end": 30.6,
+                    "probability": 0.8270540833473206
+                },
+                {
+                    "word": " of",
+                    "start": 30.6,
+                    "end": 30.72,
+                    "probability": 0.9119802713394165
+                },
+                {
+                    "word": " congressional",
+                    "start": 30.72,
+                    "end": 31.08,
+                    "probability": 0.7067701816558838
+                },
+                {
+                    "word": " action.",
+                    "start": 31.08,
+                    "end": 31.2,
+                    "probability": 0.8000640273094177
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

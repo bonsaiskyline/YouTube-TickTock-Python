@@ -1,0 +1,84 @@
+{
+    "text": " Yes, yes, I know. It's not that complex.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.32,
+            "end": 2.02,
+            "text": " Yes, yes, I know. It's not that complex.",
+            "tokens": [
+                50364,
+                1079,
+                11,
+                2086,
+                11,
+                286,
+                458,
+                13,
+                467,
+                311,
+                406,
+                300,
+                3997,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5766332149505615,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.29070472717285156,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.20609861612319946
+                },
+                {
+                    "word": " yes,",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.42097386717796326
+                },
+                {
+                    "word": " I",
+                    "start": 0.9,
+                    "end": 0.92,
+                    "probability": 0.2650521993637085
+                },
+                {
+                    "word": " know.",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.8114641308784485
+                },
+                {
+                    "word": " It's",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.8833007216453552
+                },
+                {
+                    "word": " not",
+                    "start": 1.44,
+                    "end": 1.52,
+                    "probability": 0.904100239276886
+                },
+                {
+                    "word": " that",
+                    "start": 1.52,
+                    "end": 1.66,
+                    "probability": 0.8856061100959778
+                },
+                {
+                    "word": " complex.",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.7610070109367371
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

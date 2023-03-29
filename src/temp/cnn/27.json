@@ -1,0 +1,1830 @@
+{
+    "text": " And lawmakers on both sides of the aisle were concerned about that and asking questions about whether or not, even if the data was fully based in Texas, whether the Chinese government would be able to compel employees of ByteDance to be able to provide that data. Ultimately, though, even if Congress passes this legislation, it will fall at Joe Biden's feet. It will be up to the president to determine whether or not, of course, to sign the legislation. But if one of the versions that Congress passes gives the authority to the president of the United States to ban TikTok, if he chooses to do so, Biden would then have to decide whether he wants to ban it. You talked about some of the political concerns here. The White House has brushed aside political concerns. But when you have two thirds of young Americans saying that they don't want to see TikTok banned, and then you also have, within President Joe Biden's approval rating, young people essentially dragging down his approval rating among Democrats, it's hard to see how political considerations wouldn't at least be on their minds, regardless of what the decision he makes is.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " And lawmakers on both sides of the aisle",
+            "tokens": [
+                50364,
+                400,
+                40988,
+                322,
+                1293,
+                4881,
+                295,
+                264,
+                30916,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.11818685382604599
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.6479306221008301
+                },
+                {
+                    "word": " on",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.896699845790863
+                },
+                {
+                    "word": " both",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.8260706067085266
+                },
+                {
+                    "word": " sides",
+                    "start": 1.02,
+                    "end": 1.3,
+                    "probability": 0.7796942591667175
+                },
+                {
+                    "word": " of",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.8917079567909241
+                },
+                {
+                    "word": " the",
+                    "start": 1.44,
+                    "end": 1.62,
+                    "probability": 0.8189406991004944
+                },
+                {
+                    "word": " aisle",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.856706440448761
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.88,
+            "end": 4.18,
+            "text": " were concerned about that and asking questions",
+            "tokens": [
+                50464,
+                645,
+                5922,
+                466,
+                300,
+                293,
+                3365,
+                1651,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " were",
+                    "start": 1.88,
+                    "end": 2.16,
+                    "probability": 0.8532358407974243
+                },
+                {
+                    "word": " concerned",
+                    "start": 2.16,
+                    "end": 2.68,
+                    "probability": 0.8538572788238525
+                },
+                {
+                    "word": " about",
+                    "start": 2.68,
+                    "end": 2.98,
+                    "probability": 0.8094797730445862
+                },
+                {
+                    "word": " that",
+                    "start": 2.98,
+                    "end": 3.26,
+                    "probability": 0.8758237361907959
+                },
+                {
+                    "word": " and",
+                    "start": 3.26,
+                    "end": 3.4,
+                    "probability": 0.715680718421936
+                },
+                {
+                    "word": " asking",
+                    "start": 3.4,
+                    "end": 3.68,
+                    "probability": 0.8123548030853271
+                },
+                {
+                    "word": " questions",
+                    "start": 3.68,
+                    "end": 4.18,
+                    "probability": 0.9205025434494019
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.18,
+            "end": 7.2,
+            "text": " about whether or not, even if the data was fully",
+            "tokens": [
+                50576,
+                466,
+                1968,
+                420,
+                406,
+                11,
+                754,
+                498,
+                264,
+                1412,
+                390,
+                4498,
+                50728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " about",
+                    "start": 4.18,
+                    "end": 4.54,
+                    "probability": 0.8000340461730957
+                },
+                {
+                    "word": " whether",
+                    "start": 4.54,
+                    "end": 5.02,
+                    "probability": 0.8268788456916809
+                },
+                {
+                    "word": " or",
+                    "start": 5.02,
+                    "end": 5.26,
+                    "probability": 0.8891356587409973
+                },
+                {
+                    "word": " not,",
+                    "start": 5.26,
+                    "end": 5.44,
+                    "probability": 0.8976383209228516
+                },
+                {
+                    "word": " even",
+                    "start": 5.58,
+                    "end": 5.66,
+                    "probability": 0.8010980486869812
+                },
+                {
+                    "word": " if",
+                    "start": 5.66,
+                    "end": 5.84,
+                    "probability": 0.9008009433746338
+                },
+                {
+                    "word": " the",
+                    "start": 5.84,
+                    "end": 5.96,
+                    "probability": 0.8181984424591064
+                },
+                {
+                    "word": " data",
+                    "start": 5.96,
+                    "end": 6.2,
+                    "probability": 0.8047475218772888
+                },
+                {
+                    "word": " was",
+                    "start": 6.2,
+                    "end": 6.6,
+                    "probability": 0.8842240571975708
+                },
+                {
+                    "word": " fully",
+                    "start": 6.6,
+                    "end": 7.2,
+                    "probability": 0.7050594687461853
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.2,
+            "end": 10.06,
+            "text": " based in Texas, whether the Chinese government would",
+            "tokens": [
+                50728,
+                2361,
+                294,
+                7885,
+                11,
+                1968,
+                264,
+                4649,
+                2463,
+                576,
+                50870
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " based",
+                    "start": 7.2,
+                    "end": 7.58,
+                    "probability": 0.7793819308280945
+                },
+                {
+                    "word": " in",
+                    "start": 7.58,
+                    "end": 7.8,
+                    "probability": 0.9085654020309448
+                },
+                {
+                    "word": " Texas,",
+                    "start": 7.8,
+                    "end": 8.16,
+                    "probability": 0.7449382543563843
+                },
+                {
+                    "word": " whether",
+                    "start": 8.62,
+                    "end": 8.84,
+                    "probability": 0.8530913591384888
+                },
+                {
+                    "word": " the",
+                    "start": 8.84,
+                    "end": 9.18,
+                    "probability": 0.7897292375564575
+                },
+                {
+                    "word": " Chinese",
+                    "start": 9.18,
+                    "end": 9.42,
+                    "probability": 0.7584860324859619
+                },
+                {
+                    "word": " government",
+                    "start": 9.42,
+                    "end": 9.74,
+                    "probability": 0.8092647194862366
+                },
+                {
+                    "word": " would",
+                    "start": 9.74,
+                    "end": 10.06,
+                    "probability": 0.8552253842353821
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.06,
+            "end": 13.06,
+            "text": " be able to compel employees of ByteDance",
+            "tokens": [
+                50870,
+                312,
+                1075,
+                281,
+                715,
+                338,
+                6619,
+                295,
+                3146,
+                975,
+                35,
+                719,
+                51020
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " be",
+                    "start": 10.06,
+                    "end": 10.26,
+                    "probability": 0.9037788510322571
+                },
+                {
+                    "word": " able",
+                    "start": 10.26,
+                    "end": 10.5,
+                    "probability": 0.8796920776367188
+                },
+                {
+                    "word": " to",
+                    "start": 10.5,
+                    "end": 10.7,
+                    "probability": 0.9072412848472595
+                },
+                {
+                    "word": " compel",
+                    "start": 10.7,
+                    "end": 11.22,
+                    "probability": 0.9162104427814484
+                },
+                {
+                    "word": " employees",
+                    "start": 11.22,
+                    "end": 12.1,
+                    "probability": 0.6852338910102844
+                },
+                {
+                    "word": " of",
+                    "start": 12.1,
+                    "end": 12.4,
+                    "probability": 0.8881171345710754
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 12.4,
+                    "end": 13.06,
+                    "probability": 0.8307844251394272
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.06,
+            "end": 14.8,
+            "text": " to be able to provide that data.",
+            "tokens": [
+                51020,
+                281,
+                312,
+                1075,
+                281,
+                2893,
+                300,
+                1412,
+                13,
+                51122
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 13.06,
+                    "end": 13.22,
+                    "probability": 0.8858585357666016
+                },
+                {
+                    "word": " be",
+                    "start": 13.22,
+                    "end": 13.34,
+                    "probability": 0.8981481790542603
+                },
+                {
+                    "word": " able",
+                    "start": 13.34,
+                    "end": 13.5,
+                    "probability": 0.8961794376373291
+                },
+                {
+                    "word": " to",
+                    "start": 13.5,
+                    "end": 13.72,
+                    "probability": 0.9046552181243896
+                },
+                {
+                    "word": " provide",
+                    "start": 13.72,
+                    "end": 14.12,
+                    "probability": 0.9041987657546997
+                },
+                {
+                    "word": " that",
+                    "start": 14.12,
+                    "end": 14.46,
+                    "probability": 0.8794760704040527
+                },
+                {
+                    "word": " data.",
+                    "start": 14.46,
+                    "end": 14.8,
+                    "probability": 0.7927326560020447
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 15.22,
+            "end": 16.86,
+            "text": " Ultimately, though, even if Congress",
+            "tokens": [
+                51122,
+                23921,
+                11,
+                1673,
+                11,
+                754,
+                498,
+                6426,
+                51212
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " Ultimately,",
+                    "start": 15.22,
+                    "end": 15.6,
+                    "probability": 0.8339390754699707
+                },
+                {
+                    "word": " though,",
+                    "start": 15.78,
+                    "end": 16.0,
+                    "probability": 0.7697791457176208
+                },
+                {
+                    "word": " even",
+                    "start": 16.16,
+                    "end": 16.38,
+                    "probability": 0.8046579360961914
+                },
+                {
+                    "word": " if",
+                    "start": 16.38,
+                    "end": 16.56,
+                    "probability": 0.904902994632721
+                },
+                {
+                    "word": " Congress",
+                    "start": 16.56,
+                    "end": 16.86,
+                    "probability": 0.895823061466217
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 16.86,
+            "end": 20.56,
+            "text": " passes this legislation, it will fall at Joe Biden's feet.",
+            "tokens": [
+                51212,
+                11335,
+                341,
+                11329,
+                11,
+                309,
+                486,
+                2100,
+                412,
+                6807,
+                9877,
+                311,
+                3521,
+                13,
+                51402
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " passes",
+                    "start": 16.86,
+                    "end": 17.28,
+                    "probability": 0.7169428467750549
+                },
+                {
+                    "word": " this",
+                    "start": 17.28,
+                    "end": 17.56,
+                    "probability": 0.8791147470474243
+                },
+                {
+                    "word": " legislation,",
+                    "start": 17.56,
+                    "end": 18.12,
+                    "probability": 0.6756395101547241
+                },
+                {
+                    "word": " it",
+                    "start": 18.34,
+                    "end": 18.68,
+                    "probability": 0.9002371430397034
+                },
+                {
+                    "word": " will",
+                    "start": 18.68,
+                    "end": 18.92,
+                    "probability": 0.8211994171142578
+                },
+                {
+                    "word": " fall",
+                    "start": 18.92,
+                    "end": 19.34,
+                    "probability": 0.8287753462791443
+                },
+                {
+                    "word": " at",
+                    "start": 19.34,
+                    "end": 19.64,
+                    "probability": 0.9146581292152405
+                },
+                {
+                    "word": " Joe",
+                    "start": 19.64,
+                    "end": 19.86,
+                    "probability": 0.8012577891349792
+                },
+                {
+                    "word": " Biden's",
+                    "start": 19.86,
+                    "end": 20.34,
+                    "probability": 0.9566001296043396
+                },
+                {
+                    "word": " feet.",
+                    "start": 20.34,
+                    "end": 20.56,
+                    "probability": 0.8808783292770386
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 20.88,
+            "end": 23.0,
+            "text": " It will be up to the president to determine whether or not,",
+            "tokens": [
+                51402,
+                467,
+                486,
+                312,
+                493,
+                281,
+                264,
+                3868,
+                281,
+                6997,
+                1968,
+                420,
+                406,
+                11,
+                51522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 20.88,
+                    "end": 20.96,
+                    "probability": 0.9057931303977966
+                },
+                {
+                    "word": " will",
+                    "start": 20.96,
+                    "end": 21.1,
+                    "probability": 0.8173760175704956
+                },
+                {
+                    "word": " be",
+                    "start": 21.1,
+                    "end": 21.24,
+                    "probability": 0.907798171043396
+                },
+                {
+                    "word": " up",
+                    "start": 21.24,
+                    "end": 21.36,
+                    "probability": 0.9096439480781555
+                },
+                {
+                    "word": " to",
+                    "start": 21.36,
+                    "end": 21.46,
+                    "probability": 0.9045460224151611
+                },
+                {
+                    "word": " the",
+                    "start": 21.46,
+                    "end": 21.58,
+                    "probability": 0.8136269450187683
+                },
+                {
+                    "word": " president",
+                    "start": 21.58,
+                    "end": 21.88,
+                    "probability": 0.7181516885757446
+                },
+                {
+                    "word": " to",
+                    "start": 21.88,
+                    "end": 22.08,
+                    "probability": 0.901389479637146
+                },
+                {
+                    "word": " determine",
+                    "start": 22.08,
+                    "end": 22.42,
+                    "probability": 0.7617530822753906
+                },
+                {
+                    "word": " whether",
+                    "start": 22.42,
+                    "end": 22.66,
+                    "probability": 0.8607295155525208
+                },
+                {
+                    "word": " or",
+                    "start": 22.66,
+                    "end": 22.84,
+                    "probability": 0.9021512269973755
+                },
+                {
+                    "word": " not,",
+                    "start": 22.84,
+                    "end": 23.0,
+                    "probability": 0.8939161896705627
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 23.16,
+            "end": 24.32,
+            "text": " of course, to sign the legislation.",
+            "tokens": [
+                51522,
+                295,
+                1164,
+                11,
+                281,
+                1465,
+                264,
+                11329,
+                13,
+                51598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 23.16,
+                    "end": 23.16,
+                    "probability": 0.9039506912231445
+                },
+                {
+                    "word": " course,",
+                    "start": 23.16,
+                    "end": 23.3,
+                    "probability": 0.8596828579902649
+                },
+                {
+                    "word": " to",
+                    "start": 23.34,
+                    "end": 23.48,
+                    "probability": 0.8930354714393616
+                },
+                {
+                    "word": " sign",
+                    "start": 23.48,
+                    "end": 23.7,
+                    "probability": 0.8082532286643982
+                },
+                {
+                    "word": " the",
+                    "start": 23.7,
+                    "end": 23.84,
+                    "probability": 0.8122578263282776
+                },
+                {
+                    "word": " legislation.",
+                    "start": 23.84,
+                    "end": 24.32,
+                    "probability": 0.6757029294967651
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 24.68,
+            "end": 26.74,
+            "text": " But if one of the versions that Congress passes",
+            "tokens": [
+                51598,
+                583,
+                498,
+                472,
+                295,
+                264,
+                9606,
+                300,
+                6426,
+                11335,
+                51728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 24.68,
+                    "end": 24.84,
+                    "probability": 0.8892064094543457
+                },
+                {
+                    "word": " if",
+                    "start": 24.84,
+                    "end": 25.02,
+                    "probability": 0.9055458307266235
+                },
+                {
+                    "word": " one",
+                    "start": 25.02,
+                    "end": 25.3,
+                    "probability": 0.8115322589874268
+                },
+                {
+                    "word": " of",
+                    "start": 25.3,
+                    "end": 25.38,
+                    "probability": 0.9032689332962036
+                },
+                {
+                    "word": " the",
+                    "start": 25.38,
+                    "end": 25.48,
+                    "probability": 0.8143754601478577
+                },
+                {
+                    "word": " versions",
+                    "start": 25.48,
+                    "end": 25.74,
+                    "probability": 0.7819478511810303
+                },
+                {
+                    "word": " that",
+                    "start": 25.74,
+                    "end": 25.96,
+                    "probability": 0.882662832736969
+                },
+                {
+                    "word": " Congress",
+                    "start": 25.96,
+                    "end": 26.28,
+                    "probability": 0.893256664276123
+                },
+                {
+                    "word": " passes",
+                    "start": 26.28,
+                    "end": 26.74,
+                    "probability": 0.7094116806983948
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 26.74,
+            "end": 29.66,
+            "text": " gives the authority to the president of the United States",
+            "tokens": [
+                51728,
+                2709,
+                264,
+                8281,
+                281,
+                264,
+                3868,
+                295,
+                264,
+                2824,
+                3040,
+                51852
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2419064930507115,
+            "compression_ratio": 1.786624203821656,
+            "no_speech_prob": 0.06568407267332077,
+            "words": [
+                {
+                    "word": " gives",
+                    "start": 26.74,
+                    "end": 27.54,
+                    "probability": 0.8378369808197021
+                },
+                {
+                    "word": " the",
+                    "start": 27.54,
+                    "end": 27.7,
+                    "probability": 0.8105823993682861
+                },
+                {
+                    "word": " authority",
+                    "start": 27.7,
+                    "end": 28.06,
+                    "probability": 0.7714325189590454
+                },
+                {
+                    "word": " to",
+                    "start": 28.06,
+                    "end": 28.28,
+                    "probability": 0.9022121429443359
+                },
+                {
+                    "word": " the",
+                    "start": 28.28,
+                    "end": 28.42,
+                    "probability": 0.8105171918869019
+                },
+                {
+                    "word": " president",
+                    "start": 28.42,
+                    "end": 28.76,
+                    "probability": 0.780327558517456
+                },
+                {
+                    "word": " of",
+                    "start": 28.76,
+                    "end": 28.94,
+                    "probability": 0.8940672278404236
+                },
+                {
+                    "word": " the",
+                    "start": 28.94,
+                    "end": 28.98,
+                    "probability": 0.8153037428855896
+                },
+                {
+                    "word": " United",
+                    "start": 28.98,
+                    "end": 29.22,
+                    "probability": 0.8745133876800537
+                },
+                {
+                    "word": " States",
+                    "start": 29.22,
+                    "end": 29.66,
+                    "probability": 0.878976583480835
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2966,
+            "start": 29.66,
+            "end": 32.28,
+            "text": " to ban TikTok, if he chooses to do so,",
+            "tokens": [
+                50366,
+                281,
+                5643,
+                20211,
+                11,
+                498,
+                415,
+                25963,
+                281,
+                360,
+                370,
+                11,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 29.66,
+                    "end": 29.88,
+                    "probability": 0.6769680976867676
+                },
+                {
+                    "word": " ban",
+                    "start": 29.88,
+                    "end": 30.2,
+                    "probability": 0.8378549814224243
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 30.2,
+                    "end": 30.52,
+                    "probability": 0.666262686252594
+                },
+                {
+                    "word": " if",
+                    "start": 30.78,
+                    "end": 31.12,
+                    "probability": 0.9048569202423096
+                },
+                {
+                    "word": " he",
+                    "start": 31.12,
+                    "end": 31.28,
+                    "probability": 0.9071414470672607
+                },
+                {
+                    "word": " chooses",
+                    "start": 31.28,
+                    "end": 31.6,
+                    "probability": 0.8823951482772827
+                },
+                {
+                    "word": " to",
+                    "start": 31.6,
+                    "end": 31.82,
+                    "probability": 0.9027363657951355
+                },
+                {
+                    "word": " do",
+                    "start": 31.82,
+                    "end": 31.98,
+                    "probability": 0.903214693069458
+                },
+                {
+                    "word": " so,",
+                    "start": 31.98,
+                    "end": 32.28,
+                    "probability": 0.905168354511261
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2966,
+            "start": 32.52,
+            "end": 34.82,
+            "text": " Biden would then have to decide whether he wants to ban it.",
+            "tokens": [
+                50504,
+                9877,
+                576,
+                550,
+                362,
+                281,
+                4536,
+                1968,
+                415,
+                2738,
+                281,
+                5643,
+                309,
+                13,
+                50622
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " Biden",
+                    "start": 32.52,
+                    "end": 32.74,
+                    "probability": 0.9444445967674255
+                },
+                {
+                    "word": " would",
+                    "start": 32.74,
+                    "end": 32.96,
+                    "probability": 0.8373124599456787
+                },
+                {
+                    "word": " then",
+                    "start": 32.96,
+                    "end": 33.24,
+                    "probability": 0.7186291813850403
+                },
+                {
+                    "word": " have",
+                    "start": 33.24,
+                    "end": 33.46,
+                    "probability": 0.8804206252098083
+                },
+                {
+                    "word": " to",
+                    "start": 33.46,
+                    "end": 33.58,
+                    "probability": 0.9017319083213806
+                },
+                {
+                    "word": " decide",
+                    "start": 33.58,
+                    "end": 33.88,
+                    "probability": 0.9167718291282654
+                },
+                {
+                    "word": " whether",
+                    "start": 33.88,
+                    "end": 34.06,
+                    "probability": 0.8461784720420837
+                },
+                {
+                    "word": " he",
+                    "start": 34.06,
+                    "end": 34.22,
+                    "probability": 0.8984401226043701
+                },
+                {
+                    "word": " wants",
+                    "start": 34.22,
+                    "end": 34.4,
+                    "probability": 0.7027831077575684
+                },
+                {
+                    "word": " to",
+                    "start": 34.4,
+                    "end": 34.54,
+                    "probability": 0.9037069082260132
+                },
+                {
+                    "word": " ban",
+                    "start": 34.54,
+                    "end": 34.72,
+                    "probability": 0.8962171673774719
+                },
+                {
+                    "word": " it.",
+                    "start": 34.72,
+                    "end": 34.82,
+                    "probability": 0.9039192199707031
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2966,
+            "start": 34.88,
+            "end": 37.68,
+            "text": " You talked about some of the political concerns here.",
+            "tokens": [
+                50622,
+                509,
+                2825,
+                466,
+                512,
+                295,
+                264,
+                3905,
+                7389,
+                510,
+                13,
+                50776
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 34.88,
+                    "end": 34.96,
+                    "probability": 0.8881006240844727
+                },
+                {
+                    "word": " talked",
+                    "start": 34.96,
+                    "end": 35.2,
+                    "probability": 0.74979168176651
+                },
+                {
+                    "word": " about",
+                    "start": 35.2,
+                    "end": 35.48,
+                    "probability": 0.8149263858795166
+                },
+                {
+                    "word": " some",
+                    "start": 35.48,
+                    "end": 35.94,
+                    "probability": 0.8100585341453552
+                },
+                {
+                    "word": " of",
+                    "start": 35.94,
+                    "end": 36.06,
+                    "probability": 0.9010728597640991
+                },
+                {
+                    "word": " the",
+                    "start": 36.06,
+                    "end": 36.32,
+                    "probability": 0.8115041851997375
+                },
+                {
+                    "word": " political",
+                    "start": 36.32,
+                    "end": 36.78,
+                    "probability": 0.5912520289421082
+                },
+                {
+                    "word": " concerns",
+                    "start": 36.78,
+                    "end": 37.36,
+                    "probability": 0.8298519253730774
+                },
+                {
+                    "word": " here.",
+                    "start": 37.36,
+                    "end": 37.68,
+                    "probability": 0.8079368472099304
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2966,
+            "start": 37.96,
+            "end": 40.28,
+            "text": " The White House has brushed aside political concerns.",
+            "tokens": [
+                50776,
+                440,
+                5552,
+                4928,
+                575,
+                40694,
+                7359,
+                3905,
+                7389,
+                13,
+                50898
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 37.96,
+                    "end": 38.08,
+                    "probability": 0.8094936013221741
+                },
+                {
+                    "word": " White",
+                    "start": 38.08,
+                    "end": 38.24,
+                    "probability": 0.8887165784835815
+                },
+                {
+                    "word": " House",
+                    "start": 38.24,
+                    "end": 38.42,
+                    "probability": 0.7333298921585083
+                },
+                {
+                    "word": " has",
+                    "start": 38.42,
+                    "end": 38.6,
+                    "probability": 0.8384534120559692
+                },
+                {
+                    "word": " brushed",
+                    "start": 38.6,
+                    "end": 38.84,
+                    "probability": 0.7479154467582703
+                },
+                {
+                    "word": " aside",
+                    "start": 38.84,
+                    "end": 39.34,
+                    "probability": 0.8684145212173462
+                },
+                {
+                    "word": " political",
+                    "start": 39.34,
+                    "end": 39.82,
+                    "probability": 0.7890369296073914
+                },
+                {
+                    "word": " concerns.",
+                    "start": 39.82,
+                    "end": 40.28,
+                    "probability": 0.8307886123657227
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2966,
+            "start": 40.28,
+            "end": 43.58,
+            "text": " But when you have two thirds of young Americans",
+            "tokens": [
+                50898,
+                583,
+                562,
+                291,
+                362,
+                732,
+                34552,
+                295,
+                2037,
+                6280,
+                51066
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 40.28,
+                    "end": 40.48,
+                    "probability": 0.8910212516784668
+                },
+                {
+                    "word": " when",
+                    "start": 40.48,
+                    "end": 40.64,
+                    "probability": 0.8696912527084351
+                },
+                {
+                    "word": " you",
+                    "start": 40.64,
+                    "end": 40.76,
+                    "probability": 0.8936724066734314
+                },
+                {
+                    "word": " have",
+                    "start": 40.76,
+                    "end": 41.1,
+                    "probability": 0.8738059401512146
+                },
+                {
+                    "word": " two",
+                    "start": 41.1,
+                    "end": 41.72,
+                    "probability": 0.6086333394050598
+                },
+                {
+                    "word": " thirds",
+                    "start": 41.72,
+                    "end": 42.16,
+                    "probability": 0.32546040415763855
+                },
+                {
+                    "word": " of",
+                    "start": 42.16,
+                    "end": 42.84,
+                    "probability": 0.903997540473938
+                },
+                {
+                    "word": " young",
+                    "start": 42.84,
+                    "end": 43.18,
+                    "probability": 0.9067356586456299
+                },
+                {
+                    "word": " Americans",
+                    "start": 43.18,
+                    "end": 43.58,
+                    "probability": 0.7273342609405518
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2966,
+            "start": 43.58,
+            "end": 45.8,
+            "text": " saying that they don't want to see TikTok banned,",
+            "tokens": [
+                51066,
+                1566,
+                300,
+                436,
+                500,
+                380,
+                528,
+                281,
+                536,
+                20211,
+                19564,
+                11,
+                51182
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " saying",
+                    "start": 43.58,
+                    "end": 44.0,
+                    "probability": 0.8251773715019226
+                },
+                {
+                    "word": " that",
+                    "start": 44.0,
+                    "end": 44.18,
+                    "probability": 0.8627461194992065
+                },
+                {
+                    "word": " they",
+                    "start": 44.18,
+                    "end": 44.32,
+                    "probability": 0.7320119738578796
+                },
+                {
+                    "word": " don't",
+                    "start": 44.32,
+                    "end": 44.52,
+                    "probability": 0.9435375034809113
+                },
+                {
+                    "word": " want",
+                    "start": 44.52,
+                    "end": 44.68,
+                    "probability": 0.7454037666320801
+                },
+                {
+                    "word": " to",
+                    "start": 44.68,
+                    "end": 44.78,
+                    "probability": 0.9088853001594543
+                },
+                {
+                    "word": " see",
+                    "start": 44.78,
+                    "end": 44.96,
+                    "probability": 0.8252291679382324
+                },
+                {
+                    "word": " TikTok",
+                    "start": 44.96,
+                    "end": 45.28,
+                    "probability": 0.9489498734474182
+                },
+                {
+                    "word": " banned,",
+                    "start": 45.28,
+                    "end": 45.8,
+                    "probability": 0.6988493800163269
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 2966,
+            "start": 46.06,
+            "end": 48.52,
+            "text": " and then you also have, within President Joe Biden's",
+            "tokens": [
+                51182,
+                293,
+                550,
+                291,
+                611,
+                362,
+                11,
+                1951,
+                3117,
+                6807,
+                9877,
+                311,
+                51306
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 46.06,
+                    "end": 46.2,
+                    "probability": 0.8922020792961121
+                },
+                {
+                    "word": " then",
+                    "start": 46.2,
+                    "end": 46.34,
+                    "probability": 0.7257440090179443
+                },
+                {
+                    "word": " you",
+                    "start": 46.34,
+                    "end": 46.5,
+                    "probability": 0.8944126963615417
+                },
+                {
+                    "word": " also",
+                    "start": 46.5,
+                    "end": 46.84,
+                    "probability": 0.8253591060638428
+                },
+                {
+                    "word": " have,",
+                    "start": 46.84,
+                    "end": 47.22,
+                    "probability": 0.888410210609436
+                },
+                {
+                    "word": " within",
+                    "start": 47.26,
+                    "end": 47.5,
+                    "probability": 0.7563779354095459
+                },
+                {
+                    "word": " President",
+                    "start": 47.5,
+                    "end": 47.82,
+                    "probability": 0.8398069143295288
+                },
+                {
+                    "word": " Joe",
+                    "start": 47.82,
+                    "end": 48.06,
+                    "probability": 0.8061866760253906
+                },
+                {
+                    "word": " Biden's",
+                    "start": 48.06,
+                    "end": 48.52,
+                    "probability": 0.9600901901721954
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 2966,
+            "start": 48.52,
+            "end": 51.5,
+            "text": " approval rating, young people essentially dragging down",
+            "tokens": [
+                51306,
+                13317,
+                10990,
+                11,
+                2037,
+                561,
+                4476,
+                24385,
+                760,
+                51458
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " approval",
+                    "start": 48.52,
+                    "end": 48.86,
+                    "probability": 0.8512094616889954
+                },
+                {
+                    "word": " rating,",
+                    "start": 48.86,
+                    "end": 49.3,
+                    "probability": 0.9035038948059082
+                },
+                {
+                    "word": " young",
+                    "start": 49.68,
+                    "end": 49.94,
+                    "probability": 0.9064534902572632
+                },
+                {
+                    "word": " people",
+                    "start": 49.94,
+                    "end": 50.3,
+                    "probability": 0.9331679940223694
+                },
+                {
+                    "word": " essentially",
+                    "start": 50.3,
+                    "end": 50.72,
+                    "probability": 0.6183089017868042
+                },
+                {
+                    "word": " dragging",
+                    "start": 50.72,
+                    "end": 51.18,
+                    "probability": 0.8437886238098145
+                },
+                {
+                    "word": " down",
+                    "start": 51.18,
+                    "end": 51.5,
+                    "probability": 0.8187986612319946
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "seek": 2966,
+            "start": 51.5,
+            "end": 53.48,
+            "text": " his approval rating among Democrats,",
+            "tokens": [
+                51458,
+                702,
+                13317,
+                10990,
+                3654,
+                12217,
+                11,
+                51566
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " his",
+                    "start": 51.5,
+                    "end": 51.7,
+                    "probability": 0.8896903991699219
+                },
+                {
+                    "word": " approval",
+                    "start": 51.7,
+                    "end": 52.0,
+                    "probability": 0.8665275573730469
+                },
+                {
+                    "word": " rating",
+                    "start": 52.0,
+                    "end": 52.38,
+                    "probability": 0.8919519186019897
+                },
+                {
+                    "word": " among",
+                    "start": 52.38,
+                    "end": 52.94,
+                    "probability": 0.9027064442634583
+                },
+                {
+                    "word": " Democrats,",
+                    "start": 52.94,
+                    "end": 53.48,
+                    "probability": 0.837450385093689
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "seek": 2966,
+            "start": 53.68,
+            "end": 56.56,
+            "text": " it's hard to see how political considerations wouldn't",
+            "tokens": [
+                51566,
+                309,
+                311,
+                1152,
+                281,
+                536,
+                577,
+                3905,
+                24070,
+                2759,
+                380,
+                51708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " it's",
+                    "start": 53.68,
+                    "end": 53.9,
+                    "probability": 0.9471109807491302
+                },
+                {
+                    "word": " hard",
+                    "start": 53.9,
+                    "end": 54.1,
+                    "probability": 0.8250908851623535
+                },
+                {
+                    "word": " to",
+                    "start": 54.1,
+                    "end": 54.28,
+                    "probability": 0.9056137800216675
+                },
+                {
+                    "word": " see",
+                    "start": 54.28,
+                    "end": 54.54,
+                    "probability": 0.8069056272506714
+                },
+                {
+                    "word": " how",
+                    "start": 54.54,
+                    "end": 54.96,
+                    "probability": 0.9004884362220764
+                },
+                {
+                    "word": " political",
+                    "start": 54.96,
+                    "end": 55.3,
+                    "probability": 0.7927791476249695
+                },
+                {
+                    "word": " considerations",
+                    "start": 55.3,
+                    "end": 56.04,
+                    "probability": 0.8436573147773743
+                },
+                {
+                    "word": " wouldn't",
+                    "start": 56.04,
+                    "end": 56.56,
+                    "probability": 0.89239501953125
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "seek": 2966,
+            "start": 56.56,
+            "end": 58.56,
+            "text": " at least be on their minds, regardless of what",
+            "tokens": [
+                51708,
+                412,
+                1935,
+                312,
+                322,
+                641,
+                9634,
+                11,
+                10060,
+                295,
+                437,
+                51808
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23706725149443655,
+            "compression_ratio": 1.7523809523809524,
+            "no_speech_prob": 3.0321325539262034e-06,
+            "words": [
+                {
+                    "word": " at",
+                    "start": 56.56,
+                    "end": 56.76,
+                    "probability": 0.8940749168395996
+                },
+                {
+                    "word": " least",
+                    "start": 56.76,
+                    "end": 56.96,
+                    "probability": 0.8627021908760071
+                },
+                {
+                    "word": " be",
+                    "start": 56.96,
+                    "end": 57.14,
+                    "probability": 0.8751848340034485
+                },
+                {
+                    "word": " on",
+                    "start": 57.14,
+                    "end": 57.32,
+                    "probability": 0.908802330493927
+                },
+                {
+                    "word": " their",
+                    "start": 57.32,
+                    "end": 57.48,
+                    "probability": 0.9026092290878296
+                },
+                {
+                    "word": " minds,",
+                    "start": 57.48,
+                    "end": 57.8,
+                    "probability": 0.7467849254608154
+                },
+                {
+                    "word": " regardless",
+                    "start": 57.84,
+                    "end": 58.2,
+                    "probability": 0.9082192182540894
+                },
+                {
+                    "word": " of",
+                    "start": 58.2,
+                    "end": 58.42,
+                    "probability": 0.9037294387817383
+                },
+                {
+                    "word": " what",
+                    "start": 58.42,
+                    "end": 58.56,
+                    "probability": 0.8600480556488037
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "seek": 5856,
+            "start": 58.56,
+            "end": 59.4,
+            "text": " the decision he makes is.",
+            "tokens": [
+                50364,
+                264,
+                3537,
+                415,
+                1669,
+                307,
+                13,
+                50422
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6138594415452745,
+            "compression_ratio": 0.8064516129032258,
+            "no_speech_prob": 0.2557159662246704,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 58.56,
+                    "end": 58.66,
+                    "probability": 0.48722219467163086
+                },
+                {
+                    "word": " decision",
+                    "start": 58.66,
+                    "end": 58.92,
+                    "probability": 0.8500986695289612
+                },
+                {
+                    "word": " he",
+                    "start": 58.92,
+                    "end": 59.08,
+                    "probability": 0.8590788841247559
+                },
+                {
+                    "word": " makes",
+                    "start": 59.08,
+                    "end": 59.28,
+                    "probability": 0.7604360580444336
+                },
+                {
+                    "word": " is.",
+                    "start": 59.28,
+                    "end": 59.4,
+                    "probability": 0.009194804355502129
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,315 @@
+{
+    "text": " Now, she brought in the Chinese Communist Party, but if we took that out, she could have easily been talking about Facebook or Twitter, right? They have serious issues when it comes to content moderation themselves.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 4.42,
+            "text": " Now, she brought in the Chinese Communist Party, but if we took that out, she could",
+            "tokens": [
+                50364,
+                823,
+                11,
+                750,
+                3038,
+                294,
+                264,
+                4649,
+                23253,
+                8552,
+                11,
+                457,
+                498,
+                321,
+                1890,
+                300,
+                484,
+                11,
+                750,
+                727,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2874846750376176,
+            "compression_ratio": 1.360759493670886,
+            "no_speech_prob": 0.016342271119356155,
+            "words": [
+                {
+                    "word": " Now,",
+                    "start": 0.08,
+                    "end": 0.56,
+                    "probability": 0.7562652826309204
+                },
+                {
+                    "word": " she",
+                    "start": 0.7,
+                    "end": 1.04,
+                    "probability": 0.8133917450904846
+                },
+                {
+                    "word": " brought",
+                    "start": 1.04,
+                    "end": 1.5,
+                    "probability": 0.8722289800643921
+                },
+                {
+                    "word": " in",
+                    "start": 1.5,
+                    "end": 1.6,
+                    "probability": 0.8904195427894592
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.7,
+                    "probability": 0.8131816387176514
+                },
+                {
+                    "word": " Chinese",
+                    "start": 1.7,
+                    "end": 1.92,
+                    "probability": 0.7807134389877319
+                },
+                {
+                    "word": " Communist",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.799422562122345
+                },
+                {
+                    "word": " Party,",
+                    "start": 2.18,
+                    "end": 2.5,
+                    "probability": 0.8359068632125854
+                },
+                {
+                    "word": " but",
+                    "start": 2.64,
+                    "end": 2.7,
+                    "probability": 0.9000506401062012
+                },
+                {
+                    "word": " if",
+                    "start": 2.7,
+                    "end": 2.88,
+                    "probability": 0.8905531167984009
+                },
+                {
+                    "word": " we",
+                    "start": 2.88,
+                    "end": 2.98,
+                    "probability": 0.8988487124443054
+                },
+                {
+                    "word": " took",
+                    "start": 2.98,
+                    "end": 3.14,
+                    "probability": 0.8539491295814514
+                },
+                {
+                    "word": " that",
+                    "start": 3.14,
+                    "end": 3.28,
+                    "probability": 0.8794921040534973
+                },
+                {
+                    "word": " out,",
+                    "start": 3.28,
+                    "end": 3.6,
+                    "probability": 0.8245959281921387
+                },
+                {
+                    "word": " she",
+                    "start": 4.1,
+                    "end": 4.26,
+                    "probability": 0.8133297562599182
+                },
+                {
+                    "word": " could",
+                    "start": 4.26,
+                    "end": 4.42,
+                    "probability": 0.8240053653717041
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.42,
+            "end": 7.8,
+            "text": " have easily been talking about Facebook or Twitter, right?",
+            "tokens": [
+                50582,
+                362,
+                3612,
+                668,
+                1417,
+                466,
+                4384,
+                420,
+                5794,
+                11,
+                558,
+                30,
+                50762
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2874846750376176,
+            "compression_ratio": 1.360759493670886,
+            "no_speech_prob": 0.016342271119356155,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 4.42,
+                    "end": 4.54,
+                    "probability": 0.749822735786438
+                },
+                {
+                    "word": " easily",
+                    "start": 4.54,
+                    "end": 4.84,
+                    "probability": 0.839816153049469
+                },
+                {
+                    "word": " been",
+                    "start": 4.84,
+                    "end": 5.06,
+                    "probability": 0.8145753741264343
+                },
+                {
+                    "word": " talking",
+                    "start": 5.06,
+                    "end": 5.4,
+                    "probability": 0.7832202911376953
+                },
+                {
+                    "word": " about",
+                    "start": 5.4,
+                    "end": 6.22,
+                    "probability": 0.817714512348175
+                },
+                {
+                    "word": " Facebook",
+                    "start": 6.22,
+                    "end": 6.92,
+                    "probability": 0.7462761998176575
+                },
+                {
+                    "word": " or",
+                    "start": 6.92,
+                    "end": 7.2,
+                    "probability": 0.8822343349456787
+                },
+                {
+                    "word": " Twitter,",
+                    "start": 7.2,
+                    "end": 7.56,
+                    "probability": 0.8724198937416077
+                },
+                {
+                    "word": " right?",
+                    "start": 7.64,
+                    "end": 7.8,
+                    "probability": 0.8778505325317383
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.9,
+            "end": 11.62,
+            "text": " They have serious issues when it comes to content moderation themselves.",
+            "tokens": [
+                50762,
+                814,
+                362,
+                3156,
+                2663,
+                562,
+                309,
+                1487,
+                281,
+                2701,
+                49471,
+                2969,
+                13,
+                50966
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2874846750376176,
+            "compression_ratio": 1.360759493670886,
+            "no_speech_prob": 0.016342271119356155,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 7.9,
+                    "end": 8.04,
+                    "probability": 0.7341684699058533
+                },
+                {
+                    "word": " have",
+                    "start": 8.04,
+                    "end": 8.2,
+                    "probability": 0.589967668056488
+                },
+                {
+                    "word": " serious",
+                    "start": 8.2,
+                    "end": 8.8,
+                    "probability": 0.8285244703292847
+                },
+                {
+                    "word": " issues",
+                    "start": 8.8,
+                    "end": 9.18,
+                    "probability": 0.8434461951255798
+                },
+                {
+                    "word": " when",
+                    "start": 9.18,
+                    "end": 9.34,
+                    "probability": 0.8720697164535522
+                },
+                {
+                    "word": " it",
+                    "start": 9.34,
+                    "end": 9.44,
+                    "probability": 0.9096654057502747
+                },
+                {
+                    "word": " comes",
+                    "start": 9.44,
+                    "end": 9.72,
+                    "probability": 0.8172339200973511
+                },
+                {
+                    "word": " to",
+                    "start": 9.72,
+                    "end": 10.0,
+                    "probability": 0.9084665179252625
+                },
+                {
+                    "word": " content",
+                    "start": 10.0,
+                    "end": 10.7,
+                    "probability": 0.8295437693595886
+                },
+                {
+                    "word": " moderation",
+                    "start": 10.7,
+                    "end": 11.2,
+                    "probability": 0.8963942527770996
+                },
+                {
+                    "word": " themselves.",
+                    "start": 11.2,
+                    "end": 11.62,
+                    "probability": 0.7425418496131897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

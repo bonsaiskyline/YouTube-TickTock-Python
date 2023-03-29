@@ -1,0 +1,244 @@
+{
+    "text": " The app is owned by the Chinese company ByteDance. Critics say that Beijing could force TikTok to hand over information on millions of Americans, something that TikTok denies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.86,
+            "text": " The app is owned by the Chinese company ByteDance. Critics say that Beijing could force TikTok",
+            "tokens": [
+                50364,
+                440,
+                724,
+                307,
+                11684,
+                538,
+                264,
+                4649,
+                2237,
+                3146,
+                975,
+                35,
+                719,
+                13,
+                23202,
+                1167,
+                584,
+                300,
+                20240,
+                727,
+                3464,
+                20211,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24064968853462032,
+            "compression_ratio": 1.2962962962962963,
+            "no_speech_prob": 0.0007564619299955666,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7963270545005798
+                },
+                {
+                    "word": " app",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.8680537939071655
+                },
+                {
+                    "word": " is",
+                    "start": 0.4,
+                    "end": 0.56,
+                    "probability": 0.907607913017273
+                },
+                {
+                    "word": " owned",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.7689806818962097
+                },
+                {
+                    "word": " by",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9021179676055908
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.7860243320465088
+                },
+                {
+                    "word": " Chinese",
+                    "start": 1.18,
+                    "end": 1.6,
+                    "probability": 0.75398850440979
+                },
+                {
+                    "word": " company",
+                    "start": 1.6,
+                    "end": 2.14,
+                    "probability": 0.78091961145401
+                },
+                {
+                    "word": " ByteDance.",
+                    "start": 2.14,
+                    "end": 3.1,
+                    "probability": 0.8798872381448746
+                },
+                {
+                    "word": " Critics",
+                    "start": 3.48,
+                    "end": 3.94,
+                    "probability": 0.9497846066951752
+                },
+                {
+                    "word": " say",
+                    "start": 3.94,
+                    "end": 4.22,
+                    "probability": 0.9051185846328735
+                },
+                {
+                    "word": " that",
+                    "start": 4.22,
+                    "end": 4.42,
+                    "probability": 0.8478071093559265
+                },
+                {
+                    "word": " Beijing",
+                    "start": 4.42,
+                    "end": 4.88,
+                    "probability": 0.8263571858406067
+                },
+                {
+                    "word": " could",
+                    "start": 4.88,
+                    "end": 5.14,
+                    "probability": 0.7960330843925476
+                },
+                {
+                    "word": " force",
+                    "start": 5.14,
+                    "end": 5.48,
+                    "probability": 0.9132599830627441
+                },
+                {
+                    "word": " TikTok",
+                    "start": 5.48,
+                    "end": 5.86,
+                    "probability": 0.8218687176704407
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.86,
+            "end": 11.88,
+            "text": " to hand over information on millions of Americans, something that TikTok denies.",
+            "tokens": [
+                50664,
+                281,
+                1011,
+                670,
+                1589,
+                322,
+                6803,
+                295,
+                6280,
+                11,
+                746,
+                300,
+                20211,
+                1441,
+                530,
+                13,
+                50968
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24064968853462032,
+            "compression_ratio": 1.2962962962962963,
+            "no_speech_prob": 0.0007564619299955666,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 5.86,
+                    "end": 6.26,
+                    "probability": 0.9037421941757202
+                },
+                {
+                    "word": " hand",
+                    "start": 6.26,
+                    "end": 6.56,
+                    "probability": 0.8131231665611267
+                },
+                {
+                    "word": " over",
+                    "start": 6.56,
+                    "end": 6.82,
+                    "probability": 0.8674861788749695
+                },
+                {
+                    "word": " information",
+                    "start": 6.82,
+                    "end": 7.46,
+                    "probability": 0.7347784042358398
+                },
+                {
+                    "word": " on",
+                    "start": 7.46,
+                    "end": 7.76,
+                    "probability": 0.8953194618225098
+                },
+                {
+                    "word": " millions",
+                    "start": 7.76,
+                    "end": 8.18,
+                    "probability": 0.8605529069900513
+                },
+                {
+                    "word": " of",
+                    "start": 8.18,
+                    "end": 8.48,
+                    "probability": 0.9091928601264954
+                },
+                {
+                    "word": " Americans,",
+                    "start": 8.48,
+                    "end": 9.02,
+                    "probability": 0.7286951541900635
+                },
+                {
+                    "word": " something",
+                    "start": 9.78,
+                    "end": 10.06,
+                    "probability": 0.7287058234214783
+                },
+                {
+                    "word": " that",
+                    "start": 10.06,
+                    "end": 10.36,
+                    "probability": 0.8812555074691772
+                },
+                {
+                    "word": " TikTok",
+                    "start": 10.36,
+                    "end": 10.98,
+                    "probability": 0.9359728693962097
+                },
+                {
+                    "word": " denies.",
+                    "start": 10.98,
+                    "end": 11.88,
+                    "probability": 0.917784720659256
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

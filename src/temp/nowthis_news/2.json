@@ -1,0 +1,218 @@
+{
+    "text": " So if I have a TikTok app on my phone and my phone is on my home Wi-Fi network, does TikTok access that network?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.66,
+            "text": " So if I have a TikTok app on my phone and my phone is on my home Wi-Fi network,",
+            "tokens": [
+                50364,
+                407,
+                498,
+                286,
+                362,
+                257,
+                20211,
+                724,
+                322,
+                452,
+                2593,
+                293,
+                452,
+                2593,
+                307,
+                322,
+                452,
+                1280,
+                14035,
+                12,
+                13229,
+                3209,
+                11,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2766114726211085,
+            "compression_ratio": 1.2444444444444445,
+            "no_speech_prob": 0.013271685689687729,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6698401570320129
+                },
+                {
+                    "word": " if",
+                    "start": 0.14,
+                    "end": 0.24,
+                    "probability": 0.7815055847167969
+                },
+                {
+                    "word": " I",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9923519492149353
+                },
+                {
+                    "word": " have",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.8720331192016602
+                },
+                {
+                    "word": " a",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.5635045766830444
+                },
+                {
+                    "word": " TikTok",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.6393038630485535
+                },
+                {
+                    "word": " app",
+                    "start": 1.06,
+                    "end": 1.6,
+                    "probability": 0.9015825390815735
+                },
+                {
+                    "word": " on",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9032495021820068
+                },
+                {
+                    "word": " my",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.9113200306892395
+                },
+                {
+                    "word": " phone",
+                    "start": 2.04,
+                    "end": 2.42,
+                    "probability": 0.8827141523361206
+                },
+                {
+                    "word": " and",
+                    "start": 2.42,
+                    "end": 2.78,
+                    "probability": 0.6730954051017761
+                },
+                {
+                    "word": " my",
+                    "start": 2.78,
+                    "end": 2.96,
+                    "probability": 0.8984333872795105
+                },
+                {
+                    "word": " phone",
+                    "start": 2.96,
+                    "end": 3.22,
+                    "probability": 0.8831666111946106
+                },
+                {
+                    "word": " is",
+                    "start": 3.22,
+                    "end": 3.36,
+                    "probability": 0.9015312194824219
+                },
+                {
+                    "word": " on",
+                    "start": 3.36,
+                    "end": 3.5,
+                    "probability": 0.9115809798240662
+                },
+                {
+                    "word": " my",
+                    "start": 3.5,
+                    "end": 3.64,
+                    "probability": 0.9010315537452698
+                },
+                {
+                    "word": " home",
+                    "start": 3.64,
+                    "end": 3.84,
+                    "probability": 0.822830319404602
+                },
+                {
+                    "word": " Wi",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.5481184720993042
+                },
+                {
+                    "word": "-Fi",
+                    "start": 4.06,
+                    "end": 4.28,
+                    "probability": 0.9813613295555115
+                },
+                {
+                    "word": " network,",
+                    "start": 4.28,
+                    "end": 4.66,
+                    "probability": 0.8091084361076355
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.76,
+            "end": 6.22,
+            "text": " does TikTok access that network?",
+            "tokens": [
+                50600,
+                775,
+                20211,
+                2105,
+                300,
+                3209,
+                30,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2766114726211085,
+            "compression_ratio": 1.2444444444444445,
+            "no_speech_prob": 0.013271685689687729,
+            "words": [
+                {
+                    "word": " does",
+                    "start": 4.76,
+                    "end": 4.84,
+                    "probability": 0.9117211103439331
+                },
+                {
+                    "word": " TikTok",
+                    "start": 4.84,
+                    "end": 5.16,
+                    "probability": 0.9084031581878662
+                },
+                {
+                    "word": " access",
+                    "start": 5.16,
+                    "end": 5.68,
+                    "probability": 0.7887610793113708
+                },
+                {
+                    "word": " that",
+                    "start": 5.68,
+                    "end": 5.96,
+                    "probability": 0.8822588324546814
+                },
+                {
+                    "word": " network?",
+                    "start": 5.96,
+                    "end": 6.22,
+                    "probability": 0.8238930702209473
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,98 @@
+{
+    "text": " Mr. Chude, does TikTok access the home Wi-Fi network?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " Mr. Chude, does TikTok access the home Wi-Fi network?",
+            "tokens": [
+                50364,
+                2221,
+                13,
+                761,
+                2303,
+                11,
+                775,
+                20211,
+                2105,
+                264,
+                1280,
+                14035,
+                12,
+                13229,
+                3209,
+                30,
+                50518
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3912902937995063,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.005464833229780197,
+            "words": [
+                {
+                    "word": " Mr.",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6728165149688721
+                },
+                {
+                    "word": " Chude,",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.4554988592863083
+                },
+                {
+                    "word": " does",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.8926157355308533
+                },
+                {
+                    "word": " TikTok",
+                    "start": 0.78,
+                    "end": 1.08,
+                    "probability": 0.6171439290046692
+                },
+                {
+                    "word": " access",
+                    "start": 1.08,
+                    "end": 1.74,
+                    "probability": 0.7823830842971802
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.98,
+                    "probability": 0.8067354559898376
+                },
+                {
+                    "word": " home",
+                    "start": 1.98,
+                    "end": 2.16,
+                    "probability": 0.7395625710487366
+                },
+                {
+                    "word": " Wi",
+                    "start": 2.16,
+                    "end": 2.38,
+                    "probability": 0.5119983553886414
+                },
+                {
+                    "word": "-Fi",
+                    "start": 2.38,
+                    "end": 2.58,
+                    "probability": 0.9883934259414673
+                },
+                {
+                    "word": " network?",
+                    "start": 2.58,
+                    "end": 2.84,
+                    "probability": 0.771445631980896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

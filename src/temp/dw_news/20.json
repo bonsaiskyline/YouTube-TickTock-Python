@@ -1,0 +1,890 @@
+{
+    "text": " I think you would agree with me that lawmakers are kind of late to the to the party here when it comes to holding social media responsible and accountable particularly for Misinformation on their platforms. I mean They're correct when they say this is dangerous perhaps On tik-tok because it's coming from a foreign Power, but what about Facebook? What about the last US election for example and the 2016 election? We know that Facebook was used by Russia US intelligence has told us that they used Facebook to try to manipulate the election Where was the fury from Congress over that?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.24,
+            "text": " I think you would agree with me that lawmakers are kind of late to the to the party here when it comes to holding social",
+            "tokens": [
+                50364,
+                286,
+                519,
+                291,
+                576,
+                3986,
+                365,
+                385,
+                300,
+                40988,
+                366,
+                733,
+                295,
+                3469,
+                281,
+                264,
+                281,
+                264,
+                3595,
+                510,
+                562,
+                309,
+                1487,
+                281,
+                5061,
+                2093,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.371107282136616,
+            "compression_ratio": 1.550561797752809,
+            "no_speech_prob": 0.001355681917630136,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.3527207374572754
+                },
+                {
+                    "word": " think",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.7768192887306213
+                },
+                {
+                    "word": " you",
+                    "start": 0.64,
+                    "end": 0.74,
+                    "probability": 0.7601044178009033
+                },
+                {
+                    "word": " would",
+                    "start": 0.74,
+                    "end": 0.84,
+                    "probability": 0.8437659740447998
+                },
+                {
+                    "word": " agree",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.8539462089538574
+                },
+                {
+                    "word": " with",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.8205075860023499
+                },
+                {
+                    "word": " me",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.8936185240745544
+                },
+                {
+                    "word": " that",
+                    "start": 1.42,
+                    "end": 2.08,
+                    "probability": 0.5851900577545166
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 2.08,
+                    "end": 2.6,
+                    "probability": 0.5555875897407532
+                },
+                {
+                    "word": " are",
+                    "start": 2.6,
+                    "end": 2.9,
+                    "probability": 0.8882643580436707
+                },
+                {
+                    "word": " kind",
+                    "start": 2.9,
+                    "end": 3.08,
+                    "probability": 0.7717448472976685
+                },
+                {
+                    "word": " of",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.9062702655792236
+                },
+                {
+                    "word": " late",
+                    "start": 3.18,
+                    "end": 3.42,
+                    "probability": 0.8774834275245667
+                },
+                {
+                    "word": " to",
+                    "start": 3.42,
+                    "end": 3.6,
+                    "probability": 0.8991500735282898
+                },
+                {
+                    "word": " the",
+                    "start": 3.6,
+                    "end": 3.8,
+                    "probability": 0.8112136125564575
+                },
+                {
+                    "word": " to",
+                    "start": 3.8,
+                    "end": 3.98,
+                    "probability": 0.6693768501281738
+                },
+                {
+                    "word": " the",
+                    "start": 3.98,
+                    "end": 4.14,
+                    "probability": 0.8088505864143372
+                },
+                {
+                    "word": " party",
+                    "start": 4.14,
+                    "end": 4.36,
+                    "probability": 0.7685777544975281
+                },
+                {
+                    "word": " here",
+                    "start": 4.36,
+                    "end": 4.56,
+                    "probability": 0.8090910315513611
+                },
+                {
+                    "word": " when",
+                    "start": 4.56,
+                    "end": 4.68,
+                    "probability": 0.867828369140625
+                },
+                {
+                    "word": " it",
+                    "start": 4.68,
+                    "end": 4.8,
+                    "probability": 0.9064791798591614
+                },
+                {
+                    "word": " comes",
+                    "start": 4.8,
+                    "end": 5.04,
+                    "probability": 0.8197951316833496
+                },
+                {
+                    "word": " to",
+                    "start": 5.04,
+                    "end": 5.28,
+                    "probability": 0.899280846118927
+                },
+                {
+                    "word": " holding",
+                    "start": 5.28,
+                    "end": 5.78,
+                    "probability": 0.6298632621765137
+                },
+                {
+                    "word": " social",
+                    "start": 5.78,
+                    "end": 6.24,
+                    "probability": 0.58478182554245
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.24,
+            "end": 9.22,
+            "text": " media responsible and accountable particularly for",
+            "tokens": [
+                50680,
+                3021,
+                6250,
+                293,
+                18024,
+                4098,
+                337,
+                50821
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.371107282136616,
+            "compression_ratio": 1.550561797752809,
+            "no_speech_prob": 0.001355681917630136,
+            "words": [
+                {
+                    "word": " media",
+                    "start": 6.24,
+                    "end": 6.5,
+                    "probability": 0.7733567357063293
+                },
+                {
+                    "word": " responsible",
+                    "start": 6.5,
+                    "end": 7.3,
+                    "probability": 0.21431387960910797
+                },
+                {
+                    "word": " and",
+                    "start": 7.3,
+                    "end": 7.54,
+                    "probability": 0.8773866891860962
+                },
+                {
+                    "word": " accountable",
+                    "start": 7.54,
+                    "end": 7.96,
+                    "probability": 0.8064437508583069
+                },
+                {
+                    "word": " particularly",
+                    "start": 7.96,
+                    "end": 8.82,
+                    "probability": 0.518902063369751
+                },
+                {
+                    "word": " for",
+                    "start": 8.82,
+                    "end": 9.22,
+                    "probability": 0.8946710824966431
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.22,
+            "end": 12.3,
+            "text": " Misinformation on their platforms. I mean",
+            "tokens": [
+                50866,
+                23240,
+                20941,
+                322,
+                641,
+                9473,
+                13,
+                286,
+                914,
+                50977
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.371107282136616,
+            "compression_ratio": 1.550561797752809,
+            "no_speech_prob": 0.001355681917630136,
+            "words": [
+                {
+                    "word": " Misinformation",
+                    "start": 9.22,
+                    "end": 10.26,
+                    "probability": 0.491623155772686
+                },
+                {
+                    "word": " on",
+                    "start": 10.26,
+                    "end": 10.94,
+                    "probability": 0.9057723879814148
+                },
+                {
+                    "word": " their",
+                    "start": 10.94,
+                    "end": 11.1,
+                    "probability": 0.894019365310669
+                },
+                {
+                    "word": " platforms.",
+                    "start": 11.1,
+                    "end": 11.68,
+                    "probability": 0.7180721759796143
+                },
+                {
+                    "word": " I",
+                    "start": 11.7,
+                    "end": 12.16,
+                    "probability": 0.9930341243743896
+                },
+                {
+                    "word": " mean",
+                    "start": 12.16,
+                    "end": 12.3,
+                    "probability": 0.9060550332069397
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.3,
+            "end": 16.66,
+            "text": " They're correct when they say this is dangerous perhaps",
+            "tokens": [
+                51014,
+                814,
+                434,
+                3006,
+                562,
+                436,
+                584,
+                341,
+                307,
+                5795,
+                4317,
+                51187
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.371107282136616,
+            "compression_ratio": 1.550561797752809,
+            "no_speech_prob": 0.001355681917630136,
+            "words": [
+                {
+                    "word": " They're",
+                    "start": 12.3,
+                    "end": 13.56,
+                    "probability": 0.5836056545376778
+                },
+                {
+                    "word": " correct",
+                    "start": 13.56,
+                    "end": 14.08,
+                    "probability": 0.8782235980033875
+                },
+                {
+                    "word": " when",
+                    "start": 14.08,
+                    "end": 14.28,
+                    "probability": 0.8334474563598633
+                },
+                {
+                    "word": " they",
+                    "start": 14.28,
+                    "end": 14.5,
+                    "probability": 0.7386283874511719
+                },
+                {
+                    "word": " say",
+                    "start": 14.5,
+                    "end": 14.86,
+                    "probability": 0.8932825326919556
+                },
+                {
+                    "word": " this",
+                    "start": 14.86,
+                    "end": 15.52,
+                    "probability": 0.8710559606552124
+                },
+                {
+                    "word": " is",
+                    "start": 15.52,
+                    "end": 15.74,
+                    "probability": 0.9073347449302673
+                },
+                {
+                    "word": " dangerous",
+                    "start": 15.74,
+                    "end": 16.16,
+                    "probability": 0.7763336896896362
+                },
+                {
+                    "word": " perhaps",
+                    "start": 16.16,
+                    "end": 16.66,
+                    "probability": 0.6996136903762817
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 16.66,
+            "end": 19.72,
+            "text": " On tik-tok because it's coming from a foreign",
+            "tokens": [
+                51220,
+                1282,
+                44994,
+                12,
+                83,
+                453,
+                570,
+                309,
+                311,
+                1348,
+                490,
+                257,
+                5329,
+                51352
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.371107282136616,
+            "compression_ratio": 1.550561797752809,
+            "no_speech_prob": 0.001355681917630136,
+            "words": [
+                {
+                    "word": " On",
+                    "start": 16.66,
+                    "end": 17.66,
+                    "probability": 0.2782559394836426
+                },
+                {
+                    "word": " tik",
+                    "start": 17.66,
+                    "end": 17.92,
+                    "probability": 0.4560651183128357
+                },
+                {
+                    "word": "-tok",
+                    "start": 17.92,
+                    "end": 18.16,
+                    "probability": 0.8989066680272421
+                },
+                {
+                    "word": " because",
+                    "start": 18.16,
+                    "end": 18.58,
+                    "probability": 0.8207765221595764
+                },
+                {
+                    "word": " it's",
+                    "start": 18.58,
+                    "end": 18.92,
+                    "probability": 0.9426888227462769
+                },
+                {
+                    "word": " coming",
+                    "start": 18.92,
+                    "end": 19.14,
+                    "probability": 0.8196327090263367
+                },
+                {
+                    "word": " from",
+                    "start": 19.14,
+                    "end": 19.32,
+                    "probability": 0.8169012665748596
+                },
+                {
+                    "word": " a",
+                    "start": 19.32,
+                    "end": 19.46,
+                    "probability": 0.9903168678283691
+                },
+                {
+                    "word": " foreign",
+                    "start": 19.46,
+                    "end": 19.72,
+                    "probability": 0.7985014915466309
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 19.72,
+            "end": 25.92,
+            "text": " Power, but what about Facebook? What about the last US election for example and the 2016 election?",
+            "tokens": [
+                51382,
+                7086,
+                11,
+                457,
+                437,
+                466,
+                4384,
+                30,
+                708,
+                466,
+                264,
+                1036,
+                2546,
+                6618,
+                337,
+                1365,
+                293,
+                264,
+                6549,
+                6618,
+                30,
+                51666
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.371107282136616,
+            "compression_ratio": 1.550561797752809,
+            "no_speech_prob": 0.001355681917630136,
+            "words": [
+                {
+                    "word": " Power,",
+                    "start": 19.72,
+                    "end": 21.04,
+                    "probability": 0.6722273826599121
+                },
+                {
+                    "word": " but",
+                    "start": 21.34,
+                    "end": 21.62,
+                    "probability": 0.8982425332069397
+                },
+                {
+                    "word": " what",
+                    "start": 21.62,
+                    "end": 21.76,
+                    "probability": 0.887891948223114
+                },
+                {
+                    "word": " about",
+                    "start": 21.76,
+                    "end": 21.98,
+                    "probability": 0.8184626698493958
+                },
+                {
+                    "word": " Facebook?",
+                    "start": 21.98,
+                    "end": 22.52,
+                    "probability": 0.749889612197876
+                },
+                {
+                    "word": " What",
+                    "start": 22.52,
+                    "end": 22.7,
+                    "probability": 0.8117735981941223
+                },
+                {
+                    "word": " about",
+                    "start": 22.7,
+                    "end": 22.86,
+                    "probability": 0.8146287798881531
+                },
+                {
+                    "word": " the",
+                    "start": 22.86,
+                    "end": 23.0,
+                    "probability": 0.8152362108230591
+                },
+                {
+                    "word": " last",
+                    "start": 23.0,
+                    "end": 23.24,
+                    "probability": 0.7967036366462708
+                },
+                {
+                    "word": " US",
+                    "start": 23.24,
+                    "end": 23.42,
+                    "probability": 0.5414385795593262
+                },
+                {
+                    "word": " election",
+                    "start": 23.42,
+                    "end": 23.84,
+                    "probability": 0.8765773773193359
+                },
+                {
+                    "word": " for",
+                    "start": 23.84,
+                    "end": 24.0,
+                    "probability": 0.49144792556762695
+                },
+                {
+                    "word": " example",
+                    "start": 24.0,
+                    "end": 24.4,
+                    "probability": 0.9029681086540222
+                },
+                {
+                    "word": " and",
+                    "start": 24.4,
+                    "end": 24.78,
+                    "probability": 0.5298137664794922
+                },
+                {
+                    "word": " the",
+                    "start": 24.78,
+                    "end": 25.02,
+                    "probability": 0.8054280281066895
+                },
+                {
+                    "word": " 2016",
+                    "start": 25.02,
+                    "end": 25.46,
+                    "probability": 0.7092056274414062
+                },
+                {
+                    "word": " election?",
+                    "start": 25.46,
+                    "end": 25.92,
+                    "probability": 0.8809994459152222
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2592,
+            "start": 25.92,
+            "end": 33.4,
+            "text": " We know that Facebook was used by Russia US intelligence has told us that they used Facebook to try to manipulate",
+            "tokens": [
+                50364,
+                492,
+                458,
+                300,
+                4384,
+                390,
+                1143,
+                538,
+                6797,
+                2546,
+                7599,
+                575,
+                1907,
+                505,
+                300,
+                436,
+                1143,
+                4384,
+                281,
+                853,
+                281,
+                20459,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3628686024592473,
+            "compression_ratio": 1.3385826771653544,
+            "no_speech_prob": 0.0032337133307009935,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 25.92,
+                    "end": 26.12,
+                    "probability": 0.6813004612922668
+                },
+                {
+                    "word": " know",
+                    "start": 26.12,
+                    "end": 26.36,
+                    "probability": 0.825426459312439
+                },
+                {
+                    "word": " that",
+                    "start": 26.36,
+                    "end": 26.52,
+                    "probability": 0.8737725615501404
+                },
+                {
+                    "word": " Facebook",
+                    "start": 26.52,
+                    "end": 26.92,
+                    "probability": 0.7763091325759888
+                },
+                {
+                    "word": " was",
+                    "start": 26.92,
+                    "end": 27.26,
+                    "probability": 0.894576370716095
+                },
+                {
+                    "word": " used",
+                    "start": 27.26,
+                    "end": 27.74,
+                    "probability": 0.8223596811294556
+                },
+                {
+                    "word": " by",
+                    "start": 27.74,
+                    "end": 28.16,
+                    "probability": 0.9011920094490051
+                },
+                {
+                    "word": " Russia",
+                    "start": 28.16,
+                    "end": 28.56,
+                    "probability": 0.8361716866493225
+                },
+                {
+                    "word": " US",
+                    "start": 28.56,
+                    "end": 28.92,
+                    "probability": 0.016107995063066483
+                },
+                {
+                    "word": " intelligence",
+                    "start": 28.92,
+                    "end": 29.38,
+                    "probability": 0.6061354279518127
+                },
+                {
+                    "word": " has",
+                    "start": 29.38,
+                    "end": 29.6,
+                    "probability": 0.8926340341567993
+                },
+                {
+                    "word": " told",
+                    "start": 29.6,
+                    "end": 29.8,
+                    "probability": 0.9138294458389282
+                },
+                {
+                    "word": " us",
+                    "start": 29.8,
+                    "end": 29.98,
+                    "probability": 0.9067135453224182
+                },
+                {
+                    "word": " that",
+                    "start": 29.98,
+                    "end": 30.36,
+                    "probability": 0.8794774413108826
+                },
+                {
+                    "word": " they",
+                    "start": 30.36,
+                    "end": 30.5,
+                    "probability": 0.7361497282981873
+                },
+                {
+                    "word": " used",
+                    "start": 30.5,
+                    "end": 30.94,
+                    "probability": 0.8109776973724365
+                },
+                {
+                    "word": " Facebook",
+                    "start": 30.94,
+                    "end": 31.42,
+                    "probability": 0.75782310962677
+                },
+                {
+                    "word": " to",
+                    "start": 31.42,
+                    "end": 32.22,
+                    "probability": 0.5620280504226685
+                },
+                {
+                    "word": " try",
+                    "start": 32.22,
+                    "end": 32.84,
+                    "probability": 0.7333378195762634
+                },
+                {
+                    "word": " to",
+                    "start": 32.84,
+                    "end": 32.98,
+                    "probability": 0.913684606552124
+                },
+                {
+                    "word": " manipulate",
+                    "start": 32.98,
+                    "end": 33.4,
+                    "probability": 0.9009654521942139
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2592,
+            "start": 33.4,
+            "end": 34.26,
+            "text": " the election",
+            "tokens": [
+                50736,
+                264,
+                6618,
+                50820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3628686024592473,
+            "compression_ratio": 1.3385826771653544,
+            "no_speech_prob": 0.0032337133307009935,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 33.4,
+                    "end": 33.86,
+                    "probability": 0.8069343566894531
+                },
+                {
+                    "word": " election",
+                    "start": 33.86,
+                    "end": 34.26,
+                    "probability": 0.8862265944480896
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2592,
+            "start": 34.26,
+            "end": 38.6,
+            "text": " Where was the fury from Congress over that?",
+            "tokens": [
+                50820,
+                2305,
+                390,
+                264,
+                48887,
+                490,
+                6426,
+                670,
+                300,
+                30,
+                50993
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3628686024592473,
+            "compression_ratio": 1.3385826771653544,
+            "no_speech_prob": 0.0032337133307009935,
+            "words": [
+                {
+                    "word": " Where",
+                    "start": 34.26,
+                    "end": 35.54,
+                    "probability": 0.5953055024147034
+                },
+                {
+                    "word": " was",
+                    "start": 35.54,
+                    "end": 35.78,
+                    "probability": 0.9056655168533325
+                },
+                {
+                    "word": " the",
+                    "start": 35.78,
+                    "end": 36.06,
+                    "probability": 0.817150354385376
+                },
+                {
+                    "word": " fury",
+                    "start": 36.06,
+                    "end": 36.44,
+                    "probability": 0.7595385313034058
+                },
+                {
+                    "word": " from",
+                    "start": 36.44,
+                    "end": 36.74,
+                    "probability": 0.809074878692627
+                },
+                {
+                    "word": " Congress",
+                    "start": 36.74,
+                    "end": 37.26,
+                    "probability": 0.8684558868408203
+                },
+                {
+                    "word": " over",
+                    "start": 37.26,
+                    "end": 38.14,
+                    "probability": 0.7393200397491455
+                },
+                {
+                    "word": " that?",
+                    "start": 38.14,
+                    "end": 38.6,
+                    "probability": 0.8421973586082458
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,612 @@
+{
+    "text": " And, Lisbeth, let me ask you about that before we run out of time. These two things, what do you see happening? Do you think that TikTok will be banned in the United States? And do you think TikTok is the company that is going to push Congress to change this Section 230 and, you know, hold these platforms responsible, make them liable for the content that's on their platforms?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " And, Lisbeth, let me ask you about that before we run out of time.",
+            "tokens": [
+                50364,
+                400,
+                11,
+                30812,
+                65,
+                3293,
+                11,
+                718,
+                385,
+                1029,
+                291,
+                466,
+                300,
+                949,
+                321,
+                1190,
+                484,
+                295,
+                565,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064584043837085,
+            "compression_ratio": 1.5857740585774058,
+            "no_speech_prob": 0.000858450192026794,
+            "words": [
+                {
+                    "word": " And,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.4811475872993469
+                },
+                {
+                    "word": " Lisbeth,",
+                    "start": 0.54,
+                    "end": 0.6,
+                    "probability": 0.5821575770775477
+                },
+                {
+                    "word": " let",
+                    "start": 0.66,
+                    "end": 0.78,
+                    "probability": 0.9038141965866089
+                },
+                {
+                    "word": " me",
+                    "start": 0.78,
+                    "end": 0.86,
+                    "probability": 0.9032481908798218
+                },
+                {
+                    "word": " ask",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.8209924101829529
+                },
+                {
+                    "word": " you",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.8915554881095886
+                },
+                {
+                    "word": " about",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.7901120781898499
+                },
+                {
+                    "word": " that",
+                    "start": 1.5,
+                    "end": 1.72,
+                    "probability": 0.8754518628120422
+                },
+                {
+                    "word": " before",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.709129273891449
+                },
+                {
+                    "word": " we",
+                    "start": 1.94,
+                    "end": 2.1,
+                    "probability": 0.8779354095458984
+                },
+                {
+                    "word": " run",
+                    "start": 2.1,
+                    "end": 2.22,
+                    "probability": 0.888202965259552
+                },
+                {
+                    "word": " out",
+                    "start": 2.22,
+                    "end": 2.38,
+                    "probability": 0.8178224563598633
+                },
+                {
+                    "word": " of",
+                    "start": 2.38,
+                    "end": 2.5,
+                    "probability": 0.9018837809562683
+                },
+                {
+                    "word": " time.",
+                    "start": 2.5,
+                    "end": 2.72,
+                    "probability": 0.8025850653648376
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.9,
+            "end": 5.18,
+            "text": " These two things, what do you see happening?",
+            "tokens": [
+                50516,
+                1981,
+                732,
+                721,
+                11,
+                437,
+                360,
+                291,
+                536,
+                2737,
+                30,
+                50630
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064584043837085,
+            "compression_ratio": 1.5857740585774058,
+            "no_speech_prob": 0.000858450192026794,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 2.9,
+                    "end": 3.12,
+                    "probability": 0.8143866658210754
+                },
+                {
+                    "word": " two",
+                    "start": 3.12,
+                    "end": 3.32,
+                    "probability": 0.8222840428352356
+                },
+                {
+                    "word": " things,",
+                    "start": 3.32,
+                    "end": 3.56,
+                    "probability": 0.7285762429237366
+                },
+                {
+                    "word": " what",
+                    "start": 3.74,
+                    "end": 4.3,
+                    "probability": 0.7064241170883179
+                },
+                {
+                    "word": " do",
+                    "start": 4.3,
+                    "end": 4.64,
+                    "probability": 0.8896429538726807
+                },
+                {
+                    "word": " you",
+                    "start": 4.64,
+                    "end": 4.72,
+                    "probability": 0.8991150856018066
+                },
+                {
+                    "word": " see",
+                    "start": 4.72,
+                    "end": 4.86,
+                    "probability": 0.8268462419509888
+                },
+                {
+                    "word": " happening?",
+                    "start": 4.86,
+                    "end": 5.18,
+                    "probability": 0.7535505890846252
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.3,
+            "end": 8.28,
+            "text": " Do you think that TikTok will be banned in the United States?",
+            "tokens": [
+                50630,
+                1144,
+                291,
+                519,
+                300,
+                20211,
+                486,
+                312,
+                19564,
+                294,
+                264,
+                2824,
+                3040,
+                30,
+                50788
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064584043837085,
+            "compression_ratio": 1.5857740585774058,
+            "no_speech_prob": 0.000858450192026794,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 5.3,
+                    "end": 5.42,
+                    "probability": 0.909555971622467
+                },
+                {
+                    "word": " you",
+                    "start": 5.42,
+                    "end": 5.58,
+                    "probability": 0.89325350522995
+                },
+                {
+                    "word": " think",
+                    "start": 5.58,
+                    "end": 5.78,
+                    "probability": 0.8095223903656006
+                },
+                {
+                    "word": " that",
+                    "start": 5.78,
+                    "end": 5.98,
+                    "probability": 0.877036452293396
+                },
+                {
+                    "word": " TikTok",
+                    "start": 5.98,
+                    "end": 6.2,
+                    "probability": 0.7687167525291443
+                },
+                {
+                    "word": " will",
+                    "start": 6.2,
+                    "end": 6.58,
+                    "probability": 0.8131012916564941
+                },
+                {
+                    "word": " be",
+                    "start": 6.58,
+                    "end": 6.76,
+                    "probability": 0.9021174311637878
+                },
+                {
+                    "word": " banned",
+                    "start": 6.76,
+                    "end": 7.12,
+                    "probability": 0.7463648915290833
+                },
+                {
+                    "word": " in",
+                    "start": 7.12,
+                    "end": 7.66,
+                    "probability": 0.8976632356643677
+                },
+                {
+                    "word": " the",
+                    "start": 7.66,
+                    "end": 7.76,
+                    "probability": 0.8168251514434814
+                },
+                {
+                    "word": " United",
+                    "start": 7.76,
+                    "end": 7.94,
+                    "probability": 0.8852283358573914
+                },
+                {
+                    "word": " States?",
+                    "start": 7.94,
+                    "end": 8.28,
+                    "probability": 0.8890437483787537
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.4,
+            "end": 14.84,
+            "text": " And do you think TikTok is the company that is going to push Congress to change this Section",
+            "tokens": [
+                50788,
+                400,
+                360,
+                291,
+                519,
+                20211,
+                307,
+                264,
+                2237,
+                300,
+                307,
+                516,
+                281,
+                2944,
+                6426,
+                281,
+                1319,
+                341,
+                21804,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064584043837085,
+            "compression_ratio": 1.5857740585774058,
+            "no_speech_prob": 0.000858450192026794,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.4,
+                    "end": 8.54,
+                    "probability": 0.8954511880874634
+                },
+                {
+                    "word": " do",
+                    "start": 8.54,
+                    "end": 8.68,
+                    "probability": 0.8842468857765198
+                },
+                {
+                    "word": " you",
+                    "start": 8.68,
+                    "end": 8.84,
+                    "probability": 0.8938459157943726
+                },
+                {
+                    "word": " think",
+                    "start": 8.84,
+                    "end": 9.06,
+                    "probability": 0.816863477230072
+                },
+                {
+                    "word": " TikTok",
+                    "start": 9.06,
+                    "end": 9.44,
+                    "probability": 0.9175795912742615
+                },
+                {
+                    "word": " is",
+                    "start": 9.44,
+                    "end": 10.62,
+                    "probability": 0.8947800993919373
+                },
+                {
+                    "word": " the",
+                    "start": 10.62,
+                    "end": 10.78,
+                    "probability": 0.8148869276046753
+                },
+                {
+                    "word": " company",
+                    "start": 10.78,
+                    "end": 11.02,
+                    "probability": 0.8009524941444397
+                },
+                {
+                    "word": " that",
+                    "start": 11.02,
+                    "end": 11.2,
+                    "probability": 0.8807343244552612
+                },
+                {
+                    "word": " is",
+                    "start": 11.2,
+                    "end": 11.32,
+                    "probability": 0.8968026041984558
+                },
+                {
+                    "word": " going",
+                    "start": 11.32,
+                    "end": 11.52,
+                    "probability": 0.8579704761505127
+                },
+                {
+                    "word": " to",
+                    "start": 11.52,
+                    "end": 11.68,
+                    "probability": 0.9016080498695374
+                },
+                {
+                    "word": " push",
+                    "start": 11.68,
+                    "end": 11.98,
+                    "probability": 0.8214472532272339
+                },
+                {
+                    "word": " Congress",
+                    "start": 11.98,
+                    "end": 12.7,
+                    "probability": 0.8393377065658569
+                },
+                {
+                    "word": " to",
+                    "start": 12.7,
+                    "end": 13.26,
+                    "probability": 0.9013169407844543
+                },
+                {
+                    "word": " change",
+                    "start": 13.26,
+                    "end": 13.9,
+                    "probability": 0.8429999947547913
+                },
+                {
+                    "word": " this",
+                    "start": 13.9,
+                    "end": 14.58,
+                    "probability": 0.8288911581039429
+                },
+                {
+                    "word": " Section",
+                    "start": 14.58,
+                    "end": 14.84,
+                    "probability": 0.5377269387245178
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.84,
+            "end": 21.28,
+            "text": " 230 and, you know, hold these platforms responsible, make them liable for the content that's on",
+            "tokens": [
+                51112,
+                35311,
+                293,
+                11,
+                291,
+                458,
+                11,
+                1797,
+                613,
+                9473,
+                6250,
+                11,
+                652,
+                552,
+                375,
+                712,
+                337,
+                264,
+                2701,
+                300,
+                311,
+                322,
+                51426
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064584043837085,
+            "compression_ratio": 1.5857740585774058,
+            "no_speech_prob": 0.000858450192026794,
+            "words": [
+                {
+                    "word": " 230",
+                    "start": 14.84,
+                    "end": 15.28,
+                    "probability": 0.9304236173629761
+                },
+                {
+                    "word": " and,",
+                    "start": 15.28,
+                    "end": 15.98,
+                    "probability": 0.7048242092132568
+                },
+                {
+                    "word": " you",
+                    "start": 16.02,
+                    "end": 16.82,
+                    "probability": 0.8838850855827332
+                },
+                {
+                    "word": " know,",
+                    "start": 16.82,
+                    "end": 16.92,
+                    "probability": 0.815690279006958
+                },
+                {
+                    "word": " hold",
+                    "start": 17.02,
+                    "end": 17.5,
+                    "probability": 0.8378662467002869
+                },
+                {
+                    "word": " these",
+                    "start": 17.5,
+                    "end": 17.96,
+                    "probability": 0.6922440528869629
+                },
+                {
+                    "word": " platforms",
+                    "start": 17.96,
+                    "end": 18.52,
+                    "probability": 0.7529722452163696
+                },
+                {
+                    "word": " responsible,",
+                    "start": 18.52,
+                    "end": 19.44,
+                    "probability": 0.842730700969696
+                },
+                {
+                    "word": " make",
+                    "start": 19.54,
+                    "end": 19.68,
+                    "probability": 0.8697999119758606
+                },
+                {
+                    "word": " them",
+                    "start": 19.68,
+                    "end": 19.86,
+                    "probability": 0.7461090683937073
+                },
+                {
+                    "word": " liable",
+                    "start": 19.86,
+                    "end": 20.22,
+                    "probability": 0.9255532026290894
+                },
+                {
+                    "word": " for",
+                    "start": 20.22,
+                    "end": 20.38,
+                    "probability": 0.8940639495849609
+                },
+                {
+                    "word": " the",
+                    "start": 20.38,
+                    "end": 20.54,
+                    "probability": 0.8187958002090454
+                },
+                {
+                    "word": " content",
+                    "start": 20.54,
+                    "end": 20.9,
+                    "probability": 0.8261569142341614
+                },
+                {
+                    "word": " that's",
+                    "start": 20.9,
+                    "end": 21.16,
+                    "probability": 0.9332368969917297
+                },
+                {
+                    "word": " on",
+                    "start": 21.16,
+                    "end": 21.28,
+                    "probability": 0.9106076955795288
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 21.28,
+            "end": 21.76,
+            "text": " their platforms?",
+            "tokens": [
+                51426,
+                641,
+                9473,
+                30,
+                51468
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064584043837085,
+            "compression_ratio": 1.5857740585774058,
+            "no_speech_prob": 0.000858450192026794,
+            "words": [
+                {
+                    "word": " their",
+                    "start": 21.28,
+                    "end": 21.42,
+                    "probability": 0.9070006608963013
+                },
+                {
+                    "word": " platforms?",
+                    "start": 21.42,
+                    "end": 21.76,
+                    "probability": 0.7389271855354309
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

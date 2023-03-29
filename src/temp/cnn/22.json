@@ -1,0 +1,45 @@
+{
+    "text": " The question is...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.58,
+            "text": " The question is...",
+            "tokens": [
+                50364,
+                440,
+                1168,
+                307,
+                485,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7517100742885044,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.6727231740951538,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.04,
+                    "probability": 0.17092561721801758
+                },
+                {
+                    "word": " question",
+                    "start": 0.04,
+                    "end": 0.26,
+                    "probability": 0.7565032243728638
+                },
+                {
+                    "word": " is...",
+                    "start": 0.26,
+                    "end": 0.58,
+                    "probability": 0.5474264696240425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

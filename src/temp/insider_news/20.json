@@ -1,0 +1,162 @@
+{
+    "text": " The Chinese Communist Party is engaged in psychological warfare through TikTok to deliberately influence U.S. children.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " The Chinese Communist Party is engaged in psychological warfare",
+            "tokens": [
+                50364,
+                440,
+                4649,
+                23253,
+                8552,
+                307,
+                8237,
+                294,
+                14346,
+                24490,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46595340728759765,
+            "compression_ratio": 1.1333333333333333,
+            "no_speech_prob": 0.000511138467118144,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.6300199627876282
+                },
+                {
+                    "word": " Chinese",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.7711403369903564
+                },
+                {
+                    "word": " Communist",
+                    "start": 0.78,
+                    "end": 1.16,
+                    "probability": 0.7432715892791748
+                },
+                {
+                    "word": " Party",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.8064013719558716
+                },
+                {
+                    "word": " is",
+                    "start": 1.48,
+                    "end": 1.68,
+                    "probability": 0.7656678557395935
+                },
+                {
+                    "word": " engaged",
+                    "start": 1.68,
+                    "end": 2.18,
+                    "probability": 0.7852989435195923
+                },
+                {
+                    "word": " in",
+                    "start": 2.18,
+                    "end": 2.44,
+                    "probability": 0.9064102172851562
+                },
+                {
+                    "word": " psychological",
+                    "start": 2.44,
+                    "end": 3.1,
+                    "probability": 0.8792364001274109
+                },
+                {
+                    "word": " warfare",
+                    "start": 3.1,
+                    "end": 3.8,
+                    "probability": 0.8549659848213196
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8,
+            "end": 9.24,
+            "text": " through TikTok to deliberately influence U.S. children.",
+            "tokens": [
+                50596,
+                807,
+                20211,
+                281,
+                23506,
+                6503,
+                624,
+                13,
+                50,
+                13,
+                2227,
+                13,
+                50836
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46595340728759765,
+            "compression_ratio": 1.1333333333333333,
+            "no_speech_prob": 0.000511138467118144,
+            "words": [
+                {
+                    "word": " through",
+                    "start": 3.8,
+                    "end": 5.08,
+                    "probability": 0.6984539031982422
+                },
+                {
+                    "word": " TikTok",
+                    "start": 5.08,
+                    "end": 5.58,
+                    "probability": 0.7244482636451721
+                },
+                {
+                    "word": " to",
+                    "start": 5.58,
+                    "end": 6.34,
+                    "probability": 0.832313060760498
+                },
+                {
+                    "word": " deliberately",
+                    "start": 6.34,
+                    "end": 6.9,
+                    "probability": 0.8243120312690735
+                },
+                {
+                    "word": " influence",
+                    "start": 6.9,
+                    "end": 7.88,
+                    "probability": 0.8342597484588623
+                },
+                {
+                    "word": " U",
+                    "start": 7.88,
+                    "end": 8.62,
+                    "probability": 0.5170498490333557
+                },
+                {
+                    "word": ".S.",
+                    "start": 8.62,
+                    "end": 8.82,
+                    "probability": 0.9980887770652771
+                },
+                {
+                    "word": " children.",
+                    "start": 8.92,
+                    "end": 9.24,
+                    "probability": 0.6474146842956543
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

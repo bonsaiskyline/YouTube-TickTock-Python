@@ -1,0 +1,567 @@
+{
+    "text": " Lawmakers today, they took TikTok to task for not doing what it promises when it comes to content moderation. I want you to take a listen to what Congresswoman Kat Kamig from Florida said after she shared a threat that was posted on TikTok against the committee chairwoman. And that threat, by the way, that is still posted on TikTok today. Take a listen.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8,
+            "end": 5.54,
+            "text": " Lawmakers today, they took TikTok to task for not doing what it promises when it comes",
+            "tokens": [
+                50364,
+                7744,
+                15870,
+                965,
+                11,
+                436,
+                1890,
+                20211,
+                281,
+                5633,
+                337,
+                406,
+                884,
+                437,
+                309,
+                16403,
+                562,
+                309,
+                1487,
+                50640
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2772518071261319,
+            "compression_ratio": 1.6435185185185186,
+            "no_speech_prob": 0.00027571796090342104,
+            "words": [
+                {
+                    "word": " Lawmakers",
+                    "start": 0.8,
+                    "end": 1.28,
+                    "probability": 0.5737735778093338
+                },
+                {
+                    "word": " today,",
+                    "start": 1.28,
+                    "end": 1.5,
+                    "probability": 0.6880115866661072
+                },
+                {
+                    "word": " they",
+                    "start": 1.7,
+                    "end": 1.92,
+                    "probability": 0.741100013256073
+                },
+                {
+                    "word": " took",
+                    "start": 1.92,
+                    "end": 2.5,
+                    "probability": 0.7378520369529724
+                },
+                {
+                    "word": " TikTok",
+                    "start": 2.5,
+                    "end": 2.96,
+                    "probability": 0.6004914045333862
+                },
+                {
+                    "word": " to",
+                    "start": 2.96,
+                    "end": 3.16,
+                    "probability": 0.8999300599098206
+                },
+                {
+                    "word": " task",
+                    "start": 3.16,
+                    "end": 3.54,
+                    "probability": 0.8492999076843262
+                },
+                {
+                    "word": " for",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.8656057715415955
+                },
+                {
+                    "word": " not",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.8933215141296387
+                },
+                {
+                    "word": " doing",
+                    "start": 4.06,
+                    "end": 4.44,
+                    "probability": 0.9146623611450195
+                },
+                {
+                    "word": " what",
+                    "start": 4.44,
+                    "end": 4.6,
+                    "probability": 0.8865829110145569
+                },
+                {
+                    "word": " it",
+                    "start": 4.6,
+                    "end": 4.72,
+                    "probability": 0.8998777270317078
+                },
+                {
+                    "word": " promises",
+                    "start": 4.72,
+                    "end": 5.0,
+                    "probability": 0.8108845353126526
+                },
+                {
+                    "word": " when",
+                    "start": 5.0,
+                    "end": 5.24,
+                    "probability": 0.851214587688446
+                },
+                {
+                    "word": " it",
+                    "start": 5.24,
+                    "end": 5.34,
+                    "probability": 0.9081083536148071
+                },
+                {
+                    "word": " comes",
+                    "start": 5.34,
+                    "end": 5.54,
+                    "probability": 0.8252955675125122
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.54,
+            "end": 6.44,
+            "text": " to content moderation.",
+            "tokens": [
+                50640,
+                281,
+                2701,
+                49471,
+                13,
+                50690
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2772518071261319,
+            "compression_ratio": 1.6435185185185186,
+            "no_speech_prob": 0.00027571796090342104,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 5.54,
+                    "end": 5.68,
+                    "probability": 0.9071659445762634
+                },
+                {
+                    "word": " content",
+                    "start": 5.68,
+                    "end": 5.98,
+                    "probability": 0.8430343866348267
+                },
+                {
+                    "word": " moderation.",
+                    "start": 5.98,
+                    "end": 6.44,
+                    "probability": 0.8686848282814026
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.04,
+            "end": 13.44,
+            "text": " I want you to take a listen to what Congresswoman Kat Kamig from Florida said after she shared",
+            "tokens": [
+                50690,
+                286,
+                528,
+                291,
+                281,
+                747,
+                257,
+                2140,
+                281,
+                437,
+                6426,
+                18339,
+                8365,
+                11934,
+                328,
+                490,
+                9117,
+                848,
+                934,
+                750,
+                5507,
+                51040
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2772518071261319,
+            "compression_ratio": 1.6435185185185186,
+            "no_speech_prob": 0.00027571796090342104,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 7.04,
+                    "end": 7.1,
+                    "probability": 0.9905879497528076
+                },
+                {
+                    "word": " want",
+                    "start": 7.1,
+                    "end": 7.22,
+                    "probability": 0.8154416680335999
+                },
+                {
+                    "word": " you",
+                    "start": 7.22,
+                    "end": 7.28,
+                    "probability": 0.8967267274856567
+                },
+                {
+                    "word": " to",
+                    "start": 7.28,
+                    "end": 7.38,
+                    "probability": 0.9018668532371521
+                },
+                {
+                    "word": " take",
+                    "start": 7.38,
+                    "end": 7.5,
+                    "probability": 0.7842885851860046
+                },
+                {
+                    "word": " a",
+                    "start": 7.5,
+                    "end": 7.6,
+                    "probability": 0.9983189702033997
+                },
+                {
+                    "word": " listen",
+                    "start": 7.6,
+                    "end": 7.78,
+                    "probability": 0.7522504329681396
+                },
+                {
+                    "word": " to",
+                    "start": 7.78,
+                    "end": 8.0,
+                    "probability": 0.9039772748947144
+                },
+                {
+                    "word": " what",
+                    "start": 8.0,
+                    "end": 8.26,
+                    "probability": 0.890619695186615
+                },
+                {
+                    "word": " Congresswoman",
+                    "start": 8.26,
+                    "end": 9.36,
+                    "probability": 0.84630286693573
+                },
+                {
+                    "word": " Kat",
+                    "start": 9.36,
+                    "end": 9.8,
+                    "probability": 0.6730980277061462
+                },
+                {
+                    "word": " Kamig",
+                    "start": 9.8,
+                    "end": 10.34,
+                    "probability": 0.5355894267559052
+                },
+                {
+                    "word": " from",
+                    "start": 10.34,
+                    "end": 10.54,
+                    "probability": 0.7895259261131287
+                },
+                {
+                    "word": " Florida",
+                    "start": 10.54,
+                    "end": 11.08,
+                    "probability": 0.8458992838859558
+                },
+                {
+                    "word": " said",
+                    "start": 11.08,
+                    "end": 11.64,
+                    "probability": 0.8435922265052795
+                },
+                {
+                    "word": " after",
+                    "start": 11.64,
+                    "end": 12.08,
+                    "probability": 0.6991069316864014
+                },
+                {
+                    "word": " she",
+                    "start": 12.08,
+                    "end": 12.94,
+                    "probability": 0.806747555732727
+                },
+                {
+                    "word": " shared",
+                    "start": 12.94,
+                    "end": 13.44,
+                    "probability": 0.7400912642478943
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.44,
+            "end": 18.18,
+            "text": " a threat that was posted on TikTok against the committee chairwoman.",
+            "tokens": [
+                51040,
+                257,
+                4734,
+                300,
+                390,
+                9437,
+                322,
+                20211,
+                1970,
+                264,
+                7482,
+                6090,
+                18339,
+                13,
+                51286
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2772518071261319,
+            "compression_ratio": 1.6435185185185186,
+            "no_speech_prob": 0.00027571796090342104,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 13.44,
+                    "end": 13.76,
+                    "probability": 0.99894779920578
+                },
+                {
+                    "word": " threat",
+                    "start": 13.76,
+                    "end": 14.26,
+                    "probability": 0.802748441696167
+                },
+                {
+                    "word": " that",
+                    "start": 14.26,
+                    "end": 14.6,
+                    "probability": 0.8713125586509705
+                },
+                {
+                    "word": " was",
+                    "start": 14.6,
+                    "end": 14.78,
+                    "probability": 0.8978092670440674
+                },
+                {
+                    "word": " posted",
+                    "start": 14.78,
+                    "end": 15.16,
+                    "probability": 0.8063794374465942
+                },
+                {
+                    "word": " on",
+                    "start": 15.16,
+                    "end": 15.42,
+                    "probability": 0.9001689553260803
+                },
+                {
+                    "word": " TikTok",
+                    "start": 15.42,
+                    "end": 15.8,
+                    "probability": 0.8920338749885559
+                },
+                {
+                    "word": " against",
+                    "start": 15.8,
+                    "end": 16.5,
+                    "probability": 0.8688947558403015
+                },
+                {
+                    "word": " the",
+                    "start": 16.5,
+                    "end": 16.82,
+                    "probability": 0.8134573698043823
+                },
+                {
+                    "word": " committee",
+                    "start": 16.82,
+                    "end": 17.24,
+                    "probability": 0.7617194056510925
+                },
+                {
+                    "word": " chairwoman.",
+                    "start": 17.24,
+                    "end": 18.18,
+                    "probability": 0.8900762796401978
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.38,
+            "end": 21.96,
+            "text": " And that threat, by the way, that is still posted on TikTok today.",
+            "tokens": [
+                51286,
+                400,
+                300,
+                4734,
+                11,
+                538,
+                264,
+                636,
+                11,
+                300,
+                307,
+                920,
+                9437,
+                322,
+                20211,
+                965,
+                13,
+                51475
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2772518071261319,
+            "compression_ratio": 1.6435185185185186,
+            "no_speech_prob": 0.00027571796090342104,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 18.38,
+                    "end": 18.44,
+                    "probability": 0.5937176942825317
+                },
+                {
+                    "word": " that",
+                    "start": 18.44,
+                    "end": 18.74,
+                    "probability": 0.865141749382019
+                },
+                {
+                    "word": " threat,",
+                    "start": 18.74,
+                    "end": 18.98,
+                    "probability": 0.7968333959579468
+                },
+                {
+                    "word": " by",
+                    "start": 19.08,
+                    "end": 19.14,
+                    "probability": 0.9128148555755615
+                },
+                {
+                    "word": " the",
+                    "start": 19.14,
+                    "end": 19.24,
+                    "probability": 0.8139241337776184
+                },
+                {
+                    "word": " way,",
+                    "start": 19.24,
+                    "end": 19.36,
+                    "probability": 0.8933277130126953
+                },
+                {
+                    "word": " that",
+                    "start": 19.4,
+                    "end": 19.5,
+                    "probability": 0.8313020467758179
+                },
+                {
+                    "word": " is",
+                    "start": 19.5,
+                    "end": 19.58,
+                    "probability": 0.8532938957214355
+                },
+                {
+                    "word": " still",
+                    "start": 19.58,
+                    "end": 19.8,
+                    "probability": 0.9214085936546326
+                },
+                {
+                    "word": " posted",
+                    "start": 19.8,
+                    "end": 20.22,
+                    "probability": 0.7815009951591492
+                },
+                {
+                    "word": " on",
+                    "start": 20.22,
+                    "end": 20.56,
+                    "probability": 0.9021031856536865
+                },
+                {
+                    "word": " TikTok",
+                    "start": 20.56,
+                    "end": 21.04,
+                    "probability": 0.9152926802635193
+                },
+                {
+                    "word": " today.",
+                    "start": 21.04,
+                    "end": 21.96,
+                    "probability": 0.7797945141792297
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 22.08,
+            "end": 22.52,
+            "text": " Take a listen.",
+            "tokens": [
+                51475,
+                3664,
+                257,
+                2140,
+                13,
+                51492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2772518071261319,
+            "compression_ratio": 1.6435185185185186,
+            "no_speech_prob": 0.00027571796090342104,
+            "words": [
+                {
+                    "word": " Take",
+                    "start": 22.08,
+                    "end": 22.24,
+                    "probability": 0.8167447447776794
+                },
+                {
+                    "word": " a",
+                    "start": 22.24,
+                    "end": 22.36,
+                    "probability": 0.9992557168006897
+                },
+                {
+                    "word": " listen.",
+                    "start": 22.36,
+                    "end": 22.52,
+                    "probability": 0.7688699960708618
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

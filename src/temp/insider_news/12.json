@@ -1,0 +1,321 @@
+{
+    "text": " We are very focused on safety and all these stages, challenges, move when we find them. There are more than 150 million Americans who love our platform. And we know we have a responsibility to protect them.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " We are very focused on safety and all these stages, challenges, move when we find them.",
+            "tokens": [
+                50364,
+                492,
+                366,
+                588,
+                5178,
+                322,
+                4514,
+                293,
+                439,
+                613,
+                10232,
+                11,
+                4759,
+                11,
+                1286,
+                562,
+                321,
+                915,
+                552,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44813666051747847,
+            "compression_ratio": 1.355263157894737,
+            "no_speech_prob": 0.13672688603401184,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6679906845092773
+                },
+                {
+                    "word": " are",
+                    "start": 0.3,
+                    "end": 0.4,
+                    "probability": 0.8354665637016296
+                },
+                {
+                    "word": " very",
+                    "start": 0.4,
+                    "end": 0.56,
+                    "probability": 0.7337091565132141
+                },
+                {
+                    "word": " focused",
+                    "start": 0.56,
+                    "end": 0.86,
+                    "probability": 0.7610136866569519
+                },
+                {
+                    "word": " on",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9140196442604065
+                },
+                {
+                    "word": " safety",
+                    "start": 1.04,
+                    "end": 1.38,
+                    "probability": 0.9096025228500366
+                },
+                {
+                    "word": " and",
+                    "start": 1.38,
+                    "end": 1.96,
+                    "probability": 0.5603139400482178
+                },
+                {
+                    "word": " all",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.7240934371948242
+                },
+                {
+                    "word": " these",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.6437942385673523
+                },
+                {
+                    "word": " stages,",
+                    "start": 2.66,
+                    "end": 2.96,
+                    "probability": 0.2548127770423889
+                },
+                {
+                    "word": " challenges,",
+                    "start": 3.08,
+                    "end": 3.48,
+                    "probability": 0.6770773530006409
+                },
+                {
+                    "word": " move",
+                    "start": 4.0,
+                    "end": 4.14,
+                    "probability": 0.201410174369812
+                },
+                {
+                    "word": " when",
+                    "start": 4.14,
+                    "end": 4.28,
+                    "probability": 0.3882382810115814
+                },
+                {
+                    "word": " we",
+                    "start": 4.28,
+                    "end": 4.4,
+                    "probability": 0.8960579037666321
+                },
+                {
+                    "word": " find",
+                    "start": 4.4,
+                    "end": 4.62,
+                    "probability": 0.8237648010253906
+                },
+                {
+                    "word": " them.",
+                    "start": 4.62,
+                    "end": 4.76,
+                    "probability": 0.736561119556427
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.88,
+            "end": 8.2,
+            "text": " There are more than 150 million Americans who love our platform.",
+            "tokens": [
+                50604,
+                821,
+                366,
+                544,
+                813,
+                8451,
+                2459,
+                6280,
+                567,
+                959,
+                527,
+                3663,
+                13,
+                50798
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44813666051747847,
+            "compression_ratio": 1.355263157894737,
+            "no_speech_prob": 0.13672688603401184,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 4.88,
+                    "end": 4.94,
+                    "probability": 0.7564893364906311
+                },
+                {
+                    "word": " are",
+                    "start": 4.94,
+                    "end": 5.08,
+                    "probability": 0.8905981183052063
+                },
+                {
+                    "word": " more",
+                    "start": 5.08,
+                    "end": 5.24,
+                    "probability": 0.8904420733451843
+                },
+                {
+                    "word": " than",
+                    "start": 5.24,
+                    "end": 5.4,
+                    "probability": 0.8792740702629089
+                },
+                {
+                    "word": " 150",
+                    "start": 5.4,
+                    "end": 6.16,
+                    "probability": 0.6589466333389282
+                },
+                {
+                    "word": " million",
+                    "start": 6.16,
+                    "end": 6.66,
+                    "probability": 0.7694371938705444
+                },
+                {
+                    "word": " Americans",
+                    "start": 6.66,
+                    "end": 7.08,
+                    "probability": 0.7545750141143799
+                },
+                {
+                    "word": " who",
+                    "start": 7.08,
+                    "end": 7.38,
+                    "probability": 0.7952332496643066
+                },
+                {
+                    "word": " love",
+                    "start": 7.38,
+                    "end": 7.68,
+                    "probability": 0.8716593980789185
+                },
+                {
+                    "word": " our",
+                    "start": 7.68,
+                    "end": 7.82,
+                    "probability": 0.81941157579422
+                },
+                {
+                    "word": " platform.",
+                    "start": 7.82,
+                    "end": 8.2,
+                    "probability": 0.8357310891151428
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.72,
+            "end": 11.42,
+            "text": " And we know we have a responsibility to protect them.",
+            "tokens": [
+                50798,
+                400,
+                321,
+                458,
+                321,
+                362,
+                257,
+                6357,
+                281,
+                2371,
+                552,
+                13,
+                50936
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44813666051747847,
+            "compression_ratio": 1.355263157894737,
+            "no_speech_prob": 0.13672688603401184,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.72,
+                    "end": 8.82,
+                    "probability": 0.8752943277359009
+                },
+                {
+                    "word": " we",
+                    "start": 8.82,
+                    "end": 9.0,
+                    "probability": 0.9044167995452881
+                },
+                {
+                    "word": " know",
+                    "start": 9.0,
+                    "end": 9.28,
+                    "probability": 0.8130383491516113
+                },
+                {
+                    "word": " we",
+                    "start": 9.28,
+                    "end": 9.78,
+                    "probability": 0.8485792279243469
+                },
+                {
+                    "word": " have",
+                    "start": 9.78,
+                    "end": 9.92,
+                    "probability": 0.8800427317619324
+                },
+                {
+                    "word": " a",
+                    "start": 9.92,
+                    "end": 10.02,
+                    "probability": 0.9920759201049805
+                },
+                {
+                    "word": " responsibility",
+                    "start": 10.02,
+                    "end": 10.62,
+                    "probability": 0.8885155916213989
+                },
+                {
+                    "word": " to",
+                    "start": 10.62,
+                    "end": 10.98,
+                    "probability": 0.9101641774177551
+                },
+                {
+                    "word": " protect",
+                    "start": 10.98,
+                    "end": 11.28,
+                    "probability": 0.7935654520988464
+                },
+                {
+                    "word": " them.",
+                    "start": 11.28,
+                    "end": 11.42,
+                    "probability": 0.7481732964515686
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

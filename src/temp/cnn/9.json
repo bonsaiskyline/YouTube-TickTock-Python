@@ -1,0 +1,156 @@
+{
+    "text": " Why, if you had nothing to hide, would you need to downplay the association with ByteDance in China?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 6.58,
+            "text": " Why, if you had nothing to hide, would you need to downplay the association with ByteDance in China?",
+            "tokens": [
+                50364,
+                1545,
+                11,
+                498,
+                291,
+                632,
+                1825,
+                281,
+                6479,
+                11,
+                576,
+                291,
+                643,
+                281,
+                760,
+                2858,
+                264,
+                14598,
+                365,
+                3146,
+                975,
+                35,
+                719,
+                294,
+                3533,
+                30,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3209707055773054,
+            "compression_ratio": 1.1111111111111112,
+            "no_speech_prob": 0.0010237239766865969,
+            "words": [
+                {
+                    "word": " Why,",
+                    "start": 0.08,
+                    "end": 0.52,
+                    "probability": 0.688937246799469
+                },
+                {
+                    "word": " if",
+                    "start": 0.68,
+                    "end": 0.76,
+                    "probability": 0.900536298751831
+                },
+                {
+                    "word": " you",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.8932863473892212
+                },
+                {
+                    "word": " had",
+                    "start": 0.94,
+                    "end": 1.12,
+                    "probability": 0.8085252046585083
+                },
+                {
+                    "word": " nothing",
+                    "start": 1.12,
+                    "end": 1.46,
+                    "probability": 0.847454845905304
+                },
+                {
+                    "word": " to",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9037528038024902
+                },
+                {
+                    "word": " hide,",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.803403913974762
+                },
+                {
+                    "word": " would",
+                    "start": 2.18,
+                    "end": 2.32,
+                    "probability": 0.8561771512031555
+                },
+                {
+                    "word": " you",
+                    "start": 2.32,
+                    "end": 2.44,
+                    "probability": 0.8964553475379944
+                },
+                {
+                    "word": " need",
+                    "start": 2.44,
+                    "end": 2.64,
+                    "probability": 0.8099482655525208
+                },
+                {
+                    "word": " to",
+                    "start": 2.64,
+                    "end": 2.82,
+                    "probability": 0.9048529267311096
+                },
+                {
+                    "word": " downplay",
+                    "start": 2.82,
+                    "end": 3.96,
+                    "probability": 0.9519078135490417
+                },
+                {
+                    "word": " the",
+                    "start": 3.96,
+                    "end": 4.46,
+                    "probability": 0.8173661828041077
+                },
+                {
+                    "word": " association",
+                    "start": 4.46,
+                    "end": 5.04,
+                    "probability": 0.818769097328186
+                },
+                {
+                    "word": " with",
+                    "start": 5.04,
+                    "end": 5.54,
+                    "probability": 0.8126022219657898
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 5.54,
+                    "end": 6.1,
+                    "probability": 0.8008916079998016
+                },
+                {
+                    "word": " in",
+                    "start": 6.1,
+                    "end": 6.26,
+                    "probability": 0.6102018356323242
+                },
+                {
+                    "word": " China?",
+                    "start": 6.26,
+                    "end": 6.58,
+                    "probability": 0.8617726564407349
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

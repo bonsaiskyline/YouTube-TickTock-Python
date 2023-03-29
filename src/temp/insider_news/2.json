@@ -1,0 +1,146 @@
+{
+    "text": " Why do you need to know what the eyes are if you're not seeing if they're dilated?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " Why do you need to know what the eyes are if you're not seeing if they're dilated?",
+            "tokens": [
+                50364,
+                1545,
+                360,
+                291,
+                643,
+                281,
+                458,
+                437,
+                264,
+                2575,
+                366,
+                498,
+                291,
+                434,
+                406,
+                2577,
+                498,
+                436,
+                434,
+                11504,
+                770,
+                30,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2575509349505107,
+            "compression_ratio": 1.0933333333333333,
+            "no_speech_prob": 0.050485286861658096,
+            "words": [
+                {
+                    "word": " Why",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6471266150474548
+                },
+                {
+                    "word": " do",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9024967551231384
+                },
+                {
+                    "word": " you",
+                    "start": 0.36,
+                    "end": 0.48,
+                    "probability": 0.8924334049224854
+                },
+                {
+                    "word": " need",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.803637683391571
+                },
+                {
+                    "word": " to",
+                    "start": 0.62,
+                    "end": 0.72,
+                    "probability": 0.9090064764022827
+                },
+                {
+                    "word": " know",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.8247430920600891
+                },
+                {
+                    "word": " what",
+                    "start": 0.86,
+                    "end": 1.0,
+                    "probability": 0.8632691502571106
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.8093711137771606
+                },
+                {
+                    "word": " eyes",
+                    "start": 1.12,
+                    "end": 1.3,
+                    "probability": 0.7820128202438354
+                },
+                {
+                    "word": " are",
+                    "start": 1.3,
+                    "end": 1.5,
+                    "probability": 0.8950082659721375
+                },
+                {
+                    "word": " if",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.8186604976654053
+                },
+                {
+                    "word": " you're",
+                    "start": 1.64,
+                    "end": 1.74,
+                    "probability": 0.8914424180984497
+                },
+                {
+                    "word": " not",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.9004080891609192
+                },
+                {
+                    "word": " seeing",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.8142794966697693
+                },
+                {
+                    "word": " if",
+                    "start": 2.16,
+                    "end": 2.3,
+                    "probability": 0.827788770198822
+                },
+                {
+                    "word": " they're",
+                    "start": 2.3,
+                    "end": 2.46,
+                    "probability": 0.8371303975582123
+                },
+                {
+                    "word": " dilated?",
+                    "start": 2.46,
+                    "end": 2.96,
+                    "probability": 0.9443450570106506
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

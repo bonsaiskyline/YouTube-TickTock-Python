@@ -1,0 +1,329 @@
+{
+    "text": " I mean the CCP holds a what's called a golden share invite dance that allows the CCP to control one board seat invite dance That's public. It's not correct. It's not correct. It's been publicly reported. They admitted to it",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.68,
+            "text": " I mean the CCP holds a what's called a golden share invite dance that allows the CCP to control one board seat invite dance",
+            "tokens": [
+                50364,
+                286,
+                914,
+                264,
+                27876,
+                9190,
+                257,
+                437,
+                311,
+                1219,
+                257,
+                9729,
+                2073,
+                7980,
+                4489,
+                300,
+                4045,
+                264,
+                27876,
+                281,
+                1969,
+                472,
+                3150,
+                6121,
+                7980,
+                4489,
+                50738
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34358575608995223,
+            "compression_ratio": 1.5704225352112675,
+            "no_speech_prob": 0.04916304349899292,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.369123637676239
+                },
+                {
+                    "word": " mean",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.9231005311012268
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.5353502631187439
+                },
+                {
+                    "word": " CCP",
+                    "start": 0.64,
+                    "end": 0.96,
+                    "probability": 0.7515799403190613
+                },
+                {
+                    "word": " holds",
+                    "start": 0.96,
+                    "end": 1.34,
+                    "probability": 0.8084208369255066
+                },
+                {
+                    "word": " a",
+                    "start": 1.34,
+                    "end": 1.52,
+                    "probability": 0.6986876130104065
+                },
+                {
+                    "word": " what's",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.8289876282215118
+                },
+                {
+                    "word": " called",
+                    "start": 1.74,
+                    "end": 1.86,
+                    "probability": 0.8178350925445557
+                },
+                {
+                    "word": " a",
+                    "start": 1.86,
+                    "end": 1.98,
+                    "probability": 0.9777635335922241
+                },
+                {
+                    "word": " golden",
+                    "start": 1.98,
+                    "end": 2.28,
+                    "probability": 0.4411284923553467
+                },
+                {
+                    "word": " share",
+                    "start": 2.28,
+                    "end": 2.78,
+                    "probability": 0.7959485054016113
+                },
+                {
+                    "word": " invite",
+                    "start": 2.78,
+                    "end": 3.56,
+                    "probability": 0.6882519721984863
+                },
+                {
+                    "word": " dance",
+                    "start": 3.56,
+                    "end": 4.02,
+                    "probability": 0.8464727997779846
+                },
+                {
+                    "word": " that",
+                    "start": 4.02,
+                    "end": 4.28,
+                    "probability": 0.8308731317520142
+                },
+                {
+                    "word": " allows",
+                    "start": 4.28,
+                    "end": 4.6,
+                    "probability": 0.7952994704246521
+                },
+                {
+                    "word": " the",
+                    "start": 4.6,
+                    "end": 4.78,
+                    "probability": 0.8080089688301086
+                },
+                {
+                    "word": " CCP",
+                    "start": 4.78,
+                    "end": 5.16,
+                    "probability": 0.8014935851097107
+                },
+                {
+                    "word": " to",
+                    "start": 5.16,
+                    "end": 5.42,
+                    "probability": 0.9006642699241638
+                },
+                {
+                    "word": " control",
+                    "start": 5.42,
+                    "end": 5.82,
+                    "probability": 0.6528674960136414
+                },
+                {
+                    "word": " one",
+                    "start": 5.82,
+                    "end": 6.22,
+                    "probability": 0.8098083734512329
+                },
+                {
+                    "word": " board",
+                    "start": 6.22,
+                    "end": 6.5,
+                    "probability": 0.8428253531455994
+                },
+                {
+                    "word": " seat",
+                    "start": 6.5,
+                    "end": 6.8,
+                    "probability": 0.8924533128738403
+                },
+                {
+                    "word": " invite",
+                    "start": 6.8,
+                    "end": 7.16,
+                    "probability": 0.8410655856132507
+                },
+                {
+                    "word": " dance",
+                    "start": 7.16,
+                    "end": 7.68,
+                    "probability": 0.7973383069038391
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.68,
+            "end": 11.84,
+            "text": " That's public. It's not correct. It's not correct. It's been publicly reported. They admitted to it",
+            "tokens": [
+                50744,
+                663,
+                311,
+                1908,
+                13,
+                467,
+                311,
+                406,
+                3006,
+                13,
+                467,
+                311,
+                406,
+                3006,
+                13,
+                467,
+                311,
+                668,
+                14843,
+                7055,
+                13,
+                814,
+                14920,
+                281,
+                309,
+                50950
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34358575608995223,
+            "compression_ratio": 1.5704225352112675,
+            "no_speech_prob": 0.04916304349899292,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 7.68,
+                    "end": 8.22,
+                    "probability": 0.746481254696846
+                },
+                {
+                    "word": " public.",
+                    "start": 8.22,
+                    "end": 8.46,
+                    "probability": 0.3906644582748413
+                },
+                {
+                    "word": " It's",
+                    "start": 8.58,
+                    "end": 8.72,
+                    "probability": 0.8015163838863373
+                },
+                {
+                    "word": " not",
+                    "start": 8.72,
+                    "end": 8.82,
+                    "probability": 0.8876011967658997
+                },
+                {
+                    "word": " correct.",
+                    "start": 8.82,
+                    "end": 9.14,
+                    "probability": 0.7912347912788391
+                },
+                {
+                    "word": " It's",
+                    "start": 9.4,
+                    "end": 9.72,
+                    "probability": 0.8664601147174835
+                },
+                {
+                    "word": " not",
+                    "start": 9.72,
+                    "end": 9.84,
+                    "probability": 0.8285279870033264
+                },
+                {
+                    "word": " correct.",
+                    "start": 9.84,
+                    "end": 10.08,
+                    "probability": 0.6229814887046814
+                },
+                {
+                    "word": " It's",
+                    "start": 10.14,
+                    "end": 10.32,
+                    "probability": 0.8792190849781036
+                },
+                {
+                    "word": " been",
+                    "start": 10.32,
+                    "end": 10.42,
+                    "probability": 0.7313016653060913
+                },
+                {
+                    "word": " publicly",
+                    "start": 10.42,
+                    "end": 10.68,
+                    "probability": 0.8077454566955566
+                },
+                {
+                    "word": " reported.",
+                    "start": 10.68,
+                    "end": 11.1,
+                    "probability": 0.7935786247253418
+                },
+                {
+                    "word": " They",
+                    "start": 11.24,
+                    "end": 11.28,
+                    "probability": 0.6880378127098083
+                },
+                {
+                    "word": " admitted",
+                    "start": 11.28,
+                    "end": 11.54,
+                    "probability": 0.6235357522964478
+                },
+                {
+                    "word": " to",
+                    "start": 11.54,
+                    "end": 11.72,
+                    "probability": 0.9040325880050659
+                },
+                {
+                    "word": " it",
+                    "start": 11.72,
+                    "end": 11.84,
+                    "probability": 0.9097432494163513
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

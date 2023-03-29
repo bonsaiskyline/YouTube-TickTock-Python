@@ -1,0 +1,151 @@
+{
+    "text": " The question is, are you 100% certain that they cannot use your company to promote such messages?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " The question is, are you 100% certain that they cannot use your company to promote such messages?",
+            "tokens": [
+                50364,
+                440,
+                1168,
+                307,
+                11,
+                366,
+                291,
+                2319,
+                4,
+                1629,
+                300,
+                436,
+                2644,
+                764,
+                428,
+                2237,
+                281,
+                9773,
+                1270,
+                7897,
+                30,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3326865071835725,
+            "compression_ratio": 1.1022727272727273,
+            "no_speech_prob": 0.0008995092357508838,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7277442812919617
+                },
+                {
+                    "word": " question",
+                    "start": 0.18,
+                    "end": 0.64,
+                    "probability": 0.7945055961608887
+                },
+                {
+                    "word": " is,",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9078717827796936
+                },
+                {
+                    "word": " are",
+                    "start": 0.94,
+                    "end": 0.98,
+                    "probability": 0.8396245837211609
+                },
+                {
+                    "word": " you",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.8999781608581543
+                },
+                {
+                    "word": " 100",
+                    "start": 1.14,
+                    "end": 1.48,
+                    "probability": 0.8456040620803833
+                },
+                {
+                    "word": "%",
+                    "start": 1.48,
+                    "end": 1.92,
+                    "probability": 0.8184977769851685
+                },
+                {
+                    "word": " certain",
+                    "start": 1.92,
+                    "end": 2.36,
+                    "probability": 0.8186467885971069
+                },
+                {
+                    "word": " that",
+                    "start": 2.36,
+                    "end": 2.84,
+                    "probability": 0.8707892298698425
+                },
+                {
+                    "word": " they",
+                    "start": 2.84,
+                    "end": 2.98,
+                    "probability": 0.7435732483863831
+                },
+                {
+                    "word": " cannot",
+                    "start": 2.98,
+                    "end": 3.24,
+                    "probability": 0.810110330581665
+                },
+                {
+                    "word": " use",
+                    "start": 3.24,
+                    "end": 3.58,
+                    "probability": 0.8314880132675171
+                },
+                {
+                    "word": " your",
+                    "start": 3.58,
+                    "end": 3.74,
+                    "probability": 0.8137780427932739
+                },
+                {
+                    "word": " company",
+                    "start": 3.74,
+                    "end": 4.18,
+                    "probability": 0.8115902543067932
+                },
+                {
+                    "word": " to",
+                    "start": 4.18,
+                    "end": 5.2,
+                    "probability": 0.8995653390884399
+                },
+                {
+                    "word": " promote",
+                    "start": 5.2,
+                    "end": 5.52,
+                    "probability": 0.8887427449226379
+                },
+                {
+                    "word": " such",
+                    "start": 5.52,
+                    "end": 5.78,
+                    "probability": 0.8961770534515381
+                },
+                {
+                    "word": " messages?",
+                    "start": 5.78,
+                    "end": 6.14,
+                    "probability": 0.8363797664642334
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

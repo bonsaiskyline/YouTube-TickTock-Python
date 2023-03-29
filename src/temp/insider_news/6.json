@@ -1,0 +1,468 @@
+{
+    "text": " We rely on age gating as our key age assurance. Age? Gating, which is when you ask the user what age they are. We have also developed some tools where we look at their public profile to go through the videos that they post to see whether... Boy, that's creepy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.68,
+            "end": 3.38,
+            "text": " We rely on age gating as our key age assurance.",
+            "tokens": [
+                50364,
+                492,
+                10687,
+                322,
+                3205,
+                290,
+                990,
+                382,
+                527,
+                2141,
+                3205,
+                32189,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43278072304921605,
+            "compression_ratio": 1.4857142857142858,
+            "no_speech_prob": 0.08923474699258804,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.3637373745441437
+                },
+                {
+                    "word": " rely",
+                    "start": 1.12,
+                    "end": 1.1,
+                    "probability": 0.8230935335159302
+                },
+                {
+                    "word": " on",
+                    "start": 1.1,
+                    "end": 1.56,
+                    "probability": 0.9101464748382568
+                },
+                {
+                    "word": " age",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.6761043667793274
+                },
+                {
+                    "word": " gating",
+                    "start": 1.84,
+                    "end": 2.22,
+                    "probability": 0.89696004986763
+                },
+                {
+                    "word": " as",
+                    "start": 2.22,
+                    "end": 2.5,
+                    "probability": 0.8054810166358948
+                },
+                {
+                    "word": " our",
+                    "start": 2.5,
+                    "end": 2.64,
+                    "probability": 0.7649623155593872
+                },
+                {
+                    "word": " key",
+                    "start": 2.64,
+                    "end": 2.86,
+                    "probability": 0.8382433652877808
+                },
+                {
+                    "word": " age",
+                    "start": 2.86,
+                    "end": 3.06,
+                    "probability": 0.7928808331489563
+                },
+                {
+                    "word": " assurance.",
+                    "start": 3.06,
+                    "end": 3.38,
+                    "probability": 0.8024570345878601
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.58,
+            "end": 3.72,
+            "text": " Age?",
+            "tokens": [
+                50532,
+                16280,
+                30,
+                50557
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43278072304921605,
+            "compression_ratio": 1.4857142857142858,
+            "no_speech_prob": 0.08923474699258804,
+            "words": [
+                {
+                    "word": " Age?",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.7123658061027527
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.88,
+            "end": 6.5,
+            "text": " Gating, which is when you ask the user what age they are.",
+            "tokens": [
+                50557,
+                460,
+                990,
+                11,
+                597,
+                307,
+                562,
+                291,
+                1029,
+                264,
+                4195,
+                437,
+                3205,
+                436,
+                366,
+                13,
+                50697
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43278072304921605,
+            "compression_ratio": 1.4857142857142858,
+            "no_speech_prob": 0.08923474699258804,
+            "words": [
+                {
+                    "word": " Gating,",
+                    "start": 3.88,
+                    "end": 4.32,
+                    "probability": 0.8866048157215118
+                },
+                {
+                    "word": " which",
+                    "start": 4.44,
+                    "end": 4.54,
+                    "probability": 0.908291220664978
+                },
+                {
+                    "word": " is",
+                    "start": 4.54,
+                    "end": 4.64,
+                    "probability": 0.9055373072624207
+                },
+                {
+                    "word": " when",
+                    "start": 4.64,
+                    "end": 4.76,
+                    "probability": 0.8701279163360596
+                },
+                {
+                    "word": " you",
+                    "start": 4.76,
+                    "end": 4.88,
+                    "probability": 0.8964678049087524
+                },
+                {
+                    "word": " ask",
+                    "start": 4.88,
+                    "end": 5.2,
+                    "probability": 0.8029950261116028
+                },
+                {
+                    "word": " the",
+                    "start": 5.2,
+                    "end": 5.42,
+                    "probability": 0.7853579521179199
+                },
+                {
+                    "word": " user",
+                    "start": 5.42,
+                    "end": 5.68,
+                    "probability": 0.8173661828041077
+                },
+                {
+                    "word": " what",
+                    "start": 5.68,
+                    "end": 5.9,
+                    "probability": 0.8692753314971924
+                },
+                {
+                    "word": " age",
+                    "start": 5.9,
+                    "end": 6.14,
+                    "probability": 0.9111255407333374
+                },
+                {
+                    "word": " they",
+                    "start": 6.14,
+                    "end": 6.28,
+                    "probability": 0.7395380139350891
+                },
+                {
+                    "word": " are.",
+                    "start": 6.28,
+                    "end": 6.5,
+                    "probability": 0.8936669826507568
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.92,
+            "end": 10.02,
+            "text": " We have also developed some tools where we look at their public profile",
+            "tokens": [
+                50697,
+                492,
+                362,
+                611,
+                4743,
+                512,
+                3873,
+                689,
+                321,
+                574,
+                412,
+                641,
+                1908,
+                7964,
+                50872
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43278072304921605,
+            "compression_ratio": 1.4857142857142858,
+            "no_speech_prob": 0.08923474699258804,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 6.92,
+                    "end": 7.18,
+                    "probability": 0.9033650159835815
+                },
+                {
+                    "word": " have",
+                    "start": 7.18,
+                    "end": 7.28,
+                    "probability": 0.7506409883499146
+                },
+                {
+                    "word": " also",
+                    "start": 7.28,
+                    "end": 7.48,
+                    "probability": 0.8130372166633606
+                },
+                {
+                    "word": " developed",
+                    "start": 7.48,
+                    "end": 7.88,
+                    "probability": 0.6565297245979309
+                },
+                {
+                    "word": " some",
+                    "start": 7.88,
+                    "end": 8.12,
+                    "probability": 0.8059723973274231
+                },
+                {
+                    "word": " tools",
+                    "start": 8.12,
+                    "end": 8.5,
+                    "probability": 0.7767402529716492
+                },
+                {
+                    "word": " where",
+                    "start": 8.5,
+                    "end": 8.72,
+                    "probability": 0.7893842458724976
+                },
+                {
+                    "word": " we",
+                    "start": 8.72,
+                    "end": 8.88,
+                    "probability": 0.9042699933052063
+                },
+                {
+                    "word": " look",
+                    "start": 8.88,
+                    "end": 9.06,
+                    "probability": 0.9080573916435242
+                },
+                {
+                    "word": " at",
+                    "start": 9.06,
+                    "end": 9.16,
+                    "probability": 0.9084057807922363
+                },
+                {
+                    "word": " their",
+                    "start": 9.16,
+                    "end": 9.28,
+                    "probability": 0.7160094976425171
+                },
+                {
+                    "word": " public",
+                    "start": 9.28,
+                    "end": 9.56,
+                    "probability": 0.8772324323654175
+                },
+                {
+                    "word": " profile",
+                    "start": 9.56,
+                    "end": 10.02,
+                    "probability": 0.8627659678459167
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.02,
+            "end": 13.22,
+            "text": " to go through the videos that they post to see whether...",
+            "tokens": [
+                50872,
+                281,
+                352,
+                807,
+                264,
+                2145,
+                300,
+                436,
+                2183,
+                281,
+                536,
+                1968,
+                485,
+                51022
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43278072304921605,
+            "compression_ratio": 1.4857142857142858,
+            "no_speech_prob": 0.08923474699258804,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 10.02,
+                    "end": 11.02,
+                    "probability": 0.6621220707893372
+                },
+                {
+                    "word": " go",
+                    "start": 11.02,
+                    "end": 11.2,
+                    "probability": 0.8989773988723755
+                },
+                {
+                    "word": " through",
+                    "start": 11.2,
+                    "end": 11.4,
+                    "probability": 0.8004425764083862
+                },
+                {
+                    "word": " the",
+                    "start": 11.4,
+                    "end": 11.58,
+                    "probability": 0.795708417892456
+                },
+                {
+                    "word": " videos",
+                    "start": 11.58,
+                    "end": 11.84,
+                    "probability": 0.857755184173584
+                },
+                {
+                    "word": " that",
+                    "start": 11.84,
+                    "end": 12.0,
+                    "probability": 0.8360099792480469
+                },
+                {
+                    "word": " they",
+                    "start": 12.0,
+                    "end": 12.12,
+                    "probability": 0.7391018867492676
+                },
+                {
+                    "word": " post",
+                    "start": 12.12,
+                    "end": 12.44,
+                    "probability": 0.8065218329429626
+                },
+                {
+                    "word": " to",
+                    "start": 12.44,
+                    "end": 12.64,
+                    "probability": 0.81671541929245
+                },
+                {
+                    "word": " see",
+                    "start": 12.64,
+                    "end": 12.84,
+                    "probability": 0.8135664463043213
+                },
+                {
+                    "word": " whether...",
+                    "start": 12.84,
+                    "end": 13.22,
+                    "probability": 0.5770875960588455
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.22,
+            "end": 13.98,
+            "text": " Boy, that's creepy.",
+            "tokens": [
+                51022,
+                9486,
+                11,
+                300,
+                311,
+                14717,
+                13,
+                51072
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43278072304921605,
+            "compression_ratio": 1.4857142857142858,
+            "no_speech_prob": 0.08923474699258804,
+            "words": [
+                {
+                    "word": " Boy,",
+                    "start": 13.22,
+                    "end": 13.3,
+                    "probability": 0.3197253942489624
+                },
+                {
+                    "word": " that's",
+                    "start": 13.32,
+                    "end": 13.62,
+                    "probability": 0.9400035440921783
+                },
+                {
+                    "word": " creepy.",
+                    "start": 13.62,
+                    "end": 13.98,
+                    "probability": 0.688959538936615
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

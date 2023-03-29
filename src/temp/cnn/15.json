@@ -1,0 +1,286 @@
+{
+    "text": " There are more than 150 million Americans who love our platform, and we know we have a responsibility to protect them. We will firewall protected U.S. data from unwanted foreign access.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " There are more than 150 million Americans who love our platform,",
+            "tokens": [
+                50364,
+                821,
+                366,
+                544,
+                813,
+                8451,
+                2459,
+                6280,
+                567,
+                959,
+                527,
+                3663,
+                11,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.323853536085649,
+            "compression_ratio": 1.2937062937062938,
+            "no_speech_prob": 0.005384364165365696,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7424607276916504
+                },
+                {
+                    "word": " are",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.8880347609519958
+                },
+                {
+                    "word": " more",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.8874785900115967
+                },
+                {
+                    "word": " than",
+                    "start": 0.46,
+                    "end": 0.62,
+                    "probability": 0.8762286305427551
+                },
+                {
+                    "word": " 150",
+                    "start": 0.62,
+                    "end": 1.38,
+                    "probability": 0.736046314239502
+                },
+                {
+                    "word": " million",
+                    "start": 1.38,
+                    "end": 1.86,
+                    "probability": 0.7688672542572021
+                },
+                {
+                    "word": " Americans",
+                    "start": 1.86,
+                    "end": 2.3,
+                    "probability": 0.7440356016159058
+                },
+                {
+                    "word": " who",
+                    "start": 2.3,
+                    "end": 2.58,
+                    "probability": 0.8032633662223816
+                },
+                {
+                    "word": " love",
+                    "start": 2.58,
+                    "end": 2.9,
+                    "probability": 0.8771422505378723
+                },
+                {
+                    "word": " our",
+                    "start": 2.9,
+                    "end": 3.04,
+                    "probability": 0.8180215358734131
+                },
+                {
+                    "word": " platform,",
+                    "start": 3.04,
+                    "end": 3.42,
+                    "probability": 0.8216530084609985
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.72,
+            "end": 6.68,
+            "text": " and we know we have a responsibility to protect them.",
+            "tokens": [
+                50556,
+                293,
+                321,
+                458,
+                321,
+                362,
+                257,
+                6357,
+                281,
+                2371,
+                552,
+                13,
+                50722
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.323853536085649,
+            "compression_ratio": 1.2937062937062938,
+            "no_speech_prob": 0.005384364165365696,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 3.72,
+                    "end": 4.04,
+                    "probability": 0.8935646414756775
+                },
+                {
+                    "word": " we",
+                    "start": 4.04,
+                    "end": 4.2,
+                    "probability": 0.9079549908638
+                },
+                {
+                    "word": " know",
+                    "start": 4.2,
+                    "end": 4.5,
+                    "probability": 0.8137450218200684
+                },
+                {
+                    "word": " we",
+                    "start": 4.5,
+                    "end": 5.0,
+                    "probability": 0.8974015116691589
+                },
+                {
+                    "word": " have",
+                    "start": 5.0,
+                    "end": 5.12,
+                    "probability": 0.8798416256904602
+                },
+                {
+                    "word": " a",
+                    "start": 5.12,
+                    "end": 5.24,
+                    "probability": 0.9917470216751099
+                },
+                {
+                    "word": " responsibility",
+                    "start": 5.24,
+                    "end": 5.82,
+                    "probability": 0.8958688974380493
+                },
+                {
+                    "word": " to",
+                    "start": 5.82,
+                    "end": 6.2,
+                    "probability": 0.9096130728721619
+                },
+                {
+                    "word": " protect",
+                    "start": 6.2,
+                    "end": 6.5,
+                    "probability": 0.7898749709129333
+                },
+                {
+                    "word": " them.",
+                    "start": 6.5,
+                    "end": 6.68,
+                    "probability": 0.7414364218711853
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.24,
+            "end": 11.18,
+            "text": " We will firewall protected U.S. data from unwanted foreign access.",
+            "tokens": [
+                50722,
+                492,
+                486,
+                36109,
+                10594,
+                624,
+                13,
+                50,
+                13,
+                1412,
+                490,
+                33745,
+                5329,
+                2105,
+                13,
+                50928
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.323853536085649,
+            "compression_ratio": 1.2937062937062938,
+            "no_speech_prob": 0.005384364165365696,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 7.24,
+                    "end": 7.36,
+                    "probability": 0.9178239703178406
+                },
+                {
+                    "word": " will",
+                    "start": 7.36,
+                    "end": 7.5,
+                    "probability": 0.799545168876648
+                },
+                {
+                    "word": " firewall",
+                    "start": 7.5,
+                    "end": 8.04,
+                    "probability": 0.8631395101547241
+                },
+                {
+                    "word": " protected",
+                    "start": 8.04,
+                    "end": 8.62,
+                    "probability": 0.5733358860015869
+                },
+                {
+                    "word": " U",
+                    "start": 8.62,
+                    "end": 8.88,
+                    "probability": 0.5561689734458923
+                },
+                {
+                    "word": ".S.",
+                    "start": 8.88,
+                    "end": 9.04,
+                    "probability": 0.9959426820278168
+                },
+                {
+                    "word": " data",
+                    "start": 9.08,
+                    "end": 9.32,
+                    "probability": 0.7808457016944885
+                },
+                {
+                    "word": " from",
+                    "start": 9.32,
+                    "end": 10.0,
+                    "probability": 0.8214668035507202
+                },
+                {
+                    "word": " unwanted",
+                    "start": 10.0,
+                    "end": 10.52,
+                    "probability": 0.9025470614433289
+                },
+                {
+                    "word": " foreign",
+                    "start": 10.52,
+                    "end": 10.82,
+                    "probability": 0.8333160877227783
+                },
+                {
+                    "word": " access.",
+                    "start": 10.82,
+                    "end": 11.18,
+                    "probability": 0.8069174885749817
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

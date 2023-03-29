@@ -1,0 +1,67 @@
+{
+    "text": " The Chinese business is called Douyin.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " The Chinese business is called Douyin.",
+            "tokens": [
+                50364,
+                440,
+                4649,
+                1606,
+                307,
+                1219,
+                13200,
+                30354,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4083321744745428,
+            "compression_ratio": 0.8837209302325582,
+            "no_speech_prob": 0.025111056864261627,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6210853457450867
+                },
+                {
+                    "word": " Chinese",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.791263222694397
+                },
+                {
+                    "word": " business",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.8470777273178101
+                },
+                {
+                    "word": " is",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9040053486824036
+                },
+                {
+                    "word": " called",
+                    "start": 1.18,
+                    "end": 1.62,
+                    "probability": 0.8388777375221252
+                },
+                {
+                    "word": " Douyin.",
+                    "start": 1.62,
+                    "end": 1.98,
+                    "probability": 0.7178509682416916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

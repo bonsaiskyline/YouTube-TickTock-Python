@@ -1,0 +1,225 @@
+{
+    "text": " One of the most memorable moments of the day came when Representative Kamek showed a TikTok video that she said threatened the life of Representative Rogers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.42,
+            "text": " One of the most memorable moments of the day came when Representative Kamek showed a TikTok",
+            "tokens": [
+                50364,
+                1485,
+                295,
+                264,
+                881,
+                20723,
+                6065,
+                295,
+                264,
+                786,
+                1361,
+                562,
+                33421,
+                591,
+                529,
+                74,
+                4712,
+                257,
+                20211,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.292817564571605,
+            "compression_ratio": 1.3652173913043477,
+            "no_speech_prob": 0.011757156811654568,
+            "words": [
+                {
+                    "word": " One",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4664531648159027
+                },
+                {
+                    "word": " of",
+                    "start": 0.18,
+                    "end": 0.26,
+                    "probability": 0.9049704074859619
+                },
+                {
+                    "word": " the",
+                    "start": 0.26,
+                    "end": 0.38,
+                    "probability": 0.8173568248748779
+                },
+                {
+                    "word": " most",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.8305342793464661
+                },
+                {
+                    "word": " memorable",
+                    "start": 0.54,
+                    "end": 0.96,
+                    "probability": 0.6700601577758789
+                },
+                {
+                    "word": " moments",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.9147130846977234
+                },
+                {
+                    "word": " of",
+                    "start": 1.38,
+                    "end": 1.54,
+                    "probability": 0.8971086144447327
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.66,
+                    "probability": 0.8204572200775146
+                },
+                {
+                    "word": " day",
+                    "start": 1.66,
+                    "end": 1.88,
+                    "probability": 0.9171488881111145
+                },
+                {
+                    "word": " came",
+                    "start": 1.88,
+                    "end": 2.24,
+                    "probability": 0.7841007709503174
+                },
+                {
+                    "word": " when",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.8588042855262756
+                },
+                {
+                    "word": " Representative",
+                    "start": 2.5,
+                    "end": 3.06,
+                    "probability": 0.5726813673973083
+                },
+                {
+                    "word": " Kamek",
+                    "start": 3.06,
+                    "end": 3.54,
+                    "probability": 0.8572140336036682
+                },
+                {
+                    "word": " showed",
+                    "start": 3.54,
+                    "end": 3.92,
+                    "probability": 0.8055644035339355
+                },
+                {
+                    "word": " a",
+                    "start": 3.92,
+                    "end": 4.16,
+                    "probability": 0.9948203563690186
+                },
+                {
+                    "word": " TikTok",
+                    "start": 4.16,
+                    "end": 4.42,
+                    "probability": 0.7614137530326843
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.42,
+            "end": 7.78,
+            "text": " video that she said threatened the life of Representative Rogers.",
+            "tokens": [
+                50592,
+                960,
+                300,
+                750,
+                848,
+                18268,
+                264,
+                993,
+                295,
+                33421,
+                29877,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.292817564571605,
+            "compression_ratio": 1.3652173913043477,
+            "no_speech_prob": 0.011757156811654568,
+            "words": [
+                {
+                    "word": " video",
+                    "start": 4.42,
+                    "end": 4.8,
+                    "probability": 0.7728349566459656
+                },
+                {
+                    "word": " that",
+                    "start": 4.8,
+                    "end": 5.02,
+                    "probability": 0.856745719909668
+                },
+                {
+                    "word": " she",
+                    "start": 5.02,
+                    "end": 5.28,
+                    "probability": 0.8032850623130798
+                },
+                {
+                    "word": " said",
+                    "start": 5.28,
+                    "end": 5.66,
+                    "probability": 0.8777323961257935
+                },
+                {
+                    "word": " threatened",
+                    "start": 5.66,
+                    "end": 6.26,
+                    "probability": 0.7803107500076294
+                },
+                {
+                    "word": " the",
+                    "start": 6.26,
+                    "end": 6.46,
+                    "probability": 0.814362108707428
+                },
+                {
+                    "word": " life",
+                    "start": 6.46,
+                    "end": 6.76,
+                    "probability": 0.8277347087860107
+                },
+                {
+                    "word": " of",
+                    "start": 6.76,
+                    "end": 6.94,
+                    "probability": 0.9076666235923767
+                },
+                {
+                    "word": " Representative",
+                    "start": 6.94,
+                    "end": 7.42,
+                    "probability": 0.8141118884086609
+                },
+                {
+                    "word": " Rogers.",
+                    "start": 7.42,
+                    "end": 7.78,
+                    "probability": 0.6088426113128662
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

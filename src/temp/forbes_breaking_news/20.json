@@ -1,0 +1,81 @@
+{
+    "text": " I run TikTok. I cannot represent this business.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 3.54,
+            "text": " I run TikTok. I cannot represent this business.",
+            "tokens": [
+                50364,
+                286,
+                1190,
+                20211,
+                13,
+                286,
+                2644,
+                2906,
+                341,
+                1606,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6220809496366061,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.19795440137386322,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.08,
+                    "end": 0.78,
+                    "probability": 0.15609654784202576
+                },
+                {
+                    "word": " run",
+                    "start": 0.78,
+                    "end": 1.24,
+                    "probability": 0.8553760647773743
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.4256569445133209
+                },
+                {
+                    "word": " I",
+                    "start": 1.9,
+                    "end": 2.0,
+                    "probability": 0.9735667109489441
+                },
+                {
+                    "word": " cannot",
+                    "start": 2.0,
+                    "end": 2.5,
+                    "probability": 0.6930146813392639
+                },
+                {
+                    "word": " represent",
+                    "start": 2.5,
+                    "end": 2.96,
+                    "probability": 0.6632497906684875
+                },
+                {
+                    "word": " this",
+                    "start": 2.96,
+                    "end": 3.32,
+                    "probability": 0.281703382730484
+                },
+                {
+                    "word": " business.",
+                    "start": 3.32,
+                    "end": 3.54,
+                    "probability": 0.9015580415725708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

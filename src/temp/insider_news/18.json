@@ -1,0 +1,116 @@
+{
+    "text": " That's fine, but there are employees of yours and by dances in China",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 3.38,
+            "text": " That's fine, but there are employees of yours and by dances in China",
+            "tokens": [
+                50364,
+                663,
+                311,
+                2489,
+                11,
+                457,
+                456,
+                366,
+                6619,
+                295,
+                6342,
+                293,
+                538,
+                28322,
+                294,
+                3533,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39258209864298504,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.17289333045482635,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.8473975360393524
+                },
+                {
+                    "word": " fine,",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9115109443664551
+                },
+                {
+                    "word": " but",
+                    "start": 0.8,
+                    "end": 1.12,
+                    "probability": 0.8997799754142761
+                },
+                {
+                    "word": " there",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.8594546914100647
+                },
+                {
+                    "word": " are",
+                    "start": 1.38,
+                    "end": 1.58,
+                    "probability": 0.8981680274009705
+                },
+                {
+                    "word": " employees",
+                    "start": 1.58,
+                    "end": 2.04,
+                    "probability": 0.7125706076622009
+                },
+                {
+                    "word": " of",
+                    "start": 2.04,
+                    "end": 2.2,
+                    "probability": 0.9078196883201599
+                },
+                {
+                    "word": " yours",
+                    "start": 2.2,
+                    "end": 2.4,
+                    "probability": 0.7564215064048767
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.6,
+                    "probability": 0.7930245995521545
+                },
+                {
+                    "word": " by",
+                    "start": 2.6,
+                    "end": 2.72,
+                    "probability": 0.5375182032585144
+                },
+                {
+                    "word": " dances",
+                    "start": 2.72,
+                    "end": 3.04,
+                    "probability": 0.8931534290313721
+                },
+                {
+                    "word": " in",
+                    "start": 3.04,
+                    "end": 3.24,
+                    "probability": 0.8760884404182434
+                },
+                {
+                    "word": " China",
+                    "start": 3.24,
+                    "end": 3.38,
+                    "probability": 0.7233386039733887
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

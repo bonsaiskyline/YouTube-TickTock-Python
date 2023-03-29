@@ -1,0 +1,1057 @@
+{
+    "text": " we begin the day with what could be the ultimate TikTok challenge that TikTok will probably lose. Today, TikTok's CEO went to Washington to tell lawmakers that they have nothing to fear from his social media platform that almost half of all Americans now use. The fact that TikTok is owned by a Chinese company, that at the end of the day, a company that answers to the Chinese Communist Party, well, that is not relevant inside the U.S. That was the CEO's position, and it was the position that lawmakers shot down one by one. Either TikTok is sold, which the Chinese government says is a non-starter, or Congress may just ban TikTok altogether. We have more now on today's TikTok troubles from Capitol Hill.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.34,
+            "text": " we begin the day with what could be the ultimate TikTok challenge that TikTok will probably lose.",
+            "tokens": [
+                50364,
+                321,
+                1841,
+                264,
+                786,
+                365,
+                437,
+                727,
+                312,
+                264,
+                9705,
+                20211,
+                3430,
+                300,
+                20211,
+                486,
+                1391,
+                3624,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2090824800379136,
+            "compression_ratio": 1.6462882096069869,
+            "no_speech_prob": 0.014393489807844162,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.25409889221191406
+                },
+                {
+                    "word": " begin",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.7589873671531677
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.74,
+                    "probability": 0.8054243922233582
+                },
+                {
+                    "word": " day",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9001930356025696
+                },
+                {
+                    "word": " with",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.8193469643592834
+                },
+                {
+                    "word": " what",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.8752980828285217
+                },
+                {
+                    "word": " could",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.8116639852523804
+                },
+                {
+                    "word": " be",
+                    "start": 1.66,
+                    "end": 1.82,
+                    "probability": 0.9022462368011475
+                },
+                {
+                    "word": " the",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.8100259304046631
+                },
+                {
+                    "word": " ultimate",
+                    "start": 2.04,
+                    "end": 2.38,
+                    "probability": 0.8817201852798462
+                },
+                {
+                    "word": " TikTok",
+                    "start": 2.38,
+                    "end": 2.84,
+                    "probability": 0.6274614334106445
+                },
+                {
+                    "word": " challenge",
+                    "start": 2.84,
+                    "end": 3.72,
+                    "probability": 0.7868671417236328
+                },
+                {
+                    "word": " that",
+                    "start": 3.72,
+                    "end": 4.04,
+                    "probability": 0.841727077960968
+                },
+                {
+                    "word": " TikTok",
+                    "start": 4.04,
+                    "end": 4.82,
+                    "probability": 0.8967273235321045
+                },
+                {
+                    "word": " will",
+                    "start": 4.82,
+                    "end": 5.18,
+                    "probability": 0.8133362531661987
+                },
+                {
+                    "word": " probably",
+                    "start": 5.18,
+                    "end": 5.7,
+                    "probability": 0.9048677086830139
+                },
+                {
+                    "word": " lose.",
+                    "start": 5.7,
+                    "end": 6.34,
+                    "probability": 0.7947588562965393
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.72,
+            "end": 11.46,
+            "text": " Today, TikTok's CEO went to Washington to tell lawmakers that they have nothing to fear from",
+            "tokens": [
+                50700,
+                2692,
+                11,
+                20211,
+                311,
+                9282,
+                1437,
+                281,
+                6149,
+                281,
+                980,
+                40988,
+                300,
+                436,
+                362,
+                1825,
+                281,
+                4240,
+                490,
+                50932
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2090824800379136,
+            "compression_ratio": 1.6462882096069869,
+            "no_speech_prob": 0.014393489807844162,
+            "words": [
+                {
+                    "word": " Today,",
+                    "start": 6.72,
+                    "end": 7.14,
+                    "probability": 0.8569900989532471
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 7.28,
+                    "end": 7.8,
+                    "probability": 0.8100547194480896
+                },
+                {
+                    "word": " CEO",
+                    "start": 7.8,
+                    "end": 8.14,
+                    "probability": 0.8455042839050293
+                },
+                {
+                    "word": " went",
+                    "start": 8.14,
+                    "end": 8.52,
+                    "probability": 0.7978234887123108
+                },
+                {
+                    "word": " to",
+                    "start": 8.52,
+                    "end": 8.68,
+                    "probability": 0.9125328660011292
+                },
+                {
+                    "word": " Washington",
+                    "start": 8.68,
+                    "end": 9.1,
+                    "probability": 0.8481419086456299
+                },
+                {
+                    "word": " to",
+                    "start": 9.1,
+                    "end": 9.38,
+                    "probability": 0.899572491645813
+                },
+                {
+                    "word": " tell",
+                    "start": 9.38,
+                    "end": 9.54,
+                    "probability": 0.828791618347168
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 9.54,
+                    "end": 9.94,
+                    "probability": 0.8061741590499878
+                },
+                {
+                    "word": " that",
+                    "start": 9.94,
+                    "end": 10.24,
+                    "probability": 0.8578641414642334
+                },
+                {
+                    "word": " they",
+                    "start": 10.24,
+                    "end": 10.34,
+                    "probability": 0.7326430082321167
+                },
+                {
+                    "word": " have",
+                    "start": 10.34,
+                    "end": 10.5,
+                    "probability": 0.8684321045875549
+                },
+                {
+                    "word": " nothing",
+                    "start": 10.5,
+                    "end": 10.72,
+                    "probability": 0.8471375703811646
+                },
+                {
+                    "word": " to",
+                    "start": 10.72,
+                    "end": 10.96,
+                    "probability": 0.901839017868042
+                },
+                {
+                    "word": " fear",
+                    "start": 10.96,
+                    "end": 11.22,
+                    "probability": 0.8938588500022888
+                },
+                {
+                    "word": " from",
+                    "start": 11.22,
+                    "end": 11.46,
+                    "probability": 0.8156928420066833
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.46,
+            "end": 17.52,
+            "text": " his social media platform that almost half of all Americans now use. The fact that TikTok is",
+            "tokens": [
+                50932,
+                702,
+                2093,
+                3021,
+                3663,
+                300,
+                1920,
+                1922,
+                295,
+                439,
+                6280,
+                586,
+                764,
+                13,
+                440,
+                1186,
+                300,
+                20211,
+                307,
+                51248
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2090824800379136,
+            "compression_ratio": 1.6462882096069869,
+            "no_speech_prob": 0.014393489807844162,
+            "words": [
+                {
+                    "word": " his",
+                    "start": 11.46,
+                    "end": 11.7,
+                    "probability": 0.8926808834075928
+                },
+                {
+                    "word": " social",
+                    "start": 11.7,
+                    "end": 12.02,
+                    "probability": 0.8326588273048401
+                },
+                {
+                    "word": " media",
+                    "start": 12.02,
+                    "end": 12.32,
+                    "probability": 0.8311542272567749
+                },
+                {
+                    "word": " platform",
+                    "start": 12.32,
+                    "end": 12.84,
+                    "probability": 0.8322858810424805
+                },
+                {
+                    "word": " that",
+                    "start": 12.84,
+                    "end": 13.5,
+                    "probability": 0.7965962886810303
+                },
+                {
+                    "word": " almost",
+                    "start": 13.5,
+                    "end": 13.82,
+                    "probability": 0.688095211982727
+                },
+                {
+                    "word": " half",
+                    "start": 13.82,
+                    "end": 14.16,
+                    "probability": 0.8374269604682922
+                },
+                {
+                    "word": " of",
+                    "start": 14.16,
+                    "end": 14.32,
+                    "probability": 0.9029066562652588
+                },
+                {
+                    "word": " all",
+                    "start": 14.32,
+                    "end": 14.5,
+                    "probability": 0.9128024578094482
+                },
+                {
+                    "word": " Americans",
+                    "start": 14.5,
+                    "end": 14.9,
+                    "probability": 0.7617746591567993
+                },
+                {
+                    "word": " now",
+                    "start": 14.9,
+                    "end": 15.22,
+                    "probability": 0.8801056146621704
+                },
+                {
+                    "word": " use.",
+                    "start": 15.22,
+                    "end": 15.78,
+                    "probability": 0.8162354826927185
+                },
+                {
+                    "word": " The",
+                    "start": 16.02,
+                    "end": 16.3,
+                    "probability": 0.8153455257415771
+                },
+                {
+                    "word": " fact",
+                    "start": 16.3,
+                    "end": 16.54,
+                    "probability": 0.8274399638175964
+                },
+                {
+                    "word": " that",
+                    "start": 16.54,
+                    "end": 16.74,
+                    "probability": 0.8864498734474182
+                },
+                {
+                    "word": " TikTok",
+                    "start": 16.74,
+                    "end": 17.04,
+                    "probability": 0.9203676581382751
+                },
+                {
+                    "word": " is",
+                    "start": 17.04,
+                    "end": 17.52,
+                    "probability": 0.9018320441246033
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.52,
+            "end": 24.06,
+            "text": " owned by a Chinese company, that at the end of the day, a company that answers to the Chinese",
+            "tokens": [
+                51248,
+                11684,
+                538,
+                257,
+                4649,
+                2237,
+                11,
+                300,
+                412,
+                264,
+                917,
+                295,
+                264,
+                786,
+                11,
+                257,
+                2237,
+                300,
+                6338,
+                281,
+                264,
+                4649,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2090824800379136,
+            "compression_ratio": 1.6462882096069869,
+            "no_speech_prob": 0.014393489807844162,
+            "words": [
+                {
+                    "word": " owned",
+                    "start": 17.52,
+                    "end": 18.04,
+                    "probability": 0.7519603371620178
+                },
+                {
+                    "word": " by",
+                    "start": 18.04,
+                    "end": 18.3,
+                    "probability": 0.9044296741485596
+                },
+                {
+                    "word": " a",
+                    "start": 18.3,
+                    "end": 18.58,
+                    "probability": 0.9986384510993958
+                },
+                {
+                    "word": " Chinese",
+                    "start": 18.58,
+                    "end": 18.86,
+                    "probability": 0.7695022821426392
+                },
+                {
+                    "word": " company,",
+                    "start": 18.86,
+                    "end": 19.4,
+                    "probability": 0.8161061406135559
+                },
+                {
+                    "word": " that",
+                    "start": 19.82,
+                    "end": 20.08,
+                    "probability": 0.8739084601402283
+                },
+                {
+                    "word": " at",
+                    "start": 20.08,
+                    "end": 20.3,
+                    "probability": 0.7682780027389526
+                },
+                {
+                    "word": " the",
+                    "start": 20.3,
+                    "end": 20.46,
+                    "probability": 0.8149983286857605
+                },
+                {
+                    "word": " end",
+                    "start": 20.46,
+                    "end": 20.64,
+                    "probability": 0.8150144815444946
+                },
+                {
+                    "word": " of",
+                    "start": 20.64,
+                    "end": 20.78,
+                    "probability": 0.9054916501045227
+                },
+                {
+                    "word": " the",
+                    "start": 20.78,
+                    "end": 20.92,
+                    "probability": 0.8148612380027771
+                },
+                {
+                    "word": " day,",
+                    "start": 20.92,
+                    "end": 21.24,
+                    "probability": 0.8959404230117798
+                },
+                {
+                    "word": " a",
+                    "start": 21.64,
+                    "end": 21.82,
+                    "probability": 0.9928767085075378
+                },
+                {
+                    "word": " company",
+                    "start": 21.82,
+                    "end": 22.1,
+                    "probability": 0.8138066530227661
+                },
+                {
+                    "word": " that",
+                    "start": 22.1,
+                    "end": 22.62,
+                    "probability": 0.8787730932235718
+                },
+                {
+                    "word": " answers",
+                    "start": 22.62,
+                    "end": 23.0,
+                    "probability": 0.8453536033630371
+                },
+                {
+                    "word": " to",
+                    "start": 23.0,
+                    "end": 23.44,
+                    "probability": 0.9062737822532654
+                },
+                {
+                    "word": " the",
+                    "start": 23.44,
+                    "end": 23.68,
+                    "probability": 0.8145524263381958
+                },
+                {
+                    "word": " Chinese",
+                    "start": 23.68,
+                    "end": 24.06,
+                    "probability": 0.7621051073074341
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2406,
+            "start": 24.06,
+            "end": 29.86,
+            "text": " Communist Party, well, that is not relevant inside the U.S. That was the CEO's position,",
+            "tokens": [
+                50364,
+                23253,
+                8552,
+                11,
+                731,
+                11,
+                300,
+                307,
+                406,
+                7340,
+                1854,
+                264,
+                624,
+                13,
+                50,
+                13,
+                663,
+                390,
+                264,
+                9282,
+                311,
+                2535,
+                11,
+                50660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2035734388563368,
+            "compression_ratio": 1.497737556561086,
+            "no_speech_prob": 0.04855471849441528,
+            "words": [
+                {
+                    "word": " Communist",
+                    "start": 24.06,
+                    "end": 24.38,
+                    "probability": 0.7143820524215698
+                },
+                {
+                    "word": " Party,",
+                    "start": 24.38,
+                    "end": 24.86,
+                    "probability": 0.7963607907295227
+                },
+                {
+                    "word": " well,",
+                    "start": 25.18,
+                    "end": 25.48,
+                    "probability": 0.6158494353294373
+                },
+                {
+                    "word": " that",
+                    "start": 25.56,
+                    "end": 25.68,
+                    "probability": 0.8791714310646057
+                },
+                {
+                    "word": " is",
+                    "start": 25.68,
+                    "end": 25.9,
+                    "probability": 0.8626894950866699
+                },
+                {
+                    "word": " not",
+                    "start": 25.9,
+                    "end": 26.16,
+                    "probability": 0.9030343294143677
+                },
+                {
+                    "word": " relevant",
+                    "start": 26.16,
+                    "end": 26.58,
+                    "probability": 0.8658537268638611
+                },
+                {
+                    "word": " inside",
+                    "start": 26.58,
+                    "end": 27.18,
+                    "probability": 0.6515040993690491
+                },
+                {
+                    "word": " the",
+                    "start": 27.18,
+                    "end": 27.46,
+                    "probability": 0.7737023234367371
+                },
+                {
+                    "word": " U",
+                    "start": 27.46,
+                    "end": 27.64,
+                    "probability": 0.5063478946685791
+                },
+                {
+                    "word": ".S.",
+                    "start": 27.64,
+                    "end": 27.88,
+                    "probability": 0.9908066093921661
+                },
+                {
+                    "word": " That",
+                    "start": 27.9,
+                    "end": 28.08,
+                    "probability": 0.6839767098426819
+                },
+                {
+                    "word": " was",
+                    "start": 28.08,
+                    "end": 28.32,
+                    "probability": 0.8933327198028564
+                },
+                {
+                    "word": " the",
+                    "start": 28.32,
+                    "end": 28.54,
+                    "probability": 0.8061379790306091
+                },
+                {
+                    "word": " CEO's",
+                    "start": 28.54,
+                    "end": 29.26,
+                    "probability": 0.8459780812263489
+                },
+                {
+                    "word": " position,",
+                    "start": 29.26,
+                    "end": 29.86,
+                    "probability": 0.8182870149612427
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2406,
+            "start": 30.14,
+            "end": 36.32,
+            "text": " and it was the position that lawmakers shot down one by one. Either TikTok is sold,",
+            "tokens": [
+                50660,
+                293,
+                309,
+                390,
+                264,
+                2535,
+                300,
+                40988,
+                3347,
+                760,
+                472,
+                538,
+                472,
+                13,
+                13746,
+                20211,
+                307,
+                3718,
+                11,
+                50980
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2035734388563368,
+            "compression_ratio": 1.497737556561086,
+            "no_speech_prob": 0.04855471849441528,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 30.14,
+                    "end": 30.22,
+                    "probability": 0.882379949092865
+                },
+                {
+                    "word": " it",
+                    "start": 30.22,
+                    "end": 30.3,
+                    "probability": 0.8977684378623962
+                },
+                {
+                    "word": " was",
+                    "start": 30.3,
+                    "end": 30.42,
+                    "probability": 0.8943948745727539
+                },
+                {
+                    "word": " the",
+                    "start": 30.42,
+                    "end": 30.52,
+                    "probability": 0.4614132344722748
+                },
+                {
+                    "word": " position",
+                    "start": 30.52,
+                    "end": 30.92,
+                    "probability": 0.8232893347740173
+                },
+                {
+                    "word": " that",
+                    "start": 30.92,
+                    "end": 31.66,
+                    "probability": 0.8543438911437988
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 31.66,
+                    "end": 32.1,
+                    "probability": 0.7544665336608887
+                },
+                {
+                    "word": " shot",
+                    "start": 32.1,
+                    "end": 32.7,
+                    "probability": 0.8774890899658203
+                },
+                {
+                    "word": " down",
+                    "start": 32.7,
+                    "end": 33.0,
+                    "probability": 0.8244713544845581
+                },
+                {
+                    "word": " one",
+                    "start": 33.0,
+                    "end": 33.36,
+                    "probability": 0.7792796492576599
+                },
+                {
+                    "word": " by",
+                    "start": 33.36,
+                    "end": 33.9,
+                    "probability": 0.8541942834854126
+                },
+                {
+                    "word": " one.",
+                    "start": 33.9,
+                    "end": 34.38,
+                    "probability": 0.8265637755393982
+                },
+                {
+                    "word": " Either",
+                    "start": 34.86,
+                    "end": 35.12,
+                    "probability": 0.7941269874572754
+                },
+                {
+                    "word": " TikTok",
+                    "start": 35.12,
+                    "end": 35.44,
+                    "probability": 0.8233340978622437
+                },
+                {
+                    "word": " is",
+                    "start": 35.44,
+                    "end": 35.86,
+                    "probability": 0.869587242603302
+                },
+                {
+                    "word": " sold,",
+                    "start": 35.86,
+                    "end": 36.32,
+                    "probability": 0.8083231449127197
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2406,
+            "start": 36.56,
+            "end": 41.74,
+            "text": " which the Chinese government says is a non-starter, or Congress may just ban TikTok",
+            "tokens": [
+                50980,
+                597,
+                264,
+                4649,
+                2463,
+                1619,
+                307,
+                257,
+                2107,
+                12,
+                33969,
+                11,
+                420,
+                6426,
+                815,
+                445,
+                5643,
+                20211,
+                51260
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2035734388563368,
+            "compression_ratio": 1.497737556561086,
+            "no_speech_prob": 0.04855471849441528,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 36.56,
+                    "end": 36.76,
+                    "probability": 0.9105324745178223
+                },
+                {
+                    "word": " the",
+                    "start": 36.76,
+                    "end": 36.98,
+                    "probability": 0.8113060593605042
+                },
+                {
+                    "word": " Chinese",
+                    "start": 36.98,
+                    "end": 37.3,
+                    "probability": 0.7676652073860168
+                },
+                {
+                    "word": " government",
+                    "start": 37.3,
+                    "end": 37.68,
+                    "probability": 0.8315447568893433
+                },
+                {
+                    "word": " says",
+                    "start": 37.68,
+                    "end": 38.02,
+                    "probability": 0.8065267205238342
+                },
+                {
+                    "word": " is",
+                    "start": 38.02,
+                    "end": 38.18,
+                    "probability": 0.8888280391693115
+                },
+                {
+                    "word": " a",
+                    "start": 38.18,
+                    "end": 38.32,
+                    "probability": 0.949235200881958
+                },
+                {
+                    "word": " non",
+                    "start": 38.32,
+                    "end": 38.52,
+                    "probability": 0.8708537817001343
+                },
+                {
+                    "word": "-starter,",
+                    "start": 38.52,
+                    "end": 38.88,
+                    "probability": 0.7394812107086182
+                },
+                {
+                    "word": " or",
+                    "start": 39.2,
+                    "end": 39.56,
+                    "probability": 0.905584454536438
+                },
+                {
+                    "word": " Congress",
+                    "start": 39.56,
+                    "end": 40.02,
+                    "probability": 0.8446544408798218
+                },
+                {
+                    "word": " may",
+                    "start": 40.02,
+                    "end": 40.4,
+                    "probability": 0.8879678249359131
+                },
+                {
+                    "word": " just",
+                    "start": 40.4,
+                    "end": 40.82,
+                    "probability": 0.8862027525901794
+                },
+                {
+                    "word": " ban",
+                    "start": 40.82,
+                    "end": 41.22,
+                    "probability": 0.8874162435531616
+                },
+                {
+                    "word": " TikTok",
+                    "start": 41.22,
+                    "end": 41.74,
+                    "probability": 0.9214727878570557
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2406,
+            "start": 41.74,
+            "end": 46.88,
+            "text": " altogether. We have more now on today's TikTok troubles from Capitol Hill.",
+            "tokens": [
+                51260,
+                19051,
+                13,
+                492,
+                362,
+                544,
+                586,
+                322,
+                965,
+                311,
+                20211,
+                15379,
+                490,
+                25081,
+                9109,
+                13,
+                51504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2035734388563368,
+            "compression_ratio": 1.497737556561086,
+            "no_speech_prob": 0.04855471849441528,
+            "words": [
+                {
+                    "word": " altogether.",
+                    "start": 41.74,
+                    "end": 42.7,
+                    "probability": 0.6832622289657593
+                },
+                {
+                    "word": " We",
+                    "start": 43.28,
+                    "end": 43.58,
+                    "probability": 0.9023153185844421
+                },
+                {
+                    "word": " have",
+                    "start": 43.58,
+                    "end": 43.72,
+                    "probability": 0.8747494220733643
+                },
+                {
+                    "word": " more",
+                    "start": 43.72,
+                    "end": 43.9,
+                    "probability": 0.8785254955291748
+                },
+                {
+                    "word": " now",
+                    "start": 43.9,
+                    "end": 44.12,
+                    "probability": 0.8431839942932129
+                },
+                {
+                    "word": " on",
+                    "start": 44.12,
+                    "end": 44.28,
+                    "probability": 0.8690016865730286
+                },
+                {
+                    "word": " today's",
+                    "start": 44.28,
+                    "end": 44.74,
+                    "probability": 0.8925778567790985
+                },
+                {
+                    "word": " TikTok",
+                    "start": 44.74,
+                    "end": 45.2,
+                    "probability": 0.8814746141433716
+                },
+                {
+                    "word": " troubles",
+                    "start": 45.2,
+                    "end": 45.76,
+                    "probability": 0.7745945453643799
+                },
+                {
+                    "word": " from",
+                    "start": 45.76,
+                    "end": 46.32,
+                    "probability": 0.8051506876945496
+                },
+                {
+                    "word": " Capitol",
+                    "start": 46.32,
+                    "end": 46.62,
+                    "probability": 0.8707022666931152
+                },
+                {
+                    "word": " Hill.",
+                    "start": 46.62,
+                    "end": 46.88,
+                    "probability": 0.8609536290168762
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

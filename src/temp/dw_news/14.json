@@ -1,0 +1,876 @@
+{
+    "text": " Yeah, I mean, it really was an about face. It's like the roles were reversed today when you when you compare it to how it was when Zuckerberg was sitting there and talking to members of Congress. We know that lawmakers now are not happy with social media platforms in general. But TikTok, it's special because it also happens to be Chinese owned. The Chinese Communist Party has access. It could have access to 150 million U.S. hearts and minds. That's what the lawmakers said. Talk to me about this danger that members of Congress were talking about today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " Yeah, I mean, it really was an about face.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                914,
+                11,
+                309,
+                534,
+                390,
+                364,
+                466,
+                1851,
+                13,
+                50508
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.18251363933086395
+                },
+                {
+                    "word": " I",
+                    "start": 0.32,
+                    "end": 0.38,
+                    "probability": 0.7868793606758118
+                },
+                {
+                    "word": " mean,",
+                    "start": 0.38,
+                    "end": 0.5,
+                    "probability": 0.914712131023407
+                },
+                {
+                    "word": " it",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.89417564868927
+                },
+                {
+                    "word": " really",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.7596513628959656
+                },
+                {
+                    "word": " was",
+                    "start": 1.16,
+                    "end": 1.5,
+                    "probability": 0.87783282995224
+                },
+                {
+                    "word": " an",
+                    "start": 1.5,
+                    "end": 1.92,
+                    "probability": 0.43217065930366516
+                },
+                {
+                    "word": " about",
+                    "start": 1.92,
+                    "end": 2.44,
+                    "probability": 0.7938642501831055
+                },
+                {
+                    "word": " face.",
+                    "start": 2.44,
+                    "end": 2.82,
+                    "probability": 0.6439520120620728
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.32,
+            "end": 6.42,
+            "text": " It's like the roles were reversed today when you when you compare it",
+            "tokens": [
+                50538,
+                467,
+                311,
+                411,
+                264,
+                9604,
+                645,
+                30563,
+                965,
+                562,
+                291,
+                562,
+                291,
+                6794,
+                309,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 3.32,
+                    "end": 3.92,
+                    "probability": 0.9134453237056732
+                },
+                {
+                    "word": " like",
+                    "start": 3.92,
+                    "end": 4.06,
+                    "probability": 0.8703127503395081
+                },
+                {
+                    "word": " the",
+                    "start": 4.06,
+                    "end": 4.18,
+                    "probability": 0.8039441108703613
+                },
+                {
+                    "word": " roles",
+                    "start": 4.18,
+                    "end": 4.38,
+                    "probability": 0.7300500273704529
+                },
+                {
+                    "word": " were",
+                    "start": 4.38,
+                    "end": 4.54,
+                    "probability": 0.6389150619506836
+                },
+                {
+                    "word": " reversed",
+                    "start": 4.54,
+                    "end": 4.9,
+                    "probability": 0.759074330329895
+                },
+                {
+                    "word": " today",
+                    "start": 4.9,
+                    "end": 5.24,
+                    "probability": 0.7791579961776733
+                },
+                {
+                    "word": " when",
+                    "start": 5.24,
+                    "end": 5.44,
+                    "probability": 0.6157529950141907
+                },
+                {
+                    "word": " you",
+                    "start": 5.44,
+                    "end": 5.58,
+                    "probability": 0.8877098560333252
+                },
+                {
+                    "word": " when",
+                    "start": 5.58,
+                    "end": 5.9,
+                    "probability": 0.3331821858882904
+                },
+                {
+                    "word": " you",
+                    "start": 5.9,
+                    "end": 6.02,
+                    "probability": 0.900827169418335
+                },
+                {
+                    "word": " compare",
+                    "start": 6.02,
+                    "end": 6.26,
+                    "probability": 0.8602463603019714
+                },
+                {
+                    "word": " it",
+                    "start": 6.26,
+                    "end": 6.42,
+                    "probability": 0.9063705205917358
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.42,
+            "end": 11.06,
+            "text": " to how it was when Zuckerberg was sitting there and talking to members of Congress.",
+            "tokens": [
+                50684,
+                281,
+                577,
+                309,
+                390,
+                562,
+                34032,
+                6873,
+                390,
+                3798,
+                456,
+                293,
+                1417,
+                281,
+                2679,
+                295,
+                6426,
+                13,
+                50920
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 6.42,
+                    "end": 6.54,
+                    "probability": 0.9029229283332825
+                },
+                {
+                    "word": " how",
+                    "start": 6.54,
+                    "end": 6.66,
+                    "probability": 0.8995640873908997
+                },
+                {
+                    "word": " it",
+                    "start": 6.66,
+                    "end": 6.78,
+                    "probability": 0.903383731842041
+                },
+                {
+                    "word": " was",
+                    "start": 6.78,
+                    "end": 6.96,
+                    "probability": 0.8973069787025452
+                },
+                {
+                    "word": " when",
+                    "start": 6.96,
+                    "end": 7.14,
+                    "probability": 0.8443765044212341
+                },
+                {
+                    "word": " Zuckerberg",
+                    "start": 7.14,
+                    "end": 7.62,
+                    "probability": 0.9125154912471771
+                },
+                {
+                    "word": " was",
+                    "start": 7.62,
+                    "end": 8.16,
+                    "probability": 0.8790783882141113
+                },
+                {
+                    "word": " sitting",
+                    "start": 8.16,
+                    "end": 8.42,
+                    "probability": 0.8054906129837036
+                },
+                {
+                    "word": " there",
+                    "start": 8.42,
+                    "end": 8.7,
+                    "probability": 0.8527349829673767
+                },
+                {
+                    "word": " and",
+                    "start": 8.7,
+                    "end": 8.98,
+                    "probability": 0.8933719396591187
+                },
+                {
+                    "word": " talking",
+                    "start": 8.98,
+                    "end": 9.48,
+                    "probability": 0.7625244855880737
+                },
+                {
+                    "word": " to",
+                    "start": 9.48,
+                    "end": 9.94,
+                    "probability": 0.9016839861869812
+                },
+                {
+                    "word": " members",
+                    "start": 9.94,
+                    "end": 10.5,
+                    "probability": 0.7762078046798706
+                },
+                {
+                    "word": " of",
+                    "start": 10.5,
+                    "end": 10.68,
+                    "probability": 0.9063811898231506
+                },
+                {
+                    "word": " Congress.",
+                    "start": 10.68,
+                    "end": 11.06,
+                    "probability": 0.8936708569526672
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.2,
+            "end": 15.7,
+            "text": " We know that lawmakers now are not happy with social media platforms in general.",
+            "tokens": [
+                50930,
+                492,
+                458,
+                300,
+                40988,
+                586,
+                366,
+                406,
+                2055,
+                365,
+                2093,
+                3021,
+                9473,
+                294,
+                2674,
+                13,
+                51152
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 11.2,
+                    "end": 11.56,
+                    "probability": 0.9052693843841553
+                },
+                {
+                    "word": " know",
+                    "start": 11.56,
+                    "end": 11.92,
+                    "probability": 0.8085134029388428
+                },
+                {
+                    "word": " that",
+                    "start": 11.92,
+                    "end": 12.12,
+                    "probability": 0.8832553625106812
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 12.12,
+                    "end": 12.46,
+                    "probability": 0.7848173379898071
+                },
+                {
+                    "word": " now",
+                    "start": 12.46,
+                    "end": 12.9,
+                    "probability": 0.8928259611129761
+                },
+                {
+                    "word": " are",
+                    "start": 12.9,
+                    "end": 13.12,
+                    "probability": 0.8981940746307373
+                },
+                {
+                    "word": " not",
+                    "start": 13.12,
+                    "end": 13.3,
+                    "probability": 0.9009605646133423
+                },
+                {
+                    "word": " happy",
+                    "start": 13.3,
+                    "end": 13.54,
+                    "probability": 0.8147023320198059
+                },
+                {
+                    "word": " with",
+                    "start": 13.54,
+                    "end": 13.72,
+                    "probability": 0.8198914527893066
+                },
+                {
+                    "word": " social",
+                    "start": 13.72,
+                    "end": 14.02,
+                    "probability": 0.8179608583450317
+                },
+                {
+                    "word": " media",
+                    "start": 14.02,
+                    "end": 14.28,
+                    "probability": 0.8407242894172668
+                },
+                {
+                    "word": " platforms",
+                    "start": 14.28,
+                    "end": 14.84,
+                    "probability": 0.7156916856765747
+                },
+                {
+                    "word": " in",
+                    "start": 14.84,
+                    "end": 15.34,
+                    "probability": 0.900684118270874
+                },
+                {
+                    "word": " general.",
+                    "start": 15.34,
+                    "end": 15.7,
+                    "probability": 0.8005577921867371
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 16.18,
+            "end": 20.48,
+            "text": " But TikTok, it's special because it also happens to be Chinese owned.",
+            "tokens": [
+                51164,
+                583,
+                20211,
+                11,
+                309,
+                311,
+                2121,
+                570,
+                309,
+                611,
+                2314,
+                281,
+                312,
+                4649,
+                11684,
+                13,
+                51388
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 16.18,
+                    "end": 16.26,
+                    "probability": 0.8817440867424011
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 16.26,
+                    "end": 16.66,
+                    "probability": 0.27526479959487915
+                },
+                {
+                    "word": " it's",
+                    "start": 17.18,
+                    "end": 17.86,
+                    "probability": 0.9229583740234375
+                },
+                {
+                    "word": " special",
+                    "start": 17.86,
+                    "end": 18.22,
+                    "probability": 0.9106650948524475
+                },
+                {
+                    "word": " because",
+                    "start": 18.22,
+                    "end": 18.74,
+                    "probability": 0.8212769031524658
+                },
+                {
+                    "word": " it",
+                    "start": 18.74,
+                    "end": 19.06,
+                    "probability": 0.9091115593910217
+                },
+                {
+                    "word": " also",
+                    "start": 19.06,
+                    "end": 19.26,
+                    "probability": 0.8232024312019348
+                },
+                {
+                    "word": " happens",
+                    "start": 19.26,
+                    "end": 19.56,
+                    "probability": 0.9091258645057678
+                },
+                {
+                    "word": " to",
+                    "start": 19.56,
+                    "end": 19.7,
+                    "probability": 0.905378520488739
+                },
+                {
+                    "word": " be",
+                    "start": 19.7,
+                    "end": 19.84,
+                    "probability": 0.8989610075950623
+                },
+                {
+                    "word": " Chinese",
+                    "start": 19.84,
+                    "end": 20.16,
+                    "probability": 0.7513980269432068
+                },
+                {
+                    "word": " owned.",
+                    "start": 20.16,
+                    "end": 20.48,
+                    "probability": 0.6813545823097229
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.56,
+            "end": 22.14,
+            "text": " The Chinese Communist Party has access.",
+            "tokens": [
+                51388,
+                440,
+                4649,
+                23253,
+                8552,
+                575,
+                2105,
+                13,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 20.56,
+                    "end": 20.64,
+                    "probability": 0.8073834180831909
+                },
+                {
+                    "word": " Chinese",
+                    "start": 20.64,
+                    "end": 20.88,
+                    "probability": 0.7645197510719299
+                },
+                {
+                    "word": " Communist",
+                    "start": 20.88,
+                    "end": 21.18,
+                    "probability": 0.8042410612106323
+                },
+                {
+                    "word": " Party",
+                    "start": 21.18,
+                    "end": 21.5,
+                    "probability": 0.8450142741203308
+                },
+                {
+                    "word": " has",
+                    "start": 21.5,
+                    "end": 21.66,
+                    "probability": 0.8897771239280701
+                },
+                {
+                    "word": " access.",
+                    "start": 21.66,
+                    "end": 22.14,
+                    "probability": 0.8062085509300232
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 23.02,
+            "end": 27.18,
+            "text": " It could have access to 150 million U.S. hearts and minds.",
+            "tokens": [
+                51514,
+                467,
+                727,
+                362,
+                2105,
+                281,
+                8451,
+                2459,
+                624,
+                13,
+                50,
+                13,
+                8852,
+                293,
+                9634,
+                13,
+                51724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 23.02,
+                    "end": 23.2,
+                    "probability": 0.8276767134666443
+                },
+                {
+                    "word": " could",
+                    "start": 23.2,
+                    "end": 23.38,
+                    "probability": 0.8153761029243469
+                },
+                {
+                    "word": " have",
+                    "start": 23.38,
+                    "end": 23.56,
+                    "probability": 0.8770194053649902
+                },
+                {
+                    "word": " access",
+                    "start": 23.56,
+                    "end": 23.78,
+                    "probability": 0.8112943172454834
+                },
+                {
+                    "word": " to",
+                    "start": 23.78,
+                    "end": 23.98,
+                    "probability": 0.902009129524231
+                },
+                {
+                    "word": " 150",
+                    "start": 23.98,
+                    "end": 24.52,
+                    "probability": 0.3351759910583496
+                },
+                {
+                    "word": " million",
+                    "start": 24.52,
+                    "end": 25.14,
+                    "probability": 0.7104474306106567
+                },
+                {
+                    "word": " U",
+                    "start": 25.14,
+                    "end": 25.84,
+                    "probability": 0.7590850591659546
+                },
+                {
+                    "word": ".S.",
+                    "start": 25.84,
+                    "end": 26.08,
+                    "probability": 0.9982211291790009
+                },
+                {
+                    "word": " hearts",
+                    "start": 26.12,
+                    "end": 26.52,
+                    "probability": 0.8022008538246155
+                },
+                {
+                    "word": " and",
+                    "start": 26.52,
+                    "end": 26.76,
+                    "probability": 0.8491329550743103
+                },
+                {
+                    "word": " minds.",
+                    "start": 26.76,
+                    "end": 27.18,
+                    "probability": 0.7549927234649658
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 27.2,
+            "end": 28.86,
+            "text": " That's what the lawmakers said.",
+            "tokens": [
+                51724,
+                663,
+                311,
+                437,
+                264,
+                40988,
+                848,
+                13,
+                51832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27313448588053385,
+            "compression_ratio": 1.6006711409395973,
+            "no_speech_prob": 0.0008315203594975173,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 27.2,
+                    "end": 27.38,
+                    "probability": 0.9043643474578857
+                },
+                {
+                    "word": " what",
+                    "start": 27.38,
+                    "end": 27.52,
+                    "probability": 0.8861621618270874
+                },
+                {
+                    "word": " the",
+                    "start": 27.52,
+                    "end": 27.64,
+                    "probability": 0.8153504729270935
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 27.64,
+                    "end": 28.0,
+                    "probability": 0.7678374648094177
+                },
+                {
+                    "word": " said.",
+                    "start": 28.0,
+                    "end": 28.86,
+                    "probability": 0.8695816397666931
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2886,
+            "start": 29.14,
+            "end": 34.12,
+            "text": " Talk to me about this danger that members of Congress were talking about today.",
+            "tokens": [
+                50390,
+                8780,
+                281,
+                385,
+                466,
+                341,
+                4330,
+                300,
+                2679,
+                295,
+                6426,
+                645,
+                1417,
+                466,
+                965,
+                13,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2271343337164985,
+            "compression_ratio": 1.0394736842105263,
+            "no_speech_prob": 0.0041044289246201515,
+            "words": [
+                {
+                    "word": " Talk",
+                    "start": 29.14,
+                    "end": 29.7,
+                    "probability": 0.5945877432823181
+                },
+                {
+                    "word": " to",
+                    "start": 29.7,
+                    "end": 29.86,
+                    "probability": 0.9023650288581848
+                },
+                {
+                    "word": " me",
+                    "start": 29.86,
+                    "end": 30.02,
+                    "probability": 0.9052935242652893
+                },
+                {
+                    "word": " about",
+                    "start": 30.02,
+                    "end": 30.44,
+                    "probability": 0.8248156905174255
+                },
+                {
+                    "word": " this",
+                    "start": 30.44,
+                    "end": 31.08,
+                    "probability": 0.8849949836730957
+                },
+                {
+                    "word": " danger",
+                    "start": 31.08,
+                    "end": 31.58,
+                    "probability": 0.7115468382835388
+                },
+                {
+                    "word": " that",
+                    "start": 31.58,
+                    "end": 32.0,
+                    "probability": 0.8782614469528198
+                },
+                {
+                    "word": " members",
+                    "start": 32.0,
+                    "end": 32.7,
+                    "probability": 0.6846284866333008
+                },
+                {
+                    "word": " of",
+                    "start": 32.7,
+                    "end": 32.88,
+                    "probability": 0.9092851877212524
+                },
+                {
+                    "word": " Congress",
+                    "start": 32.88,
+                    "end": 33.18,
+                    "probability": 0.8619297742843628
+                },
+                {
+                    "word": " were",
+                    "start": 33.18,
+                    "end": 33.32,
+                    "probability": 0.8023423552513123
+                },
+                {
+                    "word": " talking",
+                    "start": 33.32,
+                    "end": 33.6,
+                    "probability": 0.7711876630783081
+                },
+                {
+                    "word": " about",
+                    "start": 33.6,
+                    "end": 33.84,
+                    "probability": 0.8265568614006042
+                },
+                {
+                    "word": " today.",
+                    "start": 33.84,
+                    "end": 34.12,
+                    "probability": 0.8042541742324829
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

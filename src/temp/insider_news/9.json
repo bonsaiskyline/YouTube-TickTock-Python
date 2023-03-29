@@ -1,0 +1,382 @@
+{
+    "text": " The 10-year-old girl participated in a blackout challenge, also known as the choking challenge. TikTok actively pushes video on her feed. Unfortunately this is one of the many devastating examples of children losing their lives because of content promoted by TikTok.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.4,
+            "end": 6.14,
+            "text": " The 10-year-old girl participated in a blackout challenge, also known as the choking challenge.",
+            "tokens": [
+                50364,
+                440,
+                1266,
+                12,
+                5294,
+                12,
+                2641,
+                2013,
+                17978,
+                294,
+                257,
+                2211,
+                346,
+                3430,
+                11,
+                611,
+                2570,
+                382,
+                264,
+                48540,
+                3430,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38572110968121026,
+            "compression_ratio": 1.4456521739130435,
+            "no_speech_prob": 0.2766924500465393,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.4,
+                    "end": 1.0,
+                    "probability": 0.45075586438179016
+                },
+                {
+                    "word": " 10",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.7572751045227051
+                },
+                {
+                    "word": "-year",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.658900111913681
+                },
+                {
+                    "word": "-old",
+                    "start": 1.4,
+                    "end": 1.58,
+                    "probability": 0.9481388330459595
+                },
+                {
+                    "word": " girl",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.8275938630104065
+                },
+                {
+                    "word": " participated",
+                    "start": 1.84,
+                    "end": 2.48,
+                    "probability": 0.6912241578102112
+                },
+                {
+                    "word": " in",
+                    "start": 2.48,
+                    "end": 2.76,
+                    "probability": 0.9000937342643738
+                },
+                {
+                    "word": " a",
+                    "start": 2.76,
+                    "end": 2.86,
+                    "probability": 0.9738709926605225
+                },
+                {
+                    "word": " blackout",
+                    "start": 2.86,
+                    "end": 3.3,
+                    "probability": 0.8690786063671112
+                },
+                {
+                    "word": " challenge,",
+                    "start": 3.3,
+                    "end": 3.78,
+                    "probability": 0.7519617676734924
+                },
+                {
+                    "word": " also",
+                    "start": 4.24,
+                    "end": 4.44,
+                    "probability": 0.8100139498710632
+                },
+                {
+                    "word": " known",
+                    "start": 4.44,
+                    "end": 4.78,
+                    "probability": 0.7208560109138489
+                },
+                {
+                    "word": " as",
+                    "start": 4.78,
+                    "end": 5.08,
+                    "probability": 0.8994480967521667
+                },
+                {
+                    "word": " the",
+                    "start": 5.08,
+                    "end": 5.24,
+                    "probability": 0.7422541379928589
+                },
+                {
+                    "word": " choking",
+                    "start": 5.24,
+                    "end": 5.58,
+                    "probability": 0.6058247685432434
+                },
+                {
+                    "word": " challenge.",
+                    "start": 5.58,
+                    "end": 6.14,
+                    "probability": 0.7523128390312195
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.26,
+            "end": 9.62,
+            "text": " TikTok actively pushes video on her feed.",
+            "tokens": [
+                50724,
+                20211,
+                13022,
+                21020,
+                960,
+                322,
+                720,
+                3154,
+                13,
+                50920
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38572110968121026,
+            "compression_ratio": 1.4456521739130435,
+            "no_speech_prob": 0.2766924500465393,
+            "words": [
+                {
+                    "word": " TikTok",
+                    "start": 7.26,
+                    "end": 7.54,
+                    "probability": 0.7706588506698608
+                },
+                {
+                    "word": " actively",
+                    "start": 7.54,
+                    "end": 8.2,
+                    "probability": 0.5507994294166565
+                },
+                {
+                    "word": " pushes",
+                    "start": 8.2,
+                    "end": 8.64,
+                    "probability": 0.7332027554512024
+                },
+                {
+                    "word": " video",
+                    "start": 8.64,
+                    "end": 9.04,
+                    "probability": 0.7553133368492126
+                },
+                {
+                    "word": " on",
+                    "start": 9.04,
+                    "end": 9.18,
+                    "probability": 0.9056093692779541
+                },
+                {
+                    "word": " her",
+                    "start": 9.18,
+                    "end": 9.3,
+                    "probability": 0.8723635077476501
+                },
+                {
+                    "word": " feed.",
+                    "start": 9.3,
+                    "end": 9.62,
+                    "probability": 0.6573166251182556
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.12,
+            "end": 15.22,
+            "text": " Unfortunately this is one of the many devastating examples of children losing their lives because",
+            "tokens": [
+                50920,
+                8590,
+                341,
+                307,
+                472,
+                295,
+                264,
+                867,
+                21280,
+                5110,
+                295,
+                2227,
+                7027,
+                641,
+                2909,
+                570,
+                51124
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38572110968121026,
+            "compression_ratio": 1.4456521739130435,
+            "no_speech_prob": 0.2766924500465393,
+            "words": [
+                {
+                    "word": " Unfortunately",
+                    "start": 11.12,
+                    "end": 11.62,
+                    "probability": 0.8366295099258423
+                },
+                {
+                    "word": " this",
+                    "start": 11.62,
+                    "end": 12.0,
+                    "probability": 0.053729187697172165
+                },
+                {
+                    "word": " is",
+                    "start": 12.0,
+                    "end": 12.1,
+                    "probability": 0.9014161229133606
+                },
+                {
+                    "word": " one",
+                    "start": 12.1,
+                    "end": 12.22,
+                    "probability": 0.8234497904777527
+                },
+                {
+                    "word": " of",
+                    "start": 12.22,
+                    "end": 12.3,
+                    "probability": 0.9029452800750732
+                },
+                {
+                    "word": " the",
+                    "start": 12.3,
+                    "end": 12.36,
+                    "probability": 0.653488278388977
+                },
+                {
+                    "word": " many",
+                    "start": 12.36,
+                    "end": 12.54,
+                    "probability": 0.8116306066513062
+                },
+                {
+                    "word": " devastating",
+                    "start": 12.54,
+                    "end": 13.04,
+                    "probability": 0.8397613763809204
+                },
+                {
+                    "word": " examples",
+                    "start": 13.04,
+                    "end": 13.6,
+                    "probability": 0.7873526811599731
+                },
+                {
+                    "word": " of",
+                    "start": 13.6,
+                    "end": 13.82,
+                    "probability": 0.9010675549507141
+                },
+                {
+                    "word": " children",
+                    "start": 13.82,
+                    "end": 14.12,
+                    "probability": 0.7196133136749268
+                },
+                {
+                    "word": " losing",
+                    "start": 14.12,
+                    "end": 14.46,
+                    "probability": 0.8203558921813965
+                },
+                {
+                    "word": " their",
+                    "start": 14.46,
+                    "end": 14.68,
+                    "probability": 0.9036152958869934
+                },
+                {
+                    "word": " lives",
+                    "start": 14.68,
+                    "end": 14.92,
+                    "probability": 0.7547966837882996
+                },
+                {
+                    "word": " because",
+                    "start": 14.92,
+                    "end": 15.22,
+                    "probability": 0.8376131057739258
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.22,
+            "end": 16.9,
+            "text": " of content promoted by TikTok.",
+            "tokens": [
+                51124,
+                295,
+                2701,
+                21162,
+                538,
+                20211,
+                13,
+                51218
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38572110968121026,
+            "compression_ratio": 1.4456521739130435,
+            "no_speech_prob": 0.2766924500465393,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 15.22,
+                    "end": 15.4,
+                    "probability": 0.9083117842674255
+                },
+                {
+                    "word": " content",
+                    "start": 15.4,
+                    "end": 15.92,
+                    "probability": 0.8331702351570129
+                },
+                {
+                    "word": " promoted",
+                    "start": 15.92,
+                    "end": 16.3,
+                    "probability": 0.6704027056694031
+                },
+                {
+                    "word": " by",
+                    "start": 16.3,
+                    "end": 16.52,
+                    "probability": 0.9077519178390503
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 16.52,
+                    "end": 16.9,
+                    "probability": 0.8621575236320496
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

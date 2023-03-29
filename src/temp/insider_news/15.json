@@ -1,0 +1,656 @@
+{
+    "text": " which is why I'm making the following commitments to you and to all our users. Number one, we will keep safety, particularly for teenagers, as a top priority for us. Number two, we will firewall protected US data from unwanted foreign access. Number three, TikTok will remain a place for free expression and will not be manipulated by any government. Data is stored here in American soil.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " which is why I'm making the following commitments to you",
+            "tokens": [
+                50364,
+                597,
+                307,
+                983,
+                286,
+                478,
+                1455,
+                264,
+                3480,
+                26230,
+                281,
+                291,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6452478170394897
+                },
+                {
+                    "word": " is",
+                    "start": 0.22,
+                    "end": 0.34,
+                    "probability": 0.9030071496963501
+                },
+                {
+                    "word": " why",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.8105870485305786
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.6,
+                    "end": 1.38,
+                    "probability": 0.9372482895851135
+                },
+                {
+                    "word": " making",
+                    "start": 1.38,
+                    "end": 1.8,
+                    "probability": 0.7720364928245544
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.7870098352432251
+                },
+                {
+                    "word": " following",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.8102631568908691
+                },
+                {
+                    "word": " commitments",
+                    "start": 2.22,
+                    "end": 2.8,
+                    "probability": 0.8167621493339539
+                },
+                {
+                    "word": " to",
+                    "start": 2.8,
+                    "end": 3.04,
+                    "probability": 0.9008776545524597
+                },
+                {
+                    "word": " you",
+                    "start": 3.04,
+                    "end": 3.32,
+                    "probability": 0.8926616907119751
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.32,
+            "end": 4.64,
+            "text": " and to all our users.",
+            "tokens": [
+                50550,
+                293,
+                281,
+                439,
+                527,
+                5022,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 3.32,
+                    "end": 3.86,
+                    "probability": 0.7973109483718872
+                },
+                {
+                    "word": " to",
+                    "start": 3.86,
+                    "end": 3.98,
+                    "probability": 0.8936352729797363
+                },
+                {
+                    "word": " all",
+                    "start": 3.98,
+                    "end": 4.2,
+                    "probability": 0.8981099128723145
+                },
+                {
+                    "word": " our",
+                    "start": 4.2,
+                    "end": 4.36,
+                    "probability": 0.8148642182350159
+                },
+                {
+                    "word": " users.",
+                    "start": 4.36,
+                    "end": 4.64,
+                    "probability": 0.8297005891799927
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.72,
+            "end": 7.68,
+            "text": " Number one, we will keep safety,",
+            "tokens": [
+                50648,
+                5118,
+                472,
+                11,
+                321,
+                486,
+                1066,
+                4514,
+                11,
+                50772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " Number",
+                    "start": 5.72,
+                    "end": 5.9,
+                    "probability": 0.7671424150466919
+                },
+                {
+                    "word": " one,",
+                    "start": 5.9,
+                    "end": 6.18,
+                    "probability": 0.7382441163063049
+                },
+                {
+                    "word": " we",
+                    "start": 6.48,
+                    "end": 6.84,
+                    "probability": 0.9023295044898987
+                },
+                {
+                    "word": " will",
+                    "start": 6.84,
+                    "end": 6.98,
+                    "probability": 0.8126931190490723
+                },
+                {
+                    "word": " keep",
+                    "start": 6.98,
+                    "end": 7.18,
+                    "probability": 0.820118248462677
+                },
+                {
+                    "word": " safety,",
+                    "start": 7.18,
+                    "end": 7.68,
+                    "probability": 0.9134724140167236
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.22,
+            "end": 11.24,
+            "text": " particularly for teenagers, as a top priority for us.",
+            "tokens": [
+                50772,
+                4098,
+                337,
+                23618,
+                11,
+                382,
+                257,
+                1192,
+                9365,
+                337,
+                505,
+                13,
+                50971
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " particularly",
+                    "start": 8.22,
+                    "end": 8.56,
+                    "probability": 0.7791268825531006
+                },
+                {
+                    "word": " for",
+                    "start": 8.56,
+                    "end": 8.88,
+                    "probability": 0.8984222412109375
+                },
+                {
+                    "word": " teenagers,",
+                    "start": 8.88,
+                    "end": 9.3,
+                    "probability": 0.8267475962638855
+                },
+                {
+                    "word": " as",
+                    "start": 9.8,
+                    "end": 9.92,
+                    "probability": 0.8910506367683411
+                },
+                {
+                    "word": " a",
+                    "start": 9.92,
+                    "end": 10.06,
+                    "probability": 0.965477705001831
+                },
+                {
+                    "word": " top",
+                    "start": 10.06,
+                    "end": 10.3,
+                    "probability": 0.8088640570640564
+                },
+                {
+                    "word": " priority",
+                    "start": 10.3,
+                    "end": 10.78,
+                    "probability": 0.8763892650604248
+                },
+                {
+                    "word": " for",
+                    "start": 10.78,
+                    "end": 11.02,
+                    "probability": 0.8960557579994202
+                },
+                {
+                    "word": " us.",
+                    "start": 11.02,
+                    "end": 11.24,
+                    "probability": 0.9040623307228088
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.08,
+            "end": 15.34,
+            "text": " Number two, we will firewall protected US data",
+            "tokens": [
+                50971,
+                5118,
+                732,
+                11,
+                321,
+                486,
+                36109,
+                10594,
+                2546,
+                1412,
+                51158
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " Number",
+                    "start": 12.08,
+                    "end": 12.36,
+                    "probability": 0.8226532936096191
+                },
+                {
+                    "word": " two,",
+                    "start": 12.36,
+                    "end": 12.62,
+                    "probability": 0.8147245645523071
+                },
+                {
+                    "word": " we",
+                    "start": 13.12,
+                    "end": 13.4,
+                    "probability": 0.9027702808380127
+                },
+                {
+                    "word": " will",
+                    "start": 13.4,
+                    "end": 13.54,
+                    "probability": 0.8033324480056763
+                },
+                {
+                    "word": " firewall",
+                    "start": 13.54,
+                    "end": 14.08,
+                    "probability": 0.8398746848106384
+                },
+                {
+                    "word": " protected",
+                    "start": 14.08,
+                    "end": 14.66,
+                    "probability": 0.5819911360740662
+                },
+                {
+                    "word": " US",
+                    "start": 14.66,
+                    "end": 15.0,
+                    "probability": 0.6037295460700989
+                },
+                {
+                    "word": " data",
+                    "start": 15.0,
+                    "end": 15.34,
+                    "probability": 0.8028492331504822
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.34,
+            "end": 17.26,
+            "text": " from unwanted foreign access.",
+            "tokens": [
+                51158,
+                490,
+                33745,
+                5329,
+                2105,
+                13,
+                51272
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 15.34,
+                    "end": 16.04,
+                    "probability": 0.815055787563324
+                },
+                {
+                    "word": " unwanted",
+                    "start": 16.04,
+                    "end": 16.54,
+                    "probability": 0.8821449279785156
+                },
+                {
+                    "word": " foreign",
+                    "start": 16.54,
+                    "end": 16.86,
+                    "probability": 0.8250530958175659
+                },
+                {
+                    "word": " access.",
+                    "start": 16.86,
+                    "end": 17.26,
+                    "probability": 0.7978805303573608
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 18.2,
+            "end": 20.56,
+            "text": " Number three, TikTok will remain a place",
+            "tokens": [
+                51272,
+                5118,
+                1045,
+                11,
+                20211,
+                486,
+                6222,
+                257,
+                1081,
+                51396
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " Number",
+                    "start": 18.2,
+                    "end": 18.36,
+                    "probability": 0.8238267302513123
+                },
+                {
+                    "word": " three,",
+                    "start": 18.36,
+                    "end": 18.66,
+                    "probability": 0.8486144542694092
+                },
+                {
+                    "word": " TikTok",
+                    "start": 19.44,
+                    "end": 19.64,
+                    "probability": 0.9165796041488647
+                },
+                {
+                    "word": " will",
+                    "start": 19.64,
+                    "end": 19.84,
+                    "probability": 0.8081445097923279
+                },
+                {
+                    "word": " remain",
+                    "start": 19.84,
+                    "end": 20.1,
+                    "probability": 0.8007105588912964
+                },
+                {
+                    "word": " a",
+                    "start": 20.1,
+                    "end": 20.26,
+                    "probability": 0.989554762840271
+                },
+                {
+                    "word": " place",
+                    "start": 20.26,
+                    "end": 20.56,
+                    "probability": 0.8137097358703613
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 20.56,
+            "end": 23.54,
+            "text": " for free expression and will not be manipulated",
+            "tokens": [
+                51396,
+                337,
+                1737,
+                6114,
+                293,
+                486,
+                406,
+                312,
+                37161,
+                51562
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 20.56,
+                    "end": 20.82,
+                    "probability": 0.8963298797607422
+                },
+                {
+                    "word": " free",
+                    "start": 20.82,
+                    "end": 21.14,
+                    "probability": 0.886333167552948
+                },
+                {
+                    "word": " expression",
+                    "start": 21.14,
+                    "end": 21.6,
+                    "probability": 0.8596401214599609
+                },
+                {
+                    "word": " and",
+                    "start": 21.6,
+                    "end": 22.22,
+                    "probability": 0.7794289588928223
+                },
+                {
+                    "word": " will",
+                    "start": 22.22,
+                    "end": 22.36,
+                    "probability": 0.8089506030082703
+                },
+                {
+                    "word": " not",
+                    "start": 22.36,
+                    "end": 22.74,
+                    "probability": 0.8938763737678528
+                },
+                {
+                    "word": " be",
+                    "start": 22.74,
+                    "end": 23.12,
+                    "probability": 0.8986614942550659
+                },
+                {
+                    "word": " manipulated",
+                    "start": 23.12,
+                    "end": 23.54,
+                    "probability": 0.9140668511390686
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 23.54,
+            "end": 25.04,
+            "text": " by any government.",
+            "tokens": [
+                51562,
+                538,
+                604,
+                2463,
+                13,
+                51628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23059172040960763,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.019390244036912918,
+            "words": [
+                {
+                    "word": " by",
+                    "start": 23.54,
+                    "end": 24.14,
+                    "probability": 0.9015259742736816
+                },
+                {
+                    "word": " any",
+                    "start": 24.14,
+                    "end": 24.6,
+                    "probability": 0.8147472143173218
+                },
+                {
+                    "word": " government.",
+                    "start": 24.6,
+                    "end": 25.04,
+                    "probability": 0.841389536857605
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 3000,
+            "start": 30.38,
+            "end": 32.94,
+            "text": " Data is stored here in American soil.",
+            "tokens": [
+                50406,
+                11888,
+                307,
+                12187,
+                510,
+                294,
+                2665,
+                6704,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6718893484635786,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.20803476870059967,
+            "words": [
+                {
+                    "word": " Data",
+                    "start": 30.38,
+                    "end": 31.0,
+                    "probability": 0.7362761497497559
+                },
+                {
+                    "word": " is",
+                    "start": 31.0,
+                    "end": 31.22,
+                    "probability": 0.8833118677139282
+                },
+                {
+                    "word": " stored",
+                    "start": 31.22,
+                    "end": 31.42,
+                    "probability": 0.7571699023246765
+                },
+                {
+                    "word": " here",
+                    "start": 31.42,
+                    "end": 31.74,
+                    "probability": 0.8124352097511292
+                },
+                {
+                    "word": " in",
+                    "start": 31.74,
+                    "end": 32.18,
+                    "probability": 0.587593138217926
+                },
+                {
+                    "word": " American",
+                    "start": 32.18,
+                    "end": 32.48,
+                    "probability": 0.8056114315986633
+                },
+                {
+                    "word": " soil.",
+                    "start": 32.48,
+                    "end": 32.94,
+                    "probability": 0.43014806509017944
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

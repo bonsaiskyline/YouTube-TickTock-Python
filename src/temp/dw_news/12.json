@@ -1,0 +1,1459 @@
+{
+    "text": " I think that's exactly right. I think we saw him receive one of the frostiest receptions from US Congress that we have seen in years. And this was a committee that was extraordinarily well-prepared to ask the hard-hitting questions, both about TikTok's Chinese ownership, and that included very detailed questions about financial ties, Shou Chu's own compensation, and whether that comes from TikTok's Chinese parent company, ByteDance, the compensation of employees, his own relationship with ByteDance employees and members of the Chinese Communist Party. So really detailed questions on TikTok's Chinese ties, and also really detailed questions on the technology itself. You know, we heard lawmakers talk about bytecode and about neural network architectures and artificial intelligence, and that's pretty unprecedented for the US Congress, which five years ago, when they were grilling Mark Zuckerberg, had absolutely no clue what they were talking about.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " I think that's exactly right.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                300,
+                311,
+                2293,
+                558,
+                13,
+                50432
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6040235757827759
+                },
+                {
+                    "word": " think",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.7767075896263123
+                },
+                {
+                    "word": " that's",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9101478755474091
+                },
+                {
+                    "word": " exactly",
+                    "start": 0.5,
+                    "end": 0.88,
+                    "probability": 0.7768290042877197
+                },
+                {
+                    "word": " right.",
+                    "start": 0.88,
+                    "end": 1.28,
+                    "probability": 0.8726514577865601
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.48,
+            "end": 5.72,
+            "text": " I think we saw him receive one of the frostiest receptions",
+            "tokens": [
+                50432,
+                286,
+                519,
+                321,
+                1866,
+                796,
+                4774,
+                472,
+                295,
+                264,
+                19623,
+                6495,
+                15263,
+                626,
+                50662
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 1.48,
+                    "end": 1.5,
+                    "probability": 0.9212316274642944
+                },
+                {
+                    "word": " think",
+                    "start": 1.5,
+                    "end": 1.74,
+                    "probability": 0.8076067566871643
+                },
+                {
+                    "word": " we",
+                    "start": 1.74,
+                    "end": 2.32,
+                    "probability": 0.8959785103797913
+                },
+                {
+                    "word": " saw",
+                    "start": 2.32,
+                    "end": 2.76,
+                    "probability": 0.8275863528251648
+                },
+                {
+                    "word": " him",
+                    "start": 2.76,
+                    "end": 3.0,
+                    "probability": 0.8938845992088318
+                },
+                {
+                    "word": " receive",
+                    "start": 3.0,
+                    "end": 3.44,
+                    "probability": 0.8847503066062927
+                },
+                {
+                    "word": " one",
+                    "start": 3.44,
+                    "end": 4.04,
+                    "probability": 0.813086211681366
+                },
+                {
+                    "word": " of",
+                    "start": 4.04,
+                    "end": 4.16,
+                    "probability": 0.901831328868866
+                },
+                {
+                    "word": " the",
+                    "start": 4.16,
+                    "end": 4.32,
+                    "probability": 0.8155171275138855
+                },
+                {
+                    "word": " frostiest",
+                    "start": 4.32,
+                    "end": 4.92,
+                    "probability": 0.8777473270893097
+                },
+                {
+                    "word": " receptions",
+                    "start": 4.92,
+                    "end": 5.72,
+                    "probability": 0.8005839288234711
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.72,
+            "end": 9.02,
+            "text": " from US Congress that we have seen in years.",
+            "tokens": [
+                50662,
+                490,
+                2546,
+                6426,
+                300,
+                321,
+                362,
+                1612,
+                294,
+                924,
+                13,
+                50834
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 5.72,
+                    "end": 6.3,
+                    "probability": 0.8156005144119263
+                },
+                {
+                    "word": " US",
+                    "start": 6.3,
+                    "end": 6.64,
+                    "probability": 0.3632865250110626
+                },
+                {
+                    "word": " Congress",
+                    "start": 6.64,
+                    "end": 7.02,
+                    "probability": 0.8669242858886719
+                },
+                {
+                    "word": " that",
+                    "start": 7.02,
+                    "end": 7.5,
+                    "probability": 0.8594757318496704
+                },
+                {
+                    "word": " we",
+                    "start": 7.5,
+                    "end": 7.72,
+                    "probability": 0.896039605140686
+                },
+                {
+                    "word": " have",
+                    "start": 7.72,
+                    "end": 7.88,
+                    "probability": 0.8661418557167053
+                },
+                {
+                    "word": " seen",
+                    "start": 7.88,
+                    "end": 8.24,
+                    "probability": 0.8800177574157715
+                },
+                {
+                    "word": " in",
+                    "start": 8.24,
+                    "end": 8.52,
+                    "probability": 0.9061365723609924
+                },
+                {
+                    "word": " years.",
+                    "start": 8.52,
+                    "end": 9.02,
+                    "probability": 0.8804454803466797
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.58,
+            "end": 12.28,
+            "text": " And this was a committee that was extraordinarily",
+            "tokens": [
+                50834,
+                400,
+                341,
+                390,
+                257,
+                7482,
+                300,
+                390,
+                34557,
+                50991
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 9.58,
+                    "end": 9.7,
+                    "probability": 0.8606570363044739
+                },
+                {
+                    "word": " this",
+                    "start": 9.7,
+                    "end": 10.04,
+                    "probability": 0.8813494443893433
+                },
+                {
+                    "word": " was",
+                    "start": 10.04,
+                    "end": 10.42,
+                    "probability": 0.888495922088623
+                },
+                {
+                    "word": " a",
+                    "start": 10.42,
+                    "end": 10.64,
+                    "probability": 0.9991105198860168
+                },
+                {
+                    "word": " committee",
+                    "start": 10.64,
+                    "end": 10.88,
+                    "probability": 0.8178365230560303
+                },
+                {
+                    "word": " that",
+                    "start": 10.88,
+                    "end": 11.22,
+                    "probability": 0.8820286989212036
+                },
+                {
+                    "word": " was",
+                    "start": 11.22,
+                    "end": 11.46,
+                    "probability": 0.8971477746963501
+                },
+                {
+                    "word": " extraordinarily",
+                    "start": 11.46,
+                    "end": 12.28,
+                    "probability": 0.746182918548584
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.28,
+            "end": 15.0,
+            "text": " well-prepared to ask the hard-hitting questions,",
+            "tokens": [
+                50991,
+                731,
+                12,
+                3712,
+                45573,
+                281,
+                1029,
+                264,
+                1152,
+                12,
+                71,
+                2414,
+                1651,
+                11,
+                51126
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " well",
+                    "start": 12.28,
+                    "end": 12.82,
+                    "probability": 0.863917350769043
+                },
+                {
+                    "word": "-prepared",
+                    "start": 12.82,
+                    "end": 13.22,
+                    "probability": 0.6909290750821432
+                },
+                {
+                    "word": " to",
+                    "start": 13.22,
+                    "end": 13.52,
+                    "probability": 0.9002036452293396
+                },
+                {
+                    "word": " ask",
+                    "start": 13.52,
+                    "end": 13.86,
+                    "probability": 0.8196225166320801
+                },
+                {
+                    "word": " the",
+                    "start": 13.86,
+                    "end": 14.02,
+                    "probability": 0.7852479219436646
+                },
+                {
+                    "word": " hard",
+                    "start": 14.02,
+                    "end": 14.28,
+                    "probability": 0.8334946632385254
+                },
+                {
+                    "word": "-hitting",
+                    "start": 14.28,
+                    "end": 14.46,
+                    "probability": 0.8748106956481934
+                },
+                {
+                    "word": " questions,",
+                    "start": 14.46,
+                    "end": 15.0,
+                    "probability": 0.8162994384765625
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.34,
+            "end": 17.24,
+            "text": " both about TikTok's Chinese ownership,",
+            "tokens": [
+                51126,
+                1293,
+                466,
+                20211,
+                311,
+                4649,
+                15279,
+                11,
+                51248
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " both",
+                    "start": 15.34,
+                    "end": 15.56,
+                    "probability": 0.8300537467002869
+                },
+                {
+                    "word": " about",
+                    "start": 15.56,
+                    "end": 15.86,
+                    "probability": 0.8133628368377686
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 15.86,
+                    "end": 16.48,
+                    "probability": 0.8697223663330078
+                },
+                {
+                    "word": " Chinese",
+                    "start": 16.48,
+                    "end": 16.8,
+                    "probability": 0.7924281358718872
+                },
+                {
+                    "word": " ownership,",
+                    "start": 16.8,
+                    "end": 17.24,
+                    "probability": 0.7848844528198242
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 17.76,
+            "end": 20.54,
+            "text": " and that included very detailed questions",
+            "tokens": [
+                51248,
+                293,
+                300,
+                5556,
+                588,
+                9942,
+                1651,
+                51398
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 17.76,
+                    "end": 18.08,
+                    "probability": 0.895103931427002
+                },
+                {
+                    "word": " that",
+                    "start": 18.08,
+                    "end": 18.66,
+                    "probability": 0.8785305619239807
+                },
+                {
+                    "word": " included",
+                    "start": 18.66,
+                    "end": 19.1,
+                    "probability": 0.7811242341995239
+                },
+                {
+                    "word": " very",
+                    "start": 19.1,
+                    "end": 19.5,
+                    "probability": 0.7388104200363159
+                },
+                {
+                    "word": " detailed",
+                    "start": 19.5,
+                    "end": 20.0,
+                    "probability": 0.730381965637207
+                },
+                {
+                    "word": " questions",
+                    "start": 20.0,
+                    "end": 20.54,
+                    "probability": 0.9169973134994507
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 20.54,
+            "end": 24.58,
+            "text": " about financial ties, Shou Chu's own compensation,",
+            "tokens": [
+                51398,
+                466,
+                4669,
+                14039,
+                11,
+                1160,
+                263,
+                25585,
+                311,
+                1065,
+                19644,
+                11,
+                51600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " about",
+                    "start": 20.54,
+                    "end": 21.12,
+                    "probability": 0.8163037896156311
+                },
+                {
+                    "word": " financial",
+                    "start": 21.12,
+                    "end": 21.94,
+                    "probability": 0.7753491401672363
+                },
+                {
+                    "word": " ties,",
+                    "start": 21.94,
+                    "end": 22.54,
+                    "probability": 0.7952107191085815
+                },
+                {
+                    "word": " Shou",
+                    "start": 23.26,
+                    "end": 23.44,
+                    "probability": 0.586068645119667
+                },
+                {
+                    "word": " Chu's",
+                    "start": 23.44,
+                    "end": 23.72,
+                    "probability": 0.613550677895546
+                },
+                {
+                    "word": " own",
+                    "start": 23.72,
+                    "end": 24.0,
+                    "probability": 0.8278645277023315
+                },
+                {
+                    "word": " compensation,",
+                    "start": 24.0,
+                    "end": 24.58,
+                    "probability": 0.7835400700569153
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 24.78,
+            "end": 27.02,
+            "text": " and whether that comes from TikTok's",
+            "tokens": [
+                51600,
+                293,
+                1968,
+                300,
+                1487,
+                490,
+                20211,
+                311,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 24.78,
+                    "end": 24.88,
+                    "probability": 0.8825802206993103
+                },
+                {
+                    "word": " whether",
+                    "start": 24.88,
+                    "end": 25.02,
+                    "probability": 0.8344862461090088
+                },
+                {
+                    "word": " that",
+                    "start": 25.02,
+                    "end": 25.26,
+                    "probability": 0.8850206732749939
+                },
+                {
+                    "word": " comes",
+                    "start": 25.26,
+                    "end": 25.62,
+                    "probability": 0.8110217452049255
+                },
+                {
+                    "word": " from",
+                    "start": 25.62,
+                    "end": 26.04,
+                    "probability": 0.8140358924865723
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 26.04,
+                    "end": 27.02,
+                    "probability": 0.9519932866096497
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 27.02,
+            "end": 28.62,
+            "text": " Chinese parent company, ByteDance,",
+            "tokens": [
+                51714,
+                4649,
+                2596,
+                2237,
+                11,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                51810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2532354878113333,
+            "compression_ratio": 1.626865671641791,
+            "no_speech_prob": 0.00847582332789898,
+            "words": [
+                {
+                    "word": " Chinese",
+                    "start": 27.02,
+                    "end": 27.36,
+                    "probability": 0.7450578212738037
+                },
+                {
+                    "word": " parent",
+                    "start": 27.36,
+                    "end": 27.64,
+                    "probability": 0.7469593286514282
+                },
+                {
+                    "word": " company,",
+                    "start": 27.64,
+                    "end": 28.0,
+                    "probability": 0.8001267910003662
+                },
+                {
+                    "word": " ByteDance,",
+                    "start": 28.1,
+                    "end": 28.62,
+                    "probability": 0.9257395714521408
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2862,
+            "start": 28.62,
+            "end": 30.38,
+            "text": " the compensation of employees,",
+            "tokens": [
+                50382,
+                264,
+                19644,
+                295,
+                6619,
+                11,
+                50474
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 28.62,
+                    "end": 29.02,
+                    "probability": 0.04005839675664902
+                },
+                {
+                    "word": " compensation",
+                    "start": 29.02,
+                    "end": 29.44,
+                    "probability": 0.7650973200798035
+                },
+                {
+                    "word": " of",
+                    "start": 29.44,
+                    "end": 29.8,
+                    "probability": 0.9014158248901367
+                },
+                {
+                    "word": " employees,",
+                    "start": 29.8,
+                    "end": 30.38,
+                    "probability": 0.6887035965919495
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2862,
+            "start": 30.84,
+            "end": 33.68,
+            "text": " his own relationship with ByteDance employees",
+            "tokens": [
+                50474,
+                702,
+                1065,
+                2480,
+                365,
+                3146,
+                975,
+                35,
+                719,
+                6619,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " his",
+                    "start": 30.84,
+                    "end": 31.0,
+                    "probability": 0.8957123756408691
+                },
+                {
+                    "word": " own",
+                    "start": 31.0,
+                    "end": 31.42,
+                    "probability": 0.8161779642105103
+                },
+                {
+                    "word": " relationship",
+                    "start": 31.42,
+                    "end": 32.06,
+                    "probability": 0.806272029876709
+                },
+                {
+                    "word": " with",
+                    "start": 32.06,
+                    "end": 32.68,
+                    "probability": 0.8161011338233948
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 32.68,
+                    "end": 33.22,
+                    "probability": 0.7964826300740242
+                },
+                {
+                    "word": " employees",
+                    "start": 33.22,
+                    "end": 33.68,
+                    "probability": 0.6724636554718018
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2862,
+            "start": 33.68,
+            "end": 35.5,
+            "text": " and members of the Chinese Communist Party.",
+            "tokens": [
+                50624,
+                293,
+                2679,
+                295,
+                264,
+                4649,
+                23253,
+                8552,
+                13,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 33.68,
+                    "end": 33.94,
+                    "probability": 0.7969914078712463
+                },
+                {
+                    "word": " members",
+                    "start": 33.94,
+                    "end": 34.22,
+                    "probability": 0.8023771047592163
+                },
+                {
+                    "word": " of",
+                    "start": 34.22,
+                    "end": 34.34,
+                    "probability": 0.9050600528717041
+                },
+                {
+                    "word": " the",
+                    "start": 34.34,
+                    "end": 34.46,
+                    "probability": 0.8121893405914307
+                },
+                {
+                    "word": " Chinese",
+                    "start": 34.46,
+                    "end": 34.76,
+                    "probability": 0.7797674536705017
+                },
+                {
+                    "word": " Communist",
+                    "start": 34.76,
+                    "end": 35.16,
+                    "probability": 0.7432040572166443
+                },
+                {
+                    "word": " Party.",
+                    "start": 35.16,
+                    "end": 35.5,
+                    "probability": 0.8127885460853577
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2862,
+            "start": 35.58,
+            "end": 40.32,
+            "text": " So really detailed questions on TikTok's Chinese ties,",
+            "tokens": [
+                50712,
+                407,
+                534,
+                9942,
+                1651,
+                322,
+                20211,
+                311,
+                4649,
+                14039,
+                11,
+                50962
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 35.58,
+                    "end": 35.68,
+                    "probability": 0.8700602650642395
+                },
+                {
+                    "word": " really",
+                    "start": 35.68,
+                    "end": 36.06,
+                    "probability": 0.6142886877059937
+                },
+                {
+                    "word": " detailed",
+                    "start": 36.06,
+                    "end": 36.44,
+                    "probability": 0.7020091414451599
+                },
+                {
+                    "word": " questions",
+                    "start": 36.44,
+                    "end": 37.02,
+                    "probability": 0.9055100679397583
+                },
+                {
+                    "word": " on",
+                    "start": 37.02,
+                    "end": 37.98,
+                    "probability": 0.8984322547912598
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 37.98,
+                    "end": 38.82,
+                    "probability": 0.8727121949195862
+                },
+                {
+                    "word": " Chinese",
+                    "start": 38.82,
+                    "end": 39.42,
+                    "probability": 0.7015568017959595
+                },
+                {
+                    "word": " ties,",
+                    "start": 39.42,
+                    "end": 40.32,
+                    "probability": 0.7697946429252625
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2862,
+            "start": 40.56,
+            "end": 42.84,
+            "text": " and also really detailed questions",
+            "tokens": [
+                50970,
+                293,
+                611,
+                534,
+                9942,
+                1651,
+                51084
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 40.56,
+                    "end": 41.2,
+                    "probability": 0.8384135961532593
+                },
+                {
+                    "word": " also",
+                    "start": 41.2,
+                    "end": 41.6,
+                    "probability": 0.8279864192008972
+                },
+                {
+                    "word": " really",
+                    "start": 41.6,
+                    "end": 41.92,
+                    "probability": 0.7789812684059143
+                },
+                {
+                    "word": " detailed",
+                    "start": 41.92,
+                    "end": 42.26,
+                    "probability": 0.7349786758422852
+                },
+                {
+                    "word": " questions",
+                    "start": 42.26,
+                    "end": 42.84,
+                    "probability": 0.911375105381012
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2862,
+            "start": 42.84,
+            "end": 44.94,
+            "text": " on the technology itself.",
+            "tokens": [
+                51084,
+                322,
+                264,
+                2899,
+                2564,
+                13,
+                51188
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 42.84,
+                    "end": 43.42,
+                    "probability": 0.9064563512802124
+                },
+                {
+                    "word": " the",
+                    "start": 43.42,
+                    "end": 43.8,
+                    "probability": 0.8115040063858032
+                },
+                {
+                    "word": " technology",
+                    "start": 43.8,
+                    "end": 44.38,
+                    "probability": 0.8938502073287964
+                },
+                {
+                    "word": " itself.",
+                    "start": 44.38,
+                    "end": 44.94,
+                    "probability": 0.7647692561149597
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2862,
+            "start": 45.16,
+            "end": 48.58,
+            "text": " You know, we heard lawmakers talk about bytecode",
+            "tokens": [
+                51188,
+                509,
+                458,
+                11,
+                321,
+                2198,
+                40988,
+                751,
+                466,
+                40846,
+                22332,
+                51374
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 45.16,
+                    "end": 45.2,
+                    "probability": 0.44555163383483887
+                },
+                {
+                    "word": " know,",
+                    "start": 45.2,
+                    "end": 45.3,
+                    "probability": 0.821422278881073
+                },
+                {
+                    "word": " we",
+                    "start": 45.38,
+                    "end": 45.68,
+                    "probability": 0.9054979085922241
+                },
+                {
+                    "word": " heard",
+                    "start": 45.68,
+                    "end": 46.32,
+                    "probability": 0.8163357377052307
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 46.32,
+                    "end": 46.78,
+                    "probability": 0.6886940002441406
+                },
+                {
+                    "word": " talk",
+                    "start": 46.78,
+                    "end": 47.4,
+                    "probability": 0.8187284469604492
+                },
+                {
+                    "word": " about",
+                    "start": 47.4,
+                    "end": 47.84,
+                    "probability": 0.821792721748352
+                },
+                {
+                    "word": " bytecode",
+                    "start": 47.84,
+                    "end": 48.58,
+                    "probability": 0.6432469189167023
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2862,
+            "start": 48.58,
+            "end": 51.26,
+            "text": " and about neural network architectures",
+            "tokens": [
+                51374,
+                293,
+                466,
+                18161,
+                3209,
+                6331,
+                1303,
+                51498
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 48.58,
+                    "end": 49.22,
+                    "probability": 0.812801718711853
+                },
+                {
+                    "word": " about",
+                    "start": 49.22,
+                    "end": 49.72,
+                    "probability": 0.7976769208908081
+                },
+                {
+                    "word": " neural",
+                    "start": 49.72,
+                    "end": 50.1,
+                    "probability": 0.8811126947402954
+                },
+                {
+                    "word": " network",
+                    "start": 50.1,
+                    "end": 50.52,
+                    "probability": 0.8169297575950623
+                },
+                {
+                    "word": " architectures",
+                    "start": 50.52,
+                    "end": 51.26,
+                    "probability": 0.8972910344600677
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 2862,
+            "start": 51.26,
+            "end": 52.42,
+            "text": " and artificial intelligence,",
+            "tokens": [
+                51498,
+                293,
+                11677,
+                7599,
+                11,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 51.26,
+                    "end": 51.38,
+                    "probability": 0.8670161962509155
+                },
+                {
+                    "word": " artificial",
+                    "start": 51.38,
+                    "end": 51.72,
+                    "probability": 0.8094069957733154
+                },
+                {
+                    "word": " intelligence,",
+                    "start": 51.72,
+                    "end": 52.42,
+                    "probability": 0.6975623369216919
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 2862,
+            "start": 52.42,
+            "end": 56.34,
+            "text": " and that's pretty unprecedented for the US Congress,",
+            "tokens": [
+                51564,
+                293,
+                300,
+                311,
+                1238,
+                21555,
+                337,
+                264,
+                2546,
+                6426,
+                11,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2338444730068775,
+            "compression_ratio": 1.6305220883534137,
+            "no_speech_prob": 0.0005408584256656468,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 52.42,
+                    "end": 52.78,
+                    "probability": 0.8931096196174622
+                },
+                {
+                    "word": " that's",
+                    "start": 52.78,
+                    "end": 53.84,
+                    "probability": 0.9062167108058929
+                },
+                {
+                    "word": " pretty",
+                    "start": 53.84,
+                    "end": 54.06,
+                    "probability": 0.7360003590583801
+                },
+                {
+                    "word": " unprecedented",
+                    "start": 54.06,
+                    "end": 54.72,
+                    "probability": 0.8662158846855164
+                },
+                {
+                    "word": " for",
+                    "start": 54.72,
+                    "end": 55.46,
+                    "probability": 0.8922722339630127
+                },
+                {
+                    "word": " the",
+                    "start": 55.46,
+                    "end": 55.66,
+                    "probability": 0.8125907778739929
+                },
+                {
+                    "word": " US",
+                    "start": 55.66,
+                    "end": 55.94,
+                    "probability": 0.4574674069881439
+                },
+                {
+                    "word": " Congress,",
+                    "start": 55.94,
+                    "end": 56.34,
+                    "probability": 0.866888165473938
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "seek": 5634,
+            "start": 56.74,
+            "end": 58.22,
+            "text": " which five years ago,",
+            "tokens": [
+                50378,
+                597,
+                1732,
+                924,
+                2057,
+                11,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2971768379211426,
+            "compression_ratio": 1.1979166666666667,
+            "no_speech_prob": 0.0754416361451149,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 56.74,
+                    "end": 57.3,
+                    "probability": 0.17641745507717133
+                },
+                {
+                    "word": " five",
+                    "start": 57.3,
+                    "end": 57.54,
+                    "probability": 0.6035930514335632
+                },
+                {
+                    "word": " years",
+                    "start": 57.54,
+                    "end": 57.86,
+                    "probability": 0.8814284801483154
+                },
+                {
+                    "word": " ago,",
+                    "start": 57.86,
+                    "end": 58.22,
+                    "probability": 0.8251833319664001
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "seek": 5634,
+            "start": 58.46,
+            "end": 60.46,
+            "text": " when they were grilling Mark Zuckerberg,",
+            "tokens": [
+                50464,
+                562,
+                436,
+                645,
+                49961,
+                3934,
+                34032,
+                6873,
+                11,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2971768379211426,
+            "compression_ratio": 1.1979166666666667,
+            "no_speech_prob": 0.0754416361451149,
+            "words": [
+                {
+                    "word": " when",
+                    "start": 58.46,
+                    "end": 58.64,
+                    "probability": 0.8764029145240784
+                },
+                {
+                    "word": " they",
+                    "start": 58.64,
+                    "end": 59.02,
+                    "probability": 0.7415077090263367
+                },
+                {
+                    "word": " were",
+                    "start": 59.02,
+                    "end": 59.2,
+                    "probability": 0.8806284666061401
+                },
+                {
+                    "word": " grilling",
+                    "start": 59.2,
+                    "end": 59.58,
+                    "probability": 0.822445273399353
+                },
+                {
+                    "word": " Mark",
+                    "start": 59.58,
+                    "end": 59.86,
+                    "probability": 0.931057333946228
+                },
+                {
+                    "word": " Zuckerberg,",
+                    "start": 59.86,
+                    "end": 60.46,
+                    "probability": 0.8910234868526459
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "seek": 5634,
+            "start": 60.62,
+            "end": 62.98,
+            "text": " had absolutely no clue what they were talking about.",
+            "tokens": [
+                50582,
+                632,
+                3122,
+                572,
+                13602,
+                437,
+                436,
+                645,
+                1417,
+                466,
+                13,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2971768379211426,
+            "compression_ratio": 1.1979166666666667,
+            "no_speech_prob": 0.0754416361451149,
+            "words": [
+                {
+                    "word": " had",
+                    "start": 60.62,
+                    "end": 60.94,
+                    "probability": 0.8224793076515198
+                },
+                {
+                    "word": " absolutely",
+                    "start": 60.94,
+                    "end": 61.5,
+                    "probability": 0.7445977926254272
+                },
+                {
+                    "word": " no",
+                    "start": 61.5,
+                    "end": 61.84,
+                    "probability": 0.9038581252098083
+                },
+                {
+                    "word": " clue",
+                    "start": 61.84,
+                    "end": 62.12,
+                    "probability": 0.92386794090271
+                },
+                {
+                    "word": " what",
+                    "start": 62.12,
+                    "end": 62.26,
+                    "probability": 0.8834948539733887
+                },
+                {
+                    "word": " they",
+                    "start": 62.26,
+                    "end": 62.34,
+                    "probability": 0.7344242334365845
+                },
+                {
+                    "word": " were",
+                    "start": 62.34,
+                    "end": 62.44,
+                    "probability": 0.8819413185119629
+                },
+                {
+                    "word": " talking",
+                    "start": 62.44,
+                    "end": 62.7,
+                    "probability": 0.771410346031189
+                },
+                {
+                    "word": " about.",
+                    "start": 62.7,
+                    "end": 62.98,
+                    "probability": 0.8277684450149536
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

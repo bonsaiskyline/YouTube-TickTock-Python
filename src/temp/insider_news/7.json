@@ -1,0 +1,59 @@
+{
+    "text": " Tell me more about that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.22,
+            "end": 1.5,
+            "text": " Tell me more about that.",
+            "tokens": [
+                50364,
+                5115,
+                385,
+                544,
+                466,
+                300,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48447031444973415,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.25613147020339966,
+            "words": [
+                {
+                    "word": " Tell",
+                    "start": 0.22,
+                    "end": 0.64,
+                    "probability": 0.6894447207450867
+                },
+                {
+                    "word": " me",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.906624436378479
+                },
+                {
+                    "word": " more",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.8750847578048706
+                },
+                {
+                    "word": " about",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.8099631071090698
+                },
+                {
+                    "word": " that.",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.8849770426750183
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

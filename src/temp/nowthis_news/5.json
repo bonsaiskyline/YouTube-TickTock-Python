@@ -1,0 +1,296 @@
+{
+    "text": " Congressman, we do not do anything that is beyond any industry norms. I believe the answer to your question is no. It could be technical. Let me get back to you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.2,
+            "end": 3.52,
+            "text": " Congressman, we do not do anything that is beyond any industry norms.",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                321,
+                360,
+                406,
+                360,
+                1340,
+                300,
+                307,
+                4399,
+                604,
+                3518,
+                24357,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3385080761379666,
+            "compression_ratio": 1.2983870967741935,
+            "no_speech_prob": 0.04084482043981552,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.453579306602478
+                },
+                {
+                    "word": " we",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.8024836778640747
+                },
+                {
+                    "word": " do",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9014452695846558
+                },
+                {
+                    "word": " not",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.8998504877090454
+                },
+                {
+                    "word": " do",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.8985165357589722
+                },
+                {
+                    "word": " anything",
+                    "start": 1.56,
+                    "end": 1.92,
+                    "probability": 0.8550798892974854
+                },
+                {
+                    "word": " that",
+                    "start": 1.92,
+                    "end": 2.1,
+                    "probability": 0.8553678393363953
+                },
+                {
+                    "word": " is",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.8817890882492065
+                },
+                {
+                    "word": " beyond",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.7322953343391418
+                },
+                {
+                    "word": " any",
+                    "start": 2.52,
+                    "end": 2.7,
+                    "probability": 0.7411783337593079
+                },
+                {
+                    "word": " industry",
+                    "start": 2.7,
+                    "end": 3.08,
+                    "probability": 0.7620459794998169
+                },
+                {
+                    "word": " norms.",
+                    "start": 3.08,
+                    "end": 3.52,
+                    "probability": 0.871808648109436
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.1,
+            "end": 6.38,
+            "text": " I believe the answer to your question is no.",
+            "tokens": [
+                50564,
+                286,
+                1697,
+                264,
+                1867,
+                281,
+                428,
+                1168,
+                307,
+                572,
+                13,
+                50690
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3385080761379666,
+            "compression_ratio": 1.2983870967741935,
+            "no_speech_prob": 0.04084482043981552,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 4.1,
+                    "end": 4.46,
+                    "probability": 0.9834651947021484
+                },
+                {
+                    "word": " believe",
+                    "start": 4.46,
+                    "end": 4.98,
+                    "probability": 0.7100662589073181
+                },
+                {
+                    "word": " the",
+                    "start": 4.98,
+                    "end": 5.12,
+                    "probability": 0.8106386065483093
+                },
+                {
+                    "word": " answer",
+                    "start": 5.12,
+                    "end": 5.34,
+                    "probability": 0.901788592338562
+                },
+                {
+                    "word": " to",
+                    "start": 5.34,
+                    "end": 5.5,
+                    "probability": 0.9061030745506287
+                },
+                {
+                    "word": " your",
+                    "start": 5.5,
+                    "end": 5.66,
+                    "probability": 0.7840737104415894
+                },
+                {
+                    "word": " question",
+                    "start": 5.66,
+                    "end": 5.98,
+                    "probability": 0.7990861535072327
+                },
+                {
+                    "word": " is",
+                    "start": 5.98,
+                    "end": 6.16,
+                    "probability": 0.8999588489532471
+                },
+                {
+                    "word": " no.",
+                    "start": 6.16,
+                    "end": 6.38,
+                    "probability": 0.7891846895217896
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.52,
+            "end": 7.28,
+            "text": " It could be technical.",
+            "tokens": [
+                50690,
+                467,
+                727,
+                312,
+                6191,
+                13,
+                50740
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3385080761379666,
+            "compression_ratio": 1.2983870967741935,
+            "no_speech_prob": 0.04084482043981552,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 6.52,
+                    "end": 6.58,
+                    "probability": 0.8977286219596863
+                },
+                {
+                    "word": " could",
+                    "start": 6.58,
+                    "end": 6.72,
+                    "probability": 0.8226744532585144
+                },
+                {
+                    "word": " be",
+                    "start": 6.72,
+                    "end": 6.94,
+                    "probability": 0.9032605886459351
+                },
+                {
+                    "word": " technical.",
+                    "start": 6.94,
+                    "end": 7.28,
+                    "probability": 0.8489997982978821
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.4,
+            "end": 7.86,
+            "text": " Let me get back to you.",
+            "tokens": [
+                50740,
+                961,
+                385,
+                483,
+                646,
+                281,
+                291,
+                13,
+                50758
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3385080761379666,
+            "compression_ratio": 1.2983870967741935,
+            "no_speech_prob": 0.04084482043981552,
+            "words": [
+                {
+                    "word": " Let",
+                    "start": 7.4,
+                    "end": 7.46,
+                    "probability": 0.8950983285903931
+                },
+                {
+                    "word": " me",
+                    "start": 7.46,
+                    "end": 7.54,
+                    "probability": 0.9040218591690063
+                },
+                {
+                    "word": " get",
+                    "start": 7.54,
+                    "end": 7.64,
+                    "probability": 0.8115228414535522
+                },
+                {
+                    "word": " back",
+                    "start": 7.64,
+                    "end": 7.8,
+                    "probability": 0.8177334070205688
+                },
+                {
+                    "word": " to",
+                    "start": 7.8,
+                    "end": 7.86,
+                    "probability": 0.8990611433982849
+                },
+                {
+                    "word": " you.",
+                    "start": 7.86,
+                    "end": 7.86,
+                    "probability": 0.8043286204338074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

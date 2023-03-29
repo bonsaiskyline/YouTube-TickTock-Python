@@ -1,0 +1,7 @@
+{
+	"[python]": {
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true
+	},
+	"editor.detectIndentation": false
+}

@@ -1,0 +1,74 @@
+{
+    "text": " Congressman, I have not seen this memo.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " Congressman, I have not seen this memo.",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                286,
+                362,
+                406,
+                1612,
+                341,
+                35900,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3612155516942342,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.014091872610151768,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.5022583603858948
+                },
+                {
+                    "word": " I",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9881097078323364
+                },
+                {
+                    "word": " have",
+                    "start": 0.78,
+                    "end": 1.08,
+                    "probability": 0.8801334500312805
+                },
+                {
+                    "word": " not",
+                    "start": 1.08,
+                    "end": 1.28,
+                    "probability": 0.9003256559371948
+                },
+                {
+                    "word": " seen",
+                    "start": 1.28,
+                    "end": 1.52,
+                    "probability": 0.8775582909584045
+                },
+                {
+                    "word": " this",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.8517692685127258
+                },
+                {
+                    "word": " memo.",
+                    "start": 1.76,
+                    "end": 2.04,
+                    "probability": 0.7996330261230469
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

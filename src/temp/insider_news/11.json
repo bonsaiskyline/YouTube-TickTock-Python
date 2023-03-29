@@ -1,0 +1,46 @@
+{
+    "text": " people it's heartbreaking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.02,
+            "text": " people it's heartbreaking.",
+            "tokens": [
+                50364,
+                561,
+                309,
+                311,
+                41030,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8294966816902161,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.047409795224666595,
+            "words": [
+                {
+                    "word": " people",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.19593995809555054
+                },
+                {
+                    "word": " it's",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.6788491755723953
+                },
+                {
+                    "word": " heartbreaking.",
+                    "start": 0.9,
+                    "end": 1.02,
+                    "probability": 0.7107038497924805
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,30 @@
+{
+    "text": " not",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.22,
+            "text": " not",
+            "tokens": [
+                50364,
+                406,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.934590756893158,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.9564345479011536,
+            "words": [
+                {
+                    "word": " not",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.11379111558198929
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

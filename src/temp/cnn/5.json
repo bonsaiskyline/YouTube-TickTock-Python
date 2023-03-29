@@ -1,0 +1,147 @@
+{
+    "text": " Congressman, I would appreciate this. This is a complex topic. Today, all data is stored by default.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 6.36,
+            "text": " Congressman, I would appreciate this. This is a complex topic. Today, all data is stored by default.",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                286,
+                576,
+                4449,
+                341,
+                13,
+                639,
+                307,
+                257,
+                3997,
+                4829,
+                13,
+                2692,
+                11,
+                439,
+                1412,
+                307,
+                12187,
+                538,
+                7576,
+                13,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46390888214111325,
+            "compression_ratio": 1.075268817204301,
+            "no_speech_prob": 0.06215741112828255,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.08,
+                    "end": 0.58,
+                    "probability": 0.3123590350151062
+                },
+                {
+                    "word": " I",
+                    "start": 0.88,
+                    "end": 1.22,
+                    "probability": 0.9312828779220581
+                },
+                {
+                    "word": " would",
+                    "start": 1.22,
+                    "end": 1.4,
+                    "probability": 0.8272628784179688
+                },
+                {
+                    "word": " appreciate",
+                    "start": 1.4,
+                    "end": 1.96,
+                    "probability": 0.8351283073425293
+                },
+                {
+                    "word": " this.",
+                    "start": 1.96,
+                    "end": 2.5,
+                    "probability": 0.28866109251976013
+                },
+                {
+                    "word": " This",
+                    "start": 2.56,
+                    "end": 2.74,
+                    "probability": 0.8163121938705444
+                },
+                {
+                    "word": " is",
+                    "start": 2.74,
+                    "end": 2.84,
+                    "probability": 0.9062011241912842
+                },
+                {
+                    "word": " a",
+                    "start": 2.84,
+                    "end": 2.96,
+                    "probability": 0.9985978007316589
+                },
+                {
+                    "word": " complex",
+                    "start": 2.96,
+                    "end": 3.32,
+                    "probability": 0.760744035243988
+                },
+                {
+                    "word": " topic.",
+                    "start": 3.32,
+                    "end": 3.86,
+                    "probability": 0.8755855560302734
+                },
+                {
+                    "word": " Today,",
+                    "start": 4.38,
+                    "end": 4.62,
+                    "probability": 0.8634939789772034
+                },
+                {
+                    "word": " all",
+                    "start": 4.84,
+                    "end": 5.04,
+                    "probability": 0.8944429159164429
+                },
+                {
+                    "word": " data",
+                    "start": 5.04,
+                    "end": 5.3,
+                    "probability": 0.8065921664237976
+                },
+                {
+                    "word": " is",
+                    "start": 5.3,
+                    "end": 5.7,
+                    "probability": 0.5229452848434448
+                },
+                {
+                    "word": " stored",
+                    "start": 5.7,
+                    "end": 5.92,
+                    "probability": 0.6584222912788391
+                },
+                {
+                    "word": " by",
+                    "start": 5.92,
+                    "end": 6.1,
+                    "probability": 0.8705921173095703
+                },
+                {
+                    "word": " default.",
+                    "start": 6.1,
+                    "end": 6.36,
+                    "probability": 0.8941370844841003
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

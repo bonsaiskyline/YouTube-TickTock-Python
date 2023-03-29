@@ -1,0 +1,102 @@
+{
+    "text": " This is a real industry challenge and we're working very hard.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " This is a real industry challenge and we're working very hard.",
+            "tokens": [
+                50364,
+                639,
+                307,
+                257,
+                957,
+                3518,
+                3430,
+                293,
+                321,
+                434,
+                1364,
+                588,
+                1152,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44377559423446655,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.2536435127258301,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5318219065666199
+                },
+                {
+                    "word": " is",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.9078661799430847
+                },
+                {
+                    "word": " a",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.987275242805481
+                },
+                {
+                    "word": " real",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9050709009170532
+                },
+                {
+                    "word": " industry",
+                    "start": 0.76,
+                    "end": 1.2,
+                    "probability": 0.7331407070159912
+                },
+                {
+                    "word": " challenge",
+                    "start": 1.2,
+                    "end": 1.62,
+                    "probability": 0.7759911417961121
+                },
+                {
+                    "word": " and",
+                    "start": 1.62,
+                    "end": 1.8,
+                    "probability": 0.601936399936676
+                },
+                {
+                    "word": " we're",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.8707514703273773
+                },
+                {
+                    "word": " working",
+                    "start": 1.98,
+                    "end": 2.14,
+                    "probability": 0.7623687386512756
+                },
+                {
+                    "word": " very",
+                    "start": 2.14,
+                    "end": 2.14,
+                    "probability": 0.630177915096283
+                },
+                {
+                    "word": " hard.",
+                    "start": 2.14,
+                    "end": 2.14,
+                    "probability": 0.8499709367752075
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

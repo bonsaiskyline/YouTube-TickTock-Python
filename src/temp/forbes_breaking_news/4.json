@@ -1,0 +1,167 @@
+{
+    "text": " It is correct. So many of the workers who work at ByteDance, they're Communist Party members, right?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " It is correct. So many of the workers who work at ByteDance,",
+            "tokens": [
+                50364,
+                467,
+                307,
+                3006,
+                13,
+                407,
+                867,
+                295,
+                264,
+                5600,
+                567,
+                589,
+                412,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3007272402445475,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.02046770602464676,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6996215581893921
+                },
+                {
+                    "word": " is",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.8994077444076538
+                },
+                {
+                    "word": " correct.",
+                    "start": 0.28,
+                    "end": 0.54,
+                    "probability": 0.8824700117111206
+                },
+                {
+                    "word": " So",
+                    "start": 1.04,
+                    "end": 1.44,
+                    "probability": 0.8702341318130493
+                },
+                {
+                    "word": " many",
+                    "start": 1.44,
+                    "end": 2.12,
+                    "probability": 0.5793342590332031
+                },
+                {
+                    "word": " of",
+                    "start": 2.12,
+                    "end": 2.5,
+                    "probability": 0.9043911695480347
+                },
+                {
+                    "word": " the",
+                    "start": 2.5,
+                    "end": 2.64,
+                    "probability": 0.815310537815094
+                },
+                {
+                    "word": " workers",
+                    "start": 2.64,
+                    "end": 3.2,
+                    "probability": 0.8056825399398804
+                },
+                {
+                    "word": " who",
+                    "start": 3.2,
+                    "end": 3.72,
+                    "probability": 0.8186425566673279
+                },
+                {
+                    "word": " work",
+                    "start": 3.72,
+                    "end": 3.94,
+                    "probability": 0.8190864324569702
+                },
+                {
+                    "word": " at",
+                    "start": 3.94,
+                    "end": 4.08,
+                    "probability": 0.869658350944519
+                },
+                {
+                    "word": " ByteDance,",
+                    "start": 4.08,
+                    "end": 4.62,
+                    "probability": 0.8770410120487213
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.72,
+            "end": 6.36,
+            "text": " they're Communist Party members, right?",
+            "tokens": [
+                50596,
+                436,
+                434,
+                23253,
+                8552,
+                2679,
+                11,
+                558,
+                30,
+                50690
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3007272402445475,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.02046770602464676,
+            "words": [
+                {
+                    "word": " they're",
+                    "start": 4.72,
+                    "end": 4.84,
+                    "probability": 0.788061797618866
+                },
+                {
+                    "word": " Communist",
+                    "start": 4.84,
+                    "end": 5.26,
+                    "probability": 0.6622048616409302
+                },
+                {
+                    "word": " Party",
+                    "start": 5.26,
+                    "end": 5.64,
+                    "probability": 0.7860486507415771
+                },
+                {
+                    "word": " members,",
+                    "start": 5.64,
+                    "end": 6.08,
+                    "probability": 0.7870404720306396
+                },
+                {
+                    "word": " right?",
+                    "start": 6.18,
+                    "end": 6.36,
+                    "probability": 0.8876375555992126
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

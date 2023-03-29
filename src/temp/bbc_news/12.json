@@ -1,0 +1,372 @@
+{
+    "text": " Well, Jasmine Enberg is a principal analyst at social media in Insider Intelligence. And I put it to her that since there's no evidence that TikTok has passed data on to the Chinese government, how does the chief executive go about proving a negative?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.44,
+            "text": " Well, Jasmine Enberg is a principal analyst at social media in Insider Intelligence.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                36224,
+                2193,
+                6873,
+                307,
+                257,
+                9716,
+                19085,
+                412,
+                2093,
+                3021,
+                294,
+                9442,
+                1438,
+                27274,
+                13,
+                50640
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3832588195800781,
+            "compression_ratio": 1.3944444444444444,
+            "no_speech_prob": 0.004871569573879242,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.24225319921970367
+                },
+                {
+                    "word": " Jasmine",
+                    "start": 0.22,
+                    "end": 0.54,
+                    "probability": 0.5724927186965942
+                },
+                {
+                    "word": " Enberg",
+                    "start": 0.54,
+                    "end": 1.14,
+                    "probability": 0.7252440452575684
+                },
+                {
+                    "word": " is",
+                    "start": 1.14,
+                    "end": 1.4,
+                    "probability": 0.8840316534042358
+                },
+                {
+                    "word": " a",
+                    "start": 1.4,
+                    "end": 1.52,
+                    "probability": 0.9809471964836121
+                },
+                {
+                    "word": " principal",
+                    "start": 1.52,
+                    "end": 1.86,
+                    "probability": 0.5096553564071655
+                },
+                {
+                    "word": " analyst",
+                    "start": 1.86,
+                    "end": 2.42,
+                    "probability": 0.5855443477630615
+                },
+                {
+                    "word": " at",
+                    "start": 2.42,
+                    "end": 2.7,
+                    "probability": 0.9011780023574829
+                },
+                {
+                    "word": " social",
+                    "start": 2.7,
+                    "end": 3.1,
+                    "probability": 0.41533157229423523
+                },
+                {
+                    "word": " media",
+                    "start": 3.1,
+                    "end": 3.48,
+                    "probability": 0.8192408680915833
+                },
+                {
+                    "word": " in",
+                    "start": 3.48,
+                    "end": 3.96,
+                    "probability": 0.695375382900238
+                },
+                {
+                    "word": " Insider",
+                    "start": 3.96,
+                    "end": 4.82,
+                    "probability": 0.6393089890480042
+                },
+                {
+                    "word": " Intelligence.",
+                    "start": 4.82,
+                    "end": 5.44,
+                    "probability": 0.8060436248779297
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.58,
+            "end": 10.74,
+            "text": " And I put it to her that since there's no evidence that TikTok has passed data on to the Chinese government,",
+            "tokens": [
+                50640,
+                400,
+                286,
+                829,
+                309,
+                281,
+                720,
+                300,
+                1670,
+                456,
+                311,
+                572,
+                4467,
+                300,
+                20211,
+                575,
+                4678,
+                1412,
+                322,
+                281,
+                264,
+                4649,
+                2463,
+                11,
+                50924
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3832588195800781,
+            "compression_ratio": 1.3944444444444444,
+            "no_speech_prob": 0.004871569573879242,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 5.58,
+                    "end": 5.62,
+                    "probability": 0.8579884767532349
+                },
+                {
+                    "word": " I",
+                    "start": 5.62,
+                    "end": 5.76,
+                    "probability": 0.9968146681785583
+                },
+                {
+                    "word": " put",
+                    "start": 5.76,
+                    "end": 6.02,
+                    "probability": 0.878070592880249
+                },
+                {
+                    "word": " it",
+                    "start": 6.02,
+                    "end": 6.2,
+                    "probability": 0.8753728866577148
+                },
+                {
+                    "word": " to",
+                    "start": 6.2,
+                    "end": 6.42,
+                    "probability": 0.9032055139541626
+                },
+                {
+                    "word": " her",
+                    "start": 6.42,
+                    "end": 6.66,
+                    "probability": 0.8924497365951538
+                },
+                {
+                    "word": " that",
+                    "start": 6.66,
+                    "end": 6.86,
+                    "probability": 0.8232191205024719
+                },
+                {
+                    "word": " since",
+                    "start": 6.86,
+                    "end": 7.16,
+                    "probability": 0.7687356472015381
+                },
+                {
+                    "word": " there's",
+                    "start": 7.16,
+                    "end": 7.34,
+                    "probability": 0.9164685606956482
+                },
+                {
+                    "word": " no",
+                    "start": 7.34,
+                    "end": 7.48,
+                    "probability": 0.9080507159233093
+                },
+                {
+                    "word": " evidence",
+                    "start": 7.48,
+                    "end": 7.96,
+                    "probability": 0.9153231382369995
+                },
+                {
+                    "word": " that",
+                    "start": 7.96,
+                    "end": 8.22,
+                    "probability": 0.8857258558273315
+                },
+                {
+                    "word": " TikTok",
+                    "start": 8.22,
+                    "end": 8.6,
+                    "probability": 0.8110323548316956
+                },
+                {
+                    "word": " has",
+                    "start": 8.6,
+                    "end": 8.88,
+                    "probability": 0.834440290927887
+                },
+                {
+                    "word": " passed",
+                    "start": 8.88,
+                    "end": 9.22,
+                    "probability": 0.7550830245018005
+                },
+                {
+                    "word": " data",
+                    "start": 9.22,
+                    "end": 9.6,
+                    "probability": 0.7830513119697571
+                },
+                {
+                    "word": " on",
+                    "start": 9.6,
+                    "end": 9.8,
+                    "probability": 0.6637375354766846
+                },
+                {
+                    "word": " to",
+                    "start": 9.8,
+                    "end": 9.94,
+                    "probability": 0.8907871246337891
+                },
+                {
+                    "word": " the",
+                    "start": 9.94,
+                    "end": 10.06,
+                    "probability": 0.8124862909317017
+                },
+                {
+                    "word": " Chinese",
+                    "start": 10.06,
+                    "end": 10.34,
+                    "probability": 0.7495372295379639
+                },
+                {
+                    "word": " government,",
+                    "start": 10.34,
+                    "end": 10.74,
+                    "probability": 0.826348066329956
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.22,
+            "end": 13.7,
+            "text": " how does the chief executive go about proving a negative?",
+            "tokens": [
+                50924,
+                577,
+                775,
+                264,
+                9588,
+                10140,
+                352,
+                466,
+                27221,
+                257,
+                3671,
+                30,
+                51062
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3832588195800781,
+            "compression_ratio": 1.3944444444444444,
+            "no_speech_prob": 0.004871569573879242,
+            "words": [
+                {
+                    "word": " how",
+                    "start": 11.22,
+                    "end": 11.36,
+                    "probability": 0.8906121253967285
+                },
+                {
+                    "word": " does",
+                    "start": 11.36,
+                    "end": 11.52,
+                    "probability": 0.9196253418922424
+                },
+                {
+                    "word": " the",
+                    "start": 11.52,
+                    "end": 11.66,
+                    "probability": 0.7393122315406799
+                },
+                {
+                    "word": " chief",
+                    "start": 11.66,
+                    "end": 11.86,
+                    "probability": 0.7484914064407349
+                },
+                {
+                    "word": " executive",
+                    "start": 11.86,
+                    "end": 12.36,
+                    "probability": 0.7256448268890381
+                },
+                {
+                    "word": " go",
+                    "start": 12.36,
+                    "end": 12.68,
+                    "probability": 0.8994737267494202
+                },
+                {
+                    "word": " about",
+                    "start": 12.68,
+                    "end": 12.9,
+                    "probability": 0.8227493762969971
+                },
+                {
+                    "word": " proving",
+                    "start": 12.9,
+                    "end": 13.24,
+                    "probability": 0.7925236821174622
+                },
+                {
+                    "word": " a",
+                    "start": 13.24,
+                    "end": 13.38,
+                    "probability": 0.9729692339897156
+                },
+                {
+                    "word": " negative?",
+                    "start": 13.38,
+                    "end": 13.7,
+                    "probability": 0.8787044286727905
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

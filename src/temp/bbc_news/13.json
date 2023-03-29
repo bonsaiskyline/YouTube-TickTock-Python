@@ -1,0 +1,608 @@
+{
+    "text": " It was incredibly tough questioning, and there was very, very little that Chu could say to sway U.S. lawmakers' minds. He really had to prove a negative, that TikTok isn't or can't be used by the Chinese Communist Party to influence U.S. public opinion. In that sense, it's not just about data privacy. It's about soft influence and the type of content that is served on TikTok.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.28,
+            "text": " It was incredibly tough questioning, and there was very, very little that Chu could say to",
+            "tokens": [
+                50364,
+                467,
+                390,
+                6252,
+                4930,
+                21257,
+                11,
+                293,
+                456,
+                390,
+                588,
+                11,
+                588,
+                707,
+                300,
+                25585,
+                727,
+                584,
+                281,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2550032837222321,
+            "compression_ratio": 1.5491803278688525,
+            "no_speech_prob": 6.110079266363755e-05,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6653783917427063
+                },
+                {
+                    "word": " was",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.897797167301178
+                },
+                {
+                    "word": " incredibly",
+                    "start": 0.42,
+                    "end": 1.14,
+                    "probability": 0.8287903070449829
+                },
+                {
+                    "word": " tough",
+                    "start": 1.14,
+                    "end": 1.96,
+                    "probability": 0.7608303427696228
+                },
+                {
+                    "word": " questioning,",
+                    "start": 1.96,
+                    "end": 2.54,
+                    "probability": 0.7070773839950562
+                },
+                {
+                    "word": " and",
+                    "start": 3.18,
+                    "end": 3.48,
+                    "probability": 0.859399676322937
+                },
+                {
+                    "word": " there",
+                    "start": 3.48,
+                    "end": 3.6,
+                    "probability": 0.8483309745788574
+                },
+                {
+                    "word": " was",
+                    "start": 3.6,
+                    "end": 3.76,
+                    "probability": 0.8984807729721069
+                },
+                {
+                    "word": " very,",
+                    "start": 3.76,
+                    "end": 4.08,
+                    "probability": 0.7387974262237549
+                },
+                {
+                    "word": " very",
+                    "start": 4.22,
+                    "end": 4.32,
+                    "probability": 0.7364642024040222
+                },
+                {
+                    "word": " little",
+                    "start": 4.32,
+                    "end": 4.64,
+                    "probability": 0.8012938499450684
+                },
+                {
+                    "word": " that",
+                    "start": 4.64,
+                    "end": 5.08,
+                    "probability": 0.8845462799072266
+                },
+                {
+                    "word": " Chu",
+                    "start": 5.08,
+                    "end": 5.3,
+                    "probability": 0.5457859635353088
+                },
+                {
+                    "word": " could",
+                    "start": 5.3,
+                    "end": 5.56,
+                    "probability": 0.8396075367927551
+                },
+                {
+                    "word": " say",
+                    "start": 5.56,
+                    "end": 5.94,
+                    "probability": 0.8962559700012207
+                },
+                {
+                    "word": " to",
+                    "start": 5.94,
+                    "end": 6.28,
+                    "probability": 0.8945329785346985
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.28,
+            "end": 8.3,
+            "text": " sway U.S. lawmakers' minds.",
+            "tokens": [
+                50680,
+                27555,
+                624,
+                13,
+                50,
+                13,
+                40988,
+                6,
+                9634,
+                13,
+                50808
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2550032837222321,
+            "compression_ratio": 1.5491803278688525,
+            "no_speech_prob": 6.110079266363755e-05,
+            "words": [
+                {
+                    "word": " sway",
+                    "start": 6.28,
+                    "end": 6.78,
+                    "probability": 0.48325827717781067
+                },
+                {
+                    "word": " U",
+                    "start": 6.78,
+                    "end": 7.06,
+                    "probability": 0.5270020365715027
+                },
+                {
+                    "word": ".S.",
+                    "start": 7.06,
+                    "end": 7.24,
+                    "probability": 0.9986145198345184
+                },
+                {
+                    "word": " lawmakers'",
+                    "start": 7.32,
+                    "end": 7.7,
+                    "probability": 0.8014306426048279
+                },
+                {
+                    "word": " minds.",
+                    "start": 8.12,
+                    "end": 8.3,
+                    "probability": 0.7404418587684631
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.62,
+            "end": 15.2,
+            "text": " He really had to prove a negative, that TikTok isn't or can't be used by the Chinese Communist",
+            "tokens": [
+                50808,
+                634,
+                534,
+                632,
+                281,
+                7081,
+                257,
+                3671,
+                11,
+                300,
+                20211,
+                1943,
+                380,
+                420,
+                393,
+                380,
+                312,
+                1143,
+                538,
+                264,
+                4649,
+                23253,
+                51130
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2550032837222321,
+            "compression_ratio": 1.5491803278688525,
+            "no_speech_prob": 6.110079266363755e-05,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 8.62,
+                    "end": 9.0,
+                    "probability": 0.8966583013534546
+                },
+                {
+                    "word": " really",
+                    "start": 9.0,
+                    "end": 9.46,
+                    "probability": 0.7704137563705444
+                },
+                {
+                    "word": " had",
+                    "start": 9.46,
+                    "end": 10.02,
+                    "probability": 0.8022745847702026
+                },
+                {
+                    "word": " to",
+                    "start": 10.02,
+                    "end": 10.24,
+                    "probability": 0.9060103893280029
+                },
+                {
+                    "word": " prove",
+                    "start": 10.24,
+                    "end": 10.6,
+                    "probability": 0.8016465902328491
+                },
+                {
+                    "word": " a",
+                    "start": 10.6,
+                    "end": 10.8,
+                    "probability": 0.9963149428367615
+                },
+                {
+                    "word": " negative,",
+                    "start": 10.8,
+                    "end": 11.1,
+                    "probability": 0.8621152639389038
+                },
+                {
+                    "word": " that",
+                    "start": 11.32,
+                    "end": 11.68,
+                    "probability": 0.8816903233528137
+                },
+                {
+                    "word": " TikTok",
+                    "start": 11.68,
+                    "end": 12.08,
+                    "probability": 0.8987118601799011
+                },
+                {
+                    "word": " isn't",
+                    "start": 12.08,
+                    "end": 12.92,
+                    "probability": 0.9186001718044281
+                },
+                {
+                    "word": " or",
+                    "start": 12.92,
+                    "end": 13.22,
+                    "probability": 0.8244274854660034
+                },
+                {
+                    "word": " can't",
+                    "start": 13.22,
+                    "end": 13.64,
+                    "probability": 0.9419200718402863
+                },
+                {
+                    "word": " be",
+                    "start": 13.64,
+                    "end": 13.8,
+                    "probability": 0.8989847898483276
+                },
+                {
+                    "word": " used",
+                    "start": 13.8,
+                    "end": 14.06,
+                    "probability": 0.8065271377563477
+                },
+                {
+                    "word": " by",
+                    "start": 14.06,
+                    "end": 14.24,
+                    "probability": 0.8999727964401245
+                },
+                {
+                    "word": " the",
+                    "start": 14.24,
+                    "end": 14.4,
+                    "probability": 0.8139475584030151
+                },
+                {
+                    "word": " Chinese",
+                    "start": 14.4,
+                    "end": 14.74,
+                    "probability": 0.7906287312507629
+                },
+                {
+                    "word": " Communist",
+                    "start": 14.74,
+                    "end": 15.2,
+                    "probability": 0.7570944428443909
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.2,
+            "end": 18.18,
+            "text": " Party to influence U.S. public opinion.",
+            "tokens": [
+                51130,
+                8552,
+                281,
+                6503,
+                624,
+                13,
+                50,
+                13,
+                1908,
+                4800,
+                13,
+                51276
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2550032837222321,
+            "compression_ratio": 1.5491803278688525,
+            "no_speech_prob": 6.110079266363755e-05,
+            "words": [
+                {
+                    "word": " Party",
+                    "start": 15.2,
+                    "end": 15.7,
+                    "probability": 0.8299945592880249
+                },
+                {
+                    "word": " to",
+                    "start": 15.7,
+                    "end": 16.3,
+                    "probability": 0.8992361426353455
+                },
+                {
+                    "word": " influence",
+                    "start": 16.3,
+                    "end": 16.92,
+                    "probability": 0.8040351271629333
+                },
+                {
+                    "word": " U",
+                    "start": 16.92,
+                    "end": 17.14,
+                    "probability": 0.9766203165054321
+                },
+                {
+                    "word": ".S.",
+                    "start": 17.14,
+                    "end": 17.32,
+                    "probability": 0.999823123216629
+                },
+                {
+                    "word": " public",
+                    "start": 17.4,
+                    "end": 17.66,
+                    "probability": 0.8782886862754822
+                },
+                {
+                    "word": " opinion.",
+                    "start": 17.66,
+                    "end": 18.18,
+                    "probability": 0.8268251419067383
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.38,
+            "end": 21.16,
+            "text": " In that sense, it's not just about data privacy.",
+            "tokens": [
+                51276,
+                682,
+                300,
+                2020,
+                11,
+                309,
+                311,
+                406,
+                445,
+                466,
+                1412,
+                11427,
+                13,
+                51454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2550032837222321,
+            "compression_ratio": 1.5491803278688525,
+            "no_speech_prob": 6.110079266363755e-05,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 18.38,
+                    "end": 18.64,
+                    "probability": 0.8885257244110107
+                },
+                {
+                    "word": " that",
+                    "start": 18.64,
+                    "end": 18.84,
+                    "probability": 0.8764482736587524
+                },
+                {
+                    "word": " sense,",
+                    "start": 18.84,
+                    "end": 19.14,
+                    "probability": 0.7377062439918518
+                },
+                {
+                    "word": " it's",
+                    "start": 19.18,
+                    "end": 19.44,
+                    "probability": 0.9492042660713196
+                },
+                {
+                    "word": " not",
+                    "start": 19.44,
+                    "end": 19.68,
+                    "probability": 0.8954209685325623
+                },
+                {
+                    "word": " just",
+                    "start": 19.68,
+                    "end": 20.02,
+                    "probability": 0.8842523097991943
+                },
+                {
+                    "word": " about",
+                    "start": 20.02,
+                    "end": 20.34,
+                    "probability": 0.8158676624298096
+                },
+                {
+                    "word": " data",
+                    "start": 20.34,
+                    "end": 20.64,
+                    "probability": 0.8205533623695374
+                },
+                {
+                    "word": " privacy.",
+                    "start": 20.64,
+                    "end": 21.16,
+                    "probability": 0.8305172324180603
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 21.16,
+            "end": 25.68,
+            "text": " It's about soft influence and the type of content that is served on TikTok.",
+            "tokens": [
+                51454,
+                467,
+                311,
+                466,
+                2787,
+                6503,
+                293,
+                264,
+                2010,
+                295,
+                2701,
+                300,
+                307,
+                7584,
+                322,
+                20211,
+                13,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2550032837222321,
+            "compression_ratio": 1.5491803278688525,
+            "no_speech_prob": 6.110079266363755e-05,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 21.16,
+                    "end": 21.84,
+                    "probability": 0.9482672214508057
+                },
+                {
+                    "word": " about",
+                    "start": 21.84,
+                    "end": 22.1,
+                    "probability": 0.8182742595672607
+                },
+                {
+                    "word": " soft",
+                    "start": 22.1,
+                    "end": 22.52,
+                    "probability": 0.8133304119110107
+                },
+                {
+                    "word": " influence",
+                    "start": 22.52,
+                    "end": 23.04,
+                    "probability": 0.8480668067932129
+                },
+                {
+                    "word": " and",
+                    "start": 23.04,
+                    "end": 23.18,
+                    "probability": 0.8545690774917603
+                },
+                {
+                    "word": " the",
+                    "start": 23.18,
+                    "end": 23.3,
+                    "probability": 0.814431369304657
+                },
+                {
+                    "word": " type",
+                    "start": 23.3,
+                    "end": 23.52,
+                    "probability": 0.9239256978034973
+                },
+                {
+                    "word": " of",
+                    "start": 23.52,
+                    "end": 23.68,
+                    "probability": 0.9074583053588867
+                },
+                {
+                    "word": " content",
+                    "start": 23.68,
+                    "end": 24.1,
+                    "probability": 0.8336559534072876
+                },
+                {
+                    "word": " that",
+                    "start": 24.1,
+                    "end": 24.5,
+                    "probability": 0.8849773406982422
+                },
+                {
+                    "word": " is",
+                    "start": 24.5,
+                    "end": 24.7,
+                    "probability": 0.9049316644668579
+                },
+                {
+                    "word": " served",
+                    "start": 24.7,
+                    "end": 25.1,
+                    "probability": 0.8109018206596375
+                },
+                {
+                    "word": " on",
+                    "start": 25.1,
+                    "end": 25.4,
+                    "probability": 0.9008501172065735
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 25.4,
+                    "end": 25.68,
+                    "probability": 0.9461861252784729
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

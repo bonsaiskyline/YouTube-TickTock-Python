@@ -1,0 +1,112 @@
+{
+    "text": " But lawmakers remain sceptical, leading to some contentious exchanges like this one.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.1,
+            "text": " But lawmakers remain sceptical, leading to some contentious exchanges like this one.",
+            "tokens": [
+                50364,
+                583,
+                40988,
+                6222,
+                262,
+                1336,
+                804,
+                11,
+                5775,
+                281,
+                512,
+                2701,
+                851,
+                27374,
+                411,
+                341,
+                472,
+                13,
+                50622
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3680598497390747,
+            "compression_ratio": 1.0909090909090908,
+            "no_speech_prob": 0.0007255233358591795,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6858319640159607
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 0.2,
+                    "end": 0.74,
+                    "probability": 0.669511616230011
+                },
+                {
+                    "word": " remain",
+                    "start": 0.74,
+                    "end": 1.24,
+                    "probability": 0.6633039116859436
+                },
+                {
+                    "word": " sceptical,",
+                    "start": 1.24,
+                    "end": 1.98,
+                    "probability": 0.8425538142522176
+                },
+                {
+                    "word": " leading",
+                    "start": 2.08,
+                    "end": 2.32,
+                    "probability": 0.7242854237556458
+                },
+                {
+                    "word": " to",
+                    "start": 2.32,
+                    "end": 2.74,
+                    "probability": 0.9065399765968323
+                },
+                {
+                    "word": " some",
+                    "start": 2.74,
+                    "end": 2.94,
+                    "probability": 0.8000239729881287
+                },
+                {
+                    "word": " contentious",
+                    "start": 2.94,
+                    "end": 3.6,
+                    "probability": 0.9529887139797211
+                },
+                {
+                    "word": " exchanges",
+                    "start": 3.6,
+                    "end": 4.14,
+                    "probability": 0.8616814613342285
+                },
+                {
+                    "word": " like",
+                    "start": 4.14,
+                    "end": 4.7,
+                    "probability": 0.5645927786827087
+                },
+                {
+                    "word": " this",
+                    "start": 4.7,
+                    "end": 4.92,
+                    "probability": 0.8883136510848999
+                },
+                {
+                    "word": " one.",
+                    "start": 4.92,
+                    "end": 5.1,
+                    "probability": 0.8208969235420227
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,145 @@
+{
+    "text": " That data is stored here, in American soil, by an American company, overseen by American",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.66,
+            "text": " That data is stored here, in American soil, by an American company, overseen by American",
+            "tokens": [
+                50364,
+                663,
+                1412,
+                307,
+                12187,
+                510,
+                11,
+                294,
+                2665,
+                6704,
+                11,
+                538,
+                364,
+                2665,
+                2237,
+                11,
+                11916,
+                268,
+                538,
+                2665,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4699671451862042,
+            "compression_ratio": 1.205128205128205,
+            "no_speech_prob": 0.19851677119731903,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.0,
+                    "end": 0.06,
+                    "probability": 0.027396751567721367
+                },
+                {
+                    "word": " data",
+                    "start": 0.06,
+                    "end": 0.28,
+                    "probability": 0.5685221552848816
+                },
+                {
+                    "word": " is",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.8973904848098755
+                },
+                {
+                    "word": " stored",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.7514252662658691
+                },
+                {
+                    "word": " here,",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.8085959553718567
+                },
+                {
+                    "word": " in",
+                    "start": 1.4,
+                    "end": 1.48,
+                    "probability": 0.8886851072311401
+                },
+                {
+                    "word": " American",
+                    "start": 1.48,
+                    "end": 1.78,
+                    "probability": 0.7950425744056702
+                },
+                {
+                    "word": " soil,",
+                    "start": 1.78,
+                    "end": 2.24,
+                    "probability": 0.8986278176307678
+                },
+                {
+                    "word": " by",
+                    "start": 2.62,
+                    "end": 2.82,
+                    "probability": 0.9036282896995544
+                },
+                {
+                    "word": " an",
+                    "start": 2.82,
+                    "end": 2.96,
+                    "probability": 0.9088003635406494
+                },
+                {
+                    "word": " American",
+                    "start": 2.96,
+                    "end": 3.26,
+                    "probability": 0.8095414042472839
+                },
+                {
+                    "word": " company,",
+                    "start": 3.26,
+                    "end": 3.7,
+                    "probability": 0.8290822505950928
+                },
+                {
+                    "word": " overseen",
+                    "start": 3.96,
+                    "end": 4.34,
+                    "probability": 0.8677074015140533
+                },
+                {
+                    "word": " by",
+                    "start": 4.34,
+                    "end": 4.48,
+                    "probability": 0.8953566551208496
+                },
+                {
+                    "word": " American",
+                    "start": 4.48,
+                    "end": 4.66,
+                    "probability": 0.5211734175682068
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.66,
+            "end": 4.66,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.4699671451862042,
+            "compression_ratio": 1.205128205128205,
+            "no_speech_prob": 0.19851677119731903,
+            "words": []
+        }
+    ],
+    "language": "en"
+}

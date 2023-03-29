@@ -1,0 +1,53 @@
+{
+    "text": " I've got the report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.68,
+            "text": " I've got the report.",
+            "tokens": [
+                50364,
+                286,
+                600,
+                658,
+                264,
+                2275,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5431613922119141,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.18240685760974884,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.637786939740181
+                },
+                {
+                    "word": " got",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.9081568121910095
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.792375385761261
+                },
+                {
+                    "word": " report.",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.7034362554550171
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

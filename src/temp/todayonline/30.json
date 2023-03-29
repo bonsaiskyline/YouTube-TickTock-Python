@@ -1,0 +1,238 @@
+{
+    "text": " Congresswoman, if you use our app and you open it, you will find our users who give all sorts of content. That's not my question.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 4.74,
+            "text": " Congresswoman, if you use our app and you open it, you will find our users who give",
+            "tokens": [
+                50364,
+                6426,
+                18339,
+                11,
+                498,
+                291,
+                764,
+                527,
+                724,
+                293,
+                291,
+                1269,
+                309,
+                11,
+                291,
+                486,
+                915,
+                527,
+                5022,
+                567,
+                976,
+                50606
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4123381313524748,
+            "compression_ratio": 1.2285714285714286,
+            "no_speech_prob": 0.009689612314105034,
+            "words": [
+                {
+                    "word": " Congresswoman,",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.7693280279636383
+                },
+                {
+                    "word": " if",
+                    "start": 0.8,
+                    "end": 1.32,
+                    "probability": 0.8455893397331238
+                },
+                {
+                    "word": " you",
+                    "start": 1.32,
+                    "end": 1.42,
+                    "probability": 0.8938037157058716
+                },
+                {
+                    "word": " use",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.8275778293609619
+                },
+                {
+                    "word": " our",
+                    "start": 1.6,
+                    "end": 1.72,
+                    "probability": 0.8035350441932678
+                },
+                {
+                    "word": " app",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.9004600048065186
+                },
+                {
+                    "word": " and",
+                    "start": 2.0,
+                    "end": 2.24,
+                    "probability": 0.7864460349082947
+                },
+                {
+                    "word": " you",
+                    "start": 2.24,
+                    "end": 2.34,
+                    "probability": 0.8307016491889954
+                },
+                {
+                    "word": " open",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.8255376219749451
+                },
+                {
+                    "word": " it,",
+                    "start": 2.56,
+                    "end": 2.78,
+                    "probability": 0.9020079374313354
+                },
+                {
+                    "word": " you",
+                    "start": 2.98,
+                    "end": 3.04,
+                    "probability": 0.8931187391281128
+                },
+                {
+                    "word": " will",
+                    "start": 3.04,
+                    "end": 3.18,
+                    "probability": 0.7574242353439331
+                },
+                {
+                    "word": " find",
+                    "start": 3.18,
+                    "end": 3.48,
+                    "probability": 0.8366016149520874
+                },
+                {
+                    "word": " our",
+                    "start": 3.48,
+                    "end": 3.78,
+                    "probability": 0.7999497056007385
+                },
+                {
+                    "word": " users",
+                    "start": 3.78,
+                    "end": 4.26,
+                    "probability": 0.8501408100128174
+                },
+                {
+                    "word": " who",
+                    "start": 4.26,
+                    "end": 4.54,
+                    "probability": 0.571679413318634
+                },
+                {
+                    "word": " give",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.5261773467063904
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 5.44,
+            "text": " all sorts of content.",
+            "tokens": [
+                50606,
+                439,
+                7527,
+                295,
+                2701,
+                13,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4123381313524748,
+            "compression_ratio": 1.2285714285714286,
+            "no_speech_prob": 0.009689612314105034,
+            "words": [
+                {
+                    "word": " all",
+                    "start": 4.74,
+                    "end": 5.1,
+                    "probability": 0.822023868560791
+                },
+                {
+                    "word": " sorts",
+                    "start": 5.1,
+                    "end": 5.42,
+                    "probability": 0.7556236982345581
+                },
+                {
+                    "word": " of",
+                    "start": 5.42,
+                    "end": 5.44,
+                    "probability": 0.8591933250427246
+                },
+                {
+                    "word": " content.",
+                    "start": 5.44,
+                    "end": 5.44,
+                    "probability": 0.1431012749671936
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.44,
+            "end": 6.28,
+            "text": " That's not my question.",
+            "tokens": [
+                50656,
+                663,
+                311,
+                406,
+                452,
+                1168,
+                13,
+                50694
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4123381313524748,
+            "compression_ratio": 1.2285714285714286,
+            "no_speech_prob": 0.009689612314105034,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 5.44,
+                    "end": 5.5,
+                    "probability": 0.7066730260848999
+                },
+                {
+                    "word": " not",
+                    "start": 5.5,
+                    "end": 5.56,
+                    "probability": 0.8976123332977295
+                },
+                {
+                    "word": " my",
+                    "start": 5.56,
+                    "end": 5.8,
+                    "probability": 0.8952086567878723
+                },
+                {
+                    "word": " question.",
+                    "start": 5.8,
+                    "end": 6.28,
+                    "probability": 0.8000741600990295
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

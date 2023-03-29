@@ -1,0 +1,232 @@
+{
+    "text": " What lawmakers really wanted to know was how close the Chinese government is to TikTok's management and Shou repeatedly denied that he was under pressure from Beijing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.38,
+            "text": " What lawmakers really wanted to know was how close the Chinese government is to TikTok's",
+            "tokens": [
+                50364,
+                708,
+                40988,
+                534,
+                1415,
+                281,
+                458,
+                390,
+                577,
+                1998,
+                264,
+                4649,
+                2463,
+                307,
+                281,
+                20211,
+                311,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35310314723423547,
+            "compression_ratio": 1.2846153846153847,
+            "no_speech_prob": 0.0011439088266342878,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7962543964385986
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 0.22,
+                    "end": 0.86,
+                    "probability": 0.6145746111869812
+                },
+                {
+                    "word": " really",
+                    "start": 0.86,
+                    "end": 1.42,
+                    "probability": 0.7287687659263611
+                },
+                {
+                    "word": " wanted",
+                    "start": 1.42,
+                    "end": 1.8,
+                    "probability": 0.799579918384552
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 2.02,
+                    "probability": 0.9030163884162903
+                },
+                {
+                    "word": " know",
+                    "start": 2.02,
+                    "end": 2.24,
+                    "probability": 0.8251944184303284
+                },
+                {
+                    "word": " was",
+                    "start": 2.24,
+                    "end": 2.48,
+                    "probability": 0.8613617420196533
+                },
+                {
+                    "word": " how",
+                    "start": 2.48,
+                    "end": 2.76,
+                    "probability": 0.8990038633346558
+                },
+                {
+                    "word": " close",
+                    "start": 2.76,
+                    "end": 3.14,
+                    "probability": 0.8506366014480591
+                },
+                {
+                    "word": " the",
+                    "start": 3.14,
+                    "end": 3.26,
+                    "probability": 0.8121668100357056
+                },
+                {
+                    "word": " Chinese",
+                    "start": 3.26,
+                    "end": 3.72,
+                    "probability": 0.76459139585495
+                },
+                {
+                    "word": " government",
+                    "start": 3.72,
+                    "end": 4.18,
+                    "probability": 0.804962158203125
+                },
+                {
+                    "word": " is",
+                    "start": 4.18,
+                    "end": 4.54,
+                    "probability": 0.8728286027908325
+                },
+                {
+                    "word": " to",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.9083048105239868
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 4.74,
+                    "end": 5.38,
+                    "probability": 0.8624511957168579
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 10.06,
+            "text": " management and Shou repeatedly denied that he was under pressure from Beijing.",
+            "tokens": [
+                50628,
+                4592,
+                293,
+                1160,
+                263,
+                18227,
+                17774,
+                300,
+                415,
+                390,
+                833,
+                3321,
+                490,
+                20240,
+                13,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35310314723423547,
+            "compression_ratio": 1.2846153846153847,
+            "no_speech_prob": 0.0011439088266342878,
+            "words": [
+                {
+                    "word": " management",
+                    "start": 5.38,
+                    "end": 5.94,
+                    "probability": 0.7417251467704773
+                },
+                {
+                    "word": " and",
+                    "start": 5.94,
+                    "end": 6.72,
+                    "probability": 0.2506909668445587
+                },
+                {
+                    "word": " Shou",
+                    "start": 6.72,
+                    "end": 7.08,
+                    "probability": 0.5270991399884224
+                },
+                {
+                    "word": " repeatedly",
+                    "start": 7.08,
+                    "end": 7.62,
+                    "probability": 0.8874083161354065
+                },
+                {
+                    "word": " denied",
+                    "start": 7.62,
+                    "end": 8.12,
+                    "probability": 0.8487464189529419
+                },
+                {
+                    "word": " that",
+                    "start": 8.12,
+                    "end": 8.3,
+                    "probability": 0.8349993228912354
+                },
+                {
+                    "word": " he",
+                    "start": 8.3,
+                    "end": 8.44,
+                    "probability": 0.8999324440956116
+                },
+                {
+                    "word": " was",
+                    "start": 8.44,
+                    "end": 8.62,
+                    "probability": 0.8907930254936218
+                },
+                {
+                    "word": " under",
+                    "start": 8.62,
+                    "end": 8.94,
+                    "probability": 0.804067850112915
+                },
+                {
+                    "word": " pressure",
+                    "start": 8.94,
+                    "end": 9.36,
+                    "probability": 0.7217743992805481
+                },
+                {
+                    "word": " from",
+                    "start": 9.36,
+                    "end": 9.66,
+                    "probability": 0.8165432214736938
+                },
+                {
+                    "word": " Beijing.",
+                    "start": 9.66,
+                    "end": 10.06,
+                    "probability": 0.8236672878265381
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

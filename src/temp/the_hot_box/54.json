@@ -1,0 +1,32 @@
+{
+    "text": " BYE!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " BYE!",
+            "tokens": [
+                50364,
+                363,
+                18881,
+                0,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9104588031768799,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.36470654606819153,
+            "words": [
+                {
+                    "word": " BYE!",
+                    "start": 0.0,
+                    "end": 1.66,
+                    "probability": 0.46680010110139847
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

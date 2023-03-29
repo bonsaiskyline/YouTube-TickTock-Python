@@ -1,0 +1,549 @@
+{
+    "text": " Moving US user data to the US is part of Project Texas, a plan that TikTok says will keep the data out of China's reach. But lawmakers seem unconvinced by the show's reassurances. If it does get banned, 150 million users in the US would lose access to the short video app. Winning over the US government is proving harder than getting more Americans on TikTok.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.02,
+            "text": " Moving US user data to the US is part of Project Texas, a plan that TikTok says will keep the",
+            "tokens": [
+                50364,
+                14242,
+                2546,
+                4195,
+                1412,
+                281,
+                264,
+                2546,
+                307,
+                644,
+                295,
+                9849,
+                7885,
+                11,
+                257,
+                1393,
+                300,
+                20211,
+                1619,
+                486,
+                1066,
+                264,
+                50711
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26352992924776947,
+            "compression_ratio": 1.5126050420168067,
+            "no_speech_prob": 0.00013724772725254297,
+            "words": [
+                {
+                    "word": " Moving",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8542373180389404
+                },
+                {
+                    "word": " US",
+                    "start": 0.42,
+                    "end": 0.86,
+                    "probability": 0.6939789652824402
+                },
+                {
+                    "word": " user",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.8176655769348145
+                },
+                {
+                    "word": " data",
+                    "start": 1.2,
+                    "end": 1.68,
+                    "probability": 0.7842302918434143
+                },
+                {
+                    "word": " to",
+                    "start": 1.68,
+                    "end": 2.14,
+                    "probability": 0.8498054146766663
+                },
+                {
+                    "word": " the",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.8053898215293884
+                },
+                {
+                    "word": " US",
+                    "start": 2.36,
+                    "end": 2.74,
+                    "probability": 0.8585245609283447
+                },
+                {
+                    "word": " is",
+                    "start": 2.74,
+                    "end": 2.92,
+                    "probability": 0.8902713656425476
+                },
+                {
+                    "word": " part",
+                    "start": 2.92,
+                    "end": 3.24,
+                    "probability": 0.840794563293457
+                },
+                {
+                    "word": " of",
+                    "start": 3.24,
+                    "end": 3.4,
+                    "probability": 0.9079117774963379
+                },
+                {
+                    "word": " Project",
+                    "start": 3.4,
+                    "end": 3.84,
+                    "probability": 0.6020869016647339
+                },
+                {
+                    "word": " Texas,",
+                    "start": 3.84,
+                    "end": 4.44,
+                    "probability": 0.7992770671844482
+                },
+                {
+                    "word": " a",
+                    "start": 4.88,
+                    "end": 5.0,
+                    "probability": 0.9912926554679871
+                },
+                {
+                    "word": " plan",
+                    "start": 5.0,
+                    "end": 5.28,
+                    "probability": 0.8742506504058838
+                },
+                {
+                    "word": " that",
+                    "start": 5.28,
+                    "end": 5.48,
+                    "probability": 0.8718652725219727
+                },
+                {
+                    "word": " TikTok",
+                    "start": 5.48,
+                    "end": 5.8,
+                    "probability": 0.8602893352508545
+                },
+                {
+                    "word": " says",
+                    "start": 5.8,
+                    "end": 6.3,
+                    "probability": 0.8541944622993469
+                },
+                {
+                    "word": " will",
+                    "start": 6.3,
+                    "end": 6.5,
+                    "probability": 0.8053176999092102
+                },
+                {
+                    "word": " keep",
+                    "start": 6.5,
+                    "end": 6.86,
+                    "probability": 0.799493670463562
+                },
+                {
+                    "word": " the",
+                    "start": 6.86,
+                    "end": 7.02,
+                    "probability": 0.7890933752059937
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.02,
+            "end": 13.62,
+            "text": " data out of China's reach. But lawmakers seem unconvinced by the show's reassurances.",
+            "tokens": [
+                50711,
+                1412,
+                484,
+                295,
+                3533,
+                311,
+                2524,
+                13,
+                583,
+                40988,
+                1643,
+                35847,
+                4796,
+                1232,
+                538,
+                264,
+                855,
+                311,
+                19486,
+                374,
+                2676,
+                13,
+                51074
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26352992924776947,
+            "compression_ratio": 1.5126050420168067,
+            "no_speech_prob": 0.00013724772725254297,
+            "words": [
+                {
+                    "word": " data",
+                    "start": 7.02,
+                    "end": 7.4,
+                    "probability": 0.8065951466560364
+                },
+                {
+                    "word": " out",
+                    "start": 7.4,
+                    "end": 7.96,
+                    "probability": 0.8131332397460938
+                },
+                {
+                    "word": " of",
+                    "start": 7.96,
+                    "end": 8.14,
+                    "probability": 0.9014753699302673
+                },
+                {
+                    "word": " China's",
+                    "start": 8.14,
+                    "end": 8.8,
+                    "probability": 0.9105450809001923
+                },
+                {
+                    "word": " reach.",
+                    "start": 8.8,
+                    "end": 9.32,
+                    "probability": 0.8223302364349365
+                },
+                {
+                    "word": " But",
+                    "start": 9.74,
+                    "end": 9.98,
+                    "probability": 0.9045535326004028
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 9.98,
+                    "end": 10.46,
+                    "probability": 0.7108365893363953
+                },
+                {
+                    "word": " seem",
+                    "start": 10.46,
+                    "end": 10.94,
+                    "probability": 0.799214780330658
+                },
+                {
+                    "word": " unconvinced",
+                    "start": 10.94,
+                    "end": 11.84,
+                    "probability": 0.9314018289248148
+                },
+                {
+                    "word": " by",
+                    "start": 11.84,
+                    "end": 12.12,
+                    "probability": 0.9024162888526917
+                },
+                {
+                    "word": " the",
+                    "start": 12.12,
+                    "end": 12.32,
+                    "probability": 0.19998054206371307
+                },
+                {
+                    "word": " show's",
+                    "start": 12.32,
+                    "end": 12.64,
+                    "probability": 0.897813618183136
+                },
+                {
+                    "word": " reassurances.",
+                    "start": 12.64,
+                    "end": 13.62,
+                    "probability": 0.915412167708079
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.16,
+            "end": 20.46,
+            "text": " If it does get banned, 150 million users in the US would lose access to the short video",
+            "tokens": [
+                51074,
+                759,
+                309,
+                775,
+                483,
+                19564,
+                11,
+                8451,
+                2459,
+                5022,
+                294,
+                264,
+                2546,
+                576,
+                3624,
+                2105,
+                281,
+                264,
+                2099,
+                960,
+                51394
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26352992924776947,
+            "compression_ratio": 1.5126050420168067,
+            "no_speech_prob": 0.00013724772725254297,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 14.16,
+                    "end": 14.38,
+                    "probability": 0.8809899091720581
+                },
+                {
+                    "word": " it",
+                    "start": 14.38,
+                    "end": 14.52,
+                    "probability": 0.8719174861907959
+                },
+                {
+                    "word": " does",
+                    "start": 14.52,
+                    "end": 14.78,
+                    "probability": 0.7271471619606018
+                },
+                {
+                    "word": " get",
+                    "start": 14.78,
+                    "end": 15.0,
+                    "probability": 0.890034019947052
+                },
+                {
+                    "word": " banned,",
+                    "start": 15.0,
+                    "end": 15.4,
+                    "probability": 0.7055887579917908
+                },
+                {
+                    "word": " 150",
+                    "start": 15.76,
+                    "end": 16.46,
+                    "probability": 0.7956091165542603
+                },
+                {
+                    "word": " million",
+                    "start": 16.46,
+                    "end": 17.22,
+                    "probability": 0.7640917897224426
+                },
+                {
+                    "word": " users",
+                    "start": 17.22,
+                    "end": 17.68,
+                    "probability": 0.8535729646682739
+                },
+                {
+                    "word": " in",
+                    "start": 17.68,
+                    "end": 17.9,
+                    "probability": 0.8772623538970947
+                },
+                {
+                    "word": " the",
+                    "start": 17.9,
+                    "end": 18.02,
+                    "probability": 0.8142070174217224
+                },
+                {
+                    "word": " US",
+                    "start": 18.02,
+                    "end": 18.44,
+                    "probability": 0.9097709655761719
+                },
+                {
+                    "word": " would",
+                    "start": 18.44,
+                    "end": 18.88,
+                    "probability": 0.8469836115837097
+                },
+                {
+                    "word": " lose",
+                    "start": 18.88,
+                    "end": 19.08,
+                    "probability": 0.7997676134109497
+                },
+                {
+                    "word": " access",
+                    "start": 19.08,
+                    "end": 19.5,
+                    "probability": 0.7828969955444336
+                },
+                {
+                    "word": " to",
+                    "start": 19.5,
+                    "end": 19.72,
+                    "probability": 0.9033462405204773
+                },
+                {
+                    "word": " the",
+                    "start": 19.72,
+                    "end": 19.86,
+                    "probability": 0.8100636005401611
+                },
+                {
+                    "word": " short",
+                    "start": 19.86,
+                    "end": 20.12,
+                    "probability": 0.8891937732696533
+                },
+                {
+                    "word": " video",
+                    "start": 20.12,
+                    "end": 20.46,
+                    "probability": 0.7624791264533997
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.46,
+            "end": 27.08,
+            "text": " app. Winning over the US government is proving harder than getting more Americans on TikTok.",
+            "tokens": [
+                51394,
+                724,
+                13,
+                10427,
+                773,
+                670,
+                264,
+                2546,
+                2463,
+                307,
+                27221,
+                6081,
+                813,
+                1242,
+                544,
+                6280,
+                322,
+                20211,
+                13,
+                51736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26352992924776947,
+            "compression_ratio": 1.5126050420168067,
+            "no_speech_prob": 0.00013724772725254297,
+            "words": [
+                {
+                    "word": " app.",
+                    "start": 20.46,
+                    "end": 20.9,
+                    "probability": 0.8782431483268738
+                },
+                {
+                    "word": " Winning",
+                    "start": 21.4,
+                    "end": 21.66,
+                    "probability": 0.8942111134529114
+                },
+                {
+                    "word": " over",
+                    "start": 21.66,
+                    "end": 21.88,
+                    "probability": 0.8711490035057068
+                },
+                {
+                    "word": " the",
+                    "start": 21.88,
+                    "end": 22.02,
+                    "probability": 0.8059414625167847
+                },
+                {
+                    "word": " US",
+                    "start": 22.02,
+                    "end": 22.28,
+                    "probability": 0.9144187569618225
+                },
+                {
+                    "word": " government",
+                    "start": 22.28,
+                    "end": 22.74,
+                    "probability": 0.8359198570251465
+                },
+                {
+                    "word": " is",
+                    "start": 22.74,
+                    "end": 23.34,
+                    "probability": 0.8856070637702942
+                },
+                {
+                    "word": " proving",
+                    "start": 23.34,
+                    "end": 23.72,
+                    "probability": 0.8890026807785034
+                },
+                {
+                    "word": " harder",
+                    "start": 23.72,
+                    "end": 24.24,
+                    "probability": 0.7582513093948364
+                },
+                {
+                    "word": " than",
+                    "start": 24.24,
+                    "end": 24.7,
+                    "probability": 0.8740506172180176
+                },
+                {
+                    "word": " getting",
+                    "start": 24.7,
+                    "end": 25.0,
+                    "probability": 0.8885100483894348
+                },
+                {
+                    "word": " more",
+                    "start": 25.0,
+                    "end": 25.38,
+                    "probability": 0.8727049827575684
+                },
+                {
+                    "word": " Americans",
+                    "start": 25.38,
+                    "end": 26.0,
+                    "probability": 0.7399960160255432
+                },
+                {
+                    "word": " on",
+                    "start": 26.0,
+                    "end": 26.64,
+                    "probability": 0.8959974646568298
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 26.64,
+                    "end": 27.08,
+                    "probability": 0.912441074848175
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

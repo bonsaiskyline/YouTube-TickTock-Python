@@ -1,0 +1,52 @@
+{
+    "text": " Thanks for having me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.64,
+            "text": " Thanks for having me.",
+            "tokens": [
+                50364,
+                2561,
+                337,
+                1419,
+                385,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3891904950141907,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.014525335282087326,
+            "words": [
+                {
+                    "word": " Thanks",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5929555892944336
+                },
+                {
+                    "word": " for",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.9055657982826233
+                },
+                {
+                    "word": " having",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.7959008812904358
+                },
+                {
+                    "word": " me.",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.908582329750061
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

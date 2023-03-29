@@ -1,0 +1,622 @@
+{
+    "text": " That's not correct. It's not correct? It's been publicly reported. They admitted to it. You can, on our website, we have updated it so we can give people more transparent information on this. They have a share in a subsidiary that is only for the Chinese business. It has nothing to do with TikTok. And it's for the purposes of content licensing in China.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.68,
+            "text": " That's not correct.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                406,
+                3006,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.4852164722979069
+                },
+                {
+                    "word": " not",
+                    "start": 0.28,
+                    "end": 0.38,
+                    "probability": 0.8761759996414185
+                },
+                {
+                    "word": " correct.",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.8678473234176636
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.18,
+            "end": 1.64,
+            "text": " It's not correct?",
+            "tokens": [
+                50414,
+                467,
+                311,
+                406,
+                3006,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.6250341981649399
+                },
+                {
+                    "word": " not",
+                    "start": 1.4,
+                    "end": 1.4,
+                    "probability": 0.11491094529628754
+                },
+                {
+                    "word": " correct?",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.8008762001991272
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 1.76,
+            "end": 2.64,
+            "text": " It's been publicly reported.",
+            "tokens": [
+                50464,
+                467,
+                311,
+                668,
+                14843,
+                7055,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 1.76,
+                    "end": 1.84,
+                    "probability": 0.8304333090782166
+                },
+                {
+                    "word": " been",
+                    "start": 1.84,
+                    "end": 1.96,
+                    "probability": 0.7789297103881836
+                },
+                {
+                    "word": " publicly",
+                    "start": 1.96,
+                    "end": 2.28,
+                    "probability": 0.7184749841690063
+                },
+                {
+                    "word": " reported.",
+                    "start": 2.28,
+                    "end": 2.64,
+                    "probability": 0.8102407455444336
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 2.78,
+            "end": 3.42,
+            "text": " They admitted to it.",
+            "tokens": [
+                50514,
+                814,
+                14920,
+                281,
+                309,
+                13,
+                50586
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 2.78,
+                    "end": 2.82,
+                    "probability": 0.5447486639022827
+                },
+                {
+                    "word": " admitted",
+                    "start": 2.82,
+                    "end": 3.08,
+                    "probability": 0.7423752546310425
+                },
+                {
+                    "word": " to",
+                    "start": 3.08,
+                    "end": 3.26,
+                    "probability": 0.8779832124710083
+                },
+                {
+                    "word": " it.",
+                    "start": 3.26,
+                    "end": 3.42,
+                    "probability": 0.8959547281265259
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 4.34,
+            "end": 8.36,
+            "text": " You can, on our website, we have updated it so we can give people more transparent information",
+            "tokens": [
+                50586,
+                509,
+                393,
+                11,
+                322,
+                527,
+                3144,
+                11,
+                321,
+                362,
+                10588,
+                309,
+                370,
+                321,
+                393,
+                976,
+                561,
+                544,
+                12737,
+                1589,
+                50785
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.34,
+                    "end": 4.46,
+                    "probability": 0.23582704365253448
+                },
+                {
+                    "word": " can,",
+                    "start": 4.46,
+                    "end": 4.64,
+                    "probability": 0.8342447280883789
+                },
+                {
+                    "word": " on",
+                    "start": 4.8,
+                    "end": 4.98,
+                    "probability": 0.8954828977584839
+                },
+                {
+                    "word": " our",
+                    "start": 4.98,
+                    "end": 5.1,
+                    "probability": 0.7705684304237366
+                },
+                {
+                    "word": " website,",
+                    "start": 5.1,
+                    "end": 5.42,
+                    "probability": 0.8247137665748596
+                },
+                {
+                    "word": " we",
+                    "start": 5.48,
+                    "end": 5.56,
+                    "probability": 0.8977420926094055
+                },
+                {
+                    "word": " have",
+                    "start": 5.56,
+                    "end": 5.64,
+                    "probability": 0.6149175763130188
+                },
+                {
+                    "word": " updated",
+                    "start": 5.64,
+                    "end": 6.0,
+                    "probability": 0.8518286347389221
+                },
+                {
+                    "word": " it",
+                    "start": 6.0,
+                    "end": 6.18,
+                    "probability": 0.875680148601532
+                },
+                {
+                    "word": " so",
+                    "start": 6.18,
+                    "end": 6.3,
+                    "probability": 0.6888307332992554
+                },
+                {
+                    "word": " we",
+                    "start": 6.3,
+                    "end": 6.42,
+                    "probability": 0.8753517866134644
+                },
+                {
+                    "word": " can",
+                    "start": 6.42,
+                    "end": 6.84,
+                    "probability": 0.8535685539245605
+                },
+                {
+                    "word": " give",
+                    "start": 6.84,
+                    "end": 7.02,
+                    "probability": 0.8134299516677856
+                },
+                {
+                    "word": " people",
+                    "start": 7.02,
+                    "end": 7.26,
+                    "probability": 0.9139488339424133
+                },
+                {
+                    "word": " more",
+                    "start": 7.26,
+                    "end": 7.46,
+                    "probability": 0.8699416518211365
+                },
+                {
+                    "word": " transparent",
+                    "start": 7.46,
+                    "end": 7.94,
+                    "probability": 0.7263385653495789
+                },
+                {
+                    "word": " information",
+                    "start": 7.94,
+                    "end": 8.36,
+                    "probability": 0.7640001773834229
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 8.36,
+            "end": 8.76,
+            "text": " on this.",
+            "tokens": [
+                50785,
+                322,
+                341,
+                13,
+                50835
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 8.36,
+                    "end": 8.58,
+                    "probability": 0.8706668019294739
+                },
+                {
+                    "word": " this.",
+                    "start": 8.58,
+                    "end": 8.76,
+                    "probability": 0.8777623772621155
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 9.18,
+            "end": 13.2,
+            "text": " They have a share in a subsidiary that is only for the Chinese business.",
+            "tokens": [
+                50835,
+                814,
+                362,
+                257,
+                2073,
+                294,
+                257,
+                48296,
+                822,
+                300,
+                307,
+                787,
+                337,
+                264,
+                4649,
+                1606,
+                13,
+                51022
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 9.18,
+                    "end": 9.28,
+                    "probability": 0.7095088362693787
+                },
+                {
+                    "word": " have",
+                    "start": 9.28,
+                    "end": 9.44,
+                    "probability": 0.8730695247650146
+                },
+                {
+                    "word": " a",
+                    "start": 9.44,
+                    "end": 9.58,
+                    "probability": 0.8163512945175171
+                },
+                {
+                    "word": " share",
+                    "start": 9.58,
+                    "end": 10.3,
+                    "probability": 0.8080048561096191
+                },
+                {
+                    "word": " in",
+                    "start": 10.3,
+                    "end": 10.52,
+                    "probability": 0.8906622529029846
+                },
+                {
+                    "word": " a",
+                    "start": 10.52,
+                    "end": 10.68,
+                    "probability": 0.9727649092674255
+                },
+                {
+                    "word": " subsidiary",
+                    "start": 10.68,
+                    "end": 11.24,
+                    "probability": 0.894088625907898
+                },
+                {
+                    "word": " that",
+                    "start": 11.24,
+                    "end": 11.48,
+                    "probability": 0.8552231788635254
+                },
+                {
+                    "word": " is",
+                    "start": 11.48,
+                    "end": 11.62,
+                    "probability": 0.8916130661964417
+                },
+                {
+                    "word": " only",
+                    "start": 11.62,
+                    "end": 12.28,
+                    "probability": 0.8522703647613525
+                },
+                {
+                    "word": " for",
+                    "start": 12.28,
+                    "end": 12.48,
+                    "probability": 0.8985568881034851
+                },
+                {
+                    "word": " the",
+                    "start": 12.48,
+                    "end": 12.6,
+                    "probability": 0.8097232580184937
+                },
+                {
+                    "word": " Chinese",
+                    "start": 12.6,
+                    "end": 12.82,
+                    "probability": 0.7678503394126892
+                },
+                {
+                    "word": " business.",
+                    "start": 12.82,
+                    "end": 13.2,
+                    "probability": 0.8000787496566772
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 13.3,
+            "end": 14.3,
+            "text": " It has nothing to do with TikTok.",
+            "tokens": [
+                51022,
+                467,
+                575,
+                1825,
+                281,
+                360,
+                365,
+                20211,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 13.3,
+                    "end": 13.34,
+                    "probability": 0.7608296275138855
+                },
+                {
+                    "word": " has",
+                    "start": 13.34,
+                    "end": 13.42,
+                    "probability": 0.8746498823165894
+                },
+                {
+                    "word": " nothing",
+                    "start": 13.42,
+                    "end": 13.62,
+                    "probability": 0.856768012046814
+                },
+                {
+                    "word": " to",
+                    "start": 13.62,
+                    "end": 13.78,
+                    "probability": 0.9031463265419006
+                },
+                {
+                    "word": " do",
+                    "start": 13.78,
+                    "end": 13.88,
+                    "probability": 0.9021350145339966
+                },
+                {
+                    "word": " with",
+                    "start": 13.88,
+                    "end": 14.04,
+                    "probability": 0.803733229637146
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 14.04,
+                    "end": 14.3,
+                    "probability": 0.7756668925285339
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 14.9,
+            "end": 17.42,
+            "text": " And it's for the purposes of content licensing in China.",
+            "tokens": [
+                51114,
+                400,
+                309,
+                311,
+                337,
+                264,
+                9932,
+                295,
+                2701,
+                29759,
+                294,
+                3533,
+                13,
+                51242
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30120440891810824,
+            "compression_ratio": 1.5777777777777777,
+            "no_speech_prob": 0.010948450304567814,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 14.9,
+                    "end": 15.02,
+                    "probability": 0.7320570349693298
+                },
+                {
+                    "word": " it's",
+                    "start": 15.02,
+                    "end": 15.2,
+                    "probability": 0.9158625900745392
+                },
+                {
+                    "word": " for",
+                    "start": 15.2,
+                    "end": 15.36,
+                    "probability": 0.8990216255187988
+                },
+                {
+                    "word": " the",
+                    "start": 15.36,
+                    "end": 15.5,
+                    "probability": 0.8135539889335632
+                },
+                {
+                    "word": " purposes",
+                    "start": 15.5,
+                    "end": 15.82,
+                    "probability": 0.8383855223655701
+                },
+                {
+                    "word": " of",
+                    "start": 15.82,
+                    "end": 16.12,
+                    "probability": 0.9109662175178528
+                },
+                {
+                    "word": " content",
+                    "start": 16.12,
+                    "end": 16.56,
+                    "probability": 0.8553930521011353
+                },
+                {
+                    "word": " licensing",
+                    "start": 16.56,
+                    "end": 16.96,
+                    "probability": 0.8724440336227417
+                },
+                {
+                    "word": " in",
+                    "start": 16.96,
+                    "end": 17.22,
+                    "probability": 0.8988094925880432
+                },
+                {
+                    "word": " China.",
+                    "start": 17.22,
+                    "end": 17.42,
+                    "probability": 0.8618806004524231
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

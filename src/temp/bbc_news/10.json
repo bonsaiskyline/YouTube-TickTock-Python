@@ -1,0 +1,516 @@
+{
+    "text": " TikTok has done much more than just give me exposure. It has actually allowed me to increase my income by 700%. And this extra income has allowed me to support myself, build a studio, and pay staff. And if this platform is taken away, then I'm not sure if I'll be able to continue to do that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.58,
+            "end": 2.96,
+            "text": " TikTok has done much more than just give me exposure.",
+            "tokens": [
+                50364,
+                20211,
+                575,
+                1096,
+                709,
+                544,
+                813,
+                445,
+                976,
+                385,
+                10420,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3496916082840932,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.014593131840229034,
+            "words": [
+                {
+                    "word": " TikTok",
+                    "start": 0.58,
+                    "end": 0.98,
+                    "probability": 0.21256588399410248
+                },
+                {
+                    "word": " has",
+                    "start": 0.98,
+                    "end": 1.28,
+                    "probability": 0.7909706234931946
+                },
+                {
+                    "word": " done",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.8036025166511536
+                },
+                {
+                    "word": " much",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.7893252968788147
+                },
+                {
+                    "word": " more",
+                    "start": 1.7,
+                    "end": 1.9,
+                    "probability": 0.8405548334121704
+                },
+                {
+                    "word": " than",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.8631771206855774
+                },
+                {
+                    "word": " just",
+                    "start": 2.02,
+                    "end": 2.22,
+                    "probability": 0.86576247215271
+                },
+                {
+                    "word": " give",
+                    "start": 2.22,
+                    "end": 2.38,
+                    "probability": 0.6591323018074036
+                },
+                {
+                    "word": " me",
+                    "start": 2.38,
+                    "end": 2.5,
+                    "probability": 0.896523118019104
+                },
+                {
+                    "word": " exposure.",
+                    "start": 2.5,
+                    "end": 2.96,
+                    "probability": 0.872186541557312
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.46,
+            "end": 7.28,
+            "text": " It has actually allowed me to increase my income by 700%.",
+            "tokens": [
+                50534,
+                467,
+                575,
+                767,
+                4350,
+                385,
+                281,
+                3488,
+                452,
+                5742,
+                538,
+                15204,
+                6856,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3496916082840932,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.014593131840229034,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 3.46,
+                    "end": 3.5,
+                    "probability": 0.8928336501121521
+                },
+                {
+                    "word": " has",
+                    "start": 3.5,
+                    "end": 4.14,
+                    "probability": 0.8361474871635437
+                },
+                {
+                    "word": " actually",
+                    "start": 4.14,
+                    "end": 4.5,
+                    "probability": 0.5516940355300903
+                },
+                {
+                    "word": " allowed",
+                    "start": 4.5,
+                    "end": 4.96,
+                    "probability": 0.8030179142951965
+                },
+                {
+                    "word": " me",
+                    "start": 4.96,
+                    "end": 5.1,
+                    "probability": 0.9020663499832153
+                },
+                {
+                    "word": " to",
+                    "start": 5.1,
+                    "end": 5.24,
+                    "probability": 0.9084586501121521
+                },
+                {
+                    "word": " increase",
+                    "start": 5.24,
+                    "end": 5.62,
+                    "probability": 0.7789354920387268
+                },
+                {
+                    "word": " my",
+                    "start": 5.62,
+                    "end": 5.82,
+                    "probability": 0.908620297908783
+                },
+                {
+                    "word": " income",
+                    "start": 5.82,
+                    "end": 6.12,
+                    "probability": 0.8625783324241638
+                },
+                {
+                    "word": " by",
+                    "start": 6.12,
+                    "end": 6.38,
+                    "probability": 0.9134631752967834
+                },
+                {
+                    "word": " 700%.",
+                    "start": 6.38,
+                    "end": 7.28,
+                    "probability": 0.6281825751066208
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.28,
+            "end": 12.76,
+            "text": " And this extra income has allowed me to support myself, build a studio, and",
+            "tokens": [
+                50748,
+                400,
+                341,
+                2857,
+                5742,
+                575,
+                4350,
+                385,
+                281,
+                1406,
+                2059,
+                11,
+                1322,
+                257,
+                6811,
+                11,
+                293,
+                51002
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3496916082840932,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.014593131840229034,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 7.28,
+                    "end": 7.8,
+                    "probability": 0.8453406691551208
+                },
+                {
+                    "word": " this",
+                    "start": 7.8,
+                    "end": 7.96,
+                    "probability": 0.8726111054420471
+                },
+                {
+                    "word": " extra",
+                    "start": 7.96,
+                    "end": 8.26,
+                    "probability": 0.8541992902755737
+                },
+                {
+                    "word": " income",
+                    "start": 8.26,
+                    "end": 8.74,
+                    "probability": 0.868642270565033
+                },
+                {
+                    "word": " has",
+                    "start": 8.74,
+                    "end": 9.14,
+                    "probability": 0.8954195380210876
+                },
+                {
+                    "word": " allowed",
+                    "start": 9.14,
+                    "end": 9.4,
+                    "probability": 0.794891357421875
+                },
+                {
+                    "word": " me",
+                    "start": 9.4,
+                    "end": 9.54,
+                    "probability": 0.9035145044326782
+                },
+                {
+                    "word": " to",
+                    "start": 9.54,
+                    "end": 9.7,
+                    "probability": 0.8997026681900024
+                },
+                {
+                    "word": " support",
+                    "start": 9.7,
+                    "end": 10.46,
+                    "probability": 0.9427011013031006
+                },
+                {
+                    "word": " myself,",
+                    "start": 10.46,
+                    "end": 11.0,
+                    "probability": 0.6700800061225891
+                },
+                {
+                    "word": " build",
+                    "start": 11.54,
+                    "end": 11.7,
+                    "probability": 0.8752291798591614
+                },
+                {
+                    "word": " a",
+                    "start": 11.7,
+                    "end": 11.9,
+                    "probability": 0.998974084854126
+                },
+                {
+                    "word": " studio,",
+                    "start": 11.9,
+                    "end": 12.3,
+                    "probability": 0.8283082246780396
+                },
+                {
+                    "word": " and",
+                    "start": 12.68,
+                    "end": 12.76,
+                    "probability": 0.8959372043609619
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.76,
+            "end": 13.46,
+            "text": " pay staff.",
+            "tokens": [
+                51002,
+                1689,
+                3525,
+                13,
+                51054
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3496916082840932,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.014593131840229034,
+            "words": [
+                {
+                    "word": " pay",
+                    "start": 12.76,
+                    "end": 12.98,
+                    "probability": 0.8878764510154724
+                },
+                {
+                    "word": " staff.",
+                    "start": 12.98,
+                    "end": 13.46,
+                    "probability": 0.6924165487289429
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.86,
+            "end": 15.32,
+            "text": " And if this platform is taken away,",
+            "tokens": [
+                51054,
+                400,
+                498,
+                341,
+                3663,
+                307,
+                2726,
+                1314,
+                11,
+                51144
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3496916082840932,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.014593131840229034,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 13.86,
+                    "end": 13.9,
+                    "probability": 0.8777217268943787
+                },
+                {
+                    "word": " if",
+                    "start": 13.9,
+                    "end": 14.06,
+                    "probability": 0.6386647820472717
+                },
+                {
+                    "word": " this",
+                    "start": 14.06,
+                    "end": 14.22,
+                    "probability": 0.8826184868812561
+                },
+                {
+                    "word": " platform",
+                    "start": 14.22,
+                    "end": 14.56,
+                    "probability": 0.8548220992088318
+                },
+                {
+                    "word": " is",
+                    "start": 14.56,
+                    "end": 14.76,
+                    "probability": 0.8174965381622314
+                },
+                {
+                    "word": " taken",
+                    "start": 14.76,
+                    "end": 14.96,
+                    "probability": 0.7397470474243164
+                },
+                {
+                    "word": " away,",
+                    "start": 14.96,
+                    "end": 15.32,
+                    "probability": 0.8097805976867676
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.62,
+            "end": 17.86,
+            "text": " then I'm not sure if I'll be able to continue to do that.",
+            "tokens": [
+                51144,
+                550,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                603,
+                312,
+                1075,
+                281,
+                2354,
+                281,
+                360,
+                300,
+                13,
+                51258
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3496916082840932,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.014593131840229034,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 15.62,
+                    "end": 15.72,
+                    "probability": 0.7110366225242615
+                },
+                {
+                    "word": " I'm",
+                    "start": 15.72,
+                    "end": 15.86,
+                    "probability": 0.9919887483119965
+                },
+                {
+                    "word": " not",
+                    "start": 15.86,
+                    "end": 16.04,
+                    "probability": 0.8932973742485046
+                },
+                {
+                    "word": " sure",
+                    "start": 16.04,
+                    "end": 16.22,
+                    "probability": 0.816118061542511
+                },
+                {
+                    "word": " if",
+                    "start": 16.22,
+                    "end": 16.36,
+                    "probability": 0.8808318376541138
+                },
+                {
+                    "word": " I'll",
+                    "start": 16.36,
+                    "end": 16.5,
+                    "probability": 0.9593762457370758
+                },
+                {
+                    "word": " be",
+                    "start": 16.5,
+                    "end": 16.6,
+                    "probability": 0.9037923216819763
+                },
+                {
+                    "word": " able",
+                    "start": 16.6,
+                    "end": 16.78,
+                    "probability": 0.890197217464447
+                },
+                {
+                    "word": " to",
+                    "start": 16.78,
+                    "end": 16.98,
+                    "probability": 0.909553587436676
+                },
+                {
+                    "word": " continue",
+                    "start": 16.98,
+                    "end": 17.32,
+                    "probability": 0.8214596509933472
+                },
+                {
+                    "word": " to",
+                    "start": 17.32,
+                    "end": 17.5,
+                    "probability": 0.9034226536750793
+                },
+                {
+                    "word": " do",
+                    "start": 17.5,
+                    "end": 17.64,
+                    "probability": 0.9068265557289124
+                },
+                {
+                    "word": " that.",
+                    "start": 17.64,
+                    "end": 17.86,
+                    "probability": 0.8821319937705994
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

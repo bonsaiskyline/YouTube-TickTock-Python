@@ -1,0 +1,194 @@
+{
+    "text": " Why, if you had nothing to hide, would you need to downplay the association with bite dance in China?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 1.9,
+            "text": " Why, if you had nothing to hide,",
+            "tokens": [
+                50364,
+                1545,
+                11,
+                498,
+                291,
+                632,
+                1825,
+                281,
+                6479,
+                11,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29933576583862304,
+            "compression_ratio": 1.1222222222222222,
+            "no_speech_prob": 0.0008640793384984136,
+            "words": [
+                {
+                    "word": " Why,",
+                    "start": 0.02,
+                    "end": 0.5,
+                    "probability": 0.6597793102264404
+                },
+                {
+                    "word": " if",
+                    "start": 0.64,
+                    "end": 0.72,
+                    "probability": 0.9030371308326721
+                },
+                {
+                    "word": " you",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.8935562968254089
+                },
+                {
+                    "word": " had",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.8154665231704712
+                },
+                {
+                    "word": " nothing",
+                    "start": 1.1,
+                    "end": 1.42,
+                    "probability": 0.8477494716644287
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.66,
+                    "probability": 0.9040399789810181
+                },
+                {
+                    "word": " hide,",
+                    "start": 1.66,
+                    "end": 1.9,
+                    "probability": 0.8015731573104858
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.14,
+            "end": 5.0,
+            "text": " would you need to downplay the association",
+            "tokens": [
+                50472,
+                576,
+                291,
+                643,
+                281,
+                760,
+                2858,
+                264,
+                14598,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29933576583862304,
+            "compression_ratio": 1.1222222222222222,
+            "no_speech_prob": 0.0008640793384984136,
+            "words": [
+                {
+                    "word": " would",
+                    "start": 2.14,
+                    "end": 2.3,
+                    "probability": 0.8545265197753906
+                },
+                {
+                    "word": " you",
+                    "start": 2.3,
+                    "end": 2.42,
+                    "probability": 0.8960472345352173
+                },
+                {
+                    "word": " need",
+                    "start": 2.42,
+                    "end": 2.62,
+                    "probability": 0.8119720816612244
+                },
+                {
+                    "word": " to",
+                    "start": 2.62,
+                    "end": 2.8,
+                    "probability": 0.9051426649093628
+                },
+                {
+                    "word": " downplay",
+                    "start": 2.8,
+                    "end": 3.94,
+                    "probability": 0.950289398431778
+                },
+                {
+                    "word": " the",
+                    "start": 3.94,
+                    "end": 4.42,
+                    "probability": 0.8167224526405334
+                },
+                {
+                    "word": " association",
+                    "start": 4.42,
+                    "end": 5.0,
+                    "probability": 0.8266964554786682
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.0,
+            "end": 6.56,
+            "text": " with bite dance in China?",
+            "tokens": [
+                50632,
+                365,
+                7988,
+                4489,
+                294,
+                3533,
+                30,
+                50710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29933576583862304,
+            "compression_ratio": 1.1222222222222222,
+            "no_speech_prob": 0.0008640793384984136,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 5.0,
+                    "end": 5.52,
+                    "probability": 0.8133300542831421
+                },
+                {
+                    "word": " bite",
+                    "start": 5.52,
+                    "end": 5.76,
+                    "probability": 0.22027887403964996
+                },
+                {
+                    "word": " dance",
+                    "start": 5.76,
+                    "end": 6.06,
+                    "probability": 0.7985560894012451
+                },
+                {
+                    "word": " in",
+                    "start": 6.06,
+                    "end": 6.24,
+                    "probability": 0.8494055867195129
+                },
+                {
+                    "word": " China?",
+                    "start": 6.24,
+                    "end": 6.56,
+                    "probability": 0.8599191904067993
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

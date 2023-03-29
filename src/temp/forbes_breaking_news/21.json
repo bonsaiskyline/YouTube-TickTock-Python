@@ -1,0 +1,1070 @@
+{
+    "text": " Talking about ByteDance. No arrangement in ByteDance? Here's the main point of concern. China's 2017 national intelligence law states very clearly that, quote, any organization or citizen shall support, assist and cooperate with state intelligence work in accordance with the law and maintain the secrecy of all knowledge of state intelligence work. In other words, ByteDance and also your TikTok employees that live in China, they must cooperate with Chinese intelligence whenever they are called upon. And if they are called upon, they're bound to secrecy. That would include you. So Mr. Chu, if the CCP tells ByteDance to turn over all data that TikTok has collected inside the U.S., even within Project Texas, do they have to do so according to Chinese law?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " Talking about ByteDance. No arrangement in ByteDance?",
+            "tokens": [
+                50364,
+                22445,
+                466,
+                3146,
+                975,
+                35,
+                719,
+                13,
+                883,
+                17620,
+                294,
+                3146,
+                975,
+                35,
+                719,
+                30,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748426709856306,
+            "compression_ratio": 1.7526132404181185,
+            "no_speech_prob": 0.3635919988155365,
+            "words": [
+                {
+                    "word": " Talking",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.05790364369750023
+                },
+                {
+                    "word": " about",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.8059733510017395
+                },
+                {
+                    "word": " ByteDance.",
+                    "start": 0.66,
+                    "end": 1.1,
+                    "probability": 0.8446107804775238
+                },
+                {
+                    "word": " No",
+                    "start": 2.36,
+                    "end": 2.58,
+                    "probability": 0.8394991755485535
+                },
+                {
+                    "word": " arrangement",
+                    "start": 2.58,
+                    "end": 2.94,
+                    "probability": 0.6217676997184753
+                },
+                {
+                    "word": " in",
+                    "start": 2.94,
+                    "end": 3.14,
+                    "probability": 0.8458360433578491
+                },
+                {
+                    "word": " ByteDance?",
+                    "start": 3.14,
+                    "end": 3.6,
+                    "probability": 0.9675257056951523
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.92,
+            "end": 9.5,
+            "text": " Here's the main point of concern. China's 2017 national intelligence law states very",
+            "tokens": [
+                50656,
+                1692,
+                311,
+                264,
+                2135,
+                935,
+                295,
+                3136,
+                13,
+                3533,
+                311,
+                6591,
+                4048,
+                7599,
+                2101,
+                4368,
+                588,
+                50838
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748426709856306,
+            "compression_ratio": 1.7526132404181185,
+            "no_speech_prob": 0.3635919988155365,
+            "words": [
+                {
+                    "word": " Here's",
+                    "start": 4.92,
+                    "end": 5.9,
+                    "probability": 0.6474107950925827
+                },
+                {
+                    "word": " the",
+                    "start": 5.9,
+                    "end": 6.0,
+                    "probability": 0.8147327899932861
+                },
+                {
+                    "word": " main",
+                    "start": 6.0,
+                    "end": 6.14,
+                    "probability": 0.8063578605651855
+                },
+                {
+                    "word": " point",
+                    "start": 6.14,
+                    "end": 6.28,
+                    "probability": 0.8728026747703552
+                },
+                {
+                    "word": " of",
+                    "start": 6.28,
+                    "end": 6.36,
+                    "probability": 0.8987396955490112
+                },
+                {
+                    "word": " concern.",
+                    "start": 6.36,
+                    "end": 6.62,
+                    "probability": 0.8859851360321045
+                },
+                {
+                    "word": " China's",
+                    "start": 6.82,
+                    "end": 7.08,
+                    "probability": 0.9000920951366425
+                },
+                {
+                    "word": " 2017",
+                    "start": 7.08,
+                    "end": 7.68,
+                    "probability": 0.7809665203094482
+                },
+                {
+                    "word": " national",
+                    "start": 7.68,
+                    "end": 8.14,
+                    "probability": 0.48810139298439026
+                },
+                {
+                    "word": " intelligence",
+                    "start": 8.14,
+                    "end": 8.68,
+                    "probability": 0.6496192216873169
+                },
+                {
+                    "word": " law",
+                    "start": 8.68,
+                    "end": 8.96,
+                    "probability": 0.7975543737411499
+                },
+                {
+                    "word": " states",
+                    "start": 8.96,
+                    "end": 9.26,
+                    "probability": 0.8509405851364136
+                },
+                {
+                    "word": " very",
+                    "start": 9.26,
+                    "end": 9.5,
+                    "probability": 0.7298940420150757
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.5,
+            "end": 14.76,
+            "text": " clearly that, quote, any organization or citizen shall support, assist and cooperate with state",
+            "tokens": [
+                50838,
+                4448,
+                300,
+                11,
+                6513,
+                11,
+                604,
+                4475,
+                420,
+                13326,
+                4393,
+                1406,
+                11,
+                4255,
+                293,
+                26667,
+                365,
+                1785,
+                51101
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748426709856306,
+            "compression_ratio": 1.7526132404181185,
+            "no_speech_prob": 0.3635919988155365,
+            "words": [
+                {
+                    "word": " clearly",
+                    "start": 9.5,
+                    "end": 9.94,
+                    "probability": 0.8490301370620728
+                },
+                {
+                    "word": " that,",
+                    "start": 9.94,
+                    "end": 10.48,
+                    "probability": 0.8244013786315918
+                },
+                {
+                    "word": " quote,",
+                    "start": 10.66,
+                    "end": 10.7,
+                    "probability": 0.5831760764122009
+                },
+                {
+                    "word": " any",
+                    "start": 10.78,
+                    "end": 10.92,
+                    "probability": 0.3580511212348938
+                },
+                {
+                    "word": " organization",
+                    "start": 10.92,
+                    "end": 11.54,
+                    "probability": 0.8479292988777161
+                },
+                {
+                    "word": " or",
+                    "start": 11.54,
+                    "end": 11.84,
+                    "probability": 0.9046451449394226
+                },
+                {
+                    "word": " citizen",
+                    "start": 11.84,
+                    "end": 12.38,
+                    "probability": 0.7236381769180298
+                },
+                {
+                    "word": " shall",
+                    "start": 12.38,
+                    "end": 12.9,
+                    "probability": 0.7550301551818848
+                },
+                {
+                    "word": " support,",
+                    "start": 12.9,
+                    "end": 13.32,
+                    "probability": 0.9127722382545471
+                },
+                {
+                    "word": " assist",
+                    "start": 13.48,
+                    "end": 13.72,
+                    "probability": 0.8345329165458679
+                },
+                {
+                    "word": " and",
+                    "start": 13.72,
+                    "end": 13.9,
+                    "probability": 0.36780864000320435
+                },
+                {
+                    "word": " cooperate",
+                    "start": 13.9,
+                    "end": 14.28,
+                    "probability": 0.8172414898872375
+                },
+                {
+                    "word": " with",
+                    "start": 14.28,
+                    "end": 14.52,
+                    "probability": 0.818833589553833
+                },
+                {
+                    "word": " state",
+                    "start": 14.52,
+                    "end": 14.76,
+                    "probability": 0.8812907338142395
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.76,
+            "end": 18.64,
+            "text": " intelligence work in accordance with the law and maintain the secrecy of all knowledge",
+            "tokens": [
+                51101,
+                7599,
+                589,
+                294,
+                31110,
+                365,
+                264,
+                2101,
+                293,
+                6909,
+                264,
+                34432,
+                1344,
+                295,
+                439,
+                3601,
+                51299
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748426709856306,
+            "compression_ratio": 1.7526132404181185,
+            "no_speech_prob": 0.3635919988155365,
+            "words": [
+                {
+                    "word": " intelligence",
+                    "start": 14.76,
+                    "end": 15.18,
+                    "probability": 0.6595416069030762
+                },
+                {
+                    "word": " work",
+                    "start": 15.18,
+                    "end": 15.48,
+                    "probability": 0.7938307523727417
+                },
+                {
+                    "word": " in",
+                    "start": 15.48,
+                    "end": 15.6,
+                    "probability": 0.89293372631073
+                },
+                {
+                    "word": " accordance",
+                    "start": 15.6,
+                    "end": 15.9,
+                    "probability": 0.8780772089958191
+                },
+                {
+                    "word": " with",
+                    "start": 15.9,
+                    "end": 16.14,
+                    "probability": 0.8181348443031311
+                },
+                {
+                    "word": " the",
+                    "start": 16.14,
+                    "end": 16.26,
+                    "probability": 0.815045952796936
+                },
+                {
+                    "word": " law",
+                    "start": 16.26,
+                    "end": 16.46,
+                    "probability": 0.8005285263061523
+                },
+                {
+                    "word": " and",
+                    "start": 16.46,
+                    "end": 16.88,
+                    "probability": 0.7421794533729553
+                },
+                {
+                    "word": " maintain",
+                    "start": 16.88,
+                    "end": 17.2,
+                    "probability": 0.6864975094795227
+                },
+                {
+                    "word": " the",
+                    "start": 17.2,
+                    "end": 17.42,
+                    "probability": 0.8105352520942688
+                },
+                {
+                    "word": " secrecy",
+                    "start": 17.42,
+                    "end": 17.8,
+                    "probability": 0.9073902666568756
+                },
+                {
+                    "word": " of",
+                    "start": 17.8,
+                    "end": 17.96,
+                    "probability": 0.9034525752067566
+                },
+                {
+                    "word": " all",
+                    "start": 17.96,
+                    "end": 18.2,
+                    "probability": 0.8948981761932373
+                },
+                {
+                    "word": " knowledge",
+                    "start": 18.2,
+                    "end": 18.64,
+                    "probability": 0.8328242301940918
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.64,
+            "end": 23.98,
+            "text": " of state intelligence work. In other words, ByteDance and also your TikTok employees that",
+            "tokens": [
+                51299,
+                295,
+                1785,
+                7599,
+                589,
+                13,
+                682,
+                661,
+                2283,
+                11,
+                3146,
+                975,
+                35,
+                719,
+                293,
+                611,
+                428,
+                20211,
+                6619,
+                300,
+                51561
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748426709856306,
+            "compression_ratio": 1.7526132404181185,
+            "no_speech_prob": 0.3635919988155365,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 18.64,
+                    "end": 18.84,
+                    "probability": 0.9084188938140869
+                },
+                {
+                    "word": " state",
+                    "start": 18.84,
+                    "end": 19.1,
+                    "probability": 0.8798031210899353
+                },
+                {
+                    "word": " intelligence",
+                    "start": 19.1,
+                    "end": 19.58,
+                    "probability": 0.6834982633590698
+                },
+                {
+                    "word": " work.",
+                    "start": 19.58,
+                    "end": 20.12,
+                    "probability": 0.794542670249939
+                },
+                {
+                    "word": " In",
+                    "start": 20.54,
+                    "end": 20.7,
+                    "probability": 0.9010480046272278
+                },
+                {
+                    "word": " other",
+                    "start": 20.7,
+                    "end": 20.9,
+                    "probability": 0.7847832441329956
+                },
+                {
+                    "word": " words,",
+                    "start": 20.9,
+                    "end": 21.24,
+                    "probability": 0.7421035170555115
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 21.56,
+                    "end": 22.2,
+                    "probability": 0.9699410200119019
+                },
+                {
+                    "word": " and",
+                    "start": 22.2,
+                    "end": 22.48,
+                    "probability": 0.6722716093063354
+                },
+                {
+                    "word": " also",
+                    "start": 22.48,
+                    "end": 22.74,
+                    "probability": 0.8104304075241089
+                },
+                {
+                    "word": " your",
+                    "start": 22.74,
+                    "end": 22.96,
+                    "probability": 0.8052017688751221
+                },
+                {
+                    "word": " TikTok",
+                    "start": 22.96,
+                    "end": 23.2,
+                    "probability": 0.7054529786109924
+                },
+                {
+                    "word": " employees",
+                    "start": 23.2,
+                    "end": 23.72,
+                    "probability": 0.6744696497917175
+                },
+                {
+                    "word": " that",
+                    "start": 23.72,
+                    "end": 23.98,
+                    "probability": 0.888073205947876
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 23.98,
+            "end": 28.48,
+            "text": " live in China, they must cooperate with Chinese intelligence whenever they are called upon.",
+            "tokens": [
+                51561,
+                1621,
+                294,
+                3533,
+                11,
+                436,
+                1633,
+                26667,
+                365,
+                4649,
+                7599,
+                5699,
+                436,
+                366,
+                1219,
+                3564,
+                13,
+                51808
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748426709856306,
+            "compression_ratio": 1.7526132404181185,
+            "no_speech_prob": 0.3635919988155365,
+            "words": [
+                {
+                    "word": " live",
+                    "start": 23.98,
+                    "end": 24.22,
+                    "probability": 0.8871651887893677
+                },
+                {
+                    "word": " in",
+                    "start": 24.22,
+                    "end": 24.42,
+                    "probability": 0.902529776096344
+                },
+                {
+                    "word": " China,",
+                    "start": 24.42,
+                    "end": 24.74,
+                    "probability": 0.8857210278511047
+                },
+                {
+                    "word": " they",
+                    "start": 24.88,
+                    "end": 25.22,
+                    "probability": 0.7264630198478699
+                },
+                {
+                    "word": " must",
+                    "start": 25.22,
+                    "end": 25.58,
+                    "probability": 0.8237004280090332
+                },
+                {
+                    "word": " cooperate",
+                    "start": 25.58,
+                    "end": 26.18,
+                    "probability": 0.8397952318191528
+                },
+                {
+                    "word": " with",
+                    "start": 26.18,
+                    "end": 26.52,
+                    "probability": 0.81339031457901
+                },
+                {
+                    "word": " Chinese",
+                    "start": 26.52,
+                    "end": 26.84,
+                    "probability": 0.7656325697898865
+                },
+                {
+                    "word": " intelligence",
+                    "start": 26.84,
+                    "end": 27.32,
+                    "probability": 0.6603462100028992
+                },
+                {
+                    "word": " whenever",
+                    "start": 27.32,
+                    "end": 27.64,
+                    "probability": 0.8962863087654114
+                },
+                {
+                    "word": " they",
+                    "start": 27.64,
+                    "end": 27.84,
+                    "probability": 0.7398078441619873
+                },
+                {
+                    "word": " are",
+                    "start": 27.84,
+                    "end": 27.96,
+                    "probability": 0.8964970707893372
+                },
+                {
+                    "word": " called",
+                    "start": 27.96,
+                    "end": 28.18,
+                    "probability": 0.8156119585037231
+                },
+                {
+                    "word": " upon.",
+                    "start": 28.18,
+                    "end": 28.48,
+                    "probability": 0.8745979070663452
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2848,
+            "start": 28.48,
+            "end": 32.44,
+            "text": " And if they are called upon, they're bound to secrecy. That would include you.",
+            "tokens": [
+                50382,
+                400,
+                498,
+                436,
+                366,
+                1219,
+                3564,
+                11,
+                436,
+                434,
+                5472,
+                281,
+                34432,
+                1344,
+                13,
+                663,
+                576,
+                4090,
+                291,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3066456386021205,
+            "compression_ratio": 1.374331550802139,
+            "no_speech_prob": 0.04882204905152321,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 28.48,
+                    "end": 28.86,
+                    "probability": 0.47775307297706604
+                },
+                {
+                    "word": " if",
+                    "start": 28.86,
+                    "end": 29.02,
+                    "probability": 0.8774128556251526
+                },
+                {
+                    "word": " they",
+                    "start": 29.02,
+                    "end": 29.16,
+                    "probability": 0.7382151484489441
+                },
+                {
+                    "word": " are",
+                    "start": 29.16,
+                    "end": 29.34,
+                    "probability": 0.8900392055511475
+                },
+                {
+                    "word": " called",
+                    "start": 29.34,
+                    "end": 29.58,
+                    "probability": 0.8215758204460144
+                },
+                {
+                    "word": " upon,",
+                    "start": 29.58,
+                    "end": 29.94,
+                    "probability": 0.8701385259628296
+                },
+                {
+                    "word": " they're",
+                    "start": 30.28,
+                    "end": 30.6,
+                    "probability": 0.8182342946529388
+                },
+                {
+                    "word": " bound",
+                    "start": 30.6,
+                    "end": 30.82,
+                    "probability": 0.8745377659797668
+                },
+                {
+                    "word": " to",
+                    "start": 30.82,
+                    "end": 30.98,
+                    "probability": 0.9026501774787903
+                },
+                {
+                    "word": " secrecy.",
+                    "start": 30.98,
+                    "end": 31.54,
+                    "probability": 0.8936404585838318
+                },
+                {
+                    "word": " That",
+                    "start": 31.62,
+                    "end": 31.7,
+                    "probability": 0.7764912843704224
+                },
+                {
+                    "word": " would",
+                    "start": 31.7,
+                    "end": 31.8,
+                    "probability": 0.8468956351280212
+                },
+                {
+                    "word": " include",
+                    "start": 31.8,
+                    "end": 32.1,
+                    "probability": 0.7538917064666748
+                },
+                {
+                    "word": " you.",
+                    "start": 32.1,
+                    "end": 32.44,
+                    "probability": 0.8998964428901672
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2848,
+            "start": 33.1,
+            "end": 37.62,
+            "text": " So Mr. Chu, if the CCP tells ByteDance to turn over all data that TikTok has collected",
+            "tokens": [
+                50596,
+                407,
+                2221,
+                13,
+                25585,
+                11,
+                498,
+                264,
+                27876,
+                5112,
+                3146,
+                975,
+                35,
+                719,
+                281,
+                1261,
+                670,
+                439,
+                1412,
+                300,
+                20211,
+                575,
+                11087,
+                50822
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3066456386021205,
+            "compression_ratio": 1.374331550802139,
+            "no_speech_prob": 0.04882204905152321,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 33.1,
+                    "end": 33.18,
+                    "probability": 0.8722538948059082
+                },
+                {
+                    "word": " Mr.",
+                    "start": 33.18,
+                    "end": 33.36,
+                    "probability": 0.5665377974510193
+                },
+                {
+                    "word": " Chu,",
+                    "start": 33.46,
+                    "end": 33.58,
+                    "probability": 0.5446763634681702
+                },
+                {
+                    "word": " if",
+                    "start": 33.66,
+                    "end": 33.76,
+                    "probability": 0.8985148072242737
+                },
+                {
+                    "word": " the",
+                    "start": 33.76,
+                    "end": 33.92,
+                    "probability": 0.8100941777229309
+                },
+                {
+                    "word": " CCP",
+                    "start": 33.92,
+                    "end": 34.3,
+                    "probability": 0.7598320841789246
+                },
+                {
+                    "word": " tells",
+                    "start": 34.3,
+                    "end": 34.88,
+                    "probability": 0.7127184867858887
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 34.88,
+                    "end": 35.4,
+                    "probability": 0.9307300597429276
+                },
+                {
+                    "word": " to",
+                    "start": 35.4,
+                    "end": 35.56,
+                    "probability": 0.8952186703681946
+                },
+                {
+                    "word": " turn",
+                    "start": 35.56,
+                    "end": 35.76,
+                    "probability": 0.7980063557624817
+                },
+                {
+                    "word": " over",
+                    "start": 35.76,
+                    "end": 35.98,
+                    "probability": 0.8718105554580688
+                },
+                {
+                    "word": " all",
+                    "start": 35.98,
+                    "end": 36.26,
+                    "probability": 0.9028427600860596
+                },
+                {
+                    "word": " data",
+                    "start": 36.26,
+                    "end": 36.56,
+                    "probability": 0.7788481116294861
+                },
+                {
+                    "word": " that",
+                    "start": 36.56,
+                    "end": 36.76,
+                    "probability": 0.8859148621559143
+                },
+                {
+                    "word": " TikTok",
+                    "start": 36.76,
+                    "end": 37.0,
+                    "probability": 0.8549647331237793
+                },
+                {
+                    "word": " has",
+                    "start": 37.0,
+                    "end": 37.28,
+                    "probability": 0.8509742617607117
+                },
+                {
+                    "word": " collected",
+                    "start": 37.28,
+                    "end": 37.62,
+                    "probability": 0.7019522786140442
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2848,
+            "start": 37.62,
+            "end": 42.52,
+            "text": " inside the U.S., even within Project Texas, do they have to do so according to Chinese law?",
+            "tokens": [
+                50822,
+                1854,
+                264,
+                624,
+                13,
+                50,
+                7933,
+                754,
+                1951,
+                9849,
+                7885,
+                11,
+                360,
+                436,
+                362,
+                281,
+                360,
+                370,
+                4650,
+                281,
+                4649,
+                2101,
+                30,
+                51070
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3066456386021205,
+            "compression_ratio": 1.374331550802139,
+            "no_speech_prob": 0.04882204905152321,
+            "words": [
+                {
+                    "word": " inside",
+                    "start": 37.62,
+                    "end": 37.94,
+                    "probability": 0.8761817812919617
+                },
+                {
+                    "word": " the",
+                    "start": 37.94,
+                    "end": 38.12,
+                    "probability": 0.809272289276123
+                },
+                {
+                    "word": " U",
+                    "start": 38.12,
+                    "end": 38.26,
+                    "probability": 0.4991452991962433
+                },
+                {
+                    "word": ".S.,",
+                    "start": 38.26,
+                    "end": 38.5,
+                    "probability": 0.9342145522435507
+                },
+                {
+                    "word": " even",
+                    "start": 38.5,
+                    "end": 38.66,
+                    "probability": 0.7999096512794495
+                },
+                {
+                    "word": " within",
+                    "start": 38.66,
+                    "end": 38.92,
+                    "probability": 0.766118049621582
+                },
+                {
+                    "word": " Project",
+                    "start": 38.92,
+                    "end": 39.26,
+                    "probability": 0.8543686866760254
+                },
+                {
+                    "word": " Texas,",
+                    "start": 39.26,
+                    "end": 39.8,
+                    "probability": 0.7624762654304504
+                },
+                {
+                    "word": " do",
+                    "start": 40.3,
+                    "end": 40.48,
+                    "probability": 0.8956237435340881
+                },
+                {
+                    "word": " they",
+                    "start": 40.48,
+                    "end": 40.6,
+                    "probability": 0.7331414222717285
+                },
+                {
+                    "word": " have",
+                    "start": 40.6,
+                    "end": 40.82,
+                    "probability": 0.8791449666023254
+                },
+                {
+                    "word": " to",
+                    "start": 40.82,
+                    "end": 40.96,
+                    "probability": 0.9054009914398193
+                },
+                {
+                    "word": " do",
+                    "start": 40.96,
+                    "end": 41.14,
+                    "probability": 0.9006120562553406
+                },
+                {
+                    "word": " so",
+                    "start": 41.14,
+                    "end": 41.46,
+                    "probability": 0.909694254398346
+                },
+                {
+                    "word": " according",
+                    "start": 41.46,
+                    "end": 41.82,
+                    "probability": 0.5013437271118164
+                },
+                {
+                    "word": " to",
+                    "start": 41.82,
+                    "end": 41.94,
+                    "probability": 0.8892455697059631
+                },
+                {
+                    "word": " Chinese",
+                    "start": 41.94,
+                    "end": 42.18,
+                    "probability": 0.5138968825340271
+                },
+                {
+                    "word": " law?",
+                    "start": 42.18,
+                    "end": 42.52,
+                    "probability": 0.8254848122596741
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

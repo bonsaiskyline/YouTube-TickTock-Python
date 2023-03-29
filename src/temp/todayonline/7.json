@@ -1,0 +1,287 @@
+{
+    "text": " Well, you say that. We've thought that, but leaked audio from 80 internal TikTok meetings shows that US user data has been repeatedly accessed from China when you said it hasn't been.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.52,
+            "text": " Well, you say that. We've thought that, but leaked audio from 80 internal TikTok meetings",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                291,
+                584,
+                300,
+                13,
+                492,
+                600,
+                1194,
+                300,
+                11,
+                457,
+                31779,
+                6278,
+                490,
+                4688,
+                6920,
+                20211,
+                8410,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40346493191189237,
+            "compression_ratio": 1.3071428571428572,
+            "no_speech_prob": 0.2191995084285736,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.22113071382045746
+                },
+                {
+                    "word": " you",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.8630972504615784
+                },
+                {
+                    "word": " say",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.8762966394424438
+                },
+                {
+                    "word": " that.",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.8744608759880066
+                },
+                {
+                    "word": " We've",
+                    "start": 0.82,
+                    "end": 1.74,
+                    "probability": 0.6724777519702911
+                },
+                {
+                    "word": " thought",
+                    "start": 1.74,
+                    "end": 1.88,
+                    "probability": 0.3555257320404053
+                },
+                {
+                    "word": " that,",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.8661549687385559
+                },
+                {
+                    "word": " but",
+                    "start": 2.24,
+                    "end": 2.28,
+                    "probability": 0.8857787251472473
+                },
+                {
+                    "word": " leaked",
+                    "start": 2.28,
+                    "end": 2.48,
+                    "probability": 0.7233030796051025
+                },
+                {
+                    "word": " audio",
+                    "start": 2.48,
+                    "end": 2.84,
+                    "probability": 0.9158452153205872
+                },
+                {
+                    "word": " from",
+                    "start": 2.84,
+                    "end": 3.06,
+                    "probability": 0.8397740721702576
+                },
+                {
+                    "word": " 80",
+                    "start": 3.06,
+                    "end": 3.4,
+                    "probability": 0.87358558177948
+                },
+                {
+                    "word": " internal",
+                    "start": 3.4,
+                    "end": 3.84,
+                    "probability": 0.6401416063308716
+                },
+                {
+                    "word": " TikTok",
+                    "start": 3.84,
+                    "end": 4.14,
+                    "probability": 0.8525442481040955
+                },
+                {
+                    "word": " meetings",
+                    "start": 4.14,
+                    "end": 4.52,
+                    "probability": 0.779486358165741
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.52,
+            "end": 8.52,
+            "text": " shows that US user data has been repeatedly accessed from China when you said it hasn't",
+            "tokens": [
+                50592,
+                3110,
+                300,
+                2546,
+                4195,
+                1412,
+                575,
+                668,
+                18227,
+                34211,
+                490,
+                3533,
+                562,
+                291,
+                848,
+                309,
+                6132,
+                380,
+                50788
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40346493191189237,
+            "compression_ratio": 1.3071428571428572,
+            "no_speech_prob": 0.2191995084285736,
+            "words": [
+                {
+                    "word": " shows",
+                    "start": 4.52,
+                    "end": 4.8,
+                    "probability": 0.7700203061103821
+                },
+                {
+                    "word": " that",
+                    "start": 4.8,
+                    "end": 4.94,
+                    "probability": 0.8285263180732727
+                },
+                {
+                    "word": " US",
+                    "start": 4.94,
+                    "end": 5.2,
+                    "probability": 0.5173481702804565
+                },
+                {
+                    "word": " user",
+                    "start": 5.2,
+                    "end": 5.5,
+                    "probability": 0.8147653937339783
+                },
+                {
+                    "word": " data",
+                    "start": 5.5,
+                    "end": 5.78,
+                    "probability": 0.7931546568870544
+                },
+                {
+                    "word": " has",
+                    "start": 5.78,
+                    "end": 5.98,
+                    "probability": 0.8999185562133789
+                },
+                {
+                    "word": " been",
+                    "start": 5.98,
+                    "end": 6.12,
+                    "probability": 0.8219542503356934
+                },
+                {
+                    "word": " repeatedly",
+                    "start": 6.12,
+                    "end": 6.58,
+                    "probability": 0.8221949338912964
+                },
+                {
+                    "word": " accessed",
+                    "start": 6.58,
+                    "end": 7.1,
+                    "probability": 0.7601317763328552
+                },
+                {
+                    "word": " from",
+                    "start": 7.1,
+                    "end": 7.3,
+                    "probability": 0.8207486867904663
+                },
+                {
+                    "word": " China",
+                    "start": 7.3,
+                    "end": 7.56,
+                    "probability": 0.8573634028434753
+                },
+                {
+                    "word": " when",
+                    "start": 7.56,
+                    "end": 7.72,
+                    "probability": 0.7517324090003967
+                },
+                {
+                    "word": " you",
+                    "start": 7.72,
+                    "end": 7.82,
+                    "probability": 0.9000819325447083
+                },
+                {
+                    "word": " said",
+                    "start": 7.82,
+                    "end": 8.0,
+                    "probability": 0.8588564991950989
+                },
+                {
+                    "word": " it",
+                    "start": 8.0,
+                    "end": 8.1,
+                    "probability": 0.8314825296401978
+                },
+                {
+                    "word": " hasn't",
+                    "start": 8.1,
+                    "end": 8.52,
+                    "probability": 0.9076142013072968
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.52,
+            "end": 8.74,
+            "text": " been.",
+            "tokens": [
+                50788,
+                668,
+                13,
+                50806
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40346493191189237,
+            "compression_ratio": 1.3071428571428572,
+            "no_speech_prob": 0.2191995084285736,
+            "words": [
+                {
+                    "word": " been.",
+                    "start": 8.52,
+                    "end": 8.74,
+                    "probability": 0.8016381859779358
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

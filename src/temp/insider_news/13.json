@@ -1,0 +1,80 @@
+{
+    "text": " and all these stages trying to just move.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " and all these stages trying to just move.",
+            "tokens": [
+                50364,
+                293,
+                439,
+                613,
+                10232,
+                1382,
+                281,
+                445,
+                1286,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.868797222773234,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.4669311046600342,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.47863900661468506
+                },
+                {
+                    "word": " all",
+                    "start": 0.34,
+                    "end": 0.74,
+                    "probability": 0.7559971809387207
+                },
+                {
+                    "word": " these",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.7000719308853149
+                },
+                {
+                    "word": " stages",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.6642740964889526
+                },
+                {
+                    "word": " trying",
+                    "start": 1.34,
+                    "end": 1.58,
+                    "probability": 0.22057312726974487
+                },
+                {
+                    "word": " to",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.8916414976119995
+                },
+                {
+                    "word": " just",
+                    "start": 1.82,
+                    "end": 1.88,
+                    "probability": 0.661239743232727
+                },
+                {
+                    "word": " move.",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.5765137076377869
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

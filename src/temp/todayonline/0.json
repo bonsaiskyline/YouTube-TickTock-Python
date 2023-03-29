@@ -1,0 +1,329 @@
+{
+    "text": " So, Mr. Chu, if the CCP tells ByteDance to turn over all data that TikTok has collected inside the U.S., even within Project Texas, do they have to do so according to Chinese law?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " So, Mr. Chu, if the CCP tells ByteDance to turn over all data",
+            "tokens": [
+                50364,
+                407,
+                11,
+                2221,
+                13,
+                25585,
+                11,
+                498,
+                264,
+                27876,
+                5112,
+                3146,
+                975,
+                35,
+                719,
+                281,
+                1261,
+                670,
+                439,
+                1412,
+                50541
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24582624435424805,
+            "compression_ratio": 1.2605633802816902,
+            "no_speech_prob": 0.01482725515961647,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6072337627410889
+                },
+                {
+                    "word": " Mr.",
+                    "start": 0.2,
+                    "end": 0.3,
+                    "probability": 0.898567259311676
+                },
+                {
+                    "word": " Chu,",
+                    "start": 0.42,
+                    "end": 0.5,
+                    "probability": 0.565107524394989
+                },
+                {
+                    "word": " if",
+                    "start": 0.6,
+                    "end": 0.7,
+                    "probability": 0.9128183722496033
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.8111180663108826
+                },
+                {
+                    "word": " CCP",
+                    "start": 0.86,
+                    "end": 1.26,
+                    "probability": 0.6852999329566956
+                },
+                {
+                    "word": " tells",
+                    "start": 1.26,
+                    "end": 1.82,
+                    "probability": 0.7183977365493774
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 1.82,
+                    "end": 2.34,
+                    "probability": 0.9331349283456802
+                },
+                {
+                    "word": " to",
+                    "start": 2.34,
+                    "end": 2.5,
+                    "probability": 0.8983884453773499
+                },
+                {
+                    "word": " turn",
+                    "start": 2.5,
+                    "end": 2.7,
+                    "probability": 0.8014531135559082
+                },
+                {
+                    "word": " over",
+                    "start": 2.7,
+                    "end": 2.92,
+                    "probability": 0.8732998967170715
+                },
+                {
+                    "word": " all",
+                    "start": 2.92,
+                    "end": 3.18,
+                    "probability": 0.9049186110496521
+                },
+                {
+                    "word": " data",
+                    "start": 3.18,
+                    "end": 3.5,
+                    "probability": 0.7786024212837219
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.5,
+            "end": 5.42,
+            "text": " that TikTok has collected inside the U.S.,",
+            "tokens": [
+                50541,
+                300,
+                20211,
+                575,
+                11087,
+                1854,
+                264,
+                624,
+                13,
+                50,
+                7933,
+                50635
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24582624435424805,
+            "compression_ratio": 1.2605633802816902,
+            "no_speech_prob": 0.01482725515961647,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 3.5,
+                    "end": 3.7,
+                    "probability": 0.8910548686981201
+                },
+                {
+                    "word": " TikTok",
+                    "start": 3.7,
+                    "end": 3.96,
+                    "probability": 0.8893388509750366
+                },
+                {
+                    "word": " has",
+                    "start": 3.96,
+                    "end": 4.22,
+                    "probability": 0.8767312169075012
+                },
+                {
+                    "word": " collected",
+                    "start": 4.22,
+                    "end": 4.56,
+                    "probability": 0.7032069563865662
+                },
+                {
+                    "word": " inside",
+                    "start": 4.56,
+                    "end": 4.88,
+                    "probability": 0.8858146667480469
+                },
+                {
+                    "word": " the",
+                    "start": 4.88,
+                    "end": 5.06,
+                    "probability": 0.8116236925125122
+                },
+                {
+                    "word": " U",
+                    "start": 5.06,
+                    "end": 5.18,
+                    "probability": 0.5977422595024109
+                },
+                {
+                    "word": ".S.,",
+                    "start": 5.18,
+                    "end": 5.42,
+                    "probability": 0.9583155314127604
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.42,
+            "end": 6.74,
+            "text": " even within Project Texas,",
+            "tokens": [
+                50635,
+                754,
+                1951,
+                9849,
+                7885,
+                11,
+                50731
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24582624435424805,
+            "compression_ratio": 1.2605633802816902,
+            "no_speech_prob": 0.01482725515961647,
+            "words": [
+                {
+                    "word": " even",
+                    "start": 5.42,
+                    "end": 5.6,
+                    "probability": 0.80223149061203
+                },
+                {
+                    "word": " within",
+                    "start": 5.6,
+                    "end": 5.84,
+                    "probability": 0.7574636936187744
+                },
+                {
+                    "word": " Project",
+                    "start": 5.84,
+                    "end": 6.2,
+                    "probability": 0.8538511991500854
+                },
+                {
+                    "word": " Texas,",
+                    "start": 6.2,
+                    "end": 6.74,
+                    "probability": 0.7644801735877991
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.22,
+            "end": 9.64,
+            "text": " do they have to do so according to Chinese law?",
+            "tokens": [
+                50731,
+                360,
+                436,
+                362,
+                281,
+                360,
+                370,
+                4650,
+                281,
+                4649,
+                2101,
+                30,
+                50847
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24582624435424805,
+            "compression_ratio": 1.2605633802816902,
+            "no_speech_prob": 0.01482725515961647,
+            "words": [
+                {
+                    "word": " do",
+                    "start": 7.22,
+                    "end": 7.42,
+                    "probability": 0.8982453942298889
+                },
+                {
+                    "word": " they",
+                    "start": 7.42,
+                    "end": 7.54,
+                    "probability": 0.7336574792861938
+                },
+                {
+                    "word": " have",
+                    "start": 7.54,
+                    "end": 7.76,
+                    "probability": 0.8784824013710022
+                },
+                {
+                    "word": " to",
+                    "start": 7.76,
+                    "end": 7.9,
+                    "probability": 0.906825065612793
+                },
+                {
+                    "word": " do",
+                    "start": 7.9,
+                    "end": 8.08,
+                    "probability": 0.9015902876853943
+                },
+                {
+                    "word": " so",
+                    "start": 8.08,
+                    "end": 8.42,
+                    "probability": 0.909127950668335
+                },
+                {
+                    "word": " according",
+                    "start": 8.42,
+                    "end": 8.92,
+                    "probability": 0.4433400332927704
+                },
+                {
+                    "word": " to",
+                    "start": 8.92,
+                    "end": 9.06,
+                    "probability": 0.8925710916519165
+                },
+                {
+                    "word": " Chinese",
+                    "start": 9.06,
+                    "end": 9.3,
+                    "probability": 0.6210681796073914
+                },
+                {
+                    "word": " law?",
+                    "start": 9.3,
+                    "end": 9.64,
+                    "probability": 0.830565333366394
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

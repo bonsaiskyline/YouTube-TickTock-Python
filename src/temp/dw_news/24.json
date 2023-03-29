@@ -1,0 +1,595 @@
+{
+    "text": " I do. I do think that this is finally the nail in the coffin when it comes to social media platforms before real regulation becomes part of our legal code. And the reason it's been clear today is that even the Republican chair of the committee today called for federal privacy legislation, something that's been a fact of life in Europe for years now and the United States has flagged on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.08,
+            "text": " I do. I do think that this is finally the nail in the coffin when it comes to social",
+            "tokens": [
+                50364,
+                286,
+                360,
+                13,
+                286,
+                360,
+                519,
+                300,
+                341,
+                307,
+                2721,
+                264,
+                10173,
+                294,
+                264,
+                38361,
+                562,
+                309,
+                1487,
+                281,
+                2093,
+                50668
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995974508564124,
+            "compression_ratio": 1.6099585062240664,
+            "no_speech_prob": 9.230953583028167e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8990553617477417
+                },
+                {
+                    "word": " do.",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9006955027580261
+                },
+                {
+                    "word": " I",
+                    "start": 0.5,
+                    "end": 0.6,
+                    "probability": 0.9977321624755859
+                },
+                {
+                    "word": " do",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9060530662536621
+                },
+                {
+                    "word": " think",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.8050156235694885
+                },
+                {
+                    "word": " that",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.8793471455574036
+                },
+                {
+                    "word": " this",
+                    "start": 1.42,
+                    "end": 2.08,
+                    "probability": 0.8724302649497986
+                },
+                {
+                    "word": " is",
+                    "start": 2.08,
+                    "end": 2.38,
+                    "probability": 0.9092325568199158
+                },
+                {
+                    "word": " finally",
+                    "start": 2.38,
+                    "end": 2.86,
+                    "probability": 0.7786162495613098
+                },
+                {
+                    "word": " the",
+                    "start": 2.86,
+                    "end": 3.8,
+                    "probability": 0.8059162497520447
+                },
+                {
+                    "word": " nail",
+                    "start": 3.8,
+                    "end": 4.44,
+                    "probability": 0.68343585729599
+                },
+                {
+                    "word": " in",
+                    "start": 4.44,
+                    "end": 4.6,
+                    "probability": 0.8991933465003967
+                },
+                {
+                    "word": " the",
+                    "start": 4.6,
+                    "end": 4.74,
+                    "probability": 0.8164799213409424
+                },
+                {
+                    "word": " coffin",
+                    "start": 4.74,
+                    "end": 5.0,
+                    "probability": 0.8352712988853455
+                },
+                {
+                    "word": " when",
+                    "start": 5.0,
+                    "end": 5.24,
+                    "probability": 0.8455023765563965
+                },
+                {
+                    "word": " it",
+                    "start": 5.24,
+                    "end": 5.36,
+                    "probability": 0.9104499220848083
+                },
+                {
+                    "word": " comes",
+                    "start": 5.36,
+                    "end": 5.64,
+                    "probability": 0.8161415457725525
+                },
+                {
+                    "word": " to",
+                    "start": 5.64,
+                    "end": 5.86,
+                    "probability": 0.8989803791046143
+                },
+                {
+                    "word": " social",
+                    "start": 5.86,
+                    "end": 6.08,
+                    "probability": 0.8302628397941589
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.08,
+            "end": 13.8,
+            "text": " media platforms before real regulation becomes part of our legal code. And the reason it's",
+            "tokens": [
+                50668,
+                3021,
+                9473,
+                949,
+                957,
+                15062,
+                3643,
+                644,
+                295,
+                527,
+                5089,
+                3089,
+                13,
+                400,
+                264,
+                1778,
+                309,
+                311,
+                51051
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995974508564124,
+            "compression_ratio": 1.6099585062240664,
+            "no_speech_prob": 9.230953583028167e-05,
+            "words": [
+                {
+                    "word": " media",
+                    "start": 6.08,
+                    "end": 6.34,
+                    "probability": 0.8224562406539917
+                },
+                {
+                    "word": " platforms",
+                    "start": 6.34,
+                    "end": 6.9,
+                    "probability": 0.7818204164505005
+                },
+                {
+                    "word": " before",
+                    "start": 6.9,
+                    "end": 7.5,
+                    "probability": 0.6571753025054932
+                },
+                {
+                    "word": " real",
+                    "start": 7.5,
+                    "end": 7.82,
+                    "probability": 0.8862525224685669
+                },
+                {
+                    "word": " regulation",
+                    "start": 7.82,
+                    "end": 8.44,
+                    "probability": 0.8854585886001587
+                },
+                {
+                    "word": " becomes",
+                    "start": 8.44,
+                    "end": 9.74,
+                    "probability": 0.7797896265983582
+                },
+                {
+                    "word": " part",
+                    "start": 9.74,
+                    "end": 10.48,
+                    "probability": 0.8242166042327881
+                },
+                {
+                    "word": " of",
+                    "start": 10.48,
+                    "end": 10.94,
+                    "probability": 0.9067412614822388
+                },
+                {
+                    "word": " our",
+                    "start": 10.94,
+                    "end": 11.36,
+                    "probability": 0.794991672039032
+                },
+                {
+                    "word": " legal",
+                    "start": 11.36,
+                    "end": 11.92,
+                    "probability": 0.6847311854362488
+                },
+                {
+                    "word": " code.",
+                    "start": 11.92,
+                    "end": 12.34,
+                    "probability": 0.8155467510223389
+                },
+                {
+                    "word": " And",
+                    "start": 12.74,
+                    "end": 12.94,
+                    "probability": 0.8201597929000854
+                },
+                {
+                    "word": " the",
+                    "start": 12.94,
+                    "end": 13.34,
+                    "probability": 0.8087111711502075
+                },
+                {
+                    "word": " reason",
+                    "start": 13.34,
+                    "end": 13.54,
+                    "probability": 0.9201537370681763
+                },
+                {
+                    "word": " it's",
+                    "start": 13.54,
+                    "end": 13.8,
+                    "probability": 0.9424198567867279
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.8,
+            "end": 19.84,
+            "text": " been clear today is that even the Republican chair of the committee today called for federal",
+            "tokens": [
+                51051,
+                668,
+                1850,
+                965,
+                307,
+                300,
+                754,
+                264,
+                10937,
+                6090,
+                295,
+                264,
+                7482,
+                965,
+                1219,
+                337,
+                6019,
+                51356
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995974508564124,
+            "compression_ratio": 1.6099585062240664,
+            "no_speech_prob": 9.230953583028167e-05,
+            "words": [
+                {
+                    "word": " been",
+                    "start": 13.8,
+                    "end": 13.96,
+                    "probability": 0.8087236285209656
+                },
+                {
+                    "word": " clear",
+                    "start": 13.96,
+                    "end": 14.26,
+                    "probability": 0.8317718505859375
+                },
+                {
+                    "word": " today",
+                    "start": 14.26,
+                    "end": 14.72,
+                    "probability": 0.7854150533676147
+                },
+                {
+                    "word": " is",
+                    "start": 14.72,
+                    "end": 15.14,
+                    "probability": 0.8949545621871948
+                },
+                {
+                    "word": " that",
+                    "start": 15.14,
+                    "end": 15.38,
+                    "probability": 0.8772872090339661
+                },
+                {
+                    "word": " even",
+                    "start": 15.38,
+                    "end": 15.6,
+                    "probability": 0.8091495633125305
+                },
+                {
+                    "word": " the",
+                    "start": 15.6,
+                    "end": 15.8,
+                    "probability": 0.8150926828384399
+                },
+                {
+                    "word": " Republican",
+                    "start": 15.8,
+                    "end": 16.26,
+                    "probability": 0.8489368557929993
+                },
+                {
+                    "word": " chair",
+                    "start": 16.26,
+                    "end": 16.96,
+                    "probability": 0.683840274810791
+                },
+                {
+                    "word": " of",
+                    "start": 16.96,
+                    "end": 17.3,
+                    "probability": 0.9052791595458984
+                },
+                {
+                    "word": " the",
+                    "start": 17.3,
+                    "end": 17.42,
+                    "probability": 0.8163028359413147
+                },
+                {
+                    "word": " committee",
+                    "start": 17.42,
+                    "end": 17.7,
+                    "probability": 0.7968668937683105
+                },
+                {
+                    "word": " today",
+                    "start": 17.7,
+                    "end": 18.5,
+                    "probability": 0.7749637365341187
+                },
+                {
+                    "word": " called",
+                    "start": 18.5,
+                    "end": 19.14,
+                    "probability": 0.8044596314430237
+                },
+                {
+                    "word": " for",
+                    "start": 19.14,
+                    "end": 19.46,
+                    "probability": 0.9054868817329407
+                },
+                {
+                    "word": " federal",
+                    "start": 19.46,
+                    "end": 19.84,
+                    "probability": 0.8634719848632812
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 19.84,
+            "end": 25.38,
+            "text": " privacy legislation, something that's been a fact of life in Europe for years now and",
+            "tokens": [
+                51356,
+                11427,
+                11329,
+                11,
+                746,
+                300,
+                311,
+                668,
+                257,
+                1186,
+                295,
+                993,
+                294,
+                3315,
+                337,
+                924,
+                586,
+                293,
+                51632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995974508564124,
+            "compression_ratio": 1.6099585062240664,
+            "no_speech_prob": 9.230953583028167e-05,
+            "words": [
+                {
+                    "word": " privacy",
+                    "start": 19.84,
+                    "end": 20.36,
+                    "probability": 0.7939772605895996
+                },
+                {
+                    "word": " legislation,",
+                    "start": 20.36,
+                    "end": 20.98,
+                    "probability": 0.7183018922805786
+                },
+                {
+                    "word": " something",
+                    "start": 21.24,
+                    "end": 21.48,
+                    "probability": 0.7275713682174683
+                },
+                {
+                    "word": " that's",
+                    "start": 21.48,
+                    "end": 22.52,
+                    "probability": 0.9326750636100769
+                },
+                {
+                    "word": " been",
+                    "start": 22.52,
+                    "end": 22.84,
+                    "probability": 0.8010545372962952
+                },
+                {
+                    "word": " a",
+                    "start": 22.84,
+                    "end": 23.1,
+                    "probability": 0.9774601459503174
+                },
+                {
+                    "word": " fact",
+                    "start": 23.1,
+                    "end": 23.34,
+                    "probability": 0.7679423093795776
+                },
+                {
+                    "word": " of",
+                    "start": 23.34,
+                    "end": 23.52,
+                    "probability": 0.8973181247711182
+                },
+                {
+                    "word": " life",
+                    "start": 23.52,
+                    "end": 23.72,
+                    "probability": 0.7599408030509949
+                },
+                {
+                    "word": " in",
+                    "start": 23.72,
+                    "end": 24.0,
+                    "probability": 0.799071729183197
+                },
+                {
+                    "word": " Europe",
+                    "start": 24.0,
+                    "end": 24.14,
+                    "probability": 0.6503632664680481
+                },
+                {
+                    "word": " for",
+                    "start": 24.14,
+                    "end": 24.42,
+                    "probability": 0.8892155885696411
+                },
+                {
+                    "word": " years",
+                    "start": 24.42,
+                    "end": 24.74,
+                    "probability": 0.8728451132774353
+                },
+                {
+                    "word": " now",
+                    "start": 24.74,
+                    "end": 25.12,
+                    "probability": 0.8631492257118225
+                },
+                {
+                    "word": " and",
+                    "start": 25.12,
+                    "end": 25.38,
+                    "probability": 0.4044188857078552
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 25.38,
+            "end": 27.08,
+            "text": " the United States has flagged on.",
+            "tokens": [
+                51632,
+                264,
+                2824,
+                3040,
+                575,
+                7166,
+                3004,
+                322,
+                13,
+                51718
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995974508564124,
+            "compression_ratio": 1.6099585062240664,
+            "no_speech_prob": 9.230953583028167e-05,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 25.38,
+                    "end": 25.48,
+                    "probability": 0.7931711077690125
+                },
+                {
+                    "word": " United",
+                    "start": 25.48,
+                    "end": 25.72,
+                    "probability": 0.8873713612556458
+                },
+                {
+                    "word": " States",
+                    "start": 25.72,
+                    "end": 26.08,
+                    "probability": 0.8861225843429565
+                },
+                {
+                    "word": " has",
+                    "start": 26.08,
+                    "end": 26.28,
+                    "probability": 0.4266310930252075
+                },
+                {
+                    "word": " flagged",
+                    "start": 26.28,
+                    "end": 26.9,
+                    "probability": 0.6615491509437561
+                },
+                {
+                    "word": " on.",
+                    "start": 26.9,
+                    "end": 27.08,
+                    "probability": 0.827096164226532
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

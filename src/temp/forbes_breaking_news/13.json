@@ -1,0 +1,323 @@
+{
+    "text": " Right, you all report to ByteDance. Everybody's part of ByteDance, okay? And do you know of any other employees that work for ByteDance that are part of the Chinese Communist Party?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " Right, you all report to ByteDance.",
+            "tokens": [
+                50364,
+                1779,
+                11,
+                291,
+                439,
+                2275,
+                281,
+                3146,
+                975,
+                35,
+                719,
+                13,
+                50450
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24191369508442126,
+            "compression_ratio": 1.3609022556390977,
+            "no_speech_prob": 0.023702340200543404,
+            "words": [
+                {
+                    "word": " Right,",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.3280487358570099
+                },
+                {
+                    "word": " you",
+                    "start": 0.38,
+                    "end": 0.74,
+                    "probability": 0.7326022386550903
+                },
+                {
+                    "word": " all",
+                    "start": 0.74,
+                    "end": 0.86,
+                    "probability": 0.9013882279396057
+                },
+                {
+                    "word": " report",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.8461775183677673
+                },
+                {
+                    "word": " to",
+                    "start": 1.16,
+                    "end": 1.3,
+                    "probability": 0.9113155603408813
+                },
+                {
+                    "word": " ByteDance.",
+                    "start": 1.3,
+                    "end": 1.66,
+                    "probability": 0.9099393486976624
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.74,
+            "end": 3.72,
+            "text": " Everybody's part of ByteDance, okay?",
+            "tokens": [
+                50450,
+                7646,
+                311,
+                644,
+                295,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                1392,
+                30,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24191369508442126,
+            "compression_ratio": 1.3609022556390977,
+            "no_speech_prob": 0.023702340200543404,
+            "words": [
+                {
+                    "word": " Everybody's",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.8505005836486816
+                },
+                {
+                    "word": " part",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.7959324717521667
+                },
+                {
+                    "word": " of",
+                    "start": 2.24,
+                    "end": 2.34,
+                    "probability": 0.9027637243270874
+                },
+                {
+                    "word": " ByteDance,",
+                    "start": 2.34,
+                    "end": 2.92,
+                    "probability": 0.9685951769351959
+                },
+                {
+                    "word": " okay?",
+                    "start": 3.5,
+                    "end": 3.72,
+                    "probability": 0.6940422058105469
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.2,
+            "end": 5.84,
+            "text": " And do you know of any other employees",
+            "tokens": [
+                50568,
+                400,
+                360,
+                291,
+                458,
+                295,
+                604,
+                661,
+                6619,
+                50661
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24191369508442126,
+            "compression_ratio": 1.3609022556390977,
+            "no_speech_prob": 0.023702340200543404,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 4.2,
+                    "end": 4.32,
+                    "probability": 0.5120447278022766
+                },
+                {
+                    "word": " do",
+                    "start": 4.32,
+                    "end": 4.6,
+                    "probability": 0.8525937795639038
+                },
+                {
+                    "word": " you",
+                    "start": 4.6,
+                    "end": 4.7,
+                    "probability": 0.8922944068908691
+                },
+                {
+                    "word": " know",
+                    "start": 4.7,
+                    "end": 4.8,
+                    "probability": 0.8203086853027344
+                },
+                {
+                    "word": " of",
+                    "start": 4.8,
+                    "end": 4.9,
+                    "probability": 0.9049261212348938
+                },
+                {
+                    "word": " any",
+                    "start": 4.9,
+                    "end": 5.04,
+                    "probability": 0.8267463445663452
+                },
+                {
+                    "word": " other",
+                    "start": 5.04,
+                    "end": 5.34,
+                    "probability": 0.8069033622741699
+                },
+                {
+                    "word": " employees",
+                    "start": 5.34,
+                    "end": 5.84,
+                    "probability": 0.6971499919891357
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.84,
+            "end": 6.62,
+            "text": " that work for ByteDance",
+            "tokens": [
+                50661,
+                300,
+                589,
+                337,
+                3146,
+                975,
+                35,
+                719,
+                50703
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24191369508442126,
+            "compression_ratio": 1.3609022556390977,
+            "no_speech_prob": 0.023702340200543404,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 5.84,
+                    "end": 6.0,
+                    "probability": 0.8802171945571899
+                },
+                {
+                    "word": " work",
+                    "start": 6.0,
+                    "end": 6.14,
+                    "probability": 0.7876766324043274
+                },
+                {
+                    "word": " for",
+                    "start": 6.14,
+                    "end": 6.24,
+                    "probability": 0.8996959924697876
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 6.24,
+                    "end": 6.62,
+                    "probability": 0.9727015793323517
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.62,
+            "end": 7.88,
+            "text": " that are part of the Chinese Communist Party?",
+            "tokens": [
+                50703,
+                300,
+                366,
+                644,
+                295,
+                264,
+                4649,
+                23253,
+                8552,
+                30,
+                50796
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24191369508442126,
+            "compression_ratio": 1.3609022556390977,
+            "no_speech_prob": 0.023702340200543404,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 6.62,
+                    "end": 6.74,
+                    "probability": 0.8677122592926025
+                },
+                {
+                    "word": " are",
+                    "start": 6.74,
+                    "end": 6.82,
+                    "probability": 0.8914819359779358
+                },
+                {
+                    "word": " part",
+                    "start": 6.82,
+                    "end": 6.94,
+                    "probability": 0.8253430128097534
+                },
+                {
+                    "word": " of",
+                    "start": 6.94,
+                    "end": 7.02,
+                    "probability": 0.9072233438491821
+                },
+                {
+                    "word": " the",
+                    "start": 7.02,
+                    "end": 7.1,
+                    "probability": 0.8145011067390442
+                },
+                {
+                    "word": " Chinese",
+                    "start": 7.1,
+                    "end": 7.34,
+                    "probability": 0.7849338054656982
+                },
+                {
+                    "word": " Communist",
+                    "start": 7.34,
+                    "end": 7.64,
+                    "probability": 0.7715386748313904
+                },
+                {
+                    "word": " Party?",
+                    "start": 7.64,
+                    "end": 7.88,
+                    "probability": 0.8268544673919678
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

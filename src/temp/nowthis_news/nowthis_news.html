@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>GOP Rep Seemingly Doesn't Get How WiFi or TikTok Work 🤔</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			font-size: 14px;
+			color: #111;
+			padding: 0 0 1em 0;
+			background-color: #efe7dd;
+		}
+
+		table {
+			border-spacing: 10px;
+		}
+
+		th {
+			text-align: left;
+		}
+
+		.lt {
+			color: inherit;
+			text-decoration: inherit;
+		}
+
+		.l {
+			color: #050;
+		}
+
+		.s {
+			display: inline-block;
+		}
+
+		.c {
+			display: inline-block;
+		}
+
+		.e {
+			/*background-color: white; Changing background color */
+			border-radius: 10px;
+			/* Making border radius */
+			width: 50%;
+			/* Making auto-sizable width */
+			padding: 0 0 0 0;
+			/* Making space around letters */
+			font-size: 14px;
+			/* Changing font size */
+			margin-bottom: 0;
+		}
+
+		.t {
+			display: inline-block;
+		}
+
+		#player-div {
+			position: sticky;
+			top: 20px;
+			float: right;
+			width: 40%
+		}
+
+		#player {
+			aspect-ratio: 16 / 9;
+			width: 100%;
+			height: auto;
+
+		}
+
+		a {
+			display: inline;
+		}
+	</style>
+	<script>
+		var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/iframe_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		var player;
+		function onYouTubeIframeAPIReady() {
+			player = new YT.Player('player', {
+				//height: '210',
+				//width: '340',
+				videoId: 'IhvEU-6bnrM',
+			});
+
+
+
+			// This is the source "window" that will emit the events.
+			var iframeWindow = player.getIframe().contentWindow;
+			var lastword = null;
+
+			// So we can compare against new updates.
+			var lastTimeUpdate = "-1";
+
+			// Listen to events triggered by postMessage,
+			// this is how different windows in a browser
+			// (such as a popup or iFrame) can communicate.
+			// See: https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
+			window.addEventListener("message", function (event) {
+				// Check that the event was sent from the YouTube IFrame.
+				if (event.source === iframeWindow) {
+					var data = JSON.parse(event.data);
+
+					// The "infoDelivery" event is used by YT to transmit any
+					// kind of information change in the player,
+					// such as the current time or a playback quality change.
+					if (
+						data.event === "infoDelivery" &&
+						data.info &&
+						data.info.currentTime
+					) {
+						// currentTime is emitted very frequently (milliseconds),
+						// but we only care about whole second changes.
+						var ts = (data.info.currentTime).toFixed(1).toString();
+						ts = (Math.round((data.info.currentTime) * 5) / 5).toFixed(1);
+						ts = ts.toString();
+						console.log(ts)
+						if (ts !== lastTimeUpdate) {
+							lastTimeUpdate = ts;
+
+							// It's now up to you to format the time.
+							//document.getElementById("time2").innerHTML = time;
+							word = document.getElementById(ts)
+							if (word) {
+								if (lastword) {
+									lastword.style.fontWeight = 'normal';
+								}
+								lastword = word;
+								//word.style.textDecoration = 'underline';
+								word.style.fontWeight = 'bold';
+
+								let toggle = document.getElementById("autoscroll");
+								if (toggle.checked) {
+									let position = word.offsetTop - 20;
+									window.scrollTo({
+										top: position,
+										behavior: 'smooth'
+									});
+								}
+
+							}
+						}
+					}
+				}
+			})
+		}
+		function jumptoTime(timepoint, id) {
+			event.preventDefault();
+			history.pushState(null, null, "#" + id);
+			player.seekTo(timepoint);
+			player.playVideo();
+		}
+	</script>
+</head>
+
+<body>
+	<h2>GOP Rep Seemingly Doesn't Get How WiFi or TikTok Work 🤔</h2>
+	<i>Click on a part of the transcription, to jump to its video, and get an anchor to it in the address
+		bar<br><br></i>
+	<div id="player-div">
+		<div id="player"></div>
+		<div><label for="autoscroll">auto-scroll: </label>
+			<input type="checkbox" id="autoscroll" checked>
+		</div>
+	</div>
+  <div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:00:000.35" id="0.4" class="lt" onclick="jumptoTime(0, this.id)"> Mr.</a><!--
+				--><a href="#00:00:000.67" id="0.6" class="lt" onclick="jumptoTime(0, this.id)"> Chude,</a><!--
+				--><a href="#00:00:000.99" id="1.0" class="lt" onclick="jumptoTime(0, this.id)"> does</a><!--
+				--><a href="#00:00:001.13" id="1.2" class="lt" onclick="jumptoTime(1, this.id)"> TikTok</a><!--
+				--><a href="#00:00:001.43" id="1.4" class="lt" onclick="jumptoTime(1, this.id)"> access</a><!--
+				--><a href="#00:00:002.09" id="2.0" class="lt" onclick="jumptoTime(2, this.id)"> the</a><!--
+				--><a href="#00:00:002.33" id="2.4" class="lt" onclick="jumptoTime(2, this.id)"> home</a><!--
+				--><a href="#00:00:002.51" id="2.6" class="lt" onclick="jumptoTime(2, this.id)"> Wi</a><!--
+				--><a href="#00:00:002.73" id="2.8" class="lt" onclick="jumptoTime(2, this.id)">-Fi</a><!--
+				--><a href="#00:00:002.93" id="3.0" class="lt" onclick="jumptoTime(2, this.id)"> network?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:00:005.86" id="5.8" class="lt" onclick="jumptoTime(5, this.id)"> Only</a><!--
+				--><a href="#00:00:006.17" id="6.2" class="lt" onclick="jumptoTime(6, this.id)"> if</a><!--
+				--><a href="#00:00:006.43" id="6.4" class="lt" onclick="jumptoTime(6, this.id)"> the</a><!--
+				--><a href="#00:00:006.79" id="6.8" class="lt" onclick="jumptoTime(6, this.id)"> user</a><!--
+				--><a href="#00:00:007.29" id="7.2" class="lt" onclick="jumptoTime(7, this.id)"> turns</a><!--
+				--><a href="#00:00:007.66" id="7.6" class="lt" onclick="jumptoTime(7, this.id)"> on</a><!--
+				--><a href="#00:00:007.83" id="7.8" class="lt" onclick="jumptoTime(7, this.id)"> the</a><!--
+				--><a href="#00:00:007.97" id="8.0" class="lt" onclick="jumptoTime(7, this.id)"> Wi</a><!--
+				--><a href="#00:00:008.10" id="8.0" class="lt" onclick="jumptoTime(8, this.id)">-Fi.</a><!--
+				--><a href="#00:00:008.62" id="8.6" class="lt" onclick="jumptoTime(8, this.id)"> I'm</a><!--
+				--><a href="#00:00:008.78" id="8.8" class="lt" onclick="jumptoTime(8, this.id)"> sorry,</a><!--
+				--><a href="#00:00:009.07" id="9.0" class="lt" onclick="jumptoTime(9, this.id)"> I</a><!--
+				--><a href="#00:00:009.12" id="9.2" class="lt" onclick="jumptoTime(9, this.id)"> may</a><!--
+				--><a href="#00:00:009.26" id="9.2" class="lt" onclick="jumptoTime(9, this.id)"> not</a><!--
+				--><a href="#00:00:009.36" id="9.4" class="lt" onclick="jumptoTime(9, this.id)"> understand</a><!--
+				--><a href="#00:00:009.76" id="9.8" class="lt" onclick="jumptoTime(9, this.id)"> the</a><!--
+				--><a href="#00:00:009.97" id="10.0" class="lt" onclick="jumptoTime(9, this.id)"> question.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:00:010.01" id="10.0" class="lt" onclick="jumptoTime(10, this.id)"> So</a><!--
+				--><a href="#00:00:010.15" id="10.2" class="lt" onclick="jumptoTime(10, this.id)"> if</a><!--
+				--><a href="#00:00:010.25" id="10.2" class="lt" onclick="jumptoTime(10, this.id)"> I</a><!--
+				--><a href="#00:00:010.37" id="10.4" class="lt" onclick="jumptoTime(10, this.id)"> have</a><!--
+				--><a href="#00:00:010.61" id="10.6" class="lt" onclick="jumptoTime(10, this.id)"> a</a><!--
+				--><a href="#00:00:010.75" id="10.8" class="lt" onclick="jumptoTime(10, this.id)"> TikTok</a><!--
+				--><a href="#00:00:011.07" id="11.0" class="lt" onclick="jumptoTime(11, this.id)"> app</a><!--
+				--><a href="#00:00:011.61" id="11.6" class="lt" onclick="jumptoTime(11, this.id)"> on</a><!--
+				--><a href="#00:00:011.81" id="11.8" class="lt" onclick="jumptoTime(11, this.id)"> my</a><!--
+				--><a href="#00:00:012.05" id="12.0" class="lt" onclick="jumptoTime(12, this.id)"> phone</a><!--
+				--><a href="#00:00:012.43" id="12.4" class="lt" onclick="jumptoTime(12, this.id)"> and</a><!--
+				--><a href="#00:00:012.79" id="12.8" class="lt" onclick="jumptoTime(12, this.id)"> my</a><!--
+				--><a href="#00:00:012.97" id="13.0" class="lt" onclick="jumptoTime(12, this.id)"> phone</a><!--
+				--><a href="#00:00:013.23" id="13.2" class="lt" onclick="jumptoTime(13, this.id)"> is</a><!--
+				--><a href="#00:00:013.37" id="13.4" class="lt" onclick="jumptoTime(13, this.id)"> on</a><!--
+				--><a href="#00:00:013.51" id="13.6" class="lt" onclick="jumptoTime(13, this.id)"> my</a><!--
+				--><a href="#00:00:013.65" id="13.6" class="lt" onclick="jumptoTime(13, this.id)"> home</a><!--
+				--><a href="#00:00:013.85" id="13.8" class="lt" onclick="jumptoTime(13, this.id)"> Wi</a><!--
+				--><a href="#00:00:014.07" id="14.0" class="lt" onclick="jumptoTime(14, this.id)">-Fi</a><!--
+				--><a href="#00:00:014.29" id="14.2" class="lt" onclick="jumptoTime(14, this.id)"> network,</a><!--
+				--><a href="#00:00:014.77" id="14.8" class="lt" onclick="jumptoTime(14, this.id)"> does</a><!--
+				--><a href="#00:00:014.85" id="14.8" class="lt" onclick="jumptoTime(14, this.id)"> TikTok</a><!--
+				--><a href="#00:00:015.17" id="15.2" class="lt" onclick="jumptoTime(15, this.id)"> access</a><!--
+				--><a href="#00:00:015.69" id="15.6" class="lt" onclick="jumptoTime(15, this.id)"> that</a><!--
+				--><a href="#00:00:015.97" id="16.0" class="lt" onclick="jumptoTime(15, this.id)"> network?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:00:017.94" id="18.0" class="lt" onclick="jumptoTime(17, this.id)"> you</a><!--
+				--><a href="#00:00:018.10" id="18.0" class="lt" onclick="jumptoTime(18, this.id)"> will</a><!--
+				--><a href="#00:00:018.24" id="18.2" class="lt" onclick="jumptoTime(18, this.id)"> have</a><!--
+				--><a href="#00:00:018.46" id="18.4" class="lt" onclick="jumptoTime(18, this.id)"> to</a><!--
+				--><a href="#00:00:018.80" id="18.8" class="lt" onclick="jumptoTime(18, this.id)"> access</a><!--
+				--><a href="#00:00:019.60" id="19.6" class="lt" onclick="jumptoTime(19, this.id)"> the</a><!--
+				--><a href="#00:00:019.80" id="19.8" class="lt" onclick="jumptoTime(19, this.id)"> network</a><!--
+				--><a href="#00:00:020.06" id="20.0" class="lt" onclick="jumptoTime(20, this.id)"> to</a><!--
+				--><a href="#00:00:020.24" id="20.2" class="lt" onclick="jumptoTime(20, this.id)"> get</a><!--
+				--><a href="#00:00:020.42" id="20.4" class="lt" onclick="jumptoTime(20, this.id)"> connections</a><!--
+				--><a href="#00:00:020.96" id="21.0" class="lt" onclick="jumptoTime(20, this.id)"> to</a><!--
+				--><a href="#00:00:021.16" id="21.2" class="lt" onclick="jumptoTime(21, this.id)"> the</a><!--
+				--><a href="#00:00:021.30" id="21.2" class="lt" onclick="jumptoTime(21, this.id)"> internet,</a><!--
+				--><a href="#00:00:021.78" id="21.8" class="lt" onclick="jumptoTime(21, this.id)"> if</a><!--
+				--><a href="#00:00:022.02" id="22.0" class="lt" onclick="jumptoTime(22, this.id)"> that's</a><!--
+				--><a href="#00:00:022.24" id="22.2" class="lt" onclick="jumptoTime(22, this.id)"> the</a><!--
+				--><a href="#00:00:022.34" id="22.4" class="lt" onclick="jumptoTime(22, this.id)"> question.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:00:023.27" id="23.2" class="lt" onclick="jumptoTime(23, this.id)"> Is</a><!--
+				--><a href="#00:00:023.35" id="23.4" class="lt" onclick="jumptoTime(23, this.id)"> it</a><!--
+				--><a href="#00:00:023.45" id="23.4" class="lt" onclick="jumptoTime(23, this.id)"> possible,</a><!--
+				--><a href="#00:00:023.89" id="23.8" class="lt" onclick="jumptoTime(23, this.id)"> then,</a><!--
+				--><a href="#00:00:024.07" id="24.0" class="lt" onclick="jumptoTime(24, this.id)"> that</a><!--
+				--><a href="#00:00:024.17" id="24.2" class="lt" onclick="jumptoTime(24, this.id)"> it</a><!--
+				--><a href="#00:00:024.27" id="24.2" class="lt" onclick="jumptoTime(24, this.id)"> could</a><!--
+				--><a href="#00:00:024.39" id="24.4" class="lt" onclick="jumptoTime(24, this.id)"> access</a><!--
+				--><a href="#00:00:024.71" id="24.8" class="lt" onclick="jumptoTime(24, this.id)"> other</a><!--
+				--><a href="#00:00:024.95" id="25.0" class="lt" onclick="jumptoTime(24, this.id)"> devices</a><!--
+				--><a href="#00:00:025.35" id="25.4" class="lt" onclick="jumptoTime(25, this.id)"> on</a><!--
+				--><a href="#00:00:025.61" id="25.6" class="lt" onclick="jumptoTime(25, this.id)"> that</a><!--
+				--><a href="#00:00:025.77" id="25.8" class="lt" onclick="jumptoTime(25, this.id)"> home</a><!--
+				--><a href="#00:00:025.95" id="26.0" class="lt" onclick="jumptoTime(25, this.id)"> Wi</a><!--
+				--><a href="#00:00:026.13" id="26.2" class="lt" onclick="jumptoTime(26, this.id)">-Fi</a><!--
+				--><a href="#00:00:026.31" id="26.4" class="lt" onclick="jumptoTime(26, this.id)"> network?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:00:027.76" id="27.8" class="lt" onclick="jumptoTime(27, this.id)"> Congressman,</a><!--
+				--><a href="#00:00:028.28" id="28.2" class="lt" onclick="jumptoTime(28, this.id)"> we</a><!--
+				--><a href="#00:00:028.52" id="28.6" class="lt" onclick="jumptoTime(28, this.id)"> do</a><!--
+				--><a href="#00:00:028.70" id="28.6" class="lt" onclick="jumptoTime(28, this.id)"> not</a><!--
+				--><a href="#00:00:028.92" id="29.0" class="lt" onclick="jumptoTime(28, this.id)"> do</a><!--
+				--><a href="#00:00:029.12" id="29.2" class="lt" onclick="jumptoTime(29, this.id)"> anything</a><!--
+				--><a href="#00:00:029.48" id="29.4" class="lt" onclick="jumptoTime(29, this.id)"> that</a><!--
+				--><a href="#00:00:029.66" id="29.6" class="lt" onclick="jumptoTime(29, this.id)"> is</a><!--
+				--><a href="#00:00:029.80" id="29.8" class="lt" onclick="jumptoTime(29, this.id)"> beyond</a><!--
+				--><a href="#00:00:030.08" id="30.0" class="lt" onclick="jumptoTime(30, this.id)"> any</a><!--
+				--><a href="#00:00:030.26" id="30.2" class="lt" onclick="jumptoTime(30, this.id)"> industry</a><!--
+				--><a href="#00:00:030.64" id="30.6" class="lt" onclick="jumptoTime(30, this.id)"> norms.</a><!--
+				--><a href="#00:00:031.66" id="31.6" class="lt" onclick="jumptoTime(31, this.id)"> I</a><!--
+				--><a href="#00:00:032.02" id="32.0" class="lt" onclick="jumptoTime(32, this.id)"> believe</a><!--
+				--><a href="#00:00:032.54" id="32.6" class="lt" onclick="jumptoTime(32, this.id)"> the</a><!--
+				--><a href="#00:00:032.68" id="32.6" class="lt" onclick="jumptoTime(32, this.id)"> answer</a><!--
+				--><a href="#00:00:032.90" id="32.8" class="lt" onclick="jumptoTime(32, this.id)"> to</a><!--
+				--><a href="#00:00:033.06" id="33.0" class="lt" onclick="jumptoTime(33, this.id)"> your</a><!--
+				--><a href="#00:00:033.22" id="33.2" class="lt" onclick="jumptoTime(33, this.id)"> question</a><!--
+				--><a href="#00:00:033.54" id="33.6" class="lt" onclick="jumptoTime(33, this.id)"> is</a><!--
+				--><a href="#00:00:033.72" id="33.8" class="lt" onclick="jumptoTime(33, this.id)"> no.</a><!--
+				--><a href="#00:00:034.08" id="34.0" class="lt" onclick="jumptoTime(34, this.id)"> It</a><!--
+				--><a href="#00:00:034.14" id="34.2" class="lt" onclick="jumptoTime(34, this.id)"> could</a><!--
+				--><a href="#00:00:034.28" id="34.2" class="lt" onclick="jumptoTime(34, this.id)"> be</a><!--
+				--><a href="#00:00:034.50" id="34.4" class="lt" onclick="jumptoTime(34, this.id)"> technical.</a><!--
+				--><a href="#00:00:034.96" id="35.0" class="lt" onclick="jumptoTime(34, this.id)"> Let</a><!--
+				--><a href="#00:00:035.02" id="35.0" class="lt" onclick="jumptoTime(35, this.id)"> me</a><!--
+				--><a href="#00:00:035.10" id="35.0" class="lt" onclick="jumptoTime(35, this.id)"> get</a><!--
+				--><a href="#00:00:035.20" id="35.2" class="lt" onclick="jumptoTime(35, this.id)"> back</a><!--
+				--><a href="#00:00:035.36" id="35.4" class="lt" onclick="jumptoTime(35, this.id)"> to</a><!--
+				--><a href="#00:00:035.42" id="35.4" class="lt" onclick="jumptoTime(35, this.id)"> you.</a><!--
+				--></p>
+</div>
+	</body>
+</html>

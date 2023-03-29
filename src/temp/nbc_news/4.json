@@ -1,0 +1,473 @@
+{
+    "text": " She said if TikTok couldn't enforce its policies to protect the members of the committee, how could it protect 150 million US users? Finally, it's important to note a lot of the concerns brought up are not unique to TikTok, but members of the committee were zeroed in on only this.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " She said if TikTok couldn't enforce its policies",
+            "tokens": [
+                50364,
+                1240,
+                848,
+                498,
+                20211,
+                2809,
+                380,
+                24825,
+                1080,
+                7657,
+                50498
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2208486662970649,
+            "compression_ratio": 1.543956043956044,
+            "no_speech_prob": 0.0010979885701090097,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7574314475059509
+                },
+                {
+                    "word": " said",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.8663718104362488
+                },
+                {
+                    "word": " if",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.6886945962905884
+                },
+                {
+                    "word": " TikTok",
+                    "start": 0.5,
+                    "end": 0.78,
+                    "probability": 0.9097376465797424
+                },
+                {
+                    "word": " couldn't",
+                    "start": 0.78,
+                    "end": 1.28,
+                    "probability": 0.852391928434372
+                },
+                {
+                    "word": " enforce",
+                    "start": 1.28,
+                    "end": 1.6,
+                    "probability": 0.8014495968818665
+                },
+                {
+                    "word": " its",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.8189055323600769
+                },
+                {
+                    "word": " policies",
+                    "start": 1.8,
+                    "end": 2.4,
+                    "probability": 0.8678072690963745
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.4,
+            "end": 4.3,
+            "text": " to protect the members of the committee,",
+            "tokens": [
+                50498,
+                281,
+                2371,
+                264,
+                2679,
+                295,
+                264,
+                7482,
+                11,
+                50599
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2208486662970649,
+            "compression_ratio": 1.543956043956044,
+            "no_speech_prob": 0.0010979885701090097,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 2.4,
+                    "end": 2.82,
+                    "probability": 0.8913210034370422
+                },
+                {
+                    "word": " protect",
+                    "start": 2.82,
+                    "end": 3.28,
+                    "probability": 0.744625449180603
+                },
+                {
+                    "word": " the",
+                    "start": 3.28,
+                    "end": 3.42,
+                    "probability": 0.7491406202316284
+                },
+                {
+                    "word": " members",
+                    "start": 3.42,
+                    "end": 3.68,
+                    "probability": 0.7918563485145569
+                },
+                {
+                    "word": " of",
+                    "start": 3.68,
+                    "end": 3.9,
+                    "probability": 0.9067124724388123
+                },
+                {
+                    "word": " the",
+                    "start": 3.9,
+                    "end": 4.02,
+                    "probability": 0.8128989338874817
+                },
+                {
+                    "word": " committee,",
+                    "start": 4.02,
+                    "end": 4.3,
+                    "probability": 0.7710510492324829
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.72,
+            "end": 7.2,
+            "text": " how could it protect 150 million US users?",
+            "tokens": [
+                50599,
+                577,
+                727,
+                309,
+                2371,
+                8451,
+                2459,
+                2546,
+                5022,
+                30,
+                50741
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2208486662970649,
+            "compression_ratio": 1.543956043956044,
+            "no_speech_prob": 0.0010979885701090097,
+            "words": [
+                {
+                    "word": " how",
+                    "start": 4.72,
+                    "end": 4.88,
+                    "probability": 0.8742880821228027
+                },
+                {
+                    "word": " could",
+                    "start": 4.88,
+                    "end": 5.04,
+                    "probability": 0.804131805896759
+                },
+                {
+                    "word": " it",
+                    "start": 5.04,
+                    "end": 5.14,
+                    "probability": 0.9055589437484741
+                },
+                {
+                    "word": " protect",
+                    "start": 5.14,
+                    "end": 5.44,
+                    "probability": 0.7341158390045166
+                },
+                {
+                    "word": " 150",
+                    "start": 5.44,
+                    "end": 6.1,
+                    "probability": 0.8437055349349976
+                },
+                {
+                    "word": " million",
+                    "start": 6.1,
+                    "end": 6.5,
+                    "probability": 0.7504622936248779
+                },
+                {
+                    "word": " US",
+                    "start": 6.5,
+                    "end": 6.8,
+                    "probability": 0.32423463463783264
+                },
+                {
+                    "word": " users?",
+                    "start": 6.8,
+                    "end": 7.2,
+                    "probability": 0.8587945103645325
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.54,
+            "end": 9.52,
+            "text": " Finally, it's important to note a lot of the concerns",
+            "tokens": [
+                50741,
+                6288,
+                11,
+                309,
+                311,
+                1021,
+                281,
+                3637,
+                257,
+                688,
+                295,
+                264,
+                7389,
+                50845
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2208486662970649,
+            "compression_ratio": 1.543956043956044,
+            "no_speech_prob": 0.0010979885701090097,
+            "words": [
+                {
+                    "word": " Finally,",
+                    "start": 7.54,
+                    "end": 7.82,
+                    "probability": 0.6923088431358337
+                },
+                {
+                    "word": " it's",
+                    "start": 7.98,
+                    "end": 8.08,
+                    "probability": 0.9452124834060669
+                },
+                {
+                    "word": " important",
+                    "start": 8.08,
+                    "end": 8.34,
+                    "probability": 0.7784249782562256
+                },
+                {
+                    "word": " to",
+                    "start": 8.34,
+                    "end": 8.52,
+                    "probability": 0.9035349488258362
+                },
+                {
+                    "word": " note",
+                    "start": 8.52,
+                    "end": 8.66,
+                    "probability": 0.7875162363052368
+                },
+                {
+                    "word": " a",
+                    "start": 8.66,
+                    "end": 8.86,
+                    "probability": 0.6849969029426575
+                },
+                {
+                    "word": " lot",
+                    "start": 8.86,
+                    "end": 8.98,
+                    "probability": 0.900963306427002
+                },
+                {
+                    "word": " of",
+                    "start": 8.98,
+                    "end": 9.06,
+                    "probability": 0.9072950482368469
+                },
+                {
+                    "word": " the",
+                    "start": 9.06,
+                    "end": 9.16,
+                    "probability": 0.8120672702789307
+                },
+                {
+                    "word": " concerns",
+                    "start": 9.16,
+                    "end": 9.52,
+                    "probability": 0.838343620300293
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.52,
+            "end": 11.28,
+            "text": " brought up are not unique to TikTok,",
+            "tokens": [
+                50845,
+                3038,
+                493,
+                366,
+                406,
+                3845,
+                281,
+                20211,
+                11,
+                50945
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2208486662970649,
+            "compression_ratio": 1.543956043956044,
+            "no_speech_prob": 0.0010979885701090097,
+            "words": [
+                {
+                    "word": " brought",
+                    "start": 9.52,
+                    "end": 9.76,
+                    "probability": 0.919751763343811
+                },
+                {
+                    "word": " up",
+                    "start": 9.76,
+                    "end": 9.92,
+                    "probability": 0.9112582802772522
+                },
+                {
+                    "word": " are",
+                    "start": 9.92,
+                    "end": 10.04,
+                    "probability": 0.8908985257148743
+                },
+                {
+                    "word": " not",
+                    "start": 10.04,
+                    "end": 10.26,
+                    "probability": 0.9027255773544312
+                },
+                {
+                    "word": " unique",
+                    "start": 10.26,
+                    "end": 10.7,
+                    "probability": 0.7670445442199707
+                },
+                {
+                    "word": " to",
+                    "start": 10.7,
+                    "end": 10.92,
+                    "probability": 0.9111461043357849
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 10.92,
+                    "end": 11.28,
+                    "probability": 0.9484564661979675
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 11.62,
+            "end": 14.1,
+            "text": " but members of the committee were zeroed in on only this.",
+            "tokens": [
+                50945,
+                457,
+                2679,
+                295,
+                264,
+                7482,
+                645,
+                4018,
+                292,
+                294,
+                322,
+                787,
+                341,
+                13,
+                51085
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2208486662970649,
+            "compression_ratio": 1.543956043956044,
+            "no_speech_prob": 0.0010979885701090097,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 11.62,
+                    "end": 11.78,
+                    "probability": 0.9029790759086609
+                },
+                {
+                    "word": " members",
+                    "start": 11.78,
+                    "end": 12.1,
+                    "probability": 0.8005048632621765
+                },
+                {
+                    "word": " of",
+                    "start": 12.1,
+                    "end": 12.24,
+                    "probability": 0.9026802182197571
+                },
+                {
+                    "word": " the",
+                    "start": 12.24,
+                    "end": 12.34,
+                    "probability": 0.8166194558143616
+                },
+                {
+                    "word": " committee",
+                    "start": 12.34,
+                    "end": 12.56,
+                    "probability": 0.8016769289970398
+                },
+                {
+                    "word": " were",
+                    "start": 12.56,
+                    "end": 12.78,
+                    "probability": 0.8691404461860657
+                },
+                {
+                    "word": " zeroed",
+                    "start": 12.78,
+                    "end": 13.14,
+                    "probability": 0.9170147478580475
+                },
+                {
+                    "word": " in",
+                    "start": 13.14,
+                    "end": 13.24,
+                    "probability": 0.888923168182373
+                },
+                {
+                    "word": " on",
+                    "start": 13.24,
+                    "end": 13.38,
+                    "probability": 0.8876742720603943
+                },
+                {
+                    "word": " only",
+                    "start": 13.38,
+                    "end": 13.74,
+                    "probability": 0.8611549139022827
+                },
+                {
+                    "word": " this.",
+                    "start": 13.74,
+                    "end": 14.1,
+                    "probability": 0.8817259073257446
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

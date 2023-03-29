@@ -2,4 +2,4 @@ video/
 cred.json
 ffmpeg-master-latest-linux64-gpl/
 .env
-temp/
+*.wav

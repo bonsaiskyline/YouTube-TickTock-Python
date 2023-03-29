@@ -1,0 +1,750 @@
+{
+    "text": " Well, I'm joined now by Lindsay Gorman. She is head of technology and the geopolitics team at the nonprofit organization, the Alliance for Securing Democracy. And she joins me from Washington, D.C. It's good to have you with us tonight. Let's just talk about what we saw happen in that room today. The CEO of TikTok, he was grilled hard and heavy. The impression I got was that he read the room completely wrong and that this was a PR disaster for him. How did you see it?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.42,
+            "text": " Well, I'm joined now by Lindsay Gorman. She is head of technology and the geopolitics team at the nonprofit organization, the Alliance for Securing Democracy.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                478,
+                6869,
+                586,
+                538,
+                35017,
+                460,
+                46060,
+                13,
+                1240,
+                307,
+                1378,
+                295,
+                2899,
+                293,
+                264,
+                46615,
+                1167,
+                1469,
+                412,
+                264,
+                23348,
+                4475,
+                11,
+                264,
+                21859,
+                337,
+                3306,
+                1345,
+                43062,
+                13,
+                50796
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27802736897113894,
+            "compression_ratio": 1.5128205128205128,
+            "no_speech_prob": 0.0002583875902928412,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.37286603450775146
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.22,
+                    "end": 0.26,
+                    "probability": 0.9957165718078613
+                },
+                {
+                    "word": " joined",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.913865864276886
+                },
+                {
+                    "word": " now",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.8847672343254089
+                },
+                {
+                    "word": " by",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.9076734185218811
+                },
+                {
+                    "word": " Lindsay",
+                    "start": 0.88,
+                    "end": 1.22,
+                    "probability": 0.42671436071395874
+                },
+                {
+                    "word": " Gorman.",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.8500050008296967
+                },
+                {
+                    "word": " She",
+                    "start": 1.54,
+                    "end": 1.66,
+                    "probability": 0.8943464159965515
+                },
+                {
+                    "word": " is",
+                    "start": 1.66,
+                    "end": 1.84,
+                    "probability": 0.8929625153541565
+                },
+                {
+                    "word": " head",
+                    "start": 1.84,
+                    "end": 1.98,
+                    "probability": 0.8311668634414673
+                },
+                {
+                    "word": " of",
+                    "start": 1.98,
+                    "end": 2.14,
+                    "probability": 0.907336950302124
+                },
+                {
+                    "word": " technology",
+                    "start": 2.14,
+                    "end": 2.76,
+                    "probability": 0.7913868427276611
+                },
+                {
+                    "word": " and",
+                    "start": 2.76,
+                    "end": 3.48,
+                    "probability": 0.8560250401496887
+                },
+                {
+                    "word": " the",
+                    "start": 3.48,
+                    "end": 3.72,
+                    "probability": 0.8100957870483398
+                },
+                {
+                    "word": " geopolitics",
+                    "start": 3.72,
+                    "end": 4.62,
+                    "probability": 0.915715217590332
+                },
+                {
+                    "word": " team",
+                    "start": 4.62,
+                    "end": 4.9,
+                    "probability": 0.9176214337348938
+                },
+                {
+                    "word": " at",
+                    "start": 4.9,
+                    "end": 5.12,
+                    "probability": 0.9033337831497192
+                },
+                {
+                    "word": " the",
+                    "start": 5.12,
+                    "end": 5.32,
+                    "probability": 0.8131661415100098
+                },
+                {
+                    "word": " nonprofit",
+                    "start": 5.32,
+                    "end": 5.86,
+                    "probability": 0.6214949488639832
+                },
+                {
+                    "word": " organization,",
+                    "start": 5.86,
+                    "end": 6.56,
+                    "probability": 0.8825089931488037
+                },
+                {
+                    "word": " the",
+                    "start": 6.7,
+                    "end": 6.76,
+                    "probability": 0.6324883103370667
+                },
+                {
+                    "word": " Alliance",
+                    "start": 6.76,
+                    "end": 7.14,
+                    "probability": 0.7652901411056519
+                },
+                {
+                    "word": " for",
+                    "start": 7.14,
+                    "end": 7.3,
+                    "probability": 0.8795714378356934
+                },
+                {
+                    "word": " Securing",
+                    "start": 7.3,
+                    "end": 7.74,
+                    "probability": 0.8905075490474701
+                },
+                {
+                    "word": " Democracy.",
+                    "start": 7.74,
+                    "end": 8.42,
+                    "probability": 0.8174239993095398
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.68,
+            "end": 12.84,
+            "text": " And she joins me from Washington, D.C. It's good to have you with us tonight.",
+            "tokens": [
+                50796,
+                400,
+                750,
+                24397,
+                385,
+                490,
+                6149,
+                11,
+                413,
+                13,
+                34,
+                13,
+                467,
+                311,
+                665,
+                281,
+                362,
+                291,
+                365,
+                505,
+                4440,
+                13,
+                51020
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27802736897113894,
+            "compression_ratio": 1.5128205128205128,
+            "no_speech_prob": 0.0002583875902928412,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.68,
+                    "end": 8.76,
+                    "probability": 0.8727344274520874
+                },
+                {
+                    "word": " she",
+                    "start": 8.76,
+                    "end": 8.9,
+                    "probability": 0.8229221701622009
+                },
+                {
+                    "word": " joins",
+                    "start": 8.9,
+                    "end": 9.1,
+                    "probability": 0.9281445741653442
+                },
+                {
+                    "word": " me",
+                    "start": 9.1,
+                    "end": 9.22,
+                    "probability": 0.8973719477653503
+                },
+                {
+                    "word": " from",
+                    "start": 9.22,
+                    "end": 9.36,
+                    "probability": 0.8171319365501404
+                },
+                {
+                    "word": " Washington,",
+                    "start": 9.36,
+                    "end": 9.7,
+                    "probability": 0.8603141903877258
+                },
+                {
+                    "word": " D",
+                    "start": 9.9,
+                    "end": 10.02,
+                    "probability": 0.8983163833618164
+                },
+                {
+                    "word": ".C.",
+                    "start": 10.02,
+                    "end": 10.36,
+                    "probability": 0.9950431287288666
+                },
+                {
+                    "word": " It's",
+                    "start": 10.4,
+                    "end": 10.6,
+                    "probability": 0.9251548647880554
+                },
+                {
+                    "word": " good",
+                    "start": 10.6,
+                    "end": 10.68,
+                    "probability": 0.8635122776031494
+                },
+                {
+                    "word": " to",
+                    "start": 10.68,
+                    "end": 10.8,
+                    "probability": 0.9060359597206116
+                },
+                {
+                    "word": " have",
+                    "start": 10.8,
+                    "end": 10.94,
+                    "probability": 0.8765181303024292
+                },
+                {
+                    "word": " you",
+                    "start": 10.94,
+                    "end": 11.1,
+                    "probability": 0.8932731747627258
+                },
+                {
+                    "word": " with",
+                    "start": 11.1,
+                    "end": 11.88,
+                    "probability": 0.803988516330719
+                },
+                {
+                    "word": " us",
+                    "start": 11.88,
+                    "end": 12.04,
+                    "probability": 0.888625979423523
+                },
+                {
+                    "word": " tonight.",
+                    "start": 12.04,
+                    "end": 12.84,
+                    "probability": 0.6903058290481567
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.32,
+            "end": 15.92,
+            "text": " Let's just talk about what we saw happen in that room today.",
+            "tokens": [
+                51040,
+                961,
+                311,
+                445,
+                751,
+                466,
+                437,
+                321,
+                1866,
+                1051,
+                294,
+                300,
+                1808,
+                965,
+                13,
+                51162
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27802736897113894,
+            "compression_ratio": 1.5128205128205128,
+            "no_speech_prob": 0.0002583875902928412,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 13.32,
+                    "end": 13.82,
+                    "probability": 0.9431969523429871
+                },
+                {
+                    "word": " just",
+                    "start": 13.82,
+                    "end": 13.96,
+                    "probability": 0.8898791074752808
+                },
+                {
+                    "word": " talk",
+                    "start": 13.96,
+                    "end": 14.14,
+                    "probability": 0.8160344958305359
+                },
+                {
+                    "word": " about",
+                    "start": 14.14,
+                    "end": 14.32,
+                    "probability": 0.8157207369804382
+                },
+                {
+                    "word": " what",
+                    "start": 14.32,
+                    "end": 14.48,
+                    "probability": 0.8885736465454102
+                },
+                {
+                    "word": " we",
+                    "start": 14.48,
+                    "end": 14.64,
+                    "probability": 0.9061483144760132
+                },
+                {
+                    "word": " saw",
+                    "start": 14.64,
+                    "end": 14.84,
+                    "probability": 0.8039213418960571
+                },
+                {
+                    "word": " happen",
+                    "start": 14.84,
+                    "end": 15.12,
+                    "probability": 0.5502872467041016
+                },
+                {
+                    "word": " in",
+                    "start": 15.12,
+                    "end": 15.28,
+                    "probability": 0.9060945510864258
+                },
+                {
+                    "word": " that",
+                    "start": 15.28,
+                    "end": 15.42,
+                    "probability": 0.8804886341094971
+                },
+                {
+                    "word": " room",
+                    "start": 15.42,
+                    "end": 15.62,
+                    "probability": 0.8276051878929138
+                },
+                {
+                    "word": " today.",
+                    "start": 15.62,
+                    "end": 15.92,
+                    "probability": 0.7750349044799805
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.98,
+            "end": 19.34,
+            "text": " The CEO of TikTok, he was grilled hard and heavy.",
+            "tokens": [
+                51162,
+                440,
+                9282,
+                295,
+                20211,
+                11,
+                415,
+                390,
+                25183,
+                1152,
+                293,
+                4676,
+                13,
+                51338
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27802736897113894,
+            "compression_ratio": 1.5128205128205128,
+            "no_speech_prob": 0.0002583875902928412,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 15.98,
+                    "end": 16.12,
+                    "probability": 0.8219572305679321
+                },
+                {
+                    "word": " CEO",
+                    "start": 16.12,
+                    "end": 16.42,
+                    "probability": 0.839469850063324
+                },
+                {
+                    "word": " of",
+                    "start": 16.42,
+                    "end": 16.68,
+                    "probability": 0.901553750038147
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 16.68,
+                    "end": 16.96,
+                    "probability": 0.36371830105781555
+                },
+                {
+                    "word": " he",
+                    "start": 17.3,
+                    "end": 17.62,
+                    "probability": 0.9063136577606201
+                },
+                {
+                    "word": " was",
+                    "start": 17.62,
+                    "end": 17.9,
+                    "probability": 0.896395206451416
+                },
+                {
+                    "word": " grilled",
+                    "start": 17.9,
+                    "end": 18.2,
+                    "probability": 0.8057801127433777
+                },
+                {
+                    "word": " hard",
+                    "start": 18.2,
+                    "end": 18.76,
+                    "probability": 0.7951355576515198
+                },
+                {
+                    "word": " and",
+                    "start": 18.76,
+                    "end": 19.02,
+                    "probability": 0.890165388584137
+                },
+                {
+                    "word": " heavy.",
+                    "start": 19.02,
+                    "end": 19.34,
+                    "probability": 0.7287114262580872
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.28,
+            "end": 25.24,
+            "text": " The impression I got was that he read the room completely wrong and that this was a PR disaster for him.",
+            "tokens": [
+                51380,
+                440,
+                9995,
+                286,
+                658,
+                390,
+                300,
+                415,
+                1401,
+                264,
+                1808,
+                2584,
+                2085,
+                293,
+                300,
+                341,
+                390,
+                257,
+                11568,
+                11293,
+                337,
+                796,
+                13,
+                51628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27802736897113894,
+            "compression_ratio": 1.5128205128205128,
+            "no_speech_prob": 0.0002583875902928412,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 20.28,
+                    "end": 20.48,
+                    "probability": 0.8181681036949158
+                },
+                {
+                    "word": " impression",
+                    "start": 20.48,
+                    "end": 20.82,
+                    "probability": 0.8247044086456299
+                },
+                {
+                    "word": " I",
+                    "start": 20.82,
+                    "end": 21.0,
+                    "probability": 0.999796450138092
+                },
+                {
+                    "word": " got",
+                    "start": 21.0,
+                    "end": 21.14,
+                    "probability": 0.8904743790626526
+                },
+                {
+                    "word": " was",
+                    "start": 21.14,
+                    "end": 21.3,
+                    "probability": 0.8973629474639893
+                },
+                {
+                    "word": " that",
+                    "start": 21.3,
+                    "end": 21.46,
+                    "probability": 0.8843963146209717
+                },
+                {
+                    "word": " he",
+                    "start": 21.46,
+                    "end": 21.6,
+                    "probability": 0.9101106524467468
+                },
+                {
+                    "word": " read",
+                    "start": 21.6,
+                    "end": 21.9,
+                    "probability": 0.9324713349342346
+                },
+                {
+                    "word": " the",
+                    "start": 21.9,
+                    "end": 22.1,
+                    "probability": 0.8132932782173157
+                },
+                {
+                    "word": " room",
+                    "start": 22.1,
+                    "end": 22.3,
+                    "probability": 0.830331563949585
+                },
+                {
+                    "word": " completely",
+                    "start": 22.3,
+                    "end": 22.7,
+                    "probability": 0.6601155996322632
+                },
+                {
+                    "word": " wrong",
+                    "start": 22.7,
+                    "end": 23.1,
+                    "probability": 0.8377689123153687
+                },
+                {
+                    "word": " and",
+                    "start": 23.1,
+                    "end": 23.3,
+                    "probability": 0.8606390953063965
+                },
+                {
+                    "word": " that",
+                    "start": 23.3,
+                    "end": 23.4,
+                    "probability": 0.8577001690864563
+                },
+                {
+                    "word": " this",
+                    "start": 23.4,
+                    "end": 23.56,
+                    "probability": 0.8634899258613586
+                },
+                {
+                    "word": " was",
+                    "start": 23.56,
+                    "end": 23.78,
+                    "probability": 0.8968905806541443
+                },
+                {
+                    "word": " a",
+                    "start": 23.78,
+                    "end": 23.96,
+                    "probability": 0.9974179267883301
+                },
+                {
+                    "word": " PR",
+                    "start": 23.96,
+                    "end": 24.24,
+                    "probability": 0.7115985155105591
+                },
+                {
+                    "word": " disaster",
+                    "start": 24.24,
+                    "end": 24.8,
+                    "probability": 0.7725202441215515
+                },
+                {
+                    "word": " for",
+                    "start": 24.8,
+                    "end": 25.06,
+                    "probability": 0.894710898399353
+                },
+                {
+                    "word": " him.",
+                    "start": 25.06,
+                    "end": 25.24,
+                    "probability": 0.8942901492118835
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 25.28,
+            "end": 25.98,
+            "text": " How did you see it?",
+            "tokens": [
+                51628,
+                1012,
+                630,
+                291,
+                536,
+                309,
+                30,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27802736897113894,
+            "compression_ratio": 1.5128205128205128,
+            "no_speech_prob": 0.0002583875902928412,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 25.28,
+                    "end": 25.4,
+                    "probability": 0.8836019039154053
+                },
+                {
+                    "word": " did",
+                    "start": 25.4,
+                    "end": 25.54,
+                    "probability": 0.8915746212005615
+                },
+                {
+                    "word": " you",
+                    "start": 25.54,
+                    "end": 25.68,
+                    "probability": 0.8967862725257874
+                },
+                {
+                    "word": " see",
+                    "start": 25.68,
+                    "end": 25.86,
+                    "probability": 0.8131352066993713
+                },
+                {
+                    "word": " it?",
+                    "start": 25.86,
+                    "end": 25.98,
+                    "probability": 0.7817121744155884
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

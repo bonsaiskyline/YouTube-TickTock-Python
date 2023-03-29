@@ -1,0 +1,68 @@
+{
+    "text": " Well, you didn't answer the question.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 1.78,
+            "text": " Well, you didn't answer the question.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                291,
+                994,
+                380,
+                1867,
+                264,
+                1168,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3275555570920308,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.04576186090707779,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.04,
+                    "end": 0.46,
+                    "probability": 0.5658072829246521
+                },
+                {
+                    "word": " you",
+                    "start": 0.58,
+                    "end": 0.68,
+                    "probability": 0.8988500237464905
+                },
+                {
+                    "word": " didn't",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9307327270507812
+                },
+                {
+                    "word": " answer",
+                    "start": 0.94,
+                    "end": 1.2,
+                    "probability": 0.9086937308311462
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.36,
+                    "probability": 0.8231670260429382
+                },
+                {
+                    "word": " question.",
+                    "start": 1.36,
+                    "end": 1.78,
+                    "probability": 0.8075846433639526
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

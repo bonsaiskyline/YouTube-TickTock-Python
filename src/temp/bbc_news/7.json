@@ -1,0 +1,127 @@
+{
+    "text": " Congressman, if you give me a bit of time to just... No.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 2.38,
+            "text": " Congressman, if you give me a bit of time to just...",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                498,
+                291,
+                976,
+                385,
+                257,
+                857,
+                295,
+                565,
+                281,
+                445,
+                485,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42836899757385255,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.41578763723373413,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.666677713394165
+                },
+                {
+                    "word": " if",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.8249240517616272
+                },
+                {
+                    "word": " you",
+                    "start": 0.92,
+                    "end": 1.0,
+                    "probability": 0.8923776745796204
+                },
+                {
+                    "word": " give",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.6255654692649841
+                },
+                {
+                    "word": " me",
+                    "start": 1.12,
+                    "end": 1.26,
+                    "probability": 0.8999601006507874
+                },
+                {
+                    "word": " a",
+                    "start": 1.26,
+                    "end": 1.36,
+                    "probability": 0.9896101951599121
+                },
+                {
+                    "word": " bit",
+                    "start": 1.36,
+                    "end": 1.48,
+                    "probability": 0.8981307148933411
+                },
+                {
+                    "word": " of",
+                    "start": 1.48,
+                    "end": 1.58,
+                    "probability": 0.9043344259262085
+                },
+                {
+                    "word": " time",
+                    "start": 1.58,
+                    "end": 1.8,
+                    "probability": 0.8074429035186768
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.7849370241165161
+                },
+                {
+                    "word": " just...",
+                    "start": 2.0,
+                    "end": 2.38,
+                    "probability": 0.38213206827640533
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.38,
+            "end": 2.46,
+            "text": " No.",
+            "tokens": [
+                50484,
+                883,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42836899757385255,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.41578763723373413,
+            "words": [
+                {
+                    "word": " No.",
+                    "start": 2.38,
+                    "end": 2.46,
+                    "probability": 0.8260377049446106
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

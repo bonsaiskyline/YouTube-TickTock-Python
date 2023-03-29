@@ -1,0 +1,31 @@
+{
+    "text": " No.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.28,
+            "text": " No.",
+            "tokens": [
+                50364,
+                883,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4370230197906494,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.17015554010868073,
+            "words": [
+                {
+                    "word": " No.",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6552830934524536
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

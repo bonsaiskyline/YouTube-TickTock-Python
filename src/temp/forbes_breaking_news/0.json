@@ -1,0 +1,1344 @@
+{
+    "text": " back, gentleman from Texas. Chair recognizes for five minutes, Mr. Crenshaw. Thank you, Madam Chair. Thank you, Mr. Chu, for bringing Republicans and Democrats together. Appreciate that. I wanna get right to the critical point of concern. So TikTok is able to collect massive amounts of personal data, we all know that. That means it could, if it desired, to use this data to influence narratives and trends, create misinformation campaigns, encourage self-destructive behavior, purposefully allow drug cartels to communicate freely and organize human and drug trafficking. And to be fair, all social media companies could do that. But here's the difference. It is only TikTok that is controlled by the Chinese Communist Party. All these other social media companies are not. Mr. Chu, do you agree that TikTok is controlled by the CCP?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " back, gentleman from Texas.",
+            "tokens": [
+                50364,
+                646,
+                11,
+                15761,
+                490,
+                7885,
+                13,
+                50462
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " back,",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.2480839341878891
+                },
+                {
+                    "word": " gentleman",
+                    "start": 0.44,
+                    "end": 0.7,
+                    "probability": 0.3240428566932678
+                },
+                {
+                    "word": " from",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.809546172618866
+                },
+                {
+                    "word": " Texas.",
+                    "start": 0.96,
+                    "end": 1.5,
+                    "probability": 0.7765591144561768
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.08,
+            "end": 3.98,
+            "text": " Chair recognizes for five minutes, Mr. Crenshaw.",
+            "tokens": [
+                50462,
+                8678,
+                26564,
+                337,
+                1732,
+                2077,
+                11,
+                2221,
+                13,
+                383,
+                1095,
+                49813,
+                13,
+                50607
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " Chair",
+                    "start": 2.08,
+                    "end": 2.1,
+                    "probability": 0.7321179509162903
+                },
+                {
+                    "word": " recognizes",
+                    "start": 2.1,
+                    "end": 2.52,
+                    "probability": 0.8993179202079773
+                },
+                {
+                    "word": " for",
+                    "start": 2.52,
+                    "end": 2.74,
+                    "probability": 0.7422001361846924
+                },
+                {
+                    "word": " five",
+                    "start": 2.74,
+                    "end": 2.96,
+                    "probability": 0.7480045557022095
+                },
+                {
+                    "word": " minutes,",
+                    "start": 2.96,
+                    "end": 3.14,
+                    "probability": 0.8801878094673157
+                },
+                {
+                    "word": " Mr.",
+                    "start": 3.26,
+                    "end": 3.48,
+                    "probability": 0.9082995653152466
+                },
+                {
+                    "word": " Crenshaw.",
+                    "start": 3.76,
+                    "end": 3.98,
+                    "probability": 0.9019763668378195
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.46,
+            "end": 5.56,
+            "text": " Thank you, Madam Chair.",
+            "tokens": [
+                50607,
+                1044,
+                291,
+                11,
+                18490,
+                8678,
+                13,
+                50670
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 4.46,
+                    "end": 5.0,
+                    "probability": 0.7738108038902283
+                },
+                {
+                    "word": " you,",
+                    "start": 5.0,
+                    "end": 5.08,
+                    "probability": 0.8941818475723267
+                },
+                {
+                    "word": " Madam",
+                    "start": 5.12,
+                    "end": 5.24,
+                    "probability": 0.6970146298408508
+                },
+                {
+                    "word": " Chair.",
+                    "start": 5.24,
+                    "end": 5.56,
+                    "probability": 0.8261280059814453
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.04,
+            "end": 8.08,
+            "text": " Thank you, Mr. Chu, for bringing Republicans",
+            "tokens": [
+                50670,
+                1044,
+                291,
+                11,
+                2221,
+                13,
+                25585,
+                11,
+                337,
+                5062,
+                12017,
+                50776
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 6.04,
+                    "end": 6.26,
+                    "probability": 0.886304497718811
+                },
+                {
+                    "word": " you,",
+                    "start": 6.26,
+                    "end": 6.34,
+                    "probability": 0.8983348608016968
+                },
+                {
+                    "word": " Mr.",
+                    "start": 6.38,
+                    "end": 6.52,
+                    "probability": 0.9243420958518982
+                },
+                {
+                    "word": " Chu,",
+                    "start": 6.6,
+                    "end": 6.76,
+                    "probability": 0.3917912542819977
+                },
+                {
+                    "word": " for",
+                    "start": 6.88,
+                    "end": 7.1,
+                    "probability": 0.8972431421279907
+                },
+                {
+                    "word": " bringing",
+                    "start": 7.1,
+                    "end": 7.6,
+                    "probability": 0.7724787592887878
+                },
+                {
+                    "word": " Republicans",
+                    "start": 7.6,
+                    "end": 8.08,
+                    "probability": 0.8564369678497314
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.08,
+            "end": 9.02,
+            "text": " and Democrats together.",
+            "tokens": [
+                50776,
+                293,
+                12217,
+                1214,
+                13,
+                50850
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 8.08,
+                    "end": 8.3,
+                    "probability": 0.8923842310905457
+                },
+                {
+                    "word": " Democrats",
+                    "start": 8.3,
+                    "end": 8.56,
+                    "probability": 0.8547433614730835
+                },
+                {
+                    "word": " together.",
+                    "start": 8.56,
+                    "end": 9.02,
+                    "probability": 0.776208221912384
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 9.54,
+            "end": 10.22,
+            "text": " Appreciate that.",
+            "tokens": [
+                50850,
+                37601,
+                300,
+                13,
+                50906
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " Appreciate",
+                    "start": 9.54,
+                    "end": 9.92,
+                    "probability": 0.5098837614059448
+                },
+                {
+                    "word": " that.",
+                    "start": 9.92,
+                    "end": 10.22,
+                    "probability": 0.883384644985199
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 10.78,
+            "end": 13.48,
+            "text": " I wanna get right to the critical point of concern.",
+            "tokens": [
+                50906,
+                286,
+                1948,
+                483,
+                558,
+                281,
+                264,
+                4924,
+                935,
+                295,
+                3136,
+                13,
+                51046
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 10.78,
+                    "end": 11.08,
+                    "probability": 0.9896654486656189
+                },
+                {
+                    "word": " wanna",
+                    "start": 11.08,
+                    "end": 11.2,
+                    "probability": 0.01860751211643219
+                },
+                {
+                    "word": " get",
+                    "start": 11.2,
+                    "end": 11.38,
+                    "probability": 0.8946352005004883
+                },
+                {
+                    "word": " right",
+                    "start": 11.38,
+                    "end": 11.8,
+                    "probability": 0.8695387244224548
+                },
+                {
+                    "word": " to",
+                    "start": 11.8,
+                    "end": 11.94,
+                    "probability": 0.900651216506958
+                },
+                {
+                    "word": " the",
+                    "start": 11.94,
+                    "end": 12.1,
+                    "probability": 0.8195182085037231
+                },
+                {
+                    "word": " critical",
+                    "start": 12.1,
+                    "end": 12.34,
+                    "probability": 0.8486807942390442
+                },
+                {
+                    "word": " point",
+                    "start": 12.34,
+                    "end": 12.7,
+                    "probability": 0.8596137762069702
+                },
+                {
+                    "word": " of",
+                    "start": 12.7,
+                    "end": 12.92,
+                    "probability": 0.9053031802177429
+                },
+                {
+                    "word": " concern.",
+                    "start": 12.92,
+                    "end": 13.48,
+                    "probability": 0.7901169657707214
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 13.68,
+            "end": 16.02,
+            "text": " So TikTok is able to collect massive amounts",
+            "tokens": [
+                51046,
+                407,
+                20211,
+                307,
+                1075,
+                281,
+                2500,
+                5994,
+                11663,
+                51170
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 13.68,
+                    "end": 13.74,
+                    "probability": 0.8708755970001221
+                },
+                {
+                    "word": " TikTok",
+                    "start": 13.74,
+                    "end": 13.98,
+                    "probability": 0.6116921901702881
+                },
+                {
+                    "word": " is",
+                    "start": 13.98,
+                    "end": 14.32,
+                    "probability": 0.8992061614990234
+                },
+                {
+                    "word": " able",
+                    "start": 14.32,
+                    "end": 14.54,
+                    "probability": 0.8788576126098633
+                },
+                {
+                    "word": " to",
+                    "start": 14.54,
+                    "end": 14.8,
+                    "probability": 0.9050738215446472
+                },
+                {
+                    "word": " collect",
+                    "start": 14.8,
+                    "end": 15.12,
+                    "probability": 0.7698415517807007
+                },
+                {
+                    "word": " massive",
+                    "start": 15.12,
+                    "end": 15.64,
+                    "probability": 0.7733675241470337
+                },
+                {
+                    "word": " amounts",
+                    "start": 15.64,
+                    "end": 16.02,
+                    "probability": 0.7965067028999329
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 16.02,
+            "end": 17.56,
+            "text": " of personal data, we all know that.",
+            "tokens": [
+                51170,
+                295,
+                2973,
+                1412,
+                11,
+                321,
+                439,
+                458,
+                300,
+                13,
+                51279
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 16.02,
+                    "end": 16.18,
+                    "probability": 0.9001238346099854
+                },
+                {
+                    "word": " personal",
+                    "start": 16.18,
+                    "end": 16.52,
+                    "probability": 0.7441600561141968
+                },
+                {
+                    "word": " data,",
+                    "start": 16.52,
+                    "end": 16.8,
+                    "probability": 0.8093824982643127
+                },
+                {
+                    "word": " we",
+                    "start": 16.86,
+                    "end": 16.94,
+                    "probability": 0.901383101940155
+                },
+                {
+                    "word": " all",
+                    "start": 16.94,
+                    "end": 17.12,
+                    "probability": 0.8995630741119385
+                },
+                {
+                    "word": " know",
+                    "start": 17.12,
+                    "end": 17.28,
+                    "probability": 0.810926079750061
+                },
+                {
+                    "word": " that.",
+                    "start": 17.28,
+                    "end": 17.56,
+                    "probability": 0.8755437135696411
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 18.22,
+            "end": 20.2,
+            "text": " That means it could, if it desired,",
+            "tokens": [
+                51279,
+                663,
+                1355,
+                309,
+                727,
+                11,
+                498,
+                309,
+                14721,
+                11,
+                51386
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 18.22,
+                    "end": 18.44,
+                    "probability": 0.8116158246994019
+                },
+                {
+                    "word": " means",
+                    "start": 18.44,
+                    "end": 18.68,
+                    "probability": 0.8871821761131287
+                },
+                {
+                    "word": " it",
+                    "start": 18.68,
+                    "end": 18.86,
+                    "probability": 0.8945698738098145
+                },
+                {
+                    "word": " could,",
+                    "start": 18.86,
+                    "end": 19.18,
+                    "probability": 0.8279922604560852
+                },
+                {
+                    "word": " if",
+                    "start": 19.32,
+                    "end": 19.5,
+                    "probability": 0.9018226265907288
+                },
+                {
+                    "word": " it",
+                    "start": 19.5,
+                    "end": 19.66,
+                    "probability": 0.9075782895088196
+                },
+                {
+                    "word": " desired,",
+                    "start": 19.66,
+                    "end": 20.2,
+                    "probability": 0.771047830581665
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 20.48,
+            "end": 23.52,
+            "text": " to use this data to influence narratives and trends,",
+            "tokens": [
+                51386,
+                281,
+                764,
+                341,
+                1412,
+                281,
+                6503,
+                28016,
+                293,
+                13892,
+                11,
+                51545
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 20.48,
+                    "end": 20.78,
+                    "probability": 0.8935809135437012
+                },
+                {
+                    "word": " use",
+                    "start": 20.78,
+                    "end": 21.38,
+                    "probability": 0.8106411099433899
+                },
+                {
+                    "word": " this",
+                    "start": 21.38,
+                    "end": 21.58,
+                    "probability": 0.8770689964294434
+                },
+                {
+                    "word": " data",
+                    "start": 21.58,
+                    "end": 21.8,
+                    "probability": 0.8153876066207886
+                },
+                {
+                    "word": " to",
+                    "start": 21.8,
+                    "end": 21.98,
+                    "probability": 0.9009860157966614
+                },
+                {
+                    "word": " influence",
+                    "start": 21.98,
+                    "end": 22.34,
+                    "probability": 0.8309414386749268
+                },
+                {
+                    "word": " narratives",
+                    "start": 22.34,
+                    "end": 22.82,
+                    "probability": 0.7701526880264282
+                },
+                {
+                    "word": " and",
+                    "start": 22.82,
+                    "end": 23.14,
+                    "probability": 0.8839836716651917
+                },
+                {
+                    "word": " trends,",
+                    "start": 23.14,
+                    "end": 23.52,
+                    "probability": 0.7165846228599548
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 23.64,
+            "end": 25.16,
+            "text": " create misinformation campaigns,",
+            "tokens": [
+                51545,
+                1884,
+                34238,
+                16840,
+                11,
+                51631
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " create",
+                    "start": 23.64,
+                    "end": 23.82,
+                    "probability": 0.848793625831604
+                },
+                {
+                    "word": " misinformation",
+                    "start": 23.82,
+                    "end": 24.22,
+                    "probability": 0.7399522662162781
+                },
+                {
+                    "word": " campaigns,",
+                    "start": 24.22,
+                    "end": 25.16,
+                    "probability": 0.7521771788597107
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 25.36,
+            "end": 27.12,
+            "text": " encourage self-destructive behavior,",
+            "tokens": [
+                51631,
+                5373,
+                2698,
+                12,
+                23748,
+                21673,
+                5223,
+                11,
+                51744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " encourage",
+                    "start": 25.36,
+                    "end": 25.7,
+                    "probability": 0.6013731956481934
+                },
+                {
+                    "word": " self",
+                    "start": 25.7,
+                    "end": 26.0,
+                    "probability": 0.8021986484527588
+                },
+                {
+                    "word": "-destructive",
+                    "start": 26.0,
+                    "end": 26.52,
+                    "probability": 0.8802698453267416
+                },
+                {
+                    "word": " behavior,",
+                    "start": 26.52,
+                    "end": 27.12,
+                    "probability": 0.8555787205696106
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 0,
+            "start": 27.64,
+            "end": 29.82,
+            "text": " purposefully allow drug cartels to communicate freely",
+            "tokens": [
+                51744,
+                4334,
+                2277,
+                2089,
+                4110,
+                5467,
+                1625,
+                281,
+                7890,
+                16433,
+                51860
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722596154696699,
+            "compression_ratio": 1.6024096385542168,
+            "no_speech_prob": 0.07775705307722092,
+            "words": [
+                {
+                    "word": " purposefully",
+                    "start": 27.64,
+                    "end": 28.04,
+                    "probability": 0.7764634191989899
+                },
+                {
+                    "word": " allow",
+                    "start": 28.04,
+                    "end": 28.32,
+                    "probability": 0.7719270586967468
+                },
+                {
+                    "word": " drug",
+                    "start": 28.32,
+                    "end": 28.6,
+                    "probability": 0.7899025082588196
+                },
+                {
+                    "word": " cartels",
+                    "start": 28.6,
+                    "end": 29.02,
+                    "probability": 0.892549604177475
+                },
+                {
+                    "word": " to",
+                    "start": 29.02,
+                    "end": 29.18,
+                    "probability": 0.8899556398391724
+                },
+                {
+                    "word": " communicate",
+                    "start": 29.18,
+                    "end": 29.48,
+                    "probability": 0.719809353351593
+                },
+                {
+                    "word": " freely",
+                    "start": 29.48,
+                    "end": 29.82,
+                    "probability": 0.8586644530296326
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2982,
+            "start": 29.82,
+            "end": 31.54,
+            "text": " and organize human and drug trafficking.",
+            "tokens": [
+                50370,
+                293,
+                13859,
+                1952,
+                293,
+                4110,
+                25843,
+                13,
+                50470
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 29.82,
+                    "end": 29.98,
+                    "probability": 0.6179301142692566
+                },
+                {
+                    "word": " organize",
+                    "start": 29.98,
+                    "end": 30.3,
+                    "probability": 0.19934144616127014
+                },
+                {
+                    "word": " human",
+                    "start": 30.3,
+                    "end": 30.6,
+                    "probability": 0.7751245498657227
+                },
+                {
+                    "word": " and",
+                    "start": 30.6,
+                    "end": 30.78,
+                    "probability": 0.8790917992591858
+                },
+                {
+                    "word": " drug",
+                    "start": 30.78,
+                    "end": 30.96,
+                    "probability": 0.8543779253959656
+                },
+                {
+                    "word": " trafficking.",
+                    "start": 30.96,
+                    "end": 31.54,
+                    "probability": 0.8306953310966492
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2982,
+            "start": 31.96,
+            "end": 34.94,
+            "text": " And to be fair, all social media companies could do that.",
+            "tokens": [
+                50470,
+                400,
+                281,
+                312,
+                3143,
+                11,
+                439,
+                2093,
+                3021,
+                3431,
+                727,
+                360,
+                300,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 31.96,
+                    "end": 32.02,
+                    "probability": 0.7820789813995361
+                },
+                {
+                    "word": " to",
+                    "start": 32.02,
+                    "end": 32.1,
+                    "probability": 0.8600102663040161
+                },
+                {
+                    "word": " be",
+                    "start": 32.1,
+                    "end": 32.2,
+                    "probability": 0.9131631255149841
+                },
+                {
+                    "word": " fair,",
+                    "start": 32.2,
+                    "end": 32.36,
+                    "probability": 0.8306050896644592
+                },
+                {
+                    "word": " all",
+                    "start": 32.48,
+                    "end": 32.62,
+                    "probability": 0.8918609023094177
+                },
+                {
+                    "word": " social",
+                    "start": 32.62,
+                    "end": 32.92,
+                    "probability": 0.808780312538147
+                },
+                {
+                    "word": " media",
+                    "start": 32.92,
+                    "end": 33.22,
+                    "probability": 0.8398568034172058
+                },
+                {
+                    "word": " companies",
+                    "start": 33.22,
+                    "end": 33.7,
+                    "probability": 0.8024581670761108
+                },
+                {
+                    "word": " could",
+                    "start": 33.7,
+                    "end": 34.26,
+                    "probability": 0.7917475700378418
+                },
+                {
+                    "word": " do",
+                    "start": 34.26,
+                    "end": 34.56,
+                    "probability": 0.9138475656509399
+                },
+                {
+                    "word": " that.",
+                    "start": 34.56,
+                    "end": 34.94,
+                    "probability": 0.8782529830932617
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2982,
+            "start": 35.44,
+            "end": 36.34,
+            "text": " But here's the difference.",
+            "tokens": [
+                50648,
+                583,
+                510,
+                311,
+                264,
+                2649,
+                13,
+                50719
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 35.44,
+                    "end": 35.58,
+                    "probability": 0.5328691005706787
+                },
+                {
+                    "word": " here's",
+                    "start": 35.58,
+                    "end": 35.74,
+                    "probability": 0.8943789005279541
+                },
+                {
+                    "word": " the",
+                    "start": 35.74,
+                    "end": 35.86,
+                    "probability": 0.8182474970817566
+                },
+                {
+                    "word": " difference.",
+                    "start": 35.86,
+                    "end": 36.34,
+                    "probability": 0.7067106366157532
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2982,
+            "start": 36.92,
+            "end": 38.56,
+            "text": " It is only TikTok that is controlled",
+            "tokens": [
+                50719,
+                467,
+                307,
+                787,
+                20211,
+                300,
+                307,
+                10164,
+                50808
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 36.92,
+                    "end": 37.02,
+                    "probability": 0.9107607007026672
+                },
+                {
+                    "word": " is",
+                    "start": 37.02,
+                    "end": 37.14,
+                    "probability": 0.8994629979133606
+                },
+                {
+                    "word": " only",
+                    "start": 37.14,
+                    "end": 37.34,
+                    "probability": 0.8669983744621277
+                },
+                {
+                    "word": " TikTok",
+                    "start": 37.34,
+                    "end": 37.66,
+                    "probability": 0.6083288788795471
+                },
+                {
+                    "word": " that",
+                    "start": 37.66,
+                    "end": 38.1,
+                    "probability": 0.8641020655632019
+                },
+                {
+                    "word": " is",
+                    "start": 38.1,
+                    "end": 38.22,
+                    "probability": 0.9089083671569824
+                },
+                {
+                    "word": " controlled",
+                    "start": 38.22,
+                    "end": 38.56,
+                    "probability": 0.6687169671058655
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 2982,
+            "start": 38.56,
+            "end": 40.12,
+            "text": " by the Chinese Communist Party.",
+            "tokens": [
+                50808,
+                538,
+                264,
+                4649,
+                23253,
+                8552,
+                13,
+                50886
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " by",
+                    "start": 38.56,
+                    "end": 38.78,
+                    "probability": 0.9081597328186035
+                },
+                {
+                    "word": " the",
+                    "start": 38.78,
+                    "end": 38.94,
+                    "probability": 0.8152385354042053
+                },
+                {
+                    "word": " Chinese",
+                    "start": 38.94,
+                    "end": 39.2,
+                    "probability": 0.7721702456474304
+                },
+                {
+                    "word": " Communist",
+                    "start": 39.2,
+                    "end": 39.68,
+                    "probability": 0.759804368019104
+                },
+                {
+                    "word": " Party.",
+                    "start": 39.68,
+                    "end": 40.12,
+                    "probability": 0.8330532312393188
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 2982,
+            "start": 40.24,
+            "end": 42.62,
+            "text": " All these other social media companies are not.",
+            "tokens": [
+                50886,
+                1057,
+                613,
+                661,
+                2093,
+                3021,
+                3431,
+                366,
+                406,
+                13,
+                51017
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 40.24,
+                    "end": 40.3,
+                    "probability": 0.9046217203140259
+                },
+                {
+                    "word": " these",
+                    "start": 40.3,
+                    "end": 40.44,
+                    "probability": 0.7055376172065735
+                },
+                {
+                    "word": " other",
+                    "start": 40.44,
+                    "end": 40.62,
+                    "probability": 0.7765170931816101
+                },
+                {
+                    "word": " social",
+                    "start": 40.62,
+                    "end": 40.84,
+                    "probability": 0.8034079074859619
+                },
+                {
+                    "word": " media",
+                    "start": 40.84,
+                    "end": 41.08,
+                    "probability": 0.8447309136390686
+                },
+                {
+                    "word": " companies",
+                    "start": 41.08,
+                    "end": 41.6,
+                    "probability": 0.8018079996109009
+                },
+                {
+                    "word": " are",
+                    "start": 41.6,
+                    "end": 42.2,
+                    "probability": 0.8846238255500793
+                },
+                {
+                    "word": " not.",
+                    "start": 42.2,
+                    "end": 42.62,
+                    "probability": 0.8967692255973816
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "seek": 2982,
+            "start": 42.88,
+            "end": 45.32,
+            "text": " Mr. Chu, do you agree that TikTok is controlled by the CCP?",
+            "tokens": [
+                51017,
+                2221,
+                13,
+                25585,
+                11,
+                360,
+                291,
+                3986,
+                300,
+                20211,
+                307,
+                10164,
+                538,
+                264,
+                27876,
+                30,
+                51167
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25929563473432493,
+            "compression_ratio": 1.581151832460733,
+            "no_speech_prob": 0.0038995614740997553,
+            "words": [
+                {
+                    "word": " Mr.",
+                    "start": 42.88,
+                    "end": 43.02,
+                    "probability": 0.8845898509025574
+                },
+                {
+                    "word": " Chu,",
+                    "start": 43.1,
+                    "end": 43.18,
+                    "probability": 0.5360913872718811
+                },
+                {
+                    "word": " do",
+                    "start": 43.18,
+                    "end": 43.28,
+                    "probability": 0.8940929174423218
+                },
+                {
+                    "word": " you",
+                    "start": 43.28,
+                    "end": 43.38,
+                    "probability": 0.8950016498565674
+                },
+                {
+                    "word": " agree",
+                    "start": 43.38,
+                    "end": 43.66,
+                    "probability": 0.8678070306777954
+                },
+                {
+                    "word": " that",
+                    "start": 43.66,
+                    "end": 43.88,
+                    "probability": 0.8901059627532959
+                },
+                {
+                    "word": " TikTok",
+                    "start": 43.88,
+                    "end": 44.1,
+                    "probability": 0.929108738899231
+                },
+                {
+                    "word": " is",
+                    "start": 44.1,
+                    "end": 44.4,
+                    "probability": 0.908099889755249
+                },
+                {
+                    "word": " controlled",
+                    "start": 44.4,
+                    "end": 44.68,
+                    "probability": 0.6743339896202087
+                },
+                {
+                    "word": " by",
+                    "start": 44.68,
+                    "end": 44.86,
+                    "probability": 0.9043353199958801
+                },
+                {
+                    "word": " the",
+                    "start": 44.86,
+                    "end": 45.0,
+                    "probability": 0.8130783438682556
+                },
+                {
+                    "word": " CCP?",
+                    "start": 45.0,
+                    "end": 45.32,
+                    "probability": 0.7402006387710571
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

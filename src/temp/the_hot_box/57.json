@@ -1,0 +1,118 @@
+{
+    "text": " Let's groove tonight, dun dun dun. I do love that fucking intro man.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " Let's groove tonight, dun dun dun. I do love that fucking intro man.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                26910,
+                4440,
+                11,
+                10234,
+                10234,
+                10234,
+                13,
+                286,
+                360,
+                959,
+                300,
+                5546,
+                12897,
+                587,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5773091316223145,
+            "compression_ratio": 1.0303030303030303,
+            "no_speech_prob": 0.017095165327191353,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.6383509933948517
+                },
+                {
+                    "word": " groove",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.8587557673454285
+                },
+                {
+                    "word": " tonight,",
+                    "start": 0.9,
+                    "end": 1.5,
+                    "probability": 0.6850053668022156
+                },
+                {
+                    "word": " dun",
+                    "start": 1.82,
+                    "end": 1.96,
+                    "probability": 0.2708275616168976
+                },
+                {
+                    "word": " dun",
+                    "start": 1.96,
+                    "end": 2.26,
+                    "probability": 0.33201098442077637
+                },
+                {
+                    "word": " dun.",
+                    "start": 2.26,
+                    "end": 2.54,
+                    "probability": 0.3701627850532532
+                },
+                {
+                    "word": " I",
+                    "start": 2.8,
+                    "end": 2.96,
+                    "probability": 0.9542495012283325
+                },
+                {
+                    "word": " do",
+                    "start": 2.96,
+                    "end": 3.14,
+                    "probability": 0.8935362100601196
+                },
+                {
+                    "word": " love",
+                    "start": 3.14,
+                    "end": 3.36,
+                    "probability": 0.8773105144500732
+                },
+                {
+                    "word": " that",
+                    "start": 3.36,
+                    "end": 3.54,
+                    "probability": 0.8736274242401123
+                },
+                {
+                    "word": " fucking",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.40333569049835205
+                },
+                {
+                    "word": " intro",
+                    "start": 3.84,
+                    "end": 4.18,
+                    "probability": 0.8545934557914734
+                },
+                {
+                    "word": " man.",
+                    "start": 4.18,
+                    "end": 4.46,
+                    "probability": 0.45600199699401855
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

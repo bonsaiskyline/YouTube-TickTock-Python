@@ -1,0 +1,31 @@
+{
+    "text": " What?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.08,
+            "text": " What?",
+            "tokens": [
+                50364,
+                708,
+                30,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9540220260620117,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.9185666441917419,
+            "words": [
+                {
+                    "word": " What?",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.06182943284511566
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

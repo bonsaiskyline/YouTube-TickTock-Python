@@ -1,0 +1,60 @@
+{
+    "text": " It's a global collaborative effort.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.52,
+            "text": " It's a global collaborative effort.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                257,
+                4338,
+                16555,
+                4630,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5331993579864502,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.32395511865615845,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7039892375469208
+                },
+                {
+                    "word": " a",
+                    "start": 0.18,
+                    "end": 0.28,
+                    "probability": 0.9929868578910828
+                },
+                {
+                    "word": " global",
+                    "start": 0.28,
+                    "end": 0.58,
+                    "probability": 0.8844771981239319
+                },
+                {
+                    "word": " collaborative",
+                    "start": 0.58,
+                    "end": 1.14,
+                    "probability": 0.8233391046524048
+                },
+                {
+                    "word": " effort.",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.8899633884429932
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

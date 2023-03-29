@@ -1,0 +1,140 @@
+{
+    "text": " know how many, but you acknowledge many must be card-carrying members of the CCP, right?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.94,
+            "text": " know how many, but you acknowledge many must be card-carrying members of the CCP, right?",
+            "tokens": [
+                50364,
+                458,
+                577,
+                867,
+                11,
+                457,
+                291,
+                10692,
+                867,
+                1633,
+                312,
+                2920,
+                12,
+                6166,
+                19076,
+                2679,
+                295,
+                264,
+                27876,
+                11,
+                558,
+                30,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36455194155375165,
+            "compression_ratio": 1.035294117647059,
+            "no_speech_prob": 0.07582269608974457,
+            "words": [
+                {
+                    "word": " know",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.49358630180358887
+                },
+                {
+                    "word": " how",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9002742767333984
+                },
+                {
+                    "word": " many,",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.8121064901351929
+                },
+                {
+                    "word": " but",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.8862161040306091
+                },
+                {
+                    "word": " you",
+                    "start": 0.82,
+                    "end": 1.06,
+                    "probability": 0.8513725996017456
+                },
+                {
+                    "word": " acknowledge",
+                    "start": 1.06,
+                    "end": 1.46,
+                    "probability": 0.5269986391067505
+                },
+                {
+                    "word": " many",
+                    "start": 1.46,
+                    "end": 1.92,
+                    "probability": 0.7535795569419861
+                },
+                {
+                    "word": " must",
+                    "start": 1.92,
+                    "end": 2.64,
+                    "probability": 0.8200415968894958
+                },
+                {
+                    "word": " be",
+                    "start": 2.64,
+                    "end": 3.1,
+                    "probability": 0.8990582227706909
+                },
+                {
+                    "word": " card",
+                    "start": 3.1,
+                    "end": 3.44,
+                    "probability": 0.8283079862594604
+                },
+                {
+                    "word": "-carrying",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.6933620075384775
+                },
+                {
+                    "word": " members",
+                    "start": 3.7,
+                    "end": 4.0,
+                    "probability": 0.7986409068107605
+                },
+                {
+                    "word": " of",
+                    "start": 4.0,
+                    "end": 4.18,
+                    "probability": 0.9089800715446472
+                },
+                {
+                    "word": " the",
+                    "start": 4.18,
+                    "end": 4.28,
+                    "probability": 0.8166693449020386
+                },
+                {
+                    "word": " CCP,",
+                    "start": 4.28,
+                    "end": 4.6,
+                    "probability": 0.7313402891159058
+                },
+                {
+                    "word": " right?",
+                    "start": 4.8,
+                    "end": 4.94,
+                    "probability": 0.8876041173934937
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

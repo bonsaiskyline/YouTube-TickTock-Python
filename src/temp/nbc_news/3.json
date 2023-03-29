@@ -1,0 +1,144 @@
+{
+    "text": " That video was posted 41 days ago. As you can see it is captioned me as F",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.26,
+            "text": " That video was posted 41 days ago. As you can see it is captioned me as F",
+            "tokens": [
+                50364,
+                663,
+                960,
+                390,
+                9437,
+                18173,
+                1708,
+                2057,
+                13,
+                1018,
+                291,
+                393,
+                536,
+                309,
+                307,
+                31974,
+                292,
+                385,
+                382,
+                479,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3288784460587935,
+            "compression_ratio": 0.9605263157894737,
+            "no_speech_prob": 0.18335017561912537,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.6092689037322998
+                },
+                {
+                    "word": " video",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.7979271411895752
+                },
+                {
+                    "word": " was",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.8999766707420349
+                },
+                {
+                    "word": " posted",
+                    "start": 1.08,
+                    "end": 1.4,
+                    "probability": 0.8148150444030762
+                },
+                {
+                    "word": " 41",
+                    "start": 1.4,
+                    "end": 1.82,
+                    "probability": 0.9015094637870789
+                },
+                {
+                    "word": " days",
+                    "start": 1.82,
+                    "end": 2.24,
+                    "probability": 0.8142884969711304
+                },
+                {
+                    "word": " ago.",
+                    "start": 2.24,
+                    "end": 2.56,
+                    "probability": 0.8189165592193604
+                },
+                {
+                    "word": " As",
+                    "start": 2.66,
+                    "end": 2.82,
+                    "probability": 0.9108883738517761
+                },
+                {
+                    "word": " you",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.8997125625610352
+                },
+                {
+                    "word": " can",
+                    "start": 2.94,
+                    "end": 3.12,
+                    "probability": 0.8994271159172058
+                },
+                {
+                    "word": " see",
+                    "start": 3.12,
+                    "end": 3.4,
+                    "probability": 0.8152400255203247
+                },
+                {
+                    "word": " it",
+                    "start": 3.4,
+                    "end": 3.58,
+                    "probability": 0.4469112157821655
+                },
+                {
+                    "word": " is",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.8499213457107544
+                },
+                {
+                    "word": " captioned",
+                    "start": 3.72,
+                    "end": 4.22,
+                    "probability": 0.7506494522094727
+                },
+                {
+                    "word": " me",
+                    "start": 4.22,
+                    "end": 4.44,
+                    "probability": 0.23754918575286865
+                },
+                {
+                    "word": " as",
+                    "start": 4.44,
+                    "end": 4.82,
+                    "probability": 0.9020000696182251
+                },
+                {
+                    "word": " F",
+                    "start": 4.82,
+                    "end": 5.26,
+                    "probability": 0.6255876421928406
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,142 @@
+{
+    "text": " Hey everyone, it's Joe here. I'm the CEO of TikTok. Today, I'm super excited to announce",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.32,
+            "text": " Hey everyone, it's Joe here. I'm the CEO of TikTok. Today, I'm super excited to announce",
+            "tokens": [
+                50364,
+                1911,
+                1518,
+                11,
+                309,
+                311,
+                6807,
+                510,
+                13,
+                286,
+                478,
+                264,
+                9282,
+                295,
+                20211,
+                13,
+                2692,
+                11,
+                286,
+                478,
+                1687,
+                2919,
+                281,
+                7478,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39885671322162336,
+            "compression_ratio": 1.0114942528735633,
+            "no_speech_prob": 0.09678754210472107,
+            "words": [
+                {
+                    "word": " Hey",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.3566776216030121
+                },
+                {
+                    "word": " everyone,",
+                    "start": 0.16,
+                    "end": 0.52,
+                    "probability": 0.6917644143104553
+                },
+                {
+                    "word": " it's",
+                    "start": 0.92,
+                    "end": 1.0,
+                    "probability": 0.9076398015022278
+                },
+                {
+                    "word": " Joe",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.18891048431396484
+                },
+                {
+                    "word": " here.",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.8037503361701965
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.7,
+                    "end": 1.88,
+                    "probability": 0.9853865206241608
+                },
+                {
+                    "word": " the",
+                    "start": 1.88,
+                    "end": 2.0,
+                    "probability": 0.805823564529419
+                },
+                {
+                    "word": " CEO",
+                    "start": 2.0,
+                    "end": 2.32,
+                    "probability": 0.8230684995651245
+                },
+                {
+                    "word": " of",
+                    "start": 2.32,
+                    "end": 2.48,
+                    "probability": 0.9047037959098816
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 2.48,
+                    "end": 2.74,
+                    "probability": 0.7756316065788269
+                },
+                {
+                    "word": " Today,",
+                    "start": 3.14,
+                    "end": 3.42,
+                    "probability": 0.865516185760498
+                },
+                {
+                    "word": " I'm",
+                    "start": 3.78,
+                    "end": 4.02,
+                    "probability": 0.9900868535041809
+                },
+                {
+                    "word": " super",
+                    "start": 4.02,
+                    "end": 4.38,
+                    "probability": 0.8765619993209839
+                },
+                {
+                    "word": " excited",
+                    "start": 4.38,
+                    "end": 4.76,
+                    "probability": 0.8987162113189697
+                },
+                {
+                    "word": " to",
+                    "start": 4.76,
+                    "end": 4.94,
+                    "probability": 0.9138005971908569
+                },
+                {
+                    "word": " announce",
+                    "start": 4.94,
+                    "end": 5.32,
+                    "probability": 0.7796568274497986
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

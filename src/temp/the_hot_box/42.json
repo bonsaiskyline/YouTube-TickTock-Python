@@ -1,0 +1,249 @@
+{
+    "text": " Speaking of national security risk, MEDA, which has posed a threat to our national security and allowed for foreign intervention in our elections, is still available in this country.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " Speaking of national security risk, MEDA, which has posed a threat to our national security",
+            "tokens": [
+                50364,
+                13069,
+                295,
+                4048,
+                3825,
+                3148,
+                11,
+                376,
+                4731,
+                32,
+                11,
+                597,
+                575,
+                31399,
+                257,
+                4734,
+                281,
+                527,
+                4048,
+                3825,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3050524234771729,
+            "compression_ratio": 1.4,
+            "no_speech_prob": 0.006004411727190018,
+            "words": [
+                {
+                    "word": " Speaking",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7070037722587585
+                },
+                {
+                    "word": " of",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.9038770198822021
+                },
+                {
+                    "word": " national",
+                    "start": 0.44,
+                    "end": 0.7,
+                    "probability": 0.4924461841583252
+                },
+                {
+                    "word": " security",
+                    "start": 0.7,
+                    "end": 1.16,
+                    "probability": 0.8765943050384521
+                },
+                {
+                    "word": " risk,",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.6646095514297485
+                },
+                {
+                    "word": " MEDA,",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.734847625096639
+                },
+                {
+                    "word": " which",
+                    "start": 1.84,
+                    "end": 1.94,
+                    "probability": 0.9148253202438354
+                },
+                {
+                    "word": " has",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.8861380219459534
+                },
+                {
+                    "word": " posed",
+                    "start": 2.24,
+                    "end": 2.54,
+                    "probability": 0.6588613390922546
+                },
+                {
+                    "word": " a",
+                    "start": 2.54,
+                    "end": 2.72,
+                    "probability": 0.9955535531044006
+                },
+                {
+                    "word": " threat",
+                    "start": 2.72,
+                    "end": 2.92,
+                    "probability": 0.8431912064552307
+                },
+                {
+                    "word": " to",
+                    "start": 2.92,
+                    "end": 3.08,
+                    "probability": 0.9045172929763794
+                },
+                {
+                    "word": " our",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.7973365783691406
+                },
+                {
+                    "word": " national",
+                    "start": 3.18,
+                    "end": 3.46,
+                    "probability": 0.7452683448791504
+                },
+                {
+                    "word": " security",
+                    "start": 3.46,
+                    "end": 3.98,
+                    "probability": 0.9249740242958069
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.98,
+            "end": 7.8,
+            "text": " and allowed for foreign intervention in our elections, is still available in this country.",
+            "tokens": [
+                50564,
+                293,
+                4350,
+                337,
+                5329,
+                13176,
+                294,
+                527,
+                12870,
+                11,
+                307,
+                920,
+                2435,
+                294,
+                341,
+                1941,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3050524234771729,
+            "compression_ratio": 1.4,
+            "no_speech_prob": 0.006004411727190018,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 3.98,
+                    "end": 4.36,
+                    "probability": 0.8192887306213379
+                },
+                {
+                    "word": " allowed",
+                    "start": 4.36,
+                    "end": 4.68,
+                    "probability": 0.7948601841926575
+                },
+                {
+                    "word": " for",
+                    "start": 4.68,
+                    "end": 4.86,
+                    "probability": 0.872113049030304
+                },
+                {
+                    "word": " foreign",
+                    "start": 4.86,
+                    "end": 5.08,
+                    "probability": 0.7600082755088806
+                },
+                {
+                    "word": " intervention",
+                    "start": 5.08,
+                    "end": 5.54,
+                    "probability": 0.7128331065177917
+                },
+                {
+                    "word": " in",
+                    "start": 5.54,
+                    "end": 5.78,
+                    "probability": 0.9016973972320557
+                },
+                {
+                    "word": " our",
+                    "start": 5.78,
+                    "end": 5.92,
+                    "probability": 0.824008047580719
+                },
+                {
+                    "word": " elections,",
+                    "start": 5.92,
+                    "end": 6.24,
+                    "probability": 0.743736982345581
+                },
+                {
+                    "word": " is",
+                    "start": 6.46,
+                    "end": 6.56,
+                    "probability": 0.9032353758811951
+                },
+                {
+                    "word": " still",
+                    "start": 6.56,
+                    "end": 6.82,
+                    "probability": 0.9108121395111084
+                },
+                {
+                    "word": " available",
+                    "start": 6.82,
+                    "end": 7.22,
+                    "probability": 0.738195538520813
+                },
+                {
+                    "word": " in",
+                    "start": 7.22,
+                    "end": 7.4,
+                    "probability": 0.9037641882896423
+                },
+                {
+                    "word": " this",
+                    "start": 7.4,
+                    "end": 7.52,
+                    "probability": 0.8687490820884705
+                },
+                {
+                    "word": " country.",
+                    "start": 7.52,
+                    "end": 7.8,
+                    "probability": 0.8210176825523376
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

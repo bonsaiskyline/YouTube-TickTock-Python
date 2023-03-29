@@ -1,0 +1,269 @@
+{
+    "text": " And what did we actually learn from the committee hearing yesterday? Did we learn any more about the access that the Chinese government might have to data or not really?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.18,
+            "text": " And what did we actually learn from the committee hearing yesterday?",
+            "tokens": [
+                50364,
+                400,
+                437,
+                630,
+                321,
+                767,
+                1466,
+                490,
+                264,
+                7482,
+                4763,
+                5186,
+                30,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3696572964008038,
+            "compression_ratio": 1.396694214876033,
+            "no_speech_prob": 0.010897506959736347,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.43918171525001526
+                },
+                {
+                    "word": " what",
+                    "start": 0.24,
+                    "end": 0.72,
+                    "probability": 0.8767572045326233
+                },
+                {
+                    "word": " did",
+                    "start": 0.72,
+                    "end": 1.28,
+                    "probability": 0.9016816020011902
+                },
+                {
+                    "word": " we",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.9025675654411316
+                },
+                {
+                    "word": " actually",
+                    "start": 1.44,
+                    "end": 1.7,
+                    "probability": 0.7917290925979614
+                },
+                {
+                    "word": " learn",
+                    "start": 1.7,
+                    "end": 2.18,
+                    "probability": 0.9244236946105957
+                },
+                {
+                    "word": " from",
+                    "start": 2.18,
+                    "end": 2.68,
+                    "probability": 0.8210662603378296
+                },
+                {
+                    "word": " the",
+                    "start": 2.68,
+                    "end": 2.94,
+                    "probability": 0.8182413578033447
+                },
+                {
+                    "word": " committee",
+                    "start": 2.94,
+                    "end": 3.26,
+                    "probability": 0.7509681582450867
+                },
+                {
+                    "word": " hearing",
+                    "start": 3.26,
+                    "end": 3.74,
+                    "probability": 0.8069596886634827
+                },
+                {
+                    "word": " yesterday?",
+                    "start": 3.74,
+                    "end": 4.18,
+                    "probability": 0.7909513115882874
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.32,
+            "end": 9.16,
+            "text": " Did we learn any more about the access that the Chinese government might have to data",
+            "tokens": [
+                50582,
+                2589,
+                321,
+                1466,
+                604,
+                544,
+                466,
+                264,
+                2105,
+                300,
+                264,
+                4649,
+                2463,
+                1062,
+                362,
+                281,
+                1412,
+                50820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3696572964008038,
+            "compression_ratio": 1.396694214876033,
+            "no_speech_prob": 0.010897506959736347,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 4.32,
+                    "end": 4.42,
+                    "probability": 0.9085818529129028
+                },
+                {
+                    "word": " we",
+                    "start": 4.42,
+                    "end": 4.58,
+                    "probability": 0.9037870764732361
+                },
+                {
+                    "word": " learn",
+                    "start": 4.58,
+                    "end": 4.84,
+                    "probability": 0.9222561120986938
+                },
+                {
+                    "word": " any",
+                    "start": 4.84,
+                    "end": 5.04,
+                    "probability": 0.7275000810623169
+                },
+                {
+                    "word": " more",
+                    "start": 5.04,
+                    "end": 5.54,
+                    "probability": 0.8737693428993225
+                },
+                {
+                    "word": " about",
+                    "start": 5.54,
+                    "end": 5.96,
+                    "probability": 0.8104432821273804
+                },
+                {
+                    "word": " the",
+                    "start": 5.96,
+                    "end": 6.18,
+                    "probability": 0.8078369498252869
+                },
+                {
+                    "word": " access",
+                    "start": 6.18,
+                    "end": 6.74,
+                    "probability": 0.8044114708900452
+                },
+                {
+                    "word": " that",
+                    "start": 6.74,
+                    "end": 7.48,
+                    "probability": 0.7461473345756531
+                },
+                {
+                    "word": " the",
+                    "start": 7.48,
+                    "end": 7.64,
+                    "probability": 0.813433825969696
+                },
+                {
+                    "word": " Chinese",
+                    "start": 7.64,
+                    "end": 7.94,
+                    "probability": 0.766431450843811
+                },
+                {
+                    "word": " government",
+                    "start": 7.94,
+                    "end": 8.24,
+                    "probability": 0.7808316349983215
+                },
+                {
+                    "word": " might",
+                    "start": 8.24,
+                    "end": 8.48,
+                    "probability": 0.8094632625579834
+                },
+                {
+                    "word": " have",
+                    "start": 8.48,
+                    "end": 8.7,
+                    "probability": 0.8813498616218567
+                },
+                {
+                    "word": " to",
+                    "start": 8.7,
+                    "end": 8.86,
+                    "probability": 0.8948158025741577
+                },
+                {
+                    "word": " data",
+                    "start": 8.86,
+                    "end": 9.16,
+                    "probability": 0.8571584820747375
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.16,
+            "end": 10.34,
+            "text": " or not really?",
+            "tokens": [
+                50820,
+                420,
+                406,
+                534,
+                30,
+                50890
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3696572964008038,
+            "compression_ratio": 1.396694214876033,
+            "no_speech_prob": 0.010897506959736347,
+            "words": [
+                {
+                    "word": " or",
+                    "start": 9.16,
+                    "end": 9.54,
+                    "probability": 0.4871937930583954
+                },
+                {
+                    "word": " not",
+                    "start": 9.54,
+                    "end": 10.06,
+                    "probability": 0.8398711681365967
+                },
+                {
+                    "word": " really?",
+                    "start": 10.06,
+                    "end": 10.34,
+                    "probability": 0.7359667420387268
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,665 @@
+{
+    "text": " I would also like to talk about national security concerns that you have raised, that we take very, very seriously. Let me start by addressing a few misconceptions about ByteDance, of which we are a subsidiary. ByteDance is not owned or controlled by the Chinese government. It's a private company. 60% of the company is owned by global institutional investors, 20% is owned by the founder, and 20% owned by employees around the world.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5,
+            "text": " I would also like to talk about national security concerns that you have raised, that we take very, very seriously.",
+            "tokens": [
+                50364,
+                286,
+                576,
+                611,
+                411,
+                281,
+                751,
+                466,
+                4048,
+                3825,
+                7389,
+                300,
+                291,
+                362,
+                6005,
+                11,
+                300,
+                321,
+                747,
+                588,
+                11,
+                588,
+                6638,
+                13,
+                50746
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2704862488640679,
+            "compression_ratio": 1.6171003717472119,
+            "no_speech_prob": 5.97047146584373e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5124836564064026
+                },
+                {
+                    "word": " would",
+                    "start": 0.1,
+                    "end": 0.18,
+                    "probability": 0.7205650210380554
+                },
+                {
+                    "word": " also",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.7760533094406128
+                },
+                {
+                    "word": " like",
+                    "start": 0.38,
+                    "end": 0.56,
+                    "probability": 0.8708822727203369
+                },
+                {
+                    "word": " to",
+                    "start": 0.56,
+                    "end": 0.66,
+                    "probability": 0.9005599617958069
+                },
+                {
+                    "word": " talk",
+                    "start": 0.66,
+                    "end": 0.82,
+                    "probability": 0.8025176525115967
+                },
+                {
+                    "word": " about",
+                    "start": 0.82,
+                    "end": 0.96,
+                    "probability": 0.8258538246154785
+                },
+                {
+                    "word": " national",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.7324296832084656
+                },
+                {
+                    "word": " security",
+                    "start": 1.3,
+                    "end": 1.66,
+                    "probability": 0.9194148778915405
+                },
+                {
+                    "word": " concerns",
+                    "start": 1.66,
+                    "end": 2.18,
+                    "probability": 0.8389297723770142
+                },
+                {
+                    "word": " that",
+                    "start": 2.18,
+                    "end": 2.54,
+                    "probability": 0.8640438914299011
+                },
+                {
+                    "word": " you",
+                    "start": 2.54,
+                    "end": 2.68,
+                    "probability": 0.8904730677604675
+                },
+                {
+                    "word": " have",
+                    "start": 2.68,
+                    "end": 2.86,
+                    "probability": 0.8764675855636597
+                },
+                {
+                    "word": " raised,",
+                    "start": 2.86,
+                    "end": 3.18,
+                    "probability": 0.7832480669021606
+                },
+                {
+                    "word": " that",
+                    "start": 3.74,
+                    "end": 3.9,
+                    "probability": 0.8771297335624695
+                },
+                {
+                    "word": " we",
+                    "start": 3.9,
+                    "end": 4.1,
+                    "probability": 0.9030278921127319
+                },
+                {
+                    "word": " take",
+                    "start": 4.1,
+                    "end": 4.44,
+                    "probability": 0.7996429800987244
+                },
+                {
+                    "word": " very,",
+                    "start": 4.44,
+                    "end": 5.2,
+                    "probability": 0.7380434274673462
+                },
+                {
+                    "word": " very",
+                    "start": 5.48,
+                    "end": 5.82,
+                    "probability": 0.7435669302940369
+                },
+                {
+                    "word": " seriously.",
+                    "start": 5.82,
+                    "end": 6.5,
+                    "probability": 0.6947832107543945
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.48,
+            "end": 12.3,
+            "text": " Let me start by addressing a few misconceptions about ByteDance, of which we are a subsidiary.",
+            "tokens": [
+                50746,
+                961,
+                385,
+                722,
+                538,
+                14329,
+                257,
+                1326,
+                50012,
+                466,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                295,
+                597,
+                321,
+                366,
+                257,
+                48296,
+                822,
+                13,
+                51060
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2704862488640679,
+            "compression_ratio": 1.6171003717472119,
+            "no_speech_prob": 5.97047146584373e-05,
+            "words": [
+                {
+                    "word": " Let",
+                    "start": 7.48,
+                    "end": 7.84,
+                    "probability": 0.8922758102416992
+                },
+                {
+                    "word": " me",
+                    "start": 7.84,
+                    "end": 7.94,
+                    "probability": 0.9032837152481079
+                },
+                {
+                    "word": " start",
+                    "start": 7.94,
+                    "end": 8.2,
+                    "probability": 0.8659064173698425
+                },
+                {
+                    "word": " by",
+                    "start": 8.2,
+                    "end": 8.38,
+                    "probability": 0.909914493560791
+                },
+                {
+                    "word": " addressing",
+                    "start": 8.38,
+                    "end": 8.7,
+                    "probability": 0.7886410355567932
+                },
+                {
+                    "word": " a",
+                    "start": 8.7,
+                    "end": 8.92,
+                    "probability": 0.9977040886878967
+                },
+                {
+                    "word": " few",
+                    "start": 8.92,
+                    "end": 9.08,
+                    "probability": 0.8013743758201599
+                },
+                {
+                    "word": " misconceptions",
+                    "start": 9.08,
+                    "end": 9.62,
+                    "probability": 0.8401894569396973
+                },
+                {
+                    "word": " about",
+                    "start": 9.62,
+                    "end": 10.1,
+                    "probability": 0.810106098651886
+                },
+                {
+                    "word": " ByteDance,",
+                    "start": 10.1,
+                    "end": 10.62,
+                    "probability": 0.9154127091169357
+                },
+                {
+                    "word": " of",
+                    "start": 11.0,
+                    "end": 11.22,
+                    "probability": 0.9013566374778748
+                },
+                {
+                    "word": " which",
+                    "start": 11.22,
+                    "end": 11.4,
+                    "probability": 0.9121941924095154
+                },
+                {
+                    "word": " we",
+                    "start": 11.4,
+                    "end": 11.58,
+                    "probability": 0.896399736404419
+                },
+                {
+                    "word": " are",
+                    "start": 11.58,
+                    "end": 11.72,
+                    "probability": 0.8945425152778625
+                },
+                {
+                    "word": " a",
+                    "start": 11.72,
+                    "end": 11.84,
+                    "probability": 0.9882426857948303
+                },
+                {
+                    "word": " subsidiary.",
+                    "start": 11.84,
+                    "end": 12.3,
+                    "probability": 0.8970794081687927
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.98,
+            "end": 17.7,
+            "text": " ByteDance is not owned or controlled by the Chinese government.",
+            "tokens": [
+                51060,
+                3146,
+                975,
+                35,
+                719,
+                307,
+                406,
+                11684,
+                420,
+                10164,
+                538,
+                264,
+                4649,
+                2463,
+                13,
+                51284
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2704862488640679,
+            "compression_ratio": 1.6171003717472119,
+            "no_speech_prob": 5.97047146584373e-05,
+            "words": [
+                {
+                    "word": " ByteDance",
+                    "start": 13.98,
+                    "end": 14.5,
+                    "probability": 0.9658539146184921
+                },
+                {
+                    "word": " is",
+                    "start": 14.5,
+                    "end": 14.84,
+                    "probability": 0.8998702764511108
+                },
+                {
+                    "word": " not",
+                    "start": 14.84,
+                    "end": 15.18,
+                    "probability": 0.8989850282669067
+                },
+                {
+                    "word": " owned",
+                    "start": 15.18,
+                    "end": 15.5,
+                    "probability": 0.7666037678718567
+                },
+                {
+                    "word": " or",
+                    "start": 15.5,
+                    "end": 15.96,
+                    "probability": 0.8825958967208862
+                },
+                {
+                    "word": " controlled",
+                    "start": 15.96,
+                    "end": 16.36,
+                    "probability": 0.6596393585205078
+                },
+                {
+                    "word": " by",
+                    "start": 16.36,
+                    "end": 16.82,
+                    "probability": 0.8973574638366699
+                },
+                {
+                    "word": " the",
+                    "start": 16.82,
+                    "end": 16.98,
+                    "probability": 0.8144627809524536
+                },
+                {
+                    "word": " Chinese",
+                    "start": 16.98,
+                    "end": 17.3,
+                    "probability": 0.7698500752449036
+                },
+                {
+                    "word": " government.",
+                    "start": 17.3,
+                    "end": 17.7,
+                    "probability": 0.8100084662437439
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.4,
+            "end": 19.34,
+            "text": " It's a private company.",
+            "tokens": [
+                51284,
+                467,
+                311,
+                257,
+                4551,
+                2237,
+                13,
+                51362
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2704862488640679,
+            "compression_ratio": 1.6171003717472119,
+            "no_speech_prob": 5.97047146584373e-05,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 18.4,
+                    "end": 18.6,
+                    "probability": 0.9212376475334167
+                },
+                {
+                    "word": " a",
+                    "start": 18.6,
+                    "end": 18.72,
+                    "probability": 0.9991563558578491
+                },
+                {
+                    "word": " private",
+                    "start": 18.72,
+                    "end": 18.92,
+                    "probability": 0.826972484588623
+                },
+                {
+                    "word": " company.",
+                    "start": 18.92,
+                    "end": 19.34,
+                    "probability": 0.8037088513374329
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.06,
+            "end": 25.48,
+            "text": " 60% of the company is owned by global institutional investors, 20% is owned by the founder,",
+            "tokens": [
+                51362,
+                4060,
+                4,
+                295,
+                264,
+                2237,
+                307,
+                11684,
+                538,
+                4338,
+                18391,
+                11519,
+                11,
+                945,
+                4,
+                307,
+                11684,
+                538,
+                264,
+                14917,
+                11,
+                51658
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2704862488640679,
+            "compression_ratio": 1.6171003717472119,
+            "no_speech_prob": 5.97047146584373e-05,
+            "words": [
+                {
+                    "word": " 60",
+                    "start": 20.06,
+                    "end": 20.38,
+                    "probability": 0.8615989089012146
+                },
+                {
+                    "word": "%",
+                    "start": 20.38,
+                    "end": 20.64,
+                    "probability": 0.9544231295585632
+                },
+                {
+                    "word": " of",
+                    "start": 20.64,
+                    "end": 20.84,
+                    "probability": 0.9062731266021729
+                },
+                {
+                    "word": " the",
+                    "start": 20.84,
+                    "end": 20.98,
+                    "probability": 0.8134378790855408
+                },
+                {
+                    "word": " company",
+                    "start": 20.98,
+                    "end": 21.26,
+                    "probability": 0.812957227230072
+                },
+                {
+                    "word": " is",
+                    "start": 21.26,
+                    "end": 21.64,
+                    "probability": 0.9010424613952637
+                },
+                {
+                    "word": " owned",
+                    "start": 21.64,
+                    "end": 21.82,
+                    "probability": 0.8116862177848816
+                },
+                {
+                    "word": " by",
+                    "start": 21.82,
+                    "end": 21.96,
+                    "probability": 0.9020161628723145
+                },
+                {
+                    "word": " global",
+                    "start": 21.96,
+                    "end": 22.32,
+                    "probability": 0.8612892031669617
+                },
+                {
+                    "word": " institutional",
+                    "start": 22.32,
+                    "end": 22.86,
+                    "probability": 0.6619023084640503
+                },
+                {
+                    "word": " investors,",
+                    "start": 22.86,
+                    "end": 23.38,
+                    "probability": 0.8264573216438293
+                },
+                {
+                    "word": " 20",
+                    "start": 24.02,
+                    "end": 24.38,
+                    "probability": 0.9185117483139038
+                },
+                {
+                    "word": "%",
+                    "start": 24.38,
+                    "end": 24.62,
+                    "probability": 0.9985559582710266
+                },
+                {
+                    "word": " is",
+                    "start": 24.62,
+                    "end": 24.8,
+                    "probability": 0.891970694065094
+                },
+                {
+                    "word": " owned",
+                    "start": 24.8,
+                    "end": 24.9,
+                    "probability": 0.8226764798164368
+                },
+                {
+                    "word": " by",
+                    "start": 24.9,
+                    "end": 25.02,
+                    "probability": 0.8940865397453308
+                },
+                {
+                    "word": " the",
+                    "start": 25.02,
+                    "end": 25.2,
+                    "probability": 0.816731870174408
+                },
+                {
+                    "word": " founder,",
+                    "start": 25.2,
+                    "end": 25.48,
+                    "probability": 0.8528879880905151
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 25.94,
+            "end": 28.1,
+            "text": " and 20% owned by employees around the world.",
+            "tokens": [
+                51658,
+                293,
+                945,
+                4,
+                11684,
+                538,
+                6619,
+                926,
+                264,
+                1002,
+                13,
+                51778
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2704862488640679,
+            "compression_ratio": 1.6171003717472119,
+            "no_speech_prob": 5.97047146584373e-05,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 25.94,
+                    "end": 26.06,
+                    "probability": 0.8974024653434753
+                },
+                {
+                    "word": " 20",
+                    "start": 26.06,
+                    "end": 26.32,
+                    "probability": 0.9224014282226562
+                },
+                {
+                    "word": "%",
+                    "start": 26.32,
+                    "end": 26.6,
+                    "probability": 0.9981156587600708
+                },
+                {
+                    "word": " owned",
+                    "start": 26.6,
+                    "end": 26.76,
+                    "probability": 0.8176645636558533
+                },
+                {
+                    "word": " by",
+                    "start": 26.76,
+                    "end": 26.9,
+                    "probability": 0.9071003198623657
+                },
+                {
+                    "word": " employees",
+                    "start": 26.9,
+                    "end": 27.3,
+                    "probability": 0.7144277691841125
+                },
+                {
+                    "word": " around",
+                    "start": 27.3,
+                    "end": 27.64,
+                    "probability": 0.8728288412094116
+                },
+                {
+                    "word": " the",
+                    "start": 27.64,
+                    "end": 27.84,
+                    "probability": 0.8168102502822876
+                },
+                {
+                    "word": " world.",
+                    "start": 27.84,
+                    "end": 28.1,
+                    "probability": 0.8900015354156494
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

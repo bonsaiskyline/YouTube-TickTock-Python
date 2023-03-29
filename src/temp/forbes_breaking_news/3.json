@@ -1,0 +1,39 @@
+{
+    "text": " That's correct.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.38,
+            "text": " That's correct.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                3006,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4127558980669294,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.14968660473823547,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8039700090885162
+                },
+                {
+                    "word": " correct.",
+                    "start": 0.26,
+                    "end": 0.38,
+                    "probability": 0.7878971099853516
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,315 @@
+{
+    "text": " Can you say with 100% certainty that TikTok does not use the phone's camera to determine whether the content that elicits a pupil dilation should be amplified by the algorithm? Can you tell me that?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.16,
+            "text": " Can you say with 100% certainty that TikTok does not use the phone's camera to determine",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                584,
+                365,
+                2319,
+                4,
+                27022,
+                300,
+                20211,
+                775,
+                406,
+                764,
+                264,
+                2593,
+                311,
+                2799,
+                281,
+                6997,
+                50758
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2674422361412827,
+            "compression_ratio": 1.356164383561644,
+            "no_speech_prob": 0.0015210487181320786,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7254242300987244
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.897299587726593
+                },
+                {
+                    "word": " say",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.890836775302887
+                },
+                {
+                    "word": " with",
+                    "start": 0.74,
+                    "end": 1.18,
+                    "probability": 0.6497747302055359
+                },
+                {
+                    "word": " 100",
+                    "start": 1.18,
+                    "end": 1.6,
+                    "probability": 0.6790152192115784
+                },
+                {
+                    "word": "%",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.7942578792572021
+                },
+                {
+                    "word": " certainty",
+                    "start": 1.96,
+                    "end": 2.42,
+                    "probability": 0.6509050130844116
+                },
+                {
+                    "word": " that",
+                    "start": 2.42,
+                    "end": 2.7,
+                    "probability": 0.8613479137420654
+                },
+                {
+                    "word": " TikTok",
+                    "start": 2.7,
+                    "end": 3.06,
+                    "probability": 0.5730340480804443
+                },
+                {
+                    "word": " does",
+                    "start": 3.06,
+                    "end": 3.5,
+                    "probability": 0.9369760751724243
+                },
+                {
+                    "word": " not",
+                    "start": 3.5,
+                    "end": 3.96,
+                    "probability": 0.8972314596176147
+                },
+                {
+                    "word": " use",
+                    "start": 3.96,
+                    "end": 4.36,
+                    "probability": 0.8130935430526733
+                },
+                {
+                    "word": " the",
+                    "start": 4.36,
+                    "end": 4.56,
+                    "probability": 0.8149016499519348
+                },
+                {
+                    "word": " phone's",
+                    "start": 4.56,
+                    "end": 5.16,
+                    "probability": 0.9024774432182312
+                },
+                {
+                    "word": " camera",
+                    "start": 5.16,
+                    "end": 5.64,
+                    "probability": 0.8417160511016846
+                },
+                {
+                    "word": " to",
+                    "start": 5.64,
+                    "end": 6.46,
+                    "probability": 0.8728560209274292
+                },
+                {
+                    "word": " determine",
+                    "start": 6.46,
+                    "end": 7.16,
+                    "probability": 0.7576135396957397
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.16,
+            "end": 14.38,
+            "text": " whether the content that elicits a pupil dilation should be amplified by the algorithm?",
+            "tokens": [
+                50758,
+                1968,
+                264,
+                2701,
+                300,
+                806,
+                299,
+                1208,
+                257,
+                44533,
+                11504,
+                399,
+                820,
+                312,
+                49237,
+                538,
+                264,
+                9284,
+                30,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2674422361412827,
+            "compression_ratio": 1.356164383561644,
+            "no_speech_prob": 0.0015210487181320786,
+            "words": [
+                {
+                    "word": " whether",
+                    "start": 7.16,
+                    "end": 8.16,
+                    "probability": 0.8529609441757202
+                },
+                {
+                    "word": " the",
+                    "start": 8.16,
+                    "end": 8.46,
+                    "probability": 0.815170407295227
+                },
+                {
+                    "word": " content",
+                    "start": 8.46,
+                    "end": 9.04,
+                    "probability": 0.8310121297836304
+                },
+                {
+                    "word": " that",
+                    "start": 9.04,
+                    "end": 9.52,
+                    "probability": 0.8723824620246887
+                },
+                {
+                    "word": " elicits",
+                    "start": 9.52,
+                    "end": 10.28,
+                    "probability": 0.898682435353597
+                },
+                {
+                    "word": " a",
+                    "start": 10.28,
+                    "end": 10.56,
+                    "probability": 0.9747792482376099
+                },
+                {
+                    "word": " pupil",
+                    "start": 10.56,
+                    "end": 10.96,
+                    "probability": 0.8626548647880554
+                },
+                {
+                    "word": " dilation",
+                    "start": 10.96,
+                    "end": 11.82,
+                    "probability": 0.9320458471775055
+                },
+                {
+                    "word": " should",
+                    "start": 11.82,
+                    "end": 12.52,
+                    "probability": 0.9214264154434204
+                },
+                {
+                    "word": " be",
+                    "start": 12.52,
+                    "end": 12.76,
+                    "probability": 0.9009636044502258
+                },
+                {
+                    "word": " amplified",
+                    "start": 12.76,
+                    "end": 13.24,
+                    "probability": 0.9087609648704529
+                },
+                {
+                    "word": " by",
+                    "start": 13.24,
+                    "end": 13.68,
+                    "probability": 0.9080175757408142
+                },
+                {
+                    "word": " the",
+                    "start": 13.68,
+                    "end": 13.86,
+                    "probability": 0.8147602081298828
+                },
+                {
+                    "word": " algorithm?",
+                    "start": 13.86,
+                    "end": 14.38,
+                    "probability": 0.8252915740013123
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.76,
+            "end": 15.8,
+            "text": " Can you tell me that?",
+            "tokens": [
+                51112,
+                1664,
+                291,
+                980,
+                385,
+                300,
+                30,
+                51154
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2674422361412827,
+            "compression_ratio": 1.356164383561644,
+            "no_speech_prob": 0.0015210487181320786,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 14.76,
+                    "end": 15.1,
+                    "probability": 0.9093445539474487
+                },
+                {
+                    "word": " you",
+                    "start": 15.1,
+                    "end": 15.24,
+                    "probability": 0.8950445652008057
+                },
+                {
+                    "word": " tell",
+                    "start": 15.24,
+                    "end": 15.4,
+                    "probability": 0.8380736708641052
+                },
+                {
+                    "word": " me",
+                    "start": 15.4,
+                    "end": 15.54,
+                    "probability": 0.910051703453064
+                },
+                {
+                    "word": " that?",
+                    "start": 15.54,
+                    "end": 15.8,
+                    "probability": 0.8802921772003174
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

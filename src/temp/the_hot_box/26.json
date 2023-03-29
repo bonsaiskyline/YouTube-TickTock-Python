@@ -1,0 +1,148 @@
+{
+    "text": " Two-thirds? This guy seems more like a fan of three-fifths if you catch my drift.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.26,
+            "end": 3.76,
+            "text": " Two-thirds? This guy seems more like a fan of three-fifths if you catch my drift.",
+            "tokens": [
+                50364,
+                4453,
+                12,
+                38507,
+                30,
+                639,
+                2146,
+                2544,
+                544,
+                411,
+                257,
+                3429,
+                295,
+                1045,
+                12,
+                69,
+                351,
+                32184,
+                498,
+                291,
+                3745,
+                452,
+                19699,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29682628925030047,
+            "compression_ratio": 1.0384615384615385,
+            "no_speech_prob": 0.0026454348117113113,
+            "words": [
+                {
+                    "word": " Two",
+                    "start": 0.26,
+                    "end": 0.62,
+                    "probability": 0.427312433719635
+                },
+                {
+                    "word": "-thirds?",
+                    "start": 0.62,
+                    "end": 0.56,
+                    "probability": 0.6844707131385803
+                },
+                {
+                    "word": " This",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.7518844604492188
+                },
+                {
+                    "word": " guy",
+                    "start": 1.12,
+                    "end": 1.28,
+                    "probability": 0.8186632394790649
+                },
+                {
+                    "word": " seems",
+                    "start": 1.28,
+                    "end": 1.54,
+                    "probability": 0.7397168278694153
+                },
+                {
+                    "word": " more",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.8490605354309082
+                },
+                {
+                    "word": " like",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.8813024759292603
+                },
+                {
+                    "word": " a",
+                    "start": 1.9,
+                    "end": 1.98,
+                    "probability": 0.9957767724990845
+                },
+                {
+                    "word": " fan",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.8722035884857178
+                },
+                {
+                    "word": " of",
+                    "start": 2.18,
+                    "end": 2.28,
+                    "probability": 0.9076210856437683
+                },
+                {
+                    "word": " three",
+                    "start": 2.28,
+                    "end": 2.52,
+                    "probability": 0.7506090402603149
+                },
+                {
+                    "word": "-fifths",
+                    "start": 2.52,
+                    "end": 2.9,
+                    "probability": 0.926977664232254
+                },
+                {
+                    "word": " if",
+                    "start": 2.9,
+                    "end": 3.04,
+                    "probability": 0.7895051836967468
+                },
+                {
+                    "word": " you",
+                    "start": 3.04,
+                    "end": 3.14,
+                    "probability": 0.854272186756134
+                },
+                {
+                    "word": " catch",
+                    "start": 3.14,
+                    "end": 3.32,
+                    "probability": 0.8634129166603088
+                },
+                {
+                    "word": " my",
+                    "start": 3.32,
+                    "end": 3.46,
+                    "probability": 0.9062700867652893
+                },
+                {
+                    "word": " drift.",
+                    "start": 3.46,
+                    "end": 3.76,
+                    "probability": 0.8796634674072266
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

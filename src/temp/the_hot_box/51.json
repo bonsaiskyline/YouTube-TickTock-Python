@@ -1,0 +1,459 @@
+{
+    "text": " Whether or not you use TikTok, this affects every American. This is not an issue of left or right. This is an egregious example of how the US government is stripping away our First Amendment rights of freedom of speech and taking dirty money while using dirty political tactics to financially benefit from us.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " Whether or not you use TikTok, this affects every American.",
+            "tokens": [
+                50364,
+                8503,
+                420,
+                406,
+                291,
+                764,
+                20211,
+                11,
+                341,
+                11807,
+                633,
+                2665,
+                13,
+                50485
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2923436573573521,
+            "compression_ratio": 1.5147058823529411,
+            "no_speech_prob": 0.009492937475442886,
+            "words": [
+                {
+                    "word": " Whether",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5495471358299255
+                },
+                {
+                    "word": " or",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.8966537117958069
+                },
+                {
+                    "word": " not",
+                    "start": 0.3,
+                    "end": 0.42,
+                    "probability": 0.8932464718818665
+                },
+                {
+                    "word": " you",
+                    "start": 0.42,
+                    "end": 0.54,
+                    "probability": 0.8893476724624634
+                },
+                {
+                    "word": " use",
+                    "start": 0.54,
+                    "end": 0.74,
+                    "probability": 0.8259235620498657
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.7211717367172241
+                },
+                {
+                    "word": " this",
+                    "start": 1.26,
+                    "end": 1.38,
+                    "probability": 0.8808833360671997
+                },
+                {
+                    "word": " affects",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.7443616986274719
+                },
+                {
+                    "word": " every",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.7460461854934692
+                },
+                {
+                    "word": " American.",
+                    "start": 1.86,
+                    "end": 2.22,
+                    "probability": 0.7896146178245544
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.5,
+            "end": 4.26,
+            "text": " This is not an issue of left or right.",
+            "tokens": [
+                50485,
+                639,
+                307,
+                406,
+                364,
+                2734,
+                295,
+                1411,
+                420,
+                558,
+                13,
+                50585
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2923436573573521,
+            "compression_ratio": 1.5147058823529411,
+            "no_speech_prob": 0.009492937475442886,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 2.5,
+                    "end": 2.62,
+                    "probability": 0.8218342661857605
+                },
+                {
+                    "word": " is",
+                    "start": 2.62,
+                    "end": 2.72,
+                    "probability": 0.8969724178314209
+                },
+                {
+                    "word": " not",
+                    "start": 2.72,
+                    "end": 2.9,
+                    "probability": 0.8889358639717102
+                },
+                {
+                    "word": " an",
+                    "start": 2.9,
+                    "end": 3.02,
+                    "probability": 0.899552047252655
+                },
+                {
+                    "word": " issue",
+                    "start": 3.02,
+                    "end": 3.3,
+                    "probability": 0.8930615782737732
+                },
+                {
+                    "word": " of",
+                    "start": 3.3,
+                    "end": 3.54,
+                    "probability": 0.8977699279785156
+                },
+                {
+                    "word": " left",
+                    "start": 3.54,
+                    "end": 3.82,
+                    "probability": 0.5995286703109741
+                },
+                {
+                    "word": " or",
+                    "start": 3.82,
+                    "end": 4.04,
+                    "probability": 0.896144688129425
+                },
+                {
+                    "word": " right.",
+                    "start": 4.04,
+                    "end": 4.26,
+                    "probability": 0.8787460923194885
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.44,
+            "end": 8.86,
+            "text": " This is an egregious example of how the US government is stripping away our First Amendment rights of freedom of speech",
+            "tokens": [
+                50585,
+                639,
+                307,
+                364,
+                308,
+                11027,
+                851,
+                1365,
+                295,
+                577,
+                264,
+                2546,
+                2463,
+                307,
+                3575,
+                3759,
+                1314,
+                527,
+                2386,
+                21443,
+                4601,
+                295,
+                5645,
+                295,
+                6218,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2923436573573521,
+            "compression_ratio": 1.5147058823529411,
+            "no_speech_prob": 0.009492937475442886,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 4.44,
+                    "end": 4.68,
+                    "probability": 0.8116793036460876
+                },
+                {
+                    "word": " is",
+                    "start": 4.68,
+                    "end": 4.8,
+                    "probability": 0.9011414647102356
+                },
+                {
+                    "word": " an",
+                    "start": 4.8,
+                    "end": 4.9,
+                    "probability": 0.9045297503471375
+                },
+                {
+                    "word": " egregious",
+                    "start": 4.9,
+                    "end": 5.22,
+                    "probability": 0.9024563034375509
+                },
+                {
+                    "word": " example",
+                    "start": 5.22,
+                    "end": 5.56,
+                    "probability": 0.92743319272995
+                },
+                {
+                    "word": " of",
+                    "start": 5.56,
+                    "end": 5.78,
+                    "probability": 0.9061835408210754
+                },
+                {
+                    "word": " how",
+                    "start": 5.78,
+                    "end": 5.92,
+                    "probability": 0.8968852162361145
+                },
+                {
+                    "word": " the",
+                    "start": 5.92,
+                    "end": 6.06,
+                    "probability": 0.8119223713874817
+                },
+                {
+                    "word": " US",
+                    "start": 6.06,
+                    "end": 6.24,
+                    "probability": 0.6174226403236389
+                },
+                {
+                    "word": " government",
+                    "start": 6.24,
+                    "end": 6.58,
+                    "probability": 0.8006030321121216
+                },
+                {
+                    "word": " is",
+                    "start": 6.58,
+                    "end": 6.78,
+                    "probability": 0.9015199542045593
+                },
+                {
+                    "word": " stripping",
+                    "start": 6.78,
+                    "end": 7.1,
+                    "probability": 0.8427672684192657
+                },
+                {
+                    "word": " away",
+                    "start": 7.1,
+                    "end": 7.28,
+                    "probability": 0.8097161054611206
+                },
+                {
+                    "word": " our",
+                    "start": 7.28,
+                    "end": 7.42,
+                    "probability": 0.7966113090515137
+                },
+                {
+                    "word": " First",
+                    "start": 7.42,
+                    "end": 7.62,
+                    "probability": 0.42229071259498596
+                },
+                {
+                    "word": " Amendment",
+                    "start": 7.62,
+                    "end": 7.84,
+                    "probability": 0.8743066787719727
+                },
+                {
+                    "word": " rights",
+                    "start": 7.84,
+                    "end": 8.1,
+                    "probability": 0.5776702761650085
+                },
+                {
+                    "word": " of",
+                    "start": 8.1,
+                    "end": 8.22,
+                    "probability": 0.3232925832271576
+                },
+                {
+                    "word": " freedom",
+                    "start": 8.22,
+                    "end": 8.38,
+                    "probability": 0.8704080581665039
+                },
+                {
+                    "word": " of",
+                    "start": 8.38,
+                    "end": 8.56,
+                    "probability": 0.9075809121131897
+                },
+                {
+                    "word": " speech",
+                    "start": 8.56,
+                    "end": 8.86,
+                    "probability": 0.8293430209159851
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.86,
+            "end": 12.96,
+            "text": " and taking dirty money while using dirty political tactics to financially benefit from us.",
+            "tokens": [
+                50816,
+                293,
+                1940,
+                9360,
+                1460,
+                1339,
+                1228,
+                9360,
+                3905,
+                19454,
+                281,
+                20469,
+                5121,
+                490,
+                505,
+                13,
+                51016
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2923436573573521,
+            "compression_ratio": 1.5147058823529411,
+            "no_speech_prob": 0.009492937475442886,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 8.86,
+                    "end": 9.22,
+                    "probability": 0.5345339179039001
+                },
+                {
+                    "word": " taking",
+                    "start": 9.22,
+                    "end": 9.52,
+                    "probability": 0.8024735450744629
+                },
+                {
+                    "word": " dirty",
+                    "start": 9.52,
+                    "end": 9.8,
+                    "probability": 0.8521972894668579
+                },
+                {
+                    "word": " money",
+                    "start": 9.8,
+                    "end": 10.0,
+                    "probability": 0.844313383102417
+                },
+                {
+                    "word": " while",
+                    "start": 10.0,
+                    "end": 10.2,
+                    "probability": 0.908982515335083
+                },
+                {
+                    "word": " using",
+                    "start": 10.2,
+                    "end": 10.46,
+                    "probability": 0.8540597558021545
+                },
+                {
+                    "word": " dirty",
+                    "start": 10.46,
+                    "end": 10.72,
+                    "probability": 0.8384348750114441
+                },
+                {
+                    "word": " political",
+                    "start": 10.72,
+                    "end": 11.12,
+                    "probability": 0.7297257781028748
+                },
+                {
+                    "word": " tactics",
+                    "start": 11.12,
+                    "end": 11.58,
+                    "probability": 0.8186848163604736
+                },
+                {
+                    "word": " to",
+                    "start": 11.58,
+                    "end": 11.78,
+                    "probability": 0.90421462059021
+                },
+                {
+                    "word": " financially",
+                    "start": 11.78,
+                    "end": 12.16,
+                    "probability": 0.7858095169067383
+                },
+                {
+                    "word": " benefit",
+                    "start": 12.16,
+                    "end": 12.54,
+                    "probability": 0.7489683032035828
+                },
+                {
+                    "word": " from",
+                    "start": 12.54,
+                    "end": 12.76,
+                    "probability": 0.8130438327789307
+                },
+                {
+                    "word": " us.",
+                    "start": 12.76,
+                    "end": 12.96,
+                    "probability": 0.9071322083473206
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,654 @@
+{
+    "text": " It was never going to be easy, but from the moment the committee chairman opened the hearing calling for TikTok to be banned in the United States, there was no let up. TikTok CEO, Shoji Chu, was bombarded by lawmakers, worried that the app's Chinese ownership makes it untrustworthy and that it is harmful to American teenagers. Politicians of all stripes slammed TikTok, including Republican representative, Buddy Hsu.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " It was never going to be easy, but from the moment the committee chairman",
+            "tokens": [
+                50364,
+                467,
+                390,
+                1128,
+                516,
+                281,
+                312,
+                1858,
+                11,
+                457,
+                490,
+                264,
+                1623,
+                264,
+                7482,
+                22770,
+                50530
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.1604354828596115
+                },
+                {
+                    "word": " was",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.8690784573554993
+                },
+                {
+                    "word": " never",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.8580521941184998
+                },
+                {
+                    "word": " going",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.7487444877624512
+                },
+                {
+                    "word": " to",
+                    "start": 0.64,
+                    "end": 0.7,
+                    "probability": 0.9021351337432861
+                },
+                {
+                    "word": " be",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9087241291999817
+                },
+                {
+                    "word": " easy,",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.8173635601997375
+                },
+                {
+                    "word": " but",
+                    "start": 1.38,
+                    "end": 1.46,
+                    "probability": 0.8873680830001831
+                },
+                {
+                    "word": " from",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.8078866600990295
+                },
+                {
+                    "word": " the",
+                    "start": 1.62,
+                    "end": 1.76,
+                    "probability": 0.8152823448181152
+                },
+                {
+                    "word": " moment",
+                    "start": 1.76,
+                    "end": 2.06,
+                    "probability": 0.9050688743591309
+                },
+                {
+                    "word": " the",
+                    "start": 2.06,
+                    "end": 2.24,
+                    "probability": 0.7891700863838196
+                },
+                {
+                    "word": " committee",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.6816127300262451
+                },
+                {
+                    "word": " chairman",
+                    "start": 2.52,
+                    "end": 2.94,
+                    "probability": 0.8721936941146851
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.94,
+            "end": 6.62,
+            "text": " opened the hearing calling for TikTok to be banned in the United States,",
+            "tokens": [
+                50530,
+                5625,
+                264,
+                4763,
+                5141,
+                337,
+                20211,
+                281,
+                312,
+                19564,
+                294,
+                264,
+                2824,
+                3040,
+                11,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " opened",
+                    "start": 2.94,
+                    "end": 3.68,
+                    "probability": 0.7530637383460999
+                },
+                {
+                    "word": " the",
+                    "start": 3.68,
+                    "end": 3.86,
+                    "probability": 0.8085088729858398
+                },
+                {
+                    "word": " hearing",
+                    "start": 3.86,
+                    "end": 4.12,
+                    "probability": 0.8034746646881104
+                },
+                {
+                    "word": " calling",
+                    "start": 4.12,
+                    "end": 4.48,
+                    "probability": 0.6122240424156189
+                },
+                {
+                    "word": " for",
+                    "start": 4.48,
+                    "end": 4.74,
+                    "probability": 0.8853246569633484
+                },
+                {
+                    "word": " TikTok",
+                    "start": 4.74,
+                    "end": 5.02,
+                    "probability": 0.8190820217132568
+                },
+                {
+                    "word": " to",
+                    "start": 5.02,
+                    "end": 5.26,
+                    "probability": 0.8937518000602722
+                },
+                {
+                    "word": " be",
+                    "start": 5.26,
+                    "end": 5.38,
+                    "probability": 0.8997987508773804
+                },
+                {
+                    "word": " banned",
+                    "start": 5.38,
+                    "end": 5.6,
+                    "probability": 0.8138397932052612
+                },
+                {
+                    "word": " in",
+                    "start": 5.6,
+                    "end": 5.74,
+                    "probability": 0.8991026282310486
+                },
+                {
+                    "word": " the",
+                    "start": 5.74,
+                    "end": 5.84,
+                    "probability": 0.8118047118186951
+                },
+                {
+                    "word": " United",
+                    "start": 5.84,
+                    "end": 6.12,
+                    "probability": 0.8367045521736145
+                },
+                {
+                    "word": " States,",
+                    "start": 6.12,
+                    "end": 6.62,
+                    "probability": 0.8824247717857361
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.04,
+            "end": 7.88,
+            "text": " there was no let up.",
+            "tokens": [
+                50714,
+                456,
+                390,
+                572,
+                718,
+                493,
+                13,
+                50758
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " there",
+                    "start": 7.04,
+                    "end": 7.14,
+                    "probability": 0.8534553050994873
+                },
+                {
+                    "word": " was",
+                    "start": 7.14,
+                    "end": 7.28,
+                    "probability": 0.8973613381385803
+                },
+                {
+                    "word": " no",
+                    "start": 7.28,
+                    "end": 7.48,
+                    "probability": 0.9059910178184509
+                },
+                {
+                    "word": " let",
+                    "start": 7.48,
+                    "end": 7.72,
+                    "probability": 0.8028066158294678
+                },
+                {
+                    "word": " up.",
+                    "start": 7.72,
+                    "end": 7.88,
+                    "probability": 0.6891024112701416
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.0,
+            "end": 11.92,
+            "text": " TikTok CEO, Shoji Chu, was bombarded by lawmakers,",
+            "tokens": [
+                50758,
+                20211,
+                9282,
+                11,
+                31404,
+                4013,
+                25585,
+                11,
+                390,
+                7851,
+                22803,
+                538,
+                40988,
+                11,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " TikTok",
+                    "start": 8.0,
+                    "end": 8.2,
+                    "probability": 0.8859643340110779
+                },
+                {
+                    "word": " CEO,",
+                    "start": 8.2,
+                    "end": 8.9,
+                    "probability": 0.7569471001625061
+                },
+                {
+                    "word": " Shoji",
+                    "start": 9.3,
+                    "end": 9.68,
+                    "probability": 0.6577042788267136
+                },
+                {
+                    "word": " Chu,",
+                    "start": 9.68,
+                    "end": 9.98,
+                    "probability": 0.4917454421520233
+                },
+                {
+                    "word": " was",
+                    "start": 10.32,
+                    "end": 10.48,
+                    "probability": 0.8915795683860779
+                },
+                {
+                    "word": " bombarded",
+                    "start": 10.48,
+                    "end": 11.16,
+                    "probability": 0.8860667049884796
+                },
+                {
+                    "word": " by",
+                    "start": 11.16,
+                    "end": 11.44,
+                    "probability": 0.9093148112297058
+                },
+                {
+                    "word": " lawmakers,",
+                    "start": 11.44,
+                    "end": 11.92,
+                    "probability": 0.7191484570503235
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.08,
+            "end": 15.78,
+            "text": " worried that the app's Chinese ownership makes it untrustworthy",
+            "tokens": [
+                50964,
+                5804,
+                300,
+                264,
+                724,
+                311,
+                4649,
+                15279,
+                1669,
+                309,
+                1701,
+                22326,
+                23727,
+                51172
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " worried",
+                    "start": 12.08,
+                    "end": 12.34,
+                    "probability": 0.7542101144790649
+                },
+                {
+                    "word": " that",
+                    "start": 12.34,
+                    "end": 12.54,
+                    "probability": 0.8723533153533936
+                },
+                {
+                    "word": " the",
+                    "start": 12.54,
+                    "end": 12.66,
+                    "probability": 0.8144132494926453
+                },
+                {
+                    "word": " app's",
+                    "start": 12.66,
+                    "end": 12.98,
+                    "probability": 0.8676168024539948
+                },
+                {
+                    "word": " Chinese",
+                    "start": 12.98,
+                    "end": 13.42,
+                    "probability": 0.7797588109970093
+                },
+                {
+                    "word": " ownership",
+                    "start": 13.42,
+                    "end": 13.98,
+                    "probability": 0.7879721522331238
+                },
+                {
+                    "word": " makes",
+                    "start": 13.98,
+                    "end": 14.66,
+                    "probability": 0.7185578346252441
+                },
+                {
+                    "word": " it",
+                    "start": 14.66,
+                    "end": 14.82,
+                    "probability": 0.8983637690544128
+                },
+                {
+                    "word": " untrustworthy",
+                    "start": 14.82,
+                    "end": 15.78,
+                    "probability": 0.8882110913594564
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.78,
+            "end": 18.9,
+            "text": " and that it is harmful to American teenagers.",
+            "tokens": [
+                51172,
+                293,
+                300,
+                309,
+                307,
+                19727,
+                281,
+                2665,
+                23618,
+                13,
+                51344
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 15.78,
+                    "end": 16.34,
+                    "probability": 0.6600066423416138
+                },
+                {
+                    "word": " that",
+                    "start": 16.34,
+                    "end": 16.48,
+                    "probability": 0.8736393451690674
+                },
+                {
+                    "word": " it",
+                    "start": 16.48,
+                    "end": 16.6,
+                    "probability": 0.8994249105453491
+                },
+                {
+                    "word": " is",
+                    "start": 16.6,
+                    "end": 16.78,
+                    "probability": 0.9047531485557556
+                },
+                {
+                    "word": " harmful",
+                    "start": 16.78,
+                    "end": 17.26,
+                    "probability": 0.8112331032752991
+                },
+                {
+                    "word": " to",
+                    "start": 17.26,
+                    "end": 17.76,
+                    "probability": 0.9086974859237671
+                },
+                {
+                    "word": " American",
+                    "start": 17.76,
+                    "end": 18.24,
+                    "probability": 0.7551977038383484
+                },
+                {
+                    "word": " teenagers.",
+                    "start": 18.24,
+                    "end": 18.9,
+                    "probability": 0.827268123626709
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 19.72,
+            "end": 22.22,
+            "text": " Politicians of all stripes slammed TikTok,",
+            "tokens": [
+                51344,
+                13812,
+                8455,
+                295,
+                439,
+                27308,
+                50196,
+                20211,
+                11,
+                51492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " Politicians",
+                    "start": 19.72,
+                    "end": 20.28,
+                    "probability": 0.918188214302063
+                },
+                {
+                    "word": " of",
+                    "start": 20.28,
+                    "end": 20.54,
+                    "probability": 0.9038974642753601
+                },
+                {
+                    "word": " all",
+                    "start": 20.54,
+                    "end": 20.92,
+                    "probability": 0.8940342664718628
+                },
+                {
+                    "word": " stripes",
+                    "start": 20.92,
+                    "end": 21.2,
+                    "probability": 0.875607430934906
+                },
+                {
+                    "word": " slammed",
+                    "start": 21.2,
+                    "end": 21.74,
+                    "probability": 0.7488507628440857
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 21.74,
+                    "end": 22.22,
+                    "probability": 0.9366408586502075
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 22.68,
+            "end": 24.48,
+            "text": " including Republican representative,",
+            "tokens": [
+                51492,
+                3009,
+                10937,
+                12424,
+                11,
+                51600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " including",
+                    "start": 22.68,
+                    "end": 23.1,
+                    "probability": 0.7757259607315063
+                },
+                {
+                    "word": " Republican",
+                    "start": 23.1,
+                    "end": 23.7,
+                    "probability": 0.8582991361618042
+                },
+                {
+                    "word": " representative,",
+                    "start": 23.7,
+                    "end": 24.48,
+                    "probability": 0.44258254766464233
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 24.76,
+            "end": 24.92,
+            "text": " Buddy Hsu.",
+            "tokens": [
+                51600,
+                363,
+                532,
+                3173,
+                389,
+                15091,
+                13,
+                51650
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37383371029260026,
+            "compression_ratio": 1.5461254612546125,
+            "no_speech_prob": 0.000873780285473913,
+            "words": [
+                {
+                    "word": " Buddy",
+                    "start": 24.76,
+                    "end": 24.92,
+                    "probability": 0.6264987289905548
+                },
+                {
+                    "word": " Hsu.",
+                    "start": 24.92,
+                    "end": 24.92,
+                    "probability": 0.05863603577017784
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

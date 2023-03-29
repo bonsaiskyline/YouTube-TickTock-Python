@@ -1,0 +1,46 @@
+{
+    "text": " I wouldn't know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.8,
+            "text": " I wouldn't know.",
+            "tokens": [
+                50364,
+                286,
+                2759,
+                380,
+                458,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5246124863624573,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.07083161175251007,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8682654500007629
+                },
+                {
+                    "word": " wouldn't",
+                    "start": 0.32,
+                    "end": 0.62,
+                    "probability": 0.8697745203971863
+                },
+                {
+                    "word": " know.",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.8348382115364075
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

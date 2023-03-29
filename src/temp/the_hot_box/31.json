@@ -1,0 +1,60 @@
+{
+    "text": " Tell me, tell me why!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " Tell me, tell me why!",
+            "tokens": [
+                50364,
+                5115,
+                385,
+                11,
+                980,
+                385,
+                983,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4880518913269043,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.0042565050534904,
+            "words": [
+                {
+                    "word": " Tell",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.755720317363739
+                },
+                {
+                    "word": " me,",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.9088671207427979
+                },
+                {
+                    "word": " tell",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.8168066740036011
+                },
+                {
+                    "word": " me",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9114974737167358
+                },
+                {
+                    "word": " why!",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.7641434073448181
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

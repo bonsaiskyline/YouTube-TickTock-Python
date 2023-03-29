@@ -1,0 +1,152 @@
+{
+    "text": " No. Mr. Chu, do you agree that the Chinese government has persecuted the Uyghur population?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.22,
+            "text": " No.",
+            "tokens": [
+                50364,
+                883,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29950682322184247,
+            "compression_ratio": 1.0340909090909092,
+            "no_speech_prob": 0.17461180686950684,
+            "words": [
+                {
+                    "word": " No.",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.31730520725250244
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.56,
+            "end": 6.1,
+            "text": " Mr. Chu, do you agree that the Chinese government has persecuted the Uyghur population?",
+            "tokens": [
+                50414,
+                2221,
+                13,
+                25585,
+                11,
+                360,
+                291,
+                3986,
+                300,
+                264,
+                4649,
+                2463,
+                575,
+                49903,
+                264,
+                624,
+                88,
+                9030,
+                374,
+                4415,
+                30,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29950682322184247,
+            "compression_ratio": 1.0340909090909092,
+            "no_speech_prob": 0.17461180686950684,
+            "words": [
+                {
+                    "word": " Mr.",
+                    "start": 0.56,
+                    "end": 0.8,
+                    "probability": 0.864479660987854
+                },
+                {
+                    "word": " Chu,",
+                    "start": 1.0,
+                    "end": 1.26,
+                    "probability": 0.4487040340900421
+                },
+                {
+                    "word": " do",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.904273509979248
+                },
+                {
+                    "word": " you",
+                    "start": 1.76,
+                    "end": 1.88,
+                    "probability": 0.8972082138061523
+                },
+                {
+                    "word": " agree",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.8603478074073792
+                },
+                {
+                    "word": " that",
+                    "start": 2.2,
+                    "end": 2.46,
+                    "probability": 0.8836947083473206
+                },
+                {
+                    "word": " the",
+                    "start": 2.46,
+                    "end": 2.64,
+                    "probability": 0.8059481382369995
+                },
+                {
+                    "word": " Chinese",
+                    "start": 2.64,
+                    "end": 3.16,
+                    "probability": 0.7726683616638184
+                },
+                {
+                    "word": " government",
+                    "start": 3.16,
+                    "end": 3.66,
+                    "probability": 0.8068949580192566
+                },
+                {
+                    "word": " has",
+                    "start": 3.66,
+                    "end": 4.04,
+                    "probability": 0.8927239179611206
+                },
+                {
+                    "word": " persecuted",
+                    "start": 4.04,
+                    "end": 4.72,
+                    "probability": 0.7856861352920532
+                },
+                {
+                    "word": " the",
+                    "start": 4.72,
+                    "end": 5.08,
+                    "probability": 0.8109943270683289
+                },
+                {
+                    "word": " Uyghur",
+                    "start": 5.08,
+                    "end": 5.42,
+                    "probability": 0.8969993144273758
+                },
+                {
+                    "word": " population?",
+                    "start": 5.42,
+                    "end": 6.1,
+                    "probability": 0.873683750629425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

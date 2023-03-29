@@ -1,0 +1,294 @@
+{
+    "text": " More at ease on the app than defending it. CEO Sho Zichu faced a hostile grilling before a congressional committee. Lawmakers called the app a threat to ordinary Americans and to national security.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " More at ease on the app than defending it.",
+            "tokens": [
+                50364,
+                5048,
+                412,
+                12708,
+                322,
+                264,
+                724,
+                813,
+                21377,
+                309,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4453654911207116,
+            "compression_ratio": 1.3401360544217686,
+            "no_speech_prob": 0.0004299893043935299,
+            "words": [
+                {
+                    "word": " More",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.6391686797142029
+                },
+                {
+                    "word": " at",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.8976123929023743
+                },
+                {
+                    "word": " ease",
+                    "start": 0.66,
+                    "end": 1.04,
+                    "probability": 0.8966643810272217
+                },
+                {
+                    "word": " on",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.8935285806655884
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.8028625249862671
+                },
+                {
+                    "word": " app",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.8176698088645935
+                },
+                {
+                    "word": " than",
+                    "start": 1.84,
+                    "end": 2.4,
+                    "probability": 0.5229465365409851
+                },
+                {
+                    "word": " defending",
+                    "start": 2.4,
+                    "end": 3.04,
+                    "probability": 0.7875521183013916
+                },
+                {
+                    "word": " it.",
+                    "start": 3.04,
+                    "end": 3.48,
+                    "probability": 0.9032569527626038
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.26,
+            "end": 9.62,
+            "text": " CEO Sho Zichu faced a hostile grilling before a congressional committee.",
+            "tokens": [
+                50544,
+                9282,
+                31404,
+                1176,
+                480,
+                84,
+                11446,
+                257,
+                27312,
+                49961,
+                949,
+                257,
+                32962,
+                7482,
+                13,
+                50876
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4453654911207116,
+            "compression_ratio": 1.3401360544217686,
+            "no_speech_prob": 0.0004299893043935299,
+            "words": [
+                {
+                    "word": " CEO",
+                    "start": 4.26,
+                    "end": 4.76,
+                    "probability": 0.8500238060951233
+                },
+                {
+                    "word": " Sho",
+                    "start": 4.76,
+                    "end": 5.36,
+                    "probability": 0.1597583293914795
+                },
+                {
+                    "word": " Zichu",
+                    "start": 5.36,
+                    "end": 6.0,
+                    "probability": 0.46328187982241315
+                },
+                {
+                    "word": " faced",
+                    "start": 6.0,
+                    "end": 6.44,
+                    "probability": 0.7888760566711426
+                },
+                {
+                    "word": " a",
+                    "start": 6.44,
+                    "end": 6.64,
+                    "probability": 0.9892047047615051
+                },
+                {
+                    "word": " hostile",
+                    "start": 6.64,
+                    "end": 7.22,
+                    "probability": 0.8110617995262146
+                },
+                {
+                    "word": " grilling",
+                    "start": 7.22,
+                    "end": 7.68,
+                    "probability": 0.6799567937850952
+                },
+                {
+                    "word": " before",
+                    "start": 7.68,
+                    "end": 8.02,
+                    "probability": 0.7919469475746155
+                },
+                {
+                    "word": " a",
+                    "start": 8.02,
+                    "end": 8.28,
+                    "probability": 0.9954094290733337
+                },
+                {
+                    "word": " congressional",
+                    "start": 8.28,
+                    "end": 8.92,
+                    "probability": 0.5232195258140564
+                },
+                {
+                    "word": " committee.",
+                    "start": 8.92,
+                    "end": 9.62,
+                    "probability": 0.7747437357902527
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.32,
+            "end": 15.26,
+            "text": " Lawmakers called the app a threat to ordinary Americans and to national security.",
+            "tokens": [
+                50876,
+                7744,
+                15870,
+                1219,
+                264,
+                724,
+                257,
+                4734,
+                281,
+                10547,
+                6280,
+                293,
+                281,
+                4048,
+                3825,
+                13,
+                51142
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4453654911207116,
+            "compression_ratio": 1.3401360544217686,
+            "no_speech_prob": 0.0004299893043935299,
+            "words": [
+                {
+                    "word": " Lawmakers",
+                    "start": 10.32,
+                    "end": 10.82,
+                    "probability": 0.8686464130878448
+                },
+                {
+                    "word": " called",
+                    "start": 10.82,
+                    "end": 11.2,
+                    "probability": 0.8126940131187439
+                },
+                {
+                    "word": " the",
+                    "start": 11.2,
+                    "end": 11.38,
+                    "probability": 0.8161853551864624
+                },
+                {
+                    "word": " app",
+                    "start": 11.38,
+                    "end": 11.58,
+                    "probability": 0.8809696435928345
+                },
+                {
+                    "word": " a",
+                    "start": 11.58,
+                    "end": 11.74,
+                    "probability": 0.9607296586036682
+                },
+                {
+                    "word": " threat",
+                    "start": 11.74,
+                    "end": 12.02,
+                    "probability": 0.8337422013282776
+                },
+                {
+                    "word": " to",
+                    "start": 12.02,
+                    "end": 12.24,
+                    "probability": 0.8971191048622131
+                },
+                {
+                    "word": " ordinary",
+                    "start": 12.24,
+                    "end": 12.68,
+                    "probability": 0.8195117712020874
+                },
+                {
+                    "word": " Americans",
+                    "start": 12.68,
+                    "end": 13.44,
+                    "probability": 0.7354654669761658
+                },
+                {
+                    "word": " and",
+                    "start": 13.44,
+                    "end": 13.94,
+                    "probability": 0.8300615549087524
+                },
+                {
+                    "word": " to",
+                    "start": 13.94,
+                    "end": 14.12,
+                    "probability": 0.8865529298782349
+                },
+                {
+                    "word": " national",
+                    "start": 14.12,
+                    "end": 14.58,
+                    "probability": 0.7221417427062988
+                },
+                {
+                    "word": " security.",
+                    "start": 14.58,
+                    "end": 15.26,
+                    "probability": 0.9338341355323792
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

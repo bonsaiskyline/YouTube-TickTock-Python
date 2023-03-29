@@ -1,0 +1,1414 @@
+{
+    "text": " Yeah, there's a lot of politics here, too. This was a bipartisan grilling of the CEO of TikTok. So they are in agreement, members of Congress, Republicans and Democrats, on that. But this also comes with some political consequences also. Are members of Congress willing to ban TikTok, understanding that there are a lot of young users who use it, potential voters? There's been a higher percentage of young people who voted in the last election than in the last several decades. And this impacts Democrats more than it impacts Republicans. Republicans are a lot less worried about the political blowback than Democrats are. For example, the Senate Republican Campaign Committee, they actually have a policy that their candidates, that they do not use TikTok to campaign. Meanwhile, Democrats have been utilizing this app on the campaign trail. And so a ban might be too much for some Democrats.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Yeah, there's a lot of politics here, too.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                456,
+                311,
+                257,
+                688,
+                295,
+                7341,
+                510,
+                11,
+                886,
+                13,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.18024800717830658
+                },
+                {
+                    "word": " there's",
+                    "start": 0.36,
+                    "end": 0.94,
+                    "probability": 0.8723052442073822
+                },
+                {
+                    "word": " a",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9884597063064575
+                },
+                {
+                    "word": " lot",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.9003413319587708
+                },
+                {
+                    "word": " of",
+                    "start": 1.2,
+                    "end": 1.3,
+                    "probability": 0.8985615968704224
+                },
+                {
+                    "word": " politics",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.6093552112579346
+                },
+                {
+                    "word": " here,",
+                    "start": 1.72,
+                    "end": 2.08,
+                    "probability": 0.45790454745292664
+                },
+                {
+                    "word": " too.",
+                    "start": 2.24,
+                    "end": 2.38,
+                    "probability": 0.8054628968238831
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.56,
+            "end": 5.94,
+            "text": " This was a bipartisan grilling of the CEO of TikTok.",
+            "tokens": [
+                50488,
+                639,
+                390,
+                257,
+                31954,
+                49961,
+                295,
+                264,
+                9282,
+                295,
+                20211,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 2.56,
+                    "end": 2.66,
+                    "probability": 0.7961896657943726
+                },
+                {
+                    "word": " was",
+                    "start": 2.66,
+                    "end": 2.8,
+                    "probability": 0.7079752087593079
+                },
+                {
+                    "word": " a",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.9960771203041077
+                },
+                {
+                    "word": " bipartisan",
+                    "start": 2.98,
+                    "end": 3.52,
+                    "probability": 0.8270608186721802
+                },
+                {
+                    "word": " grilling",
+                    "start": 3.52,
+                    "end": 4.12,
+                    "probability": 0.7062035202980042
+                },
+                {
+                    "word": " of",
+                    "start": 4.12,
+                    "end": 4.68,
+                    "probability": 0.8979046940803528
+                },
+                {
+                    "word": " the",
+                    "start": 4.68,
+                    "end": 4.88,
+                    "probability": 0.813114583492279
+                },
+                {
+                    "word": " CEO",
+                    "start": 4.88,
+                    "end": 5.22,
+                    "probability": 0.8389896750450134
+                },
+                {
+                    "word": " of",
+                    "start": 5.22,
+                    "end": 5.62,
+                    "probability": 0.9005005955696106
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 5.62,
+                    "end": 5.94,
+                    "probability": 0.7007535099983215
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.2,
+            "end": 8.16,
+            "text": " So they are in agreement, members of Congress,",
+            "tokens": [
+                50672,
+                407,
+                436,
+                366,
+                294,
+                8106,
+                11,
+                2679,
+                295,
+                6426,
+                11,
+                50774
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.2,
+                    "end": 6.3,
+                    "probability": 0.8936062455177307
+                },
+                {
+                    "word": " they",
+                    "start": 6.3,
+                    "end": 6.46,
+                    "probability": 0.6510449647903442
+                },
+                {
+                    "word": " are",
+                    "start": 6.46,
+                    "end": 6.7,
+                    "probability": 0.8880674839019775
+                },
+                {
+                    "word": " in",
+                    "start": 6.7,
+                    "end": 6.84,
+                    "probability": 0.742339015007019
+                },
+                {
+                    "word": " agreement,",
+                    "start": 6.84,
+                    "end": 7.32,
+                    "probability": 0.8381080031394958
+                },
+                {
+                    "word": " members",
+                    "start": 7.48,
+                    "end": 7.78,
+                    "probability": 0.7911118865013123
+                },
+                {
+                    "word": " of",
+                    "start": 7.78,
+                    "end": 7.94,
+                    "probability": 0.9035288095474243
+                },
+                {
+                    "word": " Congress,",
+                    "start": 7.94,
+                    "end": 8.16,
+                    "probability": 0.9020489454269409
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.28,
+            "end": 9.82,
+            "text": " Republicans and Democrats, on that.",
+            "tokens": [
+                50774,
+                12017,
+                293,
+                12217,
+                11,
+                322,
+                300,
+                13,
+                50878
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " Republicans",
+                    "start": 8.28,
+                    "end": 8.58,
+                    "probability": 0.8490869402885437
+                },
+                {
+                    "word": " and",
+                    "start": 8.58,
+                    "end": 8.8,
+                    "probability": 0.859291136264801
+                },
+                {
+                    "word": " Democrats,",
+                    "start": 8.8,
+                    "end": 9.1,
+                    "probability": 0.8515303730964661
+                },
+                {
+                    "word": " on",
+                    "start": 9.3,
+                    "end": 9.48,
+                    "probability": 0.9089807868003845
+                },
+                {
+                    "word": " that.",
+                    "start": 9.48,
+                    "end": 9.82,
+                    "probability": 0.8808144330978394
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.02,
+            "end": 13.72,
+            "text": " But this also comes with some political consequences also.",
+            "tokens": [
+                50878,
+                583,
+                341,
+                611,
+                1487,
+                365,
+                512,
+                3905,
+                10098,
+                611,
+                13,
+                51076
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 10.02,
+                    "end": 10.56,
+                    "probability": 0.8969176411628723
+                },
+                {
+                    "word": " this",
+                    "start": 10.56,
+                    "end": 10.9,
+                    "probability": 0.8646854758262634
+                },
+                {
+                    "word": " also",
+                    "start": 10.9,
+                    "end": 11.2,
+                    "probability": 0.8273072838783264
+                },
+                {
+                    "word": " comes",
+                    "start": 11.2,
+                    "end": 11.48,
+                    "probability": 0.8194250464439392
+                },
+                {
+                    "word": " with",
+                    "start": 11.48,
+                    "end": 11.62,
+                    "probability": 0.8152271509170532
+                },
+                {
+                    "word": " some",
+                    "start": 11.62,
+                    "end": 11.82,
+                    "probability": 0.8116894960403442
+                },
+                {
+                    "word": " political",
+                    "start": 11.82,
+                    "end": 12.28,
+                    "probability": 0.7768524289131165
+                },
+                {
+                    "word": " consequences",
+                    "start": 12.28,
+                    "end": 13.14,
+                    "probability": 0.8539013266563416
+                },
+                {
+                    "word": " also.",
+                    "start": 13.14,
+                    "end": 13.72,
+                    "probability": 0.49850425124168396
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.26,
+            "end": 16.88,
+            "text": " Are members of Congress willing to ban TikTok,",
+            "tokens": [
+                51076,
+                2014,
+                2679,
+                295,
+                6426,
+                4950,
+                281,
+                5643,
+                20211,
+                11,
+                51220
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 14.26,
+                    "end": 14.46,
+                    "probability": 0.7388493418693542
+                },
+                {
+                    "word": " members",
+                    "start": 14.46,
+                    "end": 14.84,
+                    "probability": 0.8123400807380676
+                },
+                {
+                    "word": " of",
+                    "start": 14.84,
+                    "end": 15.04,
+                    "probability": 0.9029443860054016
+                },
+                {
+                    "word": " Congress",
+                    "start": 15.04,
+                    "end": 15.32,
+                    "probability": 0.9006340503692627
+                },
+                {
+                    "word": " willing",
+                    "start": 15.32,
+                    "end": 15.78,
+                    "probability": 0.6928765177726746
+                },
+                {
+                    "word": " to",
+                    "start": 15.78,
+                    "end": 16.1,
+                    "probability": 0.9062931537628174
+                },
+                {
+                    "word": " ban",
+                    "start": 16.1,
+                    "end": 16.44,
+                    "probability": 0.8730425238609314
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 16.44,
+                    "end": 16.88,
+                    "probability": 0.9196139574050903
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 17.28,
+            "end": 20.64,
+            "text": " understanding that there are a lot of young users who",
+            "tokens": [
+                51220,
+                3701,
+                300,
+                456,
+                366,
+                257,
+                688,
+                295,
+                2037,
+                5022,
+                567,
+                51394
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " understanding",
+                    "start": 17.28,
+                    "end": 17.92,
+                    "probability": 0.7084988355636597
+                },
+                {
+                    "word": " that",
+                    "start": 17.92,
+                    "end": 18.3,
+                    "probability": 0.8762286305427551
+                },
+                {
+                    "word": " there",
+                    "start": 18.3,
+                    "end": 18.48,
+                    "probability": 0.8520485758781433
+                },
+                {
+                    "word": " are",
+                    "start": 18.48,
+                    "end": 18.72,
+                    "probability": 0.89596027135849
+                },
+                {
+                    "word": " a",
+                    "start": 18.72,
+                    "end": 18.92,
+                    "probability": 0.9990783929824829
+                },
+                {
+                    "word": " lot",
+                    "start": 18.92,
+                    "end": 19.12,
+                    "probability": 0.8894373178482056
+                },
+                {
+                    "word": " of",
+                    "start": 19.12,
+                    "end": 19.3,
+                    "probability": 0.9027745127677917
+                },
+                {
+                    "word": " young",
+                    "start": 19.3,
+                    "end": 19.54,
+                    "probability": 0.8931889533996582
+                },
+                {
+                    "word": " users",
+                    "start": 19.54,
+                    "end": 20.02,
+                    "probability": 0.8495211005210876
+                },
+                {
+                    "word": " who",
+                    "start": 20.02,
+                    "end": 20.64,
+                    "probability": 0.8099972009658813
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 20.64,
+            "end": 22.06,
+            "text": " use it, potential voters?",
+            "tokens": [
+                51394,
+                764,
+                309,
+                11,
+                3995,
+                14073,
+                30,
+                51476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " use",
+                    "start": 20.64,
+                    "end": 20.94,
+                    "probability": 0.8191126585006714
+                },
+                {
+                    "word": " it,",
+                    "start": 20.94,
+                    "end": 21.12,
+                    "probability": 0.9052058458328247
+                },
+                {
+                    "word": " potential",
+                    "start": 21.24,
+                    "end": 21.62,
+                    "probability": 0.8512231707572937
+                },
+                {
+                    "word": " voters?",
+                    "start": 21.62,
+                    "end": 22.06,
+                    "probability": 0.9185547828674316
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 22.06,
+            "end": 24.54,
+            "text": " There's been a higher percentage of young people",
+            "tokens": [
+                51476,
+                821,
+                311,
+                668,
+                257,
+                2946,
+                9668,
+                295,
+                2037,
+                561,
+                51592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 22.06,
+                    "end": 22.46,
+                    "probability": 0.8817065060138702
+                },
+                {
+                    "word": " been",
+                    "start": 22.46,
+                    "end": 22.58,
+                    "probability": 0.8104420900344849
+                },
+                {
+                    "word": " a",
+                    "start": 22.58,
+                    "end": 22.76,
+                    "probability": 0.9995287656784058
+                },
+                {
+                    "word": " higher",
+                    "start": 22.76,
+                    "end": 23.16,
+                    "probability": 0.8429537415504456
+                },
+                {
+                    "word": " percentage",
+                    "start": 23.16,
+                    "end": 23.7,
+                    "probability": 0.7955126762390137
+                },
+                {
+                    "word": " of",
+                    "start": 23.7,
+                    "end": 24.0,
+                    "probability": 0.9033910036087036
+                },
+                {
+                    "word": " young",
+                    "start": 24.0,
+                    "end": 24.28,
+                    "probability": 0.9051918983459473
+                },
+                {
+                    "word": " people",
+                    "start": 24.28,
+                    "end": 24.54,
+                    "probability": 0.9288413524627686
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 24.54,
+            "end": 27.26,
+            "text": " who voted in the last election than in the last several",
+            "tokens": [
+                51592,
+                567,
+                13415,
+                294,
+                264,
+                1036,
+                6618,
+                813,
+                294,
+                264,
+                1036,
+                2940,
+                51728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " who",
+                    "start": 24.54,
+                    "end": 24.72,
+                    "probability": 0.8299572467803955
+                },
+                {
+                    "word": " voted",
+                    "start": 24.72,
+                    "end": 24.98,
+                    "probability": 0.7070254683494568
+                },
+                {
+                    "word": " in",
+                    "start": 24.98,
+                    "end": 25.16,
+                    "probability": 0.9077617526054382
+                },
+                {
+                    "word": " the",
+                    "start": 25.16,
+                    "end": 25.3,
+                    "probability": 0.814590334892273
+                },
+                {
+                    "word": " last",
+                    "start": 25.3,
+                    "end": 25.52,
+                    "probability": 0.7899180054664612
+                },
+                {
+                    "word": " election",
+                    "start": 25.52,
+                    "end": 25.86,
+                    "probability": 0.8683694005012512
+                },
+                {
+                    "word": " than",
+                    "start": 25.86,
+                    "end": 26.04,
+                    "probability": 0.7259159088134766
+                },
+                {
+                    "word": " in",
+                    "start": 26.04,
+                    "end": 26.16,
+                    "probability": 0.9106437563896179
+                },
+                {
+                    "word": " the",
+                    "start": 26.16,
+                    "end": 26.28,
+                    "probability": 0.8156335353851318
+                },
+                {
+                    "word": " last",
+                    "start": 26.28,
+                    "end": 26.56,
+                    "probability": 0.8025628328323364
+                },
+                {
+                    "word": " several",
+                    "start": 26.56,
+                    "end": 27.26,
+                    "probability": 0.8387662768363953
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 27.26,
+            "end": 27.78,
+            "text": " decades.",
+            "tokens": [
+                51728,
+                7878,
+                13,
+                51804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24000391684287836,
+            "compression_ratio": 1.707142857142857,
+            "no_speech_prob": 0.0012058091815561056,
+            "words": [
+                {
+                    "word": " decades.",
+                    "start": 27.26,
+                    "end": 27.78,
+                    "probability": 0.9203954339027405
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2778,
+            "start": 28.68,
+            "end": 32.32,
+            "text": " And this impacts Democrats more than it impacts Republicans.",
+            "tokens": [
+                50414,
+                400,
+                341,
+                11606,
+                12217,
+                544,
+                813,
+                309,
+                11606,
+                12017,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 28.68,
+                    "end": 29.32,
+                    "probability": 0.5169307589530945
+                },
+                {
+                    "word": " this",
+                    "start": 29.32,
+                    "end": 29.28,
+                    "probability": 0.868308961391449
+                },
+                {
+                    "word": " impacts",
+                    "start": 29.28,
+                    "end": 29.96,
+                    "probability": 0.776695728302002
+                },
+                {
+                    "word": " Democrats",
+                    "start": 29.96,
+                    "end": 30.44,
+                    "probability": 0.7928168773651123
+                },
+                {
+                    "word": " more",
+                    "start": 30.44,
+                    "end": 30.84,
+                    "probability": 0.8681349158287048
+                },
+                {
+                    "word": " than",
+                    "start": 30.84,
+                    "end": 31.02,
+                    "probability": 0.8821058869361877
+                },
+                {
+                    "word": " it",
+                    "start": 31.02,
+                    "end": 31.2,
+                    "probability": 0.8969201445579529
+                },
+                {
+                    "word": " impacts",
+                    "start": 31.2,
+                    "end": 31.7,
+                    "probability": 0.7906675338745117
+                },
+                {
+                    "word": " Republicans.",
+                    "start": 31.7,
+                    "end": 32.32,
+                    "probability": 0.8118202686309814
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2778,
+            "start": 32.48,
+            "end": 34.08,
+            "text": " Republicans are a lot less worried",
+            "tokens": [
+                50596,
+                12017,
+                366,
+                257,
+                688,
+                1570,
+                5804,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " Republicans",
+                    "start": 32.48,
+                    "end": 32.78,
+                    "probability": 0.8445746898651123
+                },
+                {
+                    "word": " are",
+                    "start": 32.78,
+                    "end": 33.08,
+                    "probability": 0.8949998617172241
+                },
+                {
+                    "word": " a",
+                    "start": 33.08,
+                    "end": 33.26,
+                    "probability": 0.9963188171386719
+                },
+                {
+                    "word": " lot",
+                    "start": 33.26,
+                    "end": 33.46,
+                    "probability": 0.8922641277313232
+                },
+                {
+                    "word": " less",
+                    "start": 33.46,
+                    "end": 33.72,
+                    "probability": 0.8940038681030273
+                },
+                {
+                    "word": " worried",
+                    "start": 33.72,
+                    "end": 34.08,
+                    "probability": 0.774599552154541
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2778,
+            "start": 34.08,
+            "end": 36.78,
+            "text": " about the political blowback than Democrats are.",
+            "tokens": [
+                50680,
+                466,
+                264,
+                3905,
+                6327,
+                3207,
+                813,
+                12217,
+                366,
+                13,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " about",
+                    "start": 34.08,
+                    "end": 34.26,
+                    "probability": 0.8164446353912354
+                },
+                {
+                    "word": " the",
+                    "start": 34.26,
+                    "end": 34.44,
+                    "probability": 0.8124985694885254
+                },
+                {
+                    "word": " political",
+                    "start": 34.44,
+                    "end": 34.8,
+                    "probability": 0.7778444290161133
+                },
+                {
+                    "word": " blowback",
+                    "start": 34.8,
+                    "end": 35.44,
+                    "probability": 0.8068830966949463
+                },
+                {
+                    "word": " than",
+                    "start": 35.44,
+                    "end": 35.98,
+                    "probability": 0.8511043787002563
+                },
+                {
+                    "word": " Democrats",
+                    "start": 35.98,
+                    "end": 36.42,
+                    "probability": 0.835647463798523
+                },
+                {
+                    "word": " are.",
+                    "start": 36.42,
+                    "end": 36.78,
+                    "probability": 0.8958466649055481
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2778,
+            "start": 36.92,
+            "end": 41.64,
+            "text": " For example, the Senate Republican Campaign Committee,",
+            "tokens": [
+                50816,
+                1171,
+                1365,
+                11,
+                264,
+                9867,
+                10937,
+                38256,
+                11556,
+                11,
+                51060
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " For",
+                    "start": 36.92,
+                    "end": 37.1,
+                    "probability": 0.900404155254364
+                },
+                {
+                    "word": " example,",
+                    "start": 37.1,
+                    "end": 37.76,
+                    "probability": 0.9279694557189941
+                },
+                {
+                    "word": " the",
+                    "start": 38.24,
+                    "end": 38.28,
+                    "probability": 0.7990727424621582
+                },
+                {
+                    "word": " Senate",
+                    "start": 38.28,
+                    "end": 40.1,
+                    "probability": 0.9163599014282227
+                },
+                {
+                    "word": " Republican",
+                    "start": 40.1,
+                    "end": 40.7,
+                    "probability": 0.8633769750595093
+                },
+                {
+                    "word": " Campaign",
+                    "start": 40.7,
+                    "end": 41.26,
+                    "probability": 0.6420779824256897
+                },
+                {
+                    "word": " Committee,",
+                    "start": 41.26,
+                    "end": 41.64,
+                    "probability": 0.8219255805015564
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2778,
+            "start": 41.76,
+            "end": 44.94,
+            "text": " they actually have a policy that their candidates, that they",
+            "tokens": [
+                51060,
+                436,
+                767,
+                362,
+                257,
+                3897,
+                300,
+                641,
+                11255,
+                11,
+                300,
+                436,
+                51224
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 41.76,
+                    "end": 41.84,
+                    "probability": 0.7331737875938416
+                },
+                {
+                    "word": " actually",
+                    "start": 41.84,
+                    "end": 42.1,
+                    "probability": 0.7983676195144653
+                },
+                {
+                    "word": " have",
+                    "start": 42.1,
+                    "end": 42.24,
+                    "probability": 0.8831572532653809
+                },
+                {
+                    "word": " a",
+                    "start": 42.24,
+                    "end": 42.4,
+                    "probability": 0.9986211061477661
+                },
+                {
+                    "word": " policy",
+                    "start": 42.4,
+                    "end": 42.94,
+                    "probability": 0.8198409676551819
+                },
+                {
+                    "word": " that",
+                    "start": 42.94,
+                    "end": 43.2,
+                    "probability": 0.8461840748786926
+                },
+                {
+                    "word": " their",
+                    "start": 43.2,
+                    "end": 43.34,
+                    "probability": 0.8032892942428589
+                },
+                {
+                    "word": " candidates,",
+                    "start": 43.34,
+                    "end": 43.84,
+                    "probability": 0.8209454417228699
+                },
+                {
+                    "word": " that",
+                    "start": 44.28,
+                    "end": 44.66,
+                    "probability": 0.8612577319145203
+                },
+                {
+                    "word": " they",
+                    "start": 44.66,
+                    "end": 44.94,
+                    "probability": 0.7415854930877686
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2778,
+            "start": 44.94,
+            "end": 47.4,
+            "text": " do not use TikTok to campaign.",
+            "tokens": [
+                51224,
+                360,
+                406,
+                764,
+                20211,
+                281,
+                5129,
+                13,
+                51354
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " do",
+                    "start": 44.94,
+                    "end": 45.18,
+                    "probability": 0.9031534790992737
+                },
+                {
+                    "word": " not",
+                    "start": 45.18,
+                    "end": 45.48,
+                    "probability": 0.8981247544288635
+                },
+                {
+                    "word": " use",
+                    "start": 45.48,
+                    "end": 45.76,
+                    "probability": 0.8141366243362427
+                },
+                {
+                    "word": " TikTok",
+                    "start": 45.76,
+                    "end": 46.16,
+                    "probability": 0.766913652420044
+                },
+                {
+                    "word": " to",
+                    "start": 46.16,
+                    "end": 46.88,
+                    "probability": 0.8994938731193542
+                },
+                {
+                    "word": " campaign.",
+                    "start": 46.88,
+                    "end": 47.4,
+                    "probability": 0.8053943514823914
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2778,
+            "start": 47.64,
+            "end": 50.46,
+            "text": " Meanwhile, Democrats have been utilizing this app",
+            "tokens": [
+                51354,
+                13879,
+                11,
+                12217,
+                362,
+                668,
+                26775,
+                341,
+                724,
+                51500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " Meanwhile,",
+                    "start": 47.64,
+                    "end": 47.94,
+                    "probability": 0.9123829007148743
+                },
+                {
+                    "word": " Democrats",
+                    "start": 48.1,
+                    "end": 48.42,
+                    "probability": 0.8158599138259888
+                },
+                {
+                    "word": " have",
+                    "start": 48.42,
+                    "end": 48.9,
+                    "probability": 0.8744764924049377
+                },
+                {
+                    "word": " been",
+                    "start": 48.9,
+                    "end": 49.16,
+                    "probability": 0.8134810924530029
+                },
+                {
+                    "word": " utilizing",
+                    "start": 49.16,
+                    "end": 49.78,
+                    "probability": 0.7504406571388245
+                },
+                {
+                    "word": " this",
+                    "start": 49.78,
+                    "end": 50.12,
+                    "probability": 0.8782685399055481
+                },
+                {
+                    "word": " app",
+                    "start": 50.12,
+                    "end": 50.46,
+                    "probability": 0.9055731296539307
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 2778,
+            "start": 50.46,
+            "end": 51.56,
+            "text": " on the campaign trail.",
+            "tokens": [
+                51500,
+                322,
+                264,
+                5129,
+                9924,
+                13,
+                51572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 50.46,
+                    "end": 50.64,
+                    "probability": 0.909942090511322
+                },
+                {
+                    "word": " the",
+                    "start": 50.64,
+                    "end": 50.78,
+                    "probability": 0.8186813592910767
+                },
+                {
+                    "word": " campaign",
+                    "start": 50.78,
+                    "end": 51.22,
+                    "probability": 0.808290421962738
+                },
+                {
+                    "word": " trail.",
+                    "start": 51.22,
+                    "end": 51.56,
+                    "probability": 0.7977723479270935
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 2778,
+            "start": 51.9,
+            "end": 54.94,
+            "text": " And so a ban might be too much for some Democrats.",
+            "tokens": [
+                51572,
+                400,
+                370,
+                257,
+                5643,
+                1062,
+                312,
+                886,
+                709,
+                337,
+                512,
+                12217,
+                13,
+                51784
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2295022209485372,
+            "compression_ratio": 1.7078189300411524,
+            "no_speech_prob": 2.8648906663875096e-05,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 51.9,
+                    "end": 52.2,
+                    "probability": 0.8836383819580078
+                },
+                {
+                    "word": " so",
+                    "start": 52.2,
+                    "end": 52.54,
+                    "probability": 0.8973976969718933
+                },
+                {
+                    "word": " a",
+                    "start": 52.54,
+                    "end": 52.88,
+                    "probability": 0.8077781200408936
+                },
+                {
+                    "word": " ban",
+                    "start": 52.88,
+                    "end": 53.2,
+                    "probability": 0.9110050201416016
+                },
+                {
+                    "word": " might",
+                    "start": 53.2,
+                    "end": 53.54,
+                    "probability": 0.8219651579856873
+                },
+                {
+                    "word": " be",
+                    "start": 53.54,
+                    "end": 53.72,
+                    "probability": 0.9037995934486389
+                },
+                {
+                    "word": " too",
+                    "start": 53.72,
+                    "end": 53.94,
+                    "probability": 0.8163260221481323
+                },
+                {
+                    "word": " much",
+                    "start": 53.94,
+                    "end": 54.2,
+                    "probability": 0.8093582391738892
+                },
+                {
+                    "word": " for",
+                    "start": 54.2,
+                    "end": 54.38,
+                    "probability": 0.8991495966911316
+                },
+                {
+                    "word": " some",
+                    "start": 54.38,
+                    "end": 54.6,
+                    "probability": 0.8181654810905457
+                },
+                {
+                    "word": " Democrats.",
+                    "start": 54.6,
+                    "end": 54.94,
+                    "probability": 0.8136835694313049
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

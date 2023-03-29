@@ -1,0 +1,237 @@
+{
+    "text": " Okay, I thought you'd say that. I disagree, as you thought I might say. Here's why I disagree. Your parent company is ByteDance, right?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " Okay, I thought you'd say that. I disagree, as you thought I",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                286,
+                1194,
+                291,
+                1116,
+                584,
+                300,
+                13,
+                286,
+                14091,
+                11,
+                382,
+                291,
+                1194,
+                286,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21887244734653208,
+            "compression_ratio": 1.2162162162162162,
+            "no_speech_prob": 0.005234697367995977,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6873128414154053
+                },
+                {
+                    "word": " I",
+                    "start": 0.44,
+                    "end": 0.54,
+                    "probability": 0.9970869421958923
+                },
+                {
+                    "word": " thought",
+                    "start": 0.54,
+                    "end": 0.7,
+                    "probability": 0.8232858777046204
+                },
+                {
+                    "word": " you'd",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9468300342559814
+                },
+                {
+                    "word": " say",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.8913037776947021
+                },
+                {
+                    "word": " that.",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.8834033012390137
+                },
+                {
+                    "word": " I",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9941873550415039
+                },
+                {
+                    "word": " disagree,",
+                    "start": 1.68,
+                    "end": 2.0,
+                    "probability": 0.8967390060424805
+                },
+                {
+                    "word": " as",
+                    "start": 2.24,
+                    "end": 2.42,
+                    "probability": 0.9099202156066895
+                },
+                {
+                    "word": " you",
+                    "start": 2.42,
+                    "end": 2.5,
+                    "probability": 0.8985639214515686
+                },
+                {
+                    "word": " thought",
+                    "start": 2.5,
+                    "end": 2.64,
+                    "probability": 0.8337241411209106
+                },
+                {
+                    "word": " I",
+                    "start": 2.64,
+                    "end": 2.78,
+                    "probability": 0.9045218229293823
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.78,
+            "end": 6.24,
+            "text": " might say. Here's why I disagree. Your parent company is",
+            "tokens": [
+                50500,
+                1062,
+                584,
+                13,
+                1692,
+                311,
+                983,
+                286,
+                14091,
+                13,
+                2260,
+                2596,
+                2237,
+                307,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21887244734653208,
+            "compression_ratio": 1.2162162162162162,
+            "no_speech_prob": 0.005234697367995977,
+            "words": [
+                {
+                    "word": " might",
+                    "start": 2.78,
+                    "end": 2.94,
+                    "probability": 0.828503429889679
+                },
+                {
+                    "word": " say.",
+                    "start": 2.94,
+                    "end": 3.14,
+                    "probability": 0.8886693120002747
+                },
+                {
+                    "word": " Here's",
+                    "start": 3.96,
+                    "end": 4.52,
+                    "probability": 0.8915202617645264
+                },
+                {
+                    "word": " why",
+                    "start": 4.52,
+                    "end": 4.64,
+                    "probability": 0.816892147064209
+                },
+                {
+                    "word": " I",
+                    "start": 4.64,
+                    "end": 4.76,
+                    "probability": 0.9891932606697083
+                },
+                {
+                    "word": " disagree.",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.8918319344520569
+                },
+                {
+                    "word": " Your",
+                    "start": 5.12,
+                    "end": 5.2,
+                    "probability": 0.7892865538597107
+                },
+                {
+                    "word": " parent",
+                    "start": 5.2,
+                    "end": 5.6,
+                    "probability": 0.5783200263977051
+                },
+                {
+                    "word": " company",
+                    "start": 5.6,
+                    "end": 5.94,
+                    "probability": 0.8254465460777283
+                },
+                {
+                    "word": " is",
+                    "start": 5.94,
+                    "end": 6.24,
+                    "probability": 0.9010574817657471
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.24,
+            "end": 6.98,
+            "text": " ByteDance, right?",
+            "tokens": [
+                50676,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                558,
+                30,
+                50720
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21887244734653208,
+            "compression_ratio": 1.2162162162162162,
+            "no_speech_prob": 0.005234697367995977,
+            "words": [
+                {
+                    "word": " ByteDance,",
+                    "start": 6.24,
+                    "end": 6.78,
+                    "probability": 0.90980264544487
+                },
+                {
+                    "word": " right?",
+                    "start": 6.82,
+                    "end": 6.98,
+                    "probability": 0.8842860460281372
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

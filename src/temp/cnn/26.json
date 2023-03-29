@@ -1,0 +1,830 @@
+{
+    "text": " And that's a skepticism in the sense that there have been engineers who have admitted that they've been able to get access to U.S. data in China. And the concern is, even if there's no public evidence now of anything nefarious, that if China wanted to do it, whether it's to interfere in a U.S. election, whether to promote its views that we can take Taiwan, that the Chinese, maybe they're not doing it today, but they have the opportunity, the technical ability, and then the power of coercion, the communist regime to say, sorry.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.14,
+            "end": 3.44,
+            "text": " And that's a skepticism in the sense that there have been engineers who have admitted",
+            "tokens": [
+                50364,
+                400,
+                300,
+                311,
+                257,
+                19128,
+                26356,
+                294,
+                264,
+                2020,
+                300,
+                456,
+                362,
+                668,
+                11955,
+                567,
+                362,
+                14920,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.7345008254051208
+                },
+                {
+                    "word": " that's",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.9134072363376617
+                },
+                {
+                    "word": " a",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.7600882649421692
+                },
+                {
+                    "word": " skepticism",
+                    "start": 0.86,
+                    "end": 1.42,
+                    "probability": 0.8912050127983093
+                },
+                {
+                    "word": " in",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.8199602961540222
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.72,
+                    "probability": 0.8069832921028137
+                },
+                {
+                    "word": " sense",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.722398579120636
+                },
+                {
+                    "word": " that",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.8745224475860596
+                },
+                {
+                    "word": " there",
+                    "start": 2.02,
+                    "end": 2.14,
+                    "probability": 0.8503829836845398
+                },
+                {
+                    "word": " have",
+                    "start": 2.14,
+                    "end": 2.34,
+                    "probability": 0.8873419761657715
+                },
+                {
+                    "word": " been",
+                    "start": 2.34,
+                    "end": 2.48,
+                    "probability": 0.8400673270225525
+                },
+                {
+                    "word": " engineers",
+                    "start": 2.48,
+                    "end": 2.9,
+                    "probability": 0.7129951119422913
+                },
+                {
+                    "word": " who",
+                    "start": 2.9,
+                    "end": 3.08,
+                    "probability": 0.790162205696106
+                },
+                {
+                    "word": " have",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.543154776096344
+                },
+                {
+                    "word": " admitted",
+                    "start": 3.18,
+                    "end": 3.44,
+                    "probability": 0.8888158202171326
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.44,
+            "end": 5.98,
+            "text": " that they've been able to get access to U.S. data in China.",
+            "tokens": [
+                50538,
+                300,
+                436,
+                600,
+                668,
+                1075,
+                281,
+                483,
+                2105,
+                281,
+                624,
+                13,
+                50,
+                13,
+                1412,
+                294,
+                3533,
+                13,
+                50702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 3.44,
+                    "end": 3.68,
+                    "probability": 0.8513778448104858
+                },
+                {
+                    "word": " they've",
+                    "start": 3.68,
+                    "end": 3.94,
+                    "probability": 0.6816551387310028
+                },
+                {
+                    "word": " been",
+                    "start": 3.94,
+                    "end": 4.12,
+                    "probability": 0.6048997640609741
+                },
+                {
+                    "word": " able",
+                    "start": 4.12,
+                    "end": 4.3,
+                    "probability": 0.834359347820282
+                },
+                {
+                    "word": " to",
+                    "start": 4.3,
+                    "end": 4.4,
+                    "probability": 0.9041283130645752
+                },
+                {
+                    "word": " get",
+                    "start": 4.4,
+                    "end": 4.54,
+                    "probability": 0.8879730701446533
+                },
+                {
+                    "word": " access",
+                    "start": 4.54,
+                    "end": 4.8,
+                    "probability": 0.7957555651664734
+                },
+                {
+                    "word": " to",
+                    "start": 4.8,
+                    "end": 4.98,
+                    "probability": 0.90294349193573
+                },
+                {
+                    "word": " U",
+                    "start": 4.98,
+                    "end": 5.1,
+                    "probability": 0.4059949815273285
+                },
+                {
+                    "word": ".S.",
+                    "start": 5.1,
+                    "end": 5.2,
+                    "probability": 0.9952667951583862
+                },
+                {
+                    "word": " data",
+                    "start": 5.24,
+                    "end": 5.44,
+                    "probability": 0.7740032076835632
+                },
+                {
+                    "word": " in",
+                    "start": 5.44,
+                    "end": 5.72,
+                    "probability": 0.9044860601425171
+                },
+                {
+                    "word": " China.",
+                    "start": 5.72,
+                    "end": 5.98,
+                    "probability": 0.8497210741043091
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.54,
+            "end": 10.28,
+            "text": " And the concern is, even if there's no public evidence now of anything nefarious, that if",
+            "tokens": [
+                50702,
+                400,
+                264,
+                3136,
+                307,
+                11,
+                754,
+                498,
+                456,
+                311,
+                572,
+                1908,
+                4467,
+                586,
+                295,
+                1340,
+                408,
+                21196,
+                851,
+                11,
+                300,
+                498,
+                50878
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 6.54,
+                    "end": 6.78,
+                    "probability": 0.8444802165031433
+                },
+                {
+                    "word": " the",
+                    "start": 6.78,
+                    "end": 6.94,
+                    "probability": 0.8184987902641296
+                },
+                {
+                    "word": " concern",
+                    "start": 6.94,
+                    "end": 7.28,
+                    "probability": 0.8952221870422363
+                },
+                {
+                    "word": " is,",
+                    "start": 7.28,
+                    "end": 7.52,
+                    "probability": 0.9046025276184082
+                },
+                {
+                    "word": " even",
+                    "start": 7.6,
+                    "end": 7.68,
+                    "probability": 0.8076728582382202
+                },
+                {
+                    "word": " if",
+                    "start": 7.68,
+                    "end": 7.82,
+                    "probability": 0.8995231986045837
+                },
+                {
+                    "word": " there's",
+                    "start": 7.82,
+                    "end": 7.98,
+                    "probability": 0.902640163898468
+                },
+                {
+                    "word": " no",
+                    "start": 7.98,
+                    "end": 8.1,
+                    "probability": 0.9113938808441162
+                },
+                {
+                    "word": " public",
+                    "start": 8.1,
+                    "end": 8.4,
+                    "probability": 0.8686391115188599
+                },
+                {
+                    "word": " evidence",
+                    "start": 8.4,
+                    "end": 8.7,
+                    "probability": 0.9127972722053528
+                },
+                {
+                    "word": " now",
+                    "start": 8.7,
+                    "end": 8.92,
+                    "probability": 0.868699848651886
+                },
+                {
+                    "word": " of",
+                    "start": 8.92,
+                    "end": 9.04,
+                    "probability": 0.8944234848022461
+                },
+                {
+                    "word": " anything",
+                    "start": 9.04,
+                    "end": 9.3,
+                    "probability": 0.849858283996582
+                },
+                {
+                    "word": " nefarious,",
+                    "start": 9.3,
+                    "end": 9.82,
+                    "probability": 0.92033584912618
+                },
+                {
+                    "word": " that",
+                    "start": 9.92,
+                    "end": 10.04,
+                    "probability": 0.8662288784980774
+                },
+                {
+                    "word": " if",
+                    "start": 10.04,
+                    "end": 10.28,
+                    "probability": 0.8973222374916077
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.28,
+            "end": 14.1,
+            "text": " China wanted to do it, whether it's to interfere in a U.S. election, whether to promote its",
+            "tokens": [
+                50878,
+                3533,
+                1415,
+                281,
+                360,
+                309,
+                11,
+                1968,
+                309,
+                311,
+                281,
+                23946,
+                294,
+                257,
+                624,
+                13,
+                50,
+                13,
+                6618,
+                11,
+                1968,
+                281,
+                9773,
+                1080,
+                51065
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " China",
+                    "start": 10.28,
+                    "end": 10.6,
+                    "probability": 0.8820872902870178
+                },
+                {
+                    "word": " wanted",
+                    "start": 10.6,
+                    "end": 10.9,
+                    "probability": 0.7990885376930237
+                },
+                {
+                    "word": " to",
+                    "start": 10.9,
+                    "end": 11.08,
+                    "probability": 0.903037428855896
+                },
+                {
+                    "word": " do",
+                    "start": 11.08,
+                    "end": 11.22,
+                    "probability": 0.8944308161735535
+                },
+                {
+                    "word": " it,",
+                    "start": 11.22,
+                    "end": 11.32,
+                    "probability": 0.823290228843689
+                },
+                {
+                    "word": " whether",
+                    "start": 11.36,
+                    "end": 11.52,
+                    "probability": 0.8527582287788391
+                },
+                {
+                    "word": " it's",
+                    "start": 11.52,
+                    "end": 11.72,
+                    "probability": 0.8921462297439575
+                },
+                {
+                    "word": " to",
+                    "start": 11.72,
+                    "end": 11.84,
+                    "probability": 0.892306923866272
+                },
+                {
+                    "word": " interfere",
+                    "start": 11.84,
+                    "end": 12.16,
+                    "probability": 0.6626906991004944
+                },
+                {
+                    "word": " in",
+                    "start": 12.16,
+                    "end": 12.32,
+                    "probability": 0.8906450271606445
+                },
+                {
+                    "word": " a",
+                    "start": 12.32,
+                    "end": 12.4,
+                    "probability": 0.6709078550338745
+                },
+                {
+                    "word": " U",
+                    "start": 12.4,
+                    "end": 12.5,
+                    "probability": 0.9727041125297546
+                },
+                {
+                    "word": ".S.",
+                    "start": 12.5,
+                    "end": 12.62,
+                    "probability": 0.9994611740112305
+                },
+                {
+                    "word": " election,",
+                    "start": 12.7,
+                    "end": 13.02,
+                    "probability": 0.8909990191459656
+                },
+                {
+                    "word": " whether",
+                    "start": 13.36,
+                    "end": 13.5,
+                    "probability": 0.8307607173919678
+                },
+                {
+                    "word": " to",
+                    "start": 13.5,
+                    "end": 13.66,
+                    "probability": 0.841973602771759
+                },
+                {
+                    "word": " promote",
+                    "start": 13.66,
+                    "end": 13.9,
+                    "probability": 0.8845254778862
+                },
+                {
+                    "word": " its",
+                    "start": 13.9,
+                    "end": 14.1,
+                    "probability": 0.7957243919372559
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.1,
+            "end": 17.98,
+            "text": " views that we can take Taiwan, that the Chinese, maybe they're not doing it today, but they",
+            "tokens": [
+                51065,
+                6809,
+                300,
+                321,
+                393,
+                747,
+                12296,
+                11,
+                300,
+                264,
+                4649,
+                11,
+                1310,
+                436,
+                434,
+                406,
+                884,
+                309,
+                965,
+                11,
+                457,
+                436,
+                51258
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " views",
+                    "start": 14.1,
+                    "end": 14.34,
+                    "probability": 0.714839518070221
+                },
+                {
+                    "word": " that",
+                    "start": 14.34,
+                    "end": 14.54,
+                    "probability": 0.8133742809295654
+                },
+                {
+                    "word": " we",
+                    "start": 14.54,
+                    "end": 14.68,
+                    "probability": 0.8583210110664368
+                },
+                {
+                    "word": " can",
+                    "start": 14.68,
+                    "end": 14.8,
+                    "probability": 0.882941484451294
+                },
+                {
+                    "word": " take",
+                    "start": 14.8,
+                    "end": 15.04,
+                    "probability": 0.8102805614471436
+                },
+                {
+                    "word": " Taiwan,",
+                    "start": 15.04,
+                    "end": 15.46,
+                    "probability": 0.8507278561592102
+                },
+                {
+                    "word": " that",
+                    "start": 15.96,
+                    "end": 16.06,
+                    "probability": 0.8736259341239929
+                },
+                {
+                    "word": " the",
+                    "start": 16.06,
+                    "end": 16.2,
+                    "probability": 0.8215980529785156
+                },
+                {
+                    "word": " Chinese,",
+                    "start": 16.2,
+                    "end": 16.5,
+                    "probability": 0.7991011738777161
+                },
+                {
+                    "word": " maybe",
+                    "start": 16.62,
+                    "end": 16.7,
+                    "probability": 0.8508608937263489
+                },
+                {
+                    "word": " they're",
+                    "start": 16.7,
+                    "end": 16.84,
+                    "probability": 0.8439974188804626
+                },
+                {
+                    "word": " not",
+                    "start": 16.84,
+                    "end": 16.98,
+                    "probability": 0.8969623446464539
+                },
+                {
+                    "word": " doing",
+                    "start": 16.98,
+                    "end": 17.16,
+                    "probability": 0.9053118824958801
+                },
+                {
+                    "word": " it",
+                    "start": 17.16,
+                    "end": 17.28,
+                    "probability": 0.9050450325012207
+                },
+                {
+                    "word": " today,",
+                    "start": 17.28,
+                    "end": 17.62,
+                    "probability": 0.7871630787849426
+                },
+                {
+                    "word": " but",
+                    "start": 17.66,
+                    "end": 17.84,
+                    "probability": 0.8995606303215027
+                },
+                {
+                    "word": " they",
+                    "start": 17.84,
+                    "end": 17.98,
+                    "probability": 0.7339040637016296
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 17.98,
+            "end": 22.72,
+            "text": " have the opportunity, the technical ability, and then the power of coercion, the communist",
+            "tokens": [
+                51258,
+                362,
+                264,
+                2650,
+                11,
+                264,
+                6191,
+                3485,
+                11,
+                293,
+                550,
+                264,
+                1347,
+                295,
+                49741,
+                313,
+                11,
+                264,
+                29347,
+                51502
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 17.98,
+                    "end": 18.18,
+                    "probability": 0.8794062733650208
+                },
+                {
+                    "word": " the",
+                    "start": 18.18,
+                    "end": 18.34,
+                    "probability": 0.8142290115356445
+                },
+                {
+                    "word": " opportunity,",
+                    "start": 18.34,
+                    "end": 18.94,
+                    "probability": 0.8234326243400574
+                },
+                {
+                    "word": " the",
+                    "start": 19.14,
+                    "end": 19.26,
+                    "probability": 0.8098086714744568
+                },
+                {
+                    "word": " technical",
+                    "start": 19.26,
+                    "end": 19.74,
+                    "probability": 0.8466016054153442
+                },
+                {
+                    "word": " ability,",
+                    "start": 19.74,
+                    "end": 20.24,
+                    "probability": 0.8592764139175415
+                },
+                {
+                    "word": " and",
+                    "start": 20.58,
+                    "end": 20.76,
+                    "probability": 0.8974878191947937
+                },
+                {
+                    "word": " then",
+                    "start": 20.76,
+                    "end": 20.86,
+                    "probability": 0.7156749963760376
+                },
+                {
+                    "word": " the",
+                    "start": 20.86,
+                    "end": 20.98,
+                    "probability": 0.8127599954605103
+                },
+                {
+                    "word": " power",
+                    "start": 20.98,
+                    "end": 21.24,
+                    "probability": 0.8112526535987854
+                },
+                {
+                    "word": " of",
+                    "start": 21.24,
+                    "end": 21.38,
+                    "probability": 0.9073302149772644
+                },
+                {
+                    "word": " coercion,",
+                    "start": 21.38,
+                    "end": 21.96,
+                    "probability": 0.8547344207763672
+                },
+                {
+                    "word": " the",
+                    "start": 22.06,
+                    "end": 22.28,
+                    "probability": 0.7699267864227295
+                },
+                {
+                    "word": " communist",
+                    "start": 22.28,
+                    "end": 22.72,
+                    "probability": 0.4000035524368286
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 22.72,
+            "end": 23.9,
+            "text": " regime to say, sorry.",
+            "tokens": [
+                51502,
+                13120,
+                281,
+                584,
+                11,
+                2597,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23917358509008435,
+            "compression_ratio": 1.7557755775577557,
+            "no_speech_prob": 0.001029137521982193,
+            "words": [
+                {
+                    "word": " regime",
+                    "start": 22.72,
+                    "end": 23.0,
+                    "probability": 0.893826961517334
+                },
+                {
+                    "word": " to",
+                    "start": 23.0,
+                    "end": 23.14,
+                    "probability": 0.4703991413116455
+                },
+                {
+                    "word": " say,",
+                    "start": 23.14,
+                    "end": 23.32,
+                    "probability": 0.904582142829895
+                },
+                {
+                    "word": " sorry.",
+                    "start": 23.44,
+                    "end": 23.9,
+                    "probability": 0.448218435049057
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

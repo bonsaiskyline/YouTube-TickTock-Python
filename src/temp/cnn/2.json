@@ -1,0 +1,342 @@
+{
+    "text": " You gave me only generalized statements that you're investing, that you're concerned, that you're doing more. That's not enough for me. Any I-DANCE employees in China, including engineers, currently have access to U.S. data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 6.54,
+            "text": " You gave me only generalized statements that you're investing, that you're concerned, that",
+            "tokens": [
+                50364,
+                509,
+                2729,
+                385,
+                787,
+                44498,
+                12363,
+                300,
+                291,
+                434,
+                10978,
+                11,
+                300,
+                291,
+                434,
+                5922,
+                11,
+                300,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3392671053526831,
+            "compression_ratio": 1.382716049382716,
+            "no_speech_prob": 0.006014710757881403,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.08,
+                    "end": 0.62,
+                    "probability": 0.713381290435791
+                },
+                {
+                    "word": " gave",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.8236792087554932
+                },
+                {
+                    "word": " me",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9107678532600403
+                },
+                {
+                    "word": " only",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.8731449246406555
+                },
+                {
+                    "word": " generalized",
+                    "start": 1.48,
+                    "end": 2.1,
+                    "probability": 0.8591805696487427
+                },
+                {
+                    "word": " statements",
+                    "start": 2.1,
+                    "end": 2.92,
+                    "probability": 0.7291232347488403
+                },
+                {
+                    "word": " that",
+                    "start": 2.92,
+                    "end": 3.18,
+                    "probability": 0.82419753074646
+                },
+                {
+                    "word": " you're",
+                    "start": 3.18,
+                    "end": 3.44,
+                    "probability": 0.9105334877967834
+                },
+                {
+                    "word": " investing,",
+                    "start": 3.44,
+                    "end": 4.06,
+                    "probability": 0.6887752413749695
+                },
+                {
+                    "word": " that",
+                    "start": 4.68,
+                    "end": 4.9,
+                    "probability": 0.8771122694015503
+                },
+                {
+                    "word": " you're",
+                    "start": 4.9,
+                    "end": 5.14,
+                    "probability": 0.920848548412323
+                },
+                {
+                    "word": " concerned,",
+                    "start": 5.14,
+                    "end": 5.9,
+                    "probability": 0.8385366201400757
+                },
+                {
+                    "word": " that",
+                    "start": 6.42,
+                    "end": 6.54,
+                    "probability": 0.8723346590995789
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.54,
+            "end": 7.14,
+            "text": " you're doing more.",
+            "tokens": [
+                50688,
+                291,
+                434,
+                884,
+                544,
+                13,
+                50738
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3392671053526831,
+            "compression_ratio": 1.382716049382716,
+            "no_speech_prob": 0.006014710757881403,
+            "words": [
+                {
+                    "word": " you're",
+                    "start": 6.54,
+                    "end": 6.72,
+                    "probability": 0.9276196956634521
+                },
+                {
+                    "word": " doing",
+                    "start": 6.72,
+                    "end": 6.92,
+                    "probability": 0.910545289516449
+                },
+                {
+                    "word": " more.",
+                    "start": 6.92,
+                    "end": 7.14,
+                    "probability": 0.5766932964324951
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.42,
+            "end": 8.72,
+            "text": " That's not enough for me.",
+            "tokens": [
+                50738,
+                663,
+                311,
+                406,
+                1547,
+                337,
+                385,
+                13,
+                50824
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3392671053526831,
+            "compression_ratio": 1.382716049382716,
+            "no_speech_prob": 0.006014710757881403,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 7.42,
+                    "end": 7.74,
+                    "probability": 0.8981588184833527
+                },
+                {
+                    "word": " not",
+                    "start": 7.74,
+                    "end": 7.92,
+                    "probability": 0.9008609056472778
+                },
+                {
+                    "word": " enough",
+                    "start": 7.92,
+                    "end": 8.18,
+                    "probability": 0.7913993000984192
+                },
+                {
+                    "word": " for",
+                    "start": 8.18,
+                    "end": 8.38,
+                    "probability": 0.8948526978492737
+                },
+                {
+                    "word": " me.",
+                    "start": 8.38,
+                    "end": 8.72,
+                    "probability": 0.9053676724433899
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.86,
+            "end": 14.58,
+            "text": " Any I-DANCE employees in China, including engineers, currently have access to U.S. data.",
+            "tokens": [
+                50824,
+                2639,
+                286,
+                12,
+                35,
+                1770,
+                4969,
+                6619,
+                294,
+                3533,
+                11,
+                3009,
+                11955,
+                11,
+                4362,
+                362,
+                2105,
+                281,
+                624,
+                13,
+                50,
+                13,
+                1412,
+                13,
+                51096
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3392671053526831,
+            "compression_ratio": 1.382716049382716,
+            "no_speech_prob": 0.006014710757881403,
+            "words": [
+                {
+                    "word": " Any",
+                    "start": 8.86,
+                    "end": 9.38,
+                    "probability": 0.6361966729164124
+                },
+                {
+                    "word": " I",
+                    "start": 9.38,
+                    "end": 9.66,
+                    "probability": 0.21228009462356567
+                },
+                {
+                    "word": "-DANCE",
+                    "start": 9.66,
+                    "end": 10.08,
+                    "probability": 0.5799036547541618
+                },
+                {
+                    "word": " employees",
+                    "start": 10.08,
+                    "end": 10.6,
+                    "probability": 0.7039273977279663
+                },
+                {
+                    "word": " in",
+                    "start": 10.6,
+                    "end": 10.86,
+                    "probability": 0.8961854577064514
+                },
+                {
+                    "word": " China,",
+                    "start": 10.86,
+                    "end": 11.3,
+                    "probability": 0.8554307222366333
+                },
+                {
+                    "word": " including",
+                    "start": 11.76,
+                    "end": 12.2,
+                    "probability": 0.7863432168960571
+                },
+                {
+                    "word": " engineers,",
+                    "start": 12.2,
+                    "end": 12.74,
+                    "probability": 0.6960335969924927
+                },
+                {
+                    "word": " currently",
+                    "start": 12.9,
+                    "end": 13.16,
+                    "probability": 0.7088888883590698
+                },
+                {
+                    "word": " have",
+                    "start": 13.16,
+                    "end": 13.4,
+                    "probability": 0.8781992793083191
+                },
+                {
+                    "word": " access",
+                    "start": 13.4,
+                    "end": 13.76,
+                    "probability": 0.806039571762085
+                },
+                {
+                    "word": " to",
+                    "start": 13.76,
+                    "end": 14.04,
+                    "probability": 0.903030514717102
+                },
+                {
+                    "word": " U",
+                    "start": 14.04,
+                    "end": 14.16,
+                    "probability": 0.6267837285995483
+                },
+                {
+                    "word": ".S.",
+                    "start": 14.16,
+                    "end": 14.34,
+                    "probability": 0.9988647401332855
+                },
+                {
+                    "word": " data.",
+                    "start": 14.4,
+                    "end": 14.58,
+                    "probability": 0.7986103296279907
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

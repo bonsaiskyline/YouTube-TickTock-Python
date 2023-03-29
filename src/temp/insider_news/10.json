@@ -1,0 +1,164 @@
+{
+    "text": " Congressman, as a father myself, when I hear about the tragic deaths of young people, it's heartbreaking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.16,
+            "text": " Congressman, as a father myself, when I hear about the tragic deaths of young people, it's",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                382,
+                257,
+                3086,
+                2059,
+                11,
+                562,
+                286,
+                1568,
+                466,
+                264,
+                20385,
+                13027,
+                295,
+                2037,
+                561,
+                11,
+                309,
+                311,
+                50618
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34423722161187065,
+            "compression_ratio": 1.105263157894737,
+            "no_speech_prob": 0.33528462052345276,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.38009369373321533
+                },
+                {
+                    "word": " as",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9039072394371033
+                },
+                {
+                    "word": " a",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9866732358932495
+                },
+                {
+                    "word": " father",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.7787199020385742
+                },
+                {
+                    "word": " myself,",
+                    "start": 1.5,
+                    "end": 2.02,
+                    "probability": 0.6952182054519653
+                },
+                {
+                    "word": " when",
+                    "start": 2.3,
+                    "end": 2.4,
+                    "probability": 0.8661057353019714
+                },
+                {
+                    "word": " I",
+                    "start": 2.4,
+                    "end": 2.52,
+                    "probability": 0.9912151098251343
+                },
+                {
+                    "word": " hear",
+                    "start": 2.52,
+                    "end": 2.66,
+                    "probability": 0.879963755607605
+                },
+                {
+                    "word": " about",
+                    "start": 2.66,
+                    "end": 2.92,
+                    "probability": 0.8237523436546326
+                },
+                {
+                    "word": " the",
+                    "start": 2.92,
+                    "end": 3.14,
+                    "probability": 0.8069027066230774
+                },
+                {
+                    "word": " tragic",
+                    "start": 3.14,
+                    "end": 3.48,
+                    "probability": 0.7066036462783813
+                },
+                {
+                    "word": " deaths",
+                    "start": 3.48,
+                    "end": 3.84,
+                    "probability": 0.840770423412323
+                },
+                {
+                    "word": " of",
+                    "start": 3.84,
+                    "end": 4.04,
+                    "probability": 0.8432960510253906
+                },
+                {
+                    "word": " young",
+                    "start": 4.04,
+                    "end": 4.34,
+                    "probability": 0.3413422703742981
+                },
+                {
+                    "word": " people,",
+                    "start": 4.34,
+                    "end": 4.72,
+                    "probability": 0.9266817569732666
+                },
+                {
+                    "word": " it's",
+                    "start": 4.96,
+                    "end": 5.16,
+                    "probability": 0.9188810586929321
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.16,
+            "end": 5.42,
+            "text": " heartbreaking.",
+            "tokens": [
+                50618,
+                41030,
+                13,
+                50643
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34423722161187065,
+            "compression_ratio": 1.105263157894737,
+            "no_speech_prob": 0.33528462052345276,
+            "words": [
+                {
+                    "word": " heartbreaking.",
+                    "start": 5.16,
+                    "end": 5.42,
+                    "probability": 0.6215906143188477
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

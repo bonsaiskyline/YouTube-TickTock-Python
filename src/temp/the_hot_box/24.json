@@ -1,0 +1,53 @@
+{
+    "text": " 50 seconds, so close.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " 50 seconds, so close.",
+            "tokens": [
+                50364,
+                2625,
+                3949,
+                11,
+                370,
+                1998,
+                13,
+                50452
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.515807999504937,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.04111151769757271,
+            "words": [
+                {
+                    "word": " 50",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5941905975341797
+                },
+                {
+                    "word": " seconds,",
+                    "start": 0.2,
+                    "end": 0.58,
+                    "probability": 0.7090601325035095
+                },
+                {
+                    "word": " so",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.8967104554176331
+                },
+                {
+                    "word": " close.",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.8484350442886353
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

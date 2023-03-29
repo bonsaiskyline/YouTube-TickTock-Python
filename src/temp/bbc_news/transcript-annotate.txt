@@ -1,0 +1,43 @@
+### Part 1:
+==> SPEAKER_04:
+ Hello there. We begin in the United States where time is ticking for TikTok. The chief of the social media app, Shozy Chu, was grilled by lawmakers over a whole range of issues, mostly related to the company's Chinese ownership. His appearance before the Congressional Committee comes after the Biden administration threatened to ban the social media app if the company's Chinese owners didn't sell their shares. TikTok is wildly popular in the States. It's got over 150 million American users, including almost 5 million businesses. Well, our North America business correspondent, Michelle Flurry, has been following the story from Washington, D.C.
+==> SPEAKER_05:
+ It was never going to be easy, but from the moment the committee chairman opened the hearing calling for TikTok to be banned in the United States, there was no let up. TikTok CEO, Shoji Chu, was bombarded by lawmakers, worried that the app's Chinese ownership makes it untrustworthy and that it is harmful to American teenagers. Politicians of all stripes slammed TikTok, including Republican representative, Buddy Hsu.
+==> SPEAKER_06:
+ The Chinese Communist Party is engaged in psychological warfare through TikTok to deliberately influence US children.
+==> SPEAKER_05:
+ Out of the gate, the Singaporean boss of TikTok sought to push back against this characterisation.
+==> SPEAKER_01:
+ I would also like to talk about national security concerns that you have raised, that we take very, very seriously. Let me start by addressing a few misconceptions about ByteDance, of which we are a subsidiary. ByteDance is not owned or controlled by the Chinese government. It's a private company. 60% of the company is owned by global institutional investors, 20% is owned by the founder, and 20% owned by employees around the world.
+==> SPEAKER_05:
+ But lawmakers remain sceptical, leading to some contentious exchanges like this one.
+==> SPEAKER_00:
+ Have you directed them to change that source code?
+==> SPEAKER_01:
+ Congressman, if you give me a bit of time to just... No.
+==> SPEAKER_00:
+ No, I don't. It's a yes or no question. Have you directed your engineers to change that source code? I'm not sure I understand. Why are you allowing TikTok to continue to have the capacity for censorship, and yet you claim here that you don't?
+### Part 2:
+==> SPEAKER_05:
+ On Wednesday, TikTok gathered a group of influencers to protest the Biden administration's threat to ban the app unless it divests from its Chinese owners.
+==> SPEAKER_02:
+ TikTok has done much more than just give me exposure. It has actually allowed me to increase my income by 700%. And this extra income has allowed me to support myself, build a studio, and pay staff. And if this platform is taken away, then I'm not sure if I'll be able to continue to do that.
+==> SPEAKER_05:
+ Despite the app's rapid growth in America, and despite the CEO's promise to earn the country's trust, it's unlikely that those worried about TikTok will have changed their minds after this hearing. Michelle Flurry, BBC News in Washington.
+### Part 3:
+==> SPEAKER_04:
+ Well, Jasmine Enberg is a principal analyst at social media in Insider Intelligence. And I put it to her that since there's no evidence that TikTok has passed data on to the Chinese government, how does the chief executive go about proving a negative?
+==> SPEAKER_03:
+ It was incredibly tough questioning, and there was very, very little that Chu could say to sway U.S. lawmakers' minds. He really had to prove a negative, that TikTok isn't or can't be used by the Chinese Communist Party to influence U.S. public opinion. In that sense, it's not just about data privacy. It's about soft influence and the type of content that is served on TikTok.
+==> SPEAKER_04:
+ How important is TikTok to American consumers and American businesses?
+==> SPEAKER_03:
+ It's becoming incredibly important. There is a lot of creators who have built their brands and built their businesses on tick tock and who would be severely impacted if the app were to be banned here. That said a lot of creators are prepared for the potential of a ban. They're already using other platforms. Many of them have set up small businesses so they do have other ways of reaching their customers and their audiences.
+==> SPEAKER_04:
+ Can TikTok actually do without an American market if it needed to? Is that a possibility or not at all?
+==> SPEAKER_03:
+ Well the US is an incredibly important market for tick tock and billions of dollars are at stake here. So at Insider Intelligence we estimate that tick tock will rake in about seven billion dollars in the US alone. And that's about half of its worldwide ad revenues. Now a lot of tick tocks meteoric growth over the past couple of years has also come at the expense of some US based companies including Meta and YouTube. So it's incredibly important. And there's a lot of factors at play here for for why this is happening.
+==> SPEAKER_04:
+ And what did we actually learn from the committee hearing yesterday? Did we learn any more about the access that the Chinese government might have to data or not really?
+==> SPEAKER_03:
+ There weren't really any big revelations today. Chu stuck mainly to his talking points. He talked a lot about Project Texas and the work that they're doing to protect and store American data on U.S. soil, but he didn't really offer much new evidence or much new in terms of what they're doing. That said, he also didn't always have a lot of time to be able to answer a lot of the questions that the lawmakers proposed. Again, it was really incredibly tough questioning, and he stuck mainly to those talking points.

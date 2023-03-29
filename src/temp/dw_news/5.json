@@ -1,0 +1,147 @@
+{
+    "text": " Congressman, since I've been CEO of this company, I've not had any discussions with Chinese government officials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.74,
+            "text": " Congressman, since I've been CEO of this company, I've not had any discussions with Chinese government officials.",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                1670,
+                286,
+                600,
+                668,
+                9282,
+                295,
+                341,
+                2237,
+                11,
+                286,
+                600,
+                406,
+                632,
+                604,
+                11088,
+                365,
+                4649,
+                2463,
+                9798,
+                13,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31628803253173826,
+            "compression_ratio": 1.107843137254902,
+            "no_speech_prob": 0.002216803841292858,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.6527338027954102
+                },
+                {
+                    "word": " since",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.799079954624176
+                },
+                {
+                    "word": " I've",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9070135354995728
+                },
+                {
+                    "word": " been",
+                    "start": 1.16,
+                    "end": 1.32,
+                    "probability": 0.843158483505249
+                },
+                {
+                    "word": " CEO",
+                    "start": 1.32,
+                    "end": 1.88,
+                    "probability": 0.8079133033752441
+                },
+                {
+                    "word": " of",
+                    "start": 1.88,
+                    "end": 2.18,
+                    "probability": 0.9072693586349487
+                },
+                {
+                    "word": " this",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.8836780190467834
+                },
+                {
+                    "word": " company,",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.8215022683143616
+                },
+                {
+                    "word": " I've",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.8319957256317139
+                },
+                {
+                    "word": " not",
+                    "start": 2.98,
+                    "end": 3.16,
+                    "probability": 0.8947723507881165
+                },
+                {
+                    "word": " had",
+                    "start": 3.16,
+                    "end": 3.32,
+                    "probability": 0.812910795211792
+                },
+                {
+                    "word": " any",
+                    "start": 3.32,
+                    "end": 3.6,
+                    "probability": 0.8017898797988892
+                },
+                {
+                    "word": " discussions",
+                    "start": 3.6,
+                    "end": 4.24,
+                    "probability": 0.7753904461860657
+                },
+                {
+                    "word": " with",
+                    "start": 4.24,
+                    "end": 4.62,
+                    "probability": 0.8139557242393494
+                },
+                {
+                    "word": " Chinese",
+                    "start": 4.62,
+                    "end": 5.12,
+                    "probability": 0.7849950790405273
+                },
+                {
+                    "word": " government",
+                    "start": 5.12,
+                    "end": 5.42,
+                    "probability": 0.7781736850738525
+                },
+                {
+                    "word": " officials.",
+                    "start": 5.42,
+                    "end": 5.74,
+                    "probability": 0.7043054103851318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,151 @@
+{
+    "text": " If you only watch a single video about the TikTok ban, I want it to be this one.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " If you only watch a single video about the TikTok ban, I want it to be this one.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                787,
+                1159,
+                257,
+                2167,
+                960,
+                466,
+                264,
+                20211,
+                5643,
+                11,
+                286,
+                528,
+                309,
+                281,
+                312,
+                341,
+                472,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27972897239353345,
+            "compression_ratio": 1.0256410256410255,
+            "no_speech_prob": 0.0017510302131995559,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7120383381843567
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9003776907920837
+                },
+                {
+                    "word": " only",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.8265669345855713
+                },
+                {
+                    "word": " watch",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.7847127914428711
+                },
+                {
+                    "word": " a",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.9840853214263916
+                },
+                {
+                    "word": " single",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.8246864080429077
+                },
+                {
+                    "word": " video",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.7542014718055725
+                },
+                {
+                    "word": " about",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.8145874738693237
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.7975971102714539
+                },
+                {
+                    "word": " TikTok",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.6341311931610107
+                },
+                {
+                    "word": " ban,",
+                    "start": 2.08,
+                    "end": 2.36,
+                    "probability": 0.920624315738678
+                },
+                {
+                    "word": " I",
+                    "start": 2.44,
+                    "end": 2.54,
+                    "probability": 0.9883606433868408
+                },
+                {
+                    "word": " want",
+                    "start": 2.54,
+                    "end": 2.72,
+                    "probability": 0.8103762269020081
+                },
+                {
+                    "word": " it",
+                    "start": 2.72,
+                    "end": 2.82,
+                    "probability": 0.8982683420181274
+                },
+                {
+                    "word": " to",
+                    "start": 2.82,
+                    "end": 2.92,
+                    "probability": 0.9037848114967346
+                },
+                {
+                    "word": " be",
+                    "start": 2.92,
+                    "end": 3.02,
+                    "probability": 0.9047695398330688
+                },
+                {
+                    "word": " this",
+                    "start": 3.02,
+                    "end": 3.22,
+                    "probability": 0.879563570022583
+                },
+                {
+                    "word": " one.",
+                    "start": 3.22,
+                    "end": 3.4,
+                    "probability": 0.8246839642524719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

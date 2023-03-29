@@ -1,0 +1,776 @@
+{
+    "text": " Representative Carter asks whether these kinds of challenges are popular on Douyin, TikTok's Chinese sister app, because he seems to believe that they aren't and that indicates that TikTok is pushing harmful things exclusively in America. I have no doubt that there are similar phenomena across cultures because that's just how humor works. But also, in my opinion, if Douyin and China really don't have any of these challenges, that's more of a tell on us rather than them, because maybe they're just not stupid enough to do all this kind of stuff.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 5.26,
+            "text": " Representative Carter asks whether these kinds of challenges are popular on Douyin, TikTok's",
+            "tokens": [
+                50364,
+                33421,
+                21622,
+                8962,
+                1968,
+                613,
+                3685,
+                295,
+                4759,
+                366,
+                3743,
+                322,
+                13200,
+                30354,
+                11,
+                20211,
+                311,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20379246405835422,
+            "compression_ratio": 1.651567944250871,
+            "no_speech_prob": 0.0013673154171556234,
+            "words": [
+                {
+                    "word": " Representative",
+                    "start": 0.08,
+                    "end": 0.64,
+                    "probability": 0.7145485281944275
+                },
+                {
+                    "word": " Carter",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.7955179810523987
+                },
+                {
+                    "word": " asks",
+                    "start": 1.04,
+                    "end": 1.58,
+                    "probability": 0.7064091563224792
+                },
+                {
+                    "word": " whether",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.8153387904167175
+                },
+                {
+                    "word": " these",
+                    "start": 1.84,
+                    "end": 2.14,
+                    "probability": 0.6968803405761719
+                },
+                {
+                    "word": " kinds",
+                    "start": 2.14,
+                    "end": 2.4,
+                    "probability": 0.8106609582901001
+                },
+                {
+                    "word": " of",
+                    "start": 2.4,
+                    "end": 2.54,
+                    "probability": 0.9065153002738953
+                },
+                {
+                    "word": " challenges",
+                    "start": 2.54,
+                    "end": 2.98,
+                    "probability": 0.7178224325180054
+                },
+                {
+                    "word": " are",
+                    "start": 2.98,
+                    "end": 3.26,
+                    "probability": 0.8898400664329529
+                },
+                {
+                    "word": " popular",
+                    "start": 3.26,
+                    "end": 3.7,
+                    "probability": 0.8782605528831482
+                },
+                {
+                    "word": " on",
+                    "start": 3.7,
+                    "end": 4.06,
+                    "probability": 0.904637336730957
+                },
+                {
+                    "word": " Douyin,",
+                    "start": 4.06,
+                    "end": 4.42,
+                    "probability": 0.8366232216358185
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 4.7,
+                    "end": 5.26,
+                    "probability": 0.830160915851593
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.26,
+            "end": 10.2,
+            "text": " Chinese sister app, because he seems to believe that they aren't and that indicates that TikTok",
+            "tokens": [
+                50628,
+                4649,
+                4892,
+                724,
+                11,
+                570,
+                415,
+                2544,
+                281,
+                1697,
+                300,
+                436,
+                3212,
+                380,
+                293,
+                300,
+                16203,
+                300,
+                20211,
+                50880
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20379246405835422,
+            "compression_ratio": 1.651567944250871,
+            "no_speech_prob": 0.0013673154171556234,
+            "words": [
+                {
+                    "word": " Chinese",
+                    "start": 5.26,
+                    "end": 5.76,
+                    "probability": 0.6839052438735962
+                },
+                {
+                    "word": " sister",
+                    "start": 5.76,
+                    "end": 6.18,
+                    "probability": 0.6956112384796143
+                },
+                {
+                    "word": " app,",
+                    "start": 6.18,
+                    "end": 6.52,
+                    "probability": 0.8702865242958069
+                },
+                {
+                    "word": " because",
+                    "start": 6.76,
+                    "end": 6.96,
+                    "probability": 0.8146160840988159
+                },
+                {
+                    "word": " he",
+                    "start": 6.96,
+                    "end": 7.14,
+                    "probability": 0.8956085443496704
+                },
+                {
+                    "word": " seems",
+                    "start": 7.14,
+                    "end": 7.42,
+                    "probability": 0.7278987765312195
+                },
+                {
+                    "word": " to",
+                    "start": 7.42,
+                    "end": 7.6,
+                    "probability": 0.9059166312217712
+                },
+                {
+                    "word": " believe",
+                    "start": 7.6,
+                    "end": 7.84,
+                    "probability": 0.7046443819999695
+                },
+                {
+                    "word": " that",
+                    "start": 7.84,
+                    "end": 8.0,
+                    "probability": 0.7775235772132874
+                },
+                {
+                    "word": " they",
+                    "start": 8.0,
+                    "end": 8.14,
+                    "probability": 0.7659562230110168
+                },
+                {
+                    "word": " aren't",
+                    "start": 8.14,
+                    "end": 8.62,
+                    "probability": 0.9019909203052521
+                },
+                {
+                    "word": " and",
+                    "start": 8.62,
+                    "end": 8.9,
+                    "probability": 0.5471537709236145
+                },
+                {
+                    "word": " that",
+                    "start": 8.9,
+                    "end": 9.16,
+                    "probability": 0.8843541741371155
+                },
+                {
+                    "word": " indicates",
+                    "start": 9.16,
+                    "end": 9.66,
+                    "probability": 0.8855221271514893
+                },
+                {
+                    "word": " that",
+                    "start": 9.66,
+                    "end": 9.9,
+                    "probability": 0.8777529001235962
+                },
+                {
+                    "word": " TikTok",
+                    "start": 9.9,
+                    "end": 10.2,
+                    "probability": 0.9161515831947327
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.2,
+            "end": 15.82,
+            "text": " is pushing harmful things exclusively in America. I have no doubt that there are similar phenomena",
+            "tokens": [
+                50880,
+                307,
+                7380,
+                19727,
+                721,
+                20638,
+                294,
+                3374,
+                13,
+                286,
+                362,
+                572,
+                6385,
+                300,
+                456,
+                366,
+                2531,
+                22004,
+                51160
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20379246405835422,
+            "compression_ratio": 1.651567944250871,
+            "no_speech_prob": 0.0013673154171556234,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 10.2,
+                    "end": 10.58,
+                    "probability": 0.9041630029678345
+                },
+                {
+                    "word": " pushing",
+                    "start": 10.58,
+                    "end": 10.88,
+                    "probability": 0.8095157742500305
+                },
+                {
+                    "word": " harmful",
+                    "start": 10.88,
+                    "end": 11.3,
+                    "probability": 0.7714738249778748
+                },
+                {
+                    "word": " things",
+                    "start": 11.3,
+                    "end": 11.74,
+                    "probability": 0.7536192536354065
+                },
+                {
+                    "word": " exclusively",
+                    "start": 11.74,
+                    "end": 12.36,
+                    "probability": 0.8371541500091553
+                },
+                {
+                    "word": " in",
+                    "start": 12.36,
+                    "end": 12.78,
+                    "probability": 0.9035211205482483
+                },
+                {
+                    "word": " America.",
+                    "start": 12.78,
+                    "end": 13.24,
+                    "probability": 0.7296984195709229
+                },
+                {
+                    "word": " I",
+                    "start": 13.72,
+                    "end": 13.84,
+                    "probability": 0.9912604689598083
+                },
+                {
+                    "word": " have",
+                    "start": 13.84,
+                    "end": 14.0,
+                    "probability": 0.8704100251197815
+                },
+                {
+                    "word": " no",
+                    "start": 14.0,
+                    "end": 14.22,
+                    "probability": 0.9014298319816589
+                },
+                {
+                    "word": " doubt",
+                    "start": 14.22,
+                    "end": 14.46,
+                    "probability": 0.8718934655189514
+                },
+                {
+                    "word": " that",
+                    "start": 14.46,
+                    "end": 14.62,
+                    "probability": 0.8384808897972107
+                },
+                {
+                    "word": " there",
+                    "start": 14.62,
+                    "end": 14.76,
+                    "probability": 0.8587740659713745
+                },
+                {
+                    "word": " are",
+                    "start": 14.76,
+                    "end": 14.9,
+                    "probability": 0.8889856338500977
+                },
+                {
+                    "word": " similar",
+                    "start": 14.9,
+                    "end": 15.26,
+                    "probability": 0.9340561628341675
+                },
+                {
+                    "word": " phenomena",
+                    "start": 15.26,
+                    "end": 15.82,
+                    "probability": 0.7227002382278442
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.82,
+            "end": 21.52,
+            "text": " across cultures because that's just how humor works. But also, in my opinion, if Douyin and",
+            "tokens": [
+                51160,
+                2108,
+                12951,
+                570,
+                300,
+                311,
+                445,
+                577,
+                14318,
+                1985,
+                13,
+                583,
+                611,
+                11,
+                294,
+                452,
+                4800,
+                11,
+                498,
+                13200,
+                30354,
+                293,
+                51436
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20379246405835422,
+            "compression_ratio": 1.651567944250871,
+            "no_speech_prob": 0.0013673154171556234,
+            "words": [
+                {
+                    "word": " across",
+                    "start": 15.82,
+                    "end": 16.3,
+                    "probability": 0.732230544090271
+                },
+                {
+                    "word": " cultures",
+                    "start": 16.3,
+                    "end": 16.82,
+                    "probability": 0.8402613401412964
+                },
+                {
+                    "word": " because",
+                    "start": 16.82,
+                    "end": 17.3,
+                    "probability": 0.458051472902298
+                },
+                {
+                    "word": " that's",
+                    "start": 17.3,
+                    "end": 17.84,
+                    "probability": 0.9328262805938721
+                },
+                {
+                    "word": " just",
+                    "start": 17.84,
+                    "end": 18.04,
+                    "probability": 0.8719086050987244
+                },
+                {
+                    "word": " how",
+                    "start": 18.04,
+                    "end": 18.24,
+                    "probability": 0.9033746719360352
+                },
+                {
+                    "word": " humor",
+                    "start": 18.24,
+                    "end": 18.58,
+                    "probability": 0.8270899653434753
+                },
+                {
+                    "word": " works.",
+                    "start": 18.58,
+                    "end": 19.02,
+                    "probability": 0.7223600149154663
+                },
+                {
+                    "word": " But",
+                    "start": 19.24,
+                    "end": 19.42,
+                    "probability": 0.8801825642585754
+                },
+                {
+                    "word": " also,",
+                    "start": 19.42,
+                    "end": 19.82,
+                    "probability": 0.7865502238273621
+                },
+                {
+                    "word": " in",
+                    "start": 19.96,
+                    "end": 20.04,
+                    "probability": 0.8681710958480835
+                },
+                {
+                    "word": " my",
+                    "start": 20.04,
+                    "end": 20.22,
+                    "probability": 0.9059122800827026
+                },
+                {
+                    "word": " opinion,",
+                    "start": 20.22,
+                    "end": 20.54,
+                    "probability": 0.8491371273994446
+                },
+                {
+                    "word": " if",
+                    "start": 20.72,
+                    "end": 20.88,
+                    "probability": 0.8935478925704956
+                },
+                {
+                    "word": " Douyin",
+                    "start": 20.88,
+                    "end": 21.28,
+                    "probability": 0.9190109670162201
+                },
+                {
+                    "word": " and",
+                    "start": 21.28,
+                    "end": 21.52,
+                    "probability": 0.8743205070495605
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 21.52,
+            "end": 26.94,
+            "text": " China really don't have any of these challenges, that's more of a tell on us rather than them,",
+            "tokens": [
+                51436,
+                3533,
+                534,
+                500,
+                380,
+                362,
+                604,
+                295,
+                613,
+                4759,
+                11,
+                300,
+                311,
+                544,
+                295,
+                257,
+                980,
+                322,
+                505,
+                2831,
+                813,
+                552,
+                11,
+                51728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20379246405835422,
+            "compression_ratio": 1.651567944250871,
+            "no_speech_prob": 0.0013673154171556234,
+            "words": [
+                {
+                    "word": " China",
+                    "start": 21.52,
+                    "end": 21.86,
+                    "probability": 0.8579577207565308
+                },
+                {
+                    "word": " really",
+                    "start": 21.86,
+                    "end": 22.24,
+                    "probability": 0.7694923877716064
+                },
+                {
+                    "word": " don't",
+                    "start": 22.24,
+                    "end": 22.5,
+                    "probability": 0.9474509358406067
+                },
+                {
+                    "word": " have",
+                    "start": 22.5,
+                    "end": 22.74,
+                    "probability": 0.8868854641914368
+                },
+                {
+                    "word": " any",
+                    "start": 22.74,
+                    "end": 22.98,
+                    "probability": 0.8125317692756653
+                },
+                {
+                    "word": " of",
+                    "start": 22.98,
+                    "end": 23.12,
+                    "probability": 0.9064280986785889
+                },
+                {
+                    "word": " these",
+                    "start": 23.12,
+                    "end": 23.28,
+                    "probability": 0.6917176842689514
+                },
+                {
+                    "word": " challenges,",
+                    "start": 23.28,
+                    "end": 23.68,
+                    "probability": 0.730188250541687
+                },
+                {
+                    "word": " that's",
+                    "start": 23.98,
+                    "end": 24.26,
+                    "probability": 0.9348388016223907
+                },
+                {
+                    "word": " more",
+                    "start": 24.26,
+                    "end": 24.46,
+                    "probability": 0.8594398498535156
+                },
+                {
+                    "word": " of",
+                    "start": 24.46,
+                    "end": 24.6,
+                    "probability": 0.8832327127456665
+                },
+                {
+                    "word": " a",
+                    "start": 24.6,
+                    "end": 24.74,
+                    "probability": 0.9955775737762451
+                },
+                {
+                    "word": " tell",
+                    "start": 24.74,
+                    "end": 24.92,
+                    "probability": 0.8165472745895386
+                },
+                {
+                    "word": " on",
+                    "start": 24.92,
+                    "end": 25.18,
+                    "probability": 0.6761461496353149
+                },
+                {
+                    "word": " us",
+                    "start": 25.18,
+                    "end": 25.72,
+                    "probability": 0.8373737931251526
+                },
+                {
+                    "word": " rather",
+                    "start": 25.72,
+                    "end": 26.26,
+                    "probability": 0.5665011405944824
+                },
+                {
+                    "word": " than",
+                    "start": 26.26,
+                    "end": 26.56,
+                    "probability": 0.8931345343589783
+                },
+                {
+                    "word": " them,",
+                    "start": 26.56,
+                    "end": 26.94,
+                    "probability": 0.7447593212127686
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2694,
+            "start": 27.94,
+            "end": 30.72,
+            "text": " because maybe they're just not stupid enough to do all this kind of stuff.",
+            "tokens": [
+                50380,
+                570,
+                1310,
+                436,
+                434,
+                445,
+                406,
+                6631,
+                1547,
+                281,
+                360,
+                439,
+                341,
+                733,
+                295,
+                1507,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1918888343007941,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.10431433469057083,
+            "words": [
+                {
+                    "word": " because",
+                    "start": 27.94,
+                    "end": 28.26,
+                    "probability": 0.3553256094455719
+                },
+                {
+                    "word": " maybe",
+                    "start": 28.26,
+                    "end": 28.28,
+                    "probability": 0.7390714883804321
+                },
+                {
+                    "word": " they're",
+                    "start": 28.28,
+                    "end": 28.58,
+                    "probability": 0.8202162981033325
+                },
+                {
+                    "word": " just",
+                    "start": 28.58,
+                    "end": 28.74,
+                    "probability": 0.8831062912940979
+                },
+                {
+                    "word": " not",
+                    "start": 28.74,
+                    "end": 28.9,
+                    "probability": 0.8997835516929626
+                },
+                {
+                    "word": " stupid",
+                    "start": 28.9,
+                    "end": 29.26,
+                    "probability": 0.8756174445152283
+                },
+                {
+                    "word": " enough",
+                    "start": 29.26,
+                    "end": 29.52,
+                    "probability": 0.7956235408782959
+                },
+                {
+                    "word": " to",
+                    "start": 29.52,
+                    "end": 29.68,
+                    "probability": 0.9062277674674988
+                },
+                {
+                    "word": " do",
+                    "start": 29.68,
+                    "end": 29.84,
+                    "probability": 0.9079822897911072
+                },
+                {
+                    "word": " all",
+                    "start": 29.84,
+                    "end": 29.98,
+                    "probability": 0.8558304905891418
+                },
+                {
+                    "word": " this",
+                    "start": 29.98,
+                    "end": 30.14,
+                    "probability": 0.8462037444114685
+                },
+                {
+                    "word": " kind",
+                    "start": 30.14,
+                    "end": 30.34,
+                    "probability": 0.7094879150390625
+                },
+                {
+                    "word": " of",
+                    "start": 30.34,
+                    "end": 30.46,
+                    "probability": 0.9135540723800659
+                },
+                {
+                    "word": " stuff.",
+                    "start": 30.46,
+                    "end": 30.72,
+                    "probability": 0.7979954481124878
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

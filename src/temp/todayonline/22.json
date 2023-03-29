@@ -1,0 +1,266 @@
+{
+    "text": " Yes, yes, sir. Yes or no. I'll repeat the question. Do you have full responsibility over the algorithms used by TikTok to prioritize content to its users? Yes or no, please.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.14,
+            "text": " Yes, yes, sir. Yes or no. I'll repeat the question. Do you have full responsibility",
+            "tokens": [
+                50364,
+                1079,
+                11,
+                2086,
+                11,
+                4735,
+                13,
+                1079,
+                420,
+                572,
+                13,
+                286,
+                603,
+                7149,
+                264,
+                1168,
+                13,
+                1144,
+                291,
+                362,
+                1577,
+                6357,
+                50792
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4036439259847005,
+            "compression_ratio": 1.3106060606060606,
+            "no_speech_prob": 0.012773727998137474,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.44265037775039673
+                },
+                {
+                    "word": " yes,",
+                    "start": 0.3,
+                    "end": 0.74,
+                    "probability": 0.22807292640209198
+                },
+                {
+                    "word": " sir.",
+                    "start": 0.82,
+                    "end": 1.84,
+                    "probability": 0.39175647497177124
+                },
+                {
+                    "word": " Yes",
+                    "start": 2.46,
+                    "end": 2.92,
+                    "probability": 0.876002311706543
+                },
+                {
+                    "word": " or",
+                    "start": 2.92,
+                    "end": 3.48,
+                    "probability": 0.7975014448165894
+                },
+                {
+                    "word": " no.",
+                    "start": 3.48,
+                    "end": 3.88,
+                    "probability": 0.8908688426017761
+                },
+                {
+                    "word": " I'll",
+                    "start": 4.06,
+                    "end": 4.26,
+                    "probability": 0.9573430120944977
+                },
+                {
+                    "word": " repeat",
+                    "start": 4.26,
+                    "end": 4.52,
+                    "probability": 0.830212414264679
+                },
+                {
+                    "word": " the",
+                    "start": 4.52,
+                    "end": 4.72,
+                    "probability": 0.8172310590744019
+                },
+                {
+                    "word": " question.",
+                    "start": 4.72,
+                    "end": 5.18,
+                    "probability": 0.8037294745445251
+                },
+                {
+                    "word": " Do",
+                    "start": 6.18,
+                    "end": 6.3,
+                    "probability": 0.9088279008865356
+                },
+                {
+                    "word": " you",
+                    "start": 6.3,
+                    "end": 6.48,
+                    "probability": 0.8970882892608643
+                },
+                {
+                    "word": " have",
+                    "start": 6.48,
+                    "end": 6.72,
+                    "probability": 0.8820478916168213
+                },
+                {
+                    "word": " full",
+                    "start": 6.72,
+                    "end": 7.04,
+                    "probability": 0.8390297889709473
+                },
+                {
+                    "word": " responsibility",
+                    "start": 7.04,
+                    "end": 8.14,
+                    "probability": 0.8995026350021362
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.14,
+            "end": 15.02,
+            "text": " over the algorithms used by TikTok to prioritize content to its users? Yes or no, please.",
+            "tokens": [
+                50792,
+                670,
+                264,
+                14642,
+                1143,
+                538,
+                20211,
+                281,
+                25164,
+                2701,
+                281,
+                1080,
+                5022,
+                30,
+                1079,
+                420,
+                572,
+                11,
+                1767,
+                13,
+                51156
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4036439259847005,
+            "compression_ratio": 1.3106060606060606,
+            "no_speech_prob": 0.012773727998137474,
+            "words": [
+                {
+                    "word": " over",
+                    "start": 8.14,
+                    "end": 8.82,
+                    "probability": 0.870737612247467
+                },
+                {
+                    "word": " the",
+                    "start": 8.82,
+                    "end": 9.06,
+                    "probability": 0.8083444237709045
+                },
+                {
+                    "word": " algorithms",
+                    "start": 9.06,
+                    "end": 9.74,
+                    "probability": 0.8414551615715027
+                },
+                {
+                    "word": " used",
+                    "start": 9.74,
+                    "end": 10.78,
+                    "probability": 0.7831536531448364
+                },
+                {
+                    "word": " by",
+                    "start": 10.78,
+                    "end": 11.02,
+                    "probability": 0.906647264957428
+                },
+                {
+                    "word": " TikTok",
+                    "start": 11.02,
+                    "end": 11.3,
+                    "probability": 0.5059961080551147
+                },
+                {
+                    "word": " to",
+                    "start": 11.3,
+                    "end": 11.62,
+                    "probability": 0.8667157292366028
+                },
+                {
+                    "word": " prioritize",
+                    "start": 11.62,
+                    "end": 12.1,
+                    "probability": 0.5764339566230774
+                },
+                {
+                    "word": " content",
+                    "start": 12.1,
+                    "end": 12.86,
+                    "probability": 0.8128729462623596
+                },
+                {
+                    "word": " to",
+                    "start": 12.86,
+                    "end": 13.4,
+                    "probability": 0.8916972279548645
+                },
+                {
+                    "word": " its",
+                    "start": 13.4,
+                    "end": 13.58,
+                    "probability": 0.801158607006073
+                },
+                {
+                    "word": " users?",
+                    "start": 13.58,
+                    "end": 13.94,
+                    "probability": 0.8444089293479919
+                },
+                {
+                    "word": " Yes",
+                    "start": 14.08,
+                    "end": 14.24,
+                    "probability": 0.9165223240852356
+                },
+                {
+                    "word": " or",
+                    "start": 14.24,
+                    "end": 14.4,
+                    "probability": 0.906621515750885
+                },
+                {
+                    "word": " no,",
+                    "start": 14.4,
+                    "end": 14.58,
+                    "probability": 0.9016209244728088
+                },
+                {
+                    "word": " please.",
+                    "start": 14.66,
+                    "end": 15.02,
+                    "probability": 0.7193350791931152
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

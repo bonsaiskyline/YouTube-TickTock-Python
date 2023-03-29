@@ -1,0 +1,171 @@
+{
+    "text": " suicide. Just because you're removing something that says anorexia, bulimia, or eating disorder, that doesn't do it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 3.8,
+            "text": " suicide. Just because you're removing something that says anorexia, bulimia, or",
+            "tokens": [
+                50364,
+                12308,
+                13,
+                1449,
+                570,
+                291,
+                434,
+                12720,
+                746,
+                300,
+                1619,
+                364,
+                418,
+                87,
+                654,
+                11,
+                6493,
+                332,
+                654,
+                11,
+                420,
+                50554
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3254087392021628,
+            "compression_ratio": 1.2083333333333333,
+            "no_speech_prob": 0.1018514633178711,
+            "words": [
+                {
+                    "word": " suicide.",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.3814815580844879
+                },
+                {
+                    "word": " Just",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.7054315209388733
+                },
+                {
+                    "word": " because",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.8330262303352356
+                },
+                {
+                    "word": " you're",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.8770875632762909
+                },
+                {
+                    "word": " removing",
+                    "start": 1.24,
+                    "end": 1.56,
+                    "probability": 0.5756608247756958
+                },
+                {
+                    "word": " something",
+                    "start": 1.56,
+                    "end": 1.92,
+                    "probability": 0.7484734654426575
+                },
+                {
+                    "word": " that",
+                    "start": 1.92,
+                    "end": 2.14,
+                    "probability": 0.8704391121864319
+                },
+                {
+                    "word": " says",
+                    "start": 2.14,
+                    "end": 2.3,
+                    "probability": 0.6829385161399841
+                },
+                {
+                    "word": " anorexia,",
+                    "start": 2.3,
+                    "end": 3.04,
+                    "probability": 0.921114593744278
+                },
+                {
+                    "word": " bulimia,",
+                    "start": 3.16,
+                    "end": 3.64,
+                    "probability": 0.9360597332318624
+                },
+                {
+                    "word": " or",
+                    "start": 3.74,
+                    "end": 3.8,
+                    "probability": 0.8937254548072815
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8,
+            "end": 5.28,
+            "text": " eating disorder, that doesn't do it.",
+            "tokens": [
+                50554,
+                3936,
+                13399,
+                11,
+                300,
+                1177,
+                380,
+                360,
+                309,
+                13,
+                50726
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3254087392021628,
+            "compression_ratio": 1.2083333333333333,
+            "no_speech_prob": 0.1018514633178711,
+            "words": [
+                {
+                    "word": " eating",
+                    "start": 3.8,
+                    "end": 4.04,
+                    "probability": 0.8640546202659607
+                },
+                {
+                    "word": " disorder,",
+                    "start": 4.04,
+                    "end": 4.4,
+                    "probability": 0.8103147149085999
+                },
+                {
+                    "word": " that",
+                    "start": 4.48,
+                    "end": 4.62,
+                    "probability": 0.8812772035598755
+                },
+                {
+                    "word": " doesn't",
+                    "start": 4.62,
+                    "end": 4.94,
+                    "probability": 0.9307086169719696
+                },
+                {
+                    "word": " do",
+                    "start": 4.94,
+                    "end": 5.12,
+                    "probability": 0.9133703708648682
+                },
+                {
+                    "word": " it.",
+                    "start": 5.12,
+                    "end": 5.28,
+                    "probability": 0.90699303150177
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

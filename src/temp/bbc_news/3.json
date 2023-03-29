@@ -1,0 +1,156 @@
+{
+    "text": " Out of the gate, the Singaporean boss of TikTok sought to push back against this characterisation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " Out of the gate, the Singaporean boss of TikTok",
+            "tokens": [
+                50364,
+                5925,
+                295,
+                264,
+                8539,
+                11,
+                264,
+                14491,
+                282,
+                5741,
+                295,
+                20211,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32596656799316404,
+            "compression_ratio": 1.1264367816091954,
+            "no_speech_prob": 0.001722089946269989,
+            "words": [
+                {
+                    "word": " Out",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6710562109947205
+                },
+                {
+                    "word": " of",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.8871789574623108
+                },
+                {
+                    "word": " the",
+                    "start": 0.32,
+                    "end": 0.44,
+                    "probability": 0.8166795372962952
+                },
+                {
+                    "word": " gate,",
+                    "start": 0.44,
+                    "end": 0.64,
+                    "probability": 0.8701816201210022
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.84,
+                    "probability": 0.8029156923294067
+                },
+                {
+                    "word": " Singaporean",
+                    "start": 0.84,
+                    "end": 1.44,
+                    "probability": 0.8738457262516022
+                },
+                {
+                    "word": " boss",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.7728906273841858
+                },
+                {
+                    "word": " of",
+                    "start": 1.74,
+                    "end": 1.92,
+                    "probability": 0.9005061984062195
+                },
+                {
+                    "word": " TikTok",
+                    "start": 1.92,
+                    "end": 2.28,
+                    "probability": 0.8075830340385437
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.28,
+            "end": 5.14,
+            "text": " sought to push back against this characterisation.",
+            "tokens": [
+                50480,
+                17532,
+                281,
+                2944,
+                646,
+                1970,
+                341,
+                2517,
+                7623,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32596656799316404,
+            "compression_ratio": 1.1264367816091954,
+            "no_speech_prob": 0.001722089946269989,
+            "words": [
+                {
+                    "word": " sought",
+                    "start": 2.28,
+                    "end": 2.58,
+                    "probability": 0.8026689291000366
+                },
+                {
+                    "word": " to",
+                    "start": 2.58,
+                    "end": 2.78,
+                    "probability": 0.9001572728157043
+                },
+                {
+                    "word": " push",
+                    "start": 2.78,
+                    "end": 3.02,
+                    "probability": 0.8260876536369324
+                },
+                {
+                    "word": " back",
+                    "start": 3.02,
+                    "end": 3.36,
+                    "probability": 0.8131153583526611
+                },
+                {
+                    "word": " against",
+                    "start": 3.36,
+                    "end": 4.0,
+                    "probability": 0.8864418268203735
+                },
+                {
+                    "word": " this",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.8937399387359619
+                },
+                {
+                    "word": " characterisation.",
+                    "start": 4.26,
+                    "end": 5.14,
+                    "probability": 0.7279215008020401
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

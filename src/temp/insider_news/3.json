@@ -1,0 +1,275 @@
+{
+    "text": " and that data is stored on your local device and deleted after use if you use it for facial. Again, we do not collect body, face or voice data to identify our users.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " and that data is stored on your local device and deleted after use if you use it for facial.",
+            "tokens": [
+                50364,
+                293,
+                300,
+                1412,
+                307,
+                12187,
+                322,
+                428,
+                2654,
+                4302,
+                293,
+                22981,
+                934,
+                764,
+                498,
+                291,
+                764,
+                309,
+                337,
+                15642,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3071278617495582,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.023098301142454147,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.4838947057723999
+                },
+                {
+                    "word": " that",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.7036662101745605
+                },
+                {
+                    "word": " data",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.7772759199142456
+                },
+                {
+                    "word": " is",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.8917882442474365
+                },
+                {
+                    "word": " stored",
+                    "start": 1.12,
+                    "end": 1.32,
+                    "probability": 0.7669923901557922
+                },
+                {
+                    "word": " on",
+                    "start": 1.32,
+                    "end": 1.5,
+                    "probability": 0.8967075943946838
+                },
+                {
+                    "word": " your",
+                    "start": 1.5,
+                    "end": 1.62,
+                    "probability": 0.7956835627555847
+                },
+                {
+                    "word": " local",
+                    "start": 1.62,
+                    "end": 1.92,
+                    "probability": 0.7490530610084534
+                },
+                {
+                    "word": " device",
+                    "start": 1.92,
+                    "end": 2.36,
+                    "probability": 0.9128914475440979
+                },
+                {
+                    "word": " and",
+                    "start": 2.36,
+                    "end": 2.54,
+                    "probability": 0.8404991030693054
+                },
+                {
+                    "word": " deleted",
+                    "start": 2.54,
+                    "end": 2.86,
+                    "probability": 0.8330397605895996
+                },
+                {
+                    "word": " after",
+                    "start": 2.86,
+                    "end": 3.16,
+                    "probability": 0.7564253807067871
+                },
+                {
+                    "word": " use",
+                    "start": 3.16,
+                    "end": 3.46,
+                    "probability": 0.811636745929718
+                },
+                {
+                    "word": " if",
+                    "start": 3.46,
+                    "end": 3.64,
+                    "probability": 0.7083448767662048
+                },
+                {
+                    "word": " you",
+                    "start": 3.64,
+                    "end": 3.72,
+                    "probability": 0.886716365814209
+                },
+                {
+                    "word": " use",
+                    "start": 3.72,
+                    "end": 3.9,
+                    "probability": 0.7961811423301697
+                },
+                {
+                    "word": " it",
+                    "start": 3.9,
+                    "end": 3.98,
+                    "probability": 0.8978891968727112
+                },
+                {
+                    "word": " for",
+                    "start": 3.98,
+                    "end": 4.12,
+                    "probability": 0.9030210971832275
+                },
+                {
+                    "word": " facial.",
+                    "start": 4.12,
+                    "end": 4.38,
+                    "probability": 0.8309603333473206
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 9.0,
+            "text": " Again, we do not collect body, face or voice data to identify our users.",
+            "tokens": [
+                50596,
+                3764,
+                11,
+                321,
+                360,
+                406,
+                2500,
+                1772,
+                11,
+                1851,
+                420,
+                3177,
+                1412,
+                281,
+                5876,
+                527,
+                5022,
+                13,
+                50824
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3071278617495582,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.023098301142454147,
+            "words": [
+                {
+                    "word": " Again,",
+                    "start": 4.74,
+                    "end": 5.12,
+                    "probability": 0.9027988314628601
+                },
+                {
+                    "word": " we",
+                    "start": 5.46,
+                    "end": 5.54,
+                    "probability": 0.908226490020752
+                },
+                {
+                    "word": " do",
+                    "start": 5.54,
+                    "end": 5.66,
+                    "probability": 0.9116324782371521
+                },
+                {
+                    "word": " not",
+                    "start": 5.66,
+                    "end": 5.82,
+                    "probability": 0.9032689332962036
+                },
+                {
+                    "word": " collect",
+                    "start": 5.82,
+                    "end": 6.12,
+                    "probability": 0.7987384796142578
+                },
+                {
+                    "word": " body,",
+                    "start": 6.12,
+                    "end": 6.5,
+                    "probability": 0.8106020092964172
+                },
+                {
+                    "word": " face",
+                    "start": 6.9,
+                    "end": 7.2,
+                    "probability": 0.8114033341407776
+                },
+                {
+                    "word": " or",
+                    "start": 7.2,
+                    "end": 7.4,
+                    "probability": 0.602133572101593
+                },
+                {
+                    "word": " voice",
+                    "start": 7.4,
+                    "end": 7.66,
+                    "probability": 0.8575456142425537
+                },
+                {
+                    "word": " data",
+                    "start": 7.66,
+                    "end": 7.94,
+                    "probability": 0.8017791509628296
+                },
+                {
+                    "word": " to",
+                    "start": 7.94,
+                    "end": 8.14,
+                    "probability": 0.9005342721939087
+                },
+                {
+                    "word": " identify",
+                    "start": 8.14,
+                    "end": 8.56,
+                    "probability": 0.8830116391181946
+                },
+                {
+                    "word": " our",
+                    "start": 8.56,
+                    "end": 8.78,
+                    "probability": 0.7763685584068298
+                },
+                {
+                    "word": " users.",
+                    "start": 8.78,
+                    "end": 9.0,
+                    "probability": 0.8470633625984192
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,326 @@
+{
+    "text": " Hey, this guy's doing it too. We have relied on global interoperability. You have access to American data. Congressman, I'm answering your question. If you give me just a bit of time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " Hey, this guy's doing it too.",
+            "tokens": [
+                50364,
+                1911,
+                11,
+                341,
+                2146,
+                311,
+                884,
+                309,
+                886,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2852118633411549,
+            "compression_ratio": 1.2708333333333333,
+            "no_speech_prob": 0.011423303745687008,
+            "words": [
+                {
+                    "word": " Hey,",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5035190582275391
+                },
+                {
+                    "word": " this",
+                    "start": 0.22,
+                    "end": 0.3,
+                    "probability": 0.8790342211723328
+                },
+                {
+                    "word": " guy's",
+                    "start": 0.3,
+                    "end": 0.56,
+                    "probability": 0.6867775022983551
+                },
+                {
+                    "word": " doing",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.8699383735656738
+                },
+                {
+                    "word": " it",
+                    "start": 0.74,
+                    "end": 0.88,
+                    "probability": 0.9037870764732361
+                },
+                {
+                    "word": " too.",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.6044936776161194
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.54,
+            "end": 3.5,
+            "text": " We have relied on global interoperability.",
+            "tokens": [
+                50444,
+                492,
+                362,
+                35463,
+                322,
+                4338,
+                728,
+                7192,
+                2310,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2852118633411549,
+            "compression_ratio": 1.2708333333333333,
+            "no_speech_prob": 0.011423303745687008,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 1.54,
+                    "end": 1.72,
+                    "probability": 0.6634683012962341
+                },
+                {
+                    "word": " have",
+                    "start": 1.72,
+                    "end": 1.84,
+                    "probability": 0.8645230531692505
+                },
+                {
+                    "word": " relied",
+                    "start": 1.84,
+                    "end": 2.1,
+                    "probability": 0.8889870643615723
+                },
+                {
+                    "word": " on",
+                    "start": 2.1,
+                    "end": 2.28,
+                    "probability": 0.9067342877388
+                },
+                {
+                    "word": " global",
+                    "start": 2.28,
+                    "end": 2.62,
+                    "probability": 0.8634810447692871
+                },
+                {
+                    "word": " interoperability.",
+                    "start": 2.62,
+                    "end": 3.5,
+                    "probability": 0.9250437219937643
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.62,
+            "end": 6.24,
+            "text": " You have access to American data.",
+            "tokens": [
+                50544,
+                509,
+                362,
+                2105,
+                281,
+                2665,
+                1412,
+                13,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2852118633411549,
+            "compression_ratio": 1.2708333333333333,
+            "no_speech_prob": 0.011423303745687008,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 3.62,
+                    "end": 3.76,
+                    "probability": 0.8796114325523376
+                },
+                {
+                    "word": " have",
+                    "start": 3.76,
+                    "end": 4.12,
+                    "probability": 0.8836988210678101
+                },
+                {
+                    "word": " access",
+                    "start": 4.12,
+                    "end": 5.06,
+                    "probability": 0.7870372533798218
+                },
+                {
+                    "word": " to",
+                    "start": 5.06,
+                    "end": 5.42,
+                    "probability": 0.9072631001472473
+                },
+                {
+                    "word": " American",
+                    "start": 5.42,
+                    "end": 5.86,
+                    "probability": 0.7889840006828308
+                },
+                {
+                    "word": " data.",
+                    "start": 5.86,
+                    "end": 6.24,
+                    "probability": 0.7843716740608215
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.4,
+            "end": 7.8,
+            "text": " Congressman, I'm answering your question.",
+            "tokens": [
+                50682,
+                38071,
+                11,
+                286,
+                478,
+                13430,
+                428,
+                1168,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2852118633411549,
+            "compression_ratio": 1.2708333333333333,
+            "no_speech_prob": 0.011423303745687008,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 6.4,
+                    "end": 6.62,
+                    "probability": 0.8919798731803894
+                },
+                {
+                    "word": " I'm",
+                    "start": 6.84,
+                    "end": 7.02,
+                    "probability": 0.9869741201400757
+                },
+                {
+                    "word": " answering",
+                    "start": 7.02,
+                    "end": 7.3,
+                    "probability": 0.8764460682868958
+                },
+                {
+                    "word": " your",
+                    "start": 7.3,
+                    "end": 7.6,
+                    "probability": 0.7882292866706848
+                },
+                {
+                    "word": " question.",
+                    "start": 7.6,
+                    "end": 7.8,
+                    "probability": 0.7857927083969116
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 7.88,
+            "end": 8.92,
+            "text": " If you give me just a bit of time.",
+            "tokens": [
+                50756,
+                759,
+                291,
+                976,
+                385,
+                445,
+                257,
+                857,
+                295,
+                565,
+                13,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2852118633411549,
+            "compression_ratio": 1.2708333333333333,
+            "no_speech_prob": 0.011423303745687008,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 7.88,
+                    "end": 7.94,
+                    "probability": 0.8593679070472717
+                },
+                {
+                    "word": " you",
+                    "start": 7.94,
+                    "end": 7.98,
+                    "probability": 0.8965983986854553
+                },
+                {
+                    "word": " give",
+                    "start": 7.98,
+                    "end": 8.1,
+                    "probability": 0.5852452516555786
+                },
+                {
+                    "word": " me",
+                    "start": 8.1,
+                    "end": 8.22,
+                    "probability": 0.9067237973213196
+                },
+                {
+                    "word": " just",
+                    "start": 8.22,
+                    "end": 8.38,
+                    "probability": 0.8811603784561157
+                },
+                {
+                    "word": " a",
+                    "start": 8.38,
+                    "end": 8.52,
+                    "probability": 0.998737633228302
+                },
+                {
+                    "word": " bit",
+                    "start": 8.52,
+                    "end": 8.6,
+                    "probability": 0.8984620571136475
+                },
+                {
+                    "word": " of",
+                    "start": 8.6,
+                    "end": 8.7,
+                    "probability": 0.9047195911407471
+                },
+                {
+                    "word": " time.",
+                    "start": 8.7,
+                    "end": 8.92,
+                    "probability": 0.7955302000045776
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,290 @@
+{
+    "text": " To give you comfort, Congressman, to give you comfort, that's why we're giving third-party monitors. As an expert, I think you can agree that very few companies have to do this.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.46,
+            "end": 4.7,
+            "text": " To give you comfort, Congressman, to give you comfort, that's why we're giving third-party",
+            "tokens": [
+                50364,
+                1407,
+                976,
+                291,
+                3400,
+                11,
+                38071,
+                11,
+                281,
+                976,
+                291,
+                3400,
+                11,
+                300,
+                311,
+                983,
+                321,
+                434,
+                2902,
+                2636,
+                12,
+                23409,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3748313585917155,
+            "compression_ratio": 1.3828125,
+            "no_speech_prob": 0.202876016497612,
+            "words": [
+                {
+                    "word": " To",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.09784139692783356
+                },
+                {
+                    "word": " give",
+                    "start": 0.82,
+                    "end": 1.06,
+                    "probability": 0.8268266916275024
+                },
+                {
+                    "word": " you",
+                    "start": 1.06,
+                    "end": 1.18,
+                    "probability": 0.8567150831222534
+                },
+                {
+                    "word": " comfort,",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.6768260598182678
+                },
+                {
+                    "word": " Congressman,",
+                    "start": 3.0,
+                    "end": 3.0,
+                    "probability": 0.44226229190826416
+                },
+                {
+                    "word": " to",
+                    "start": 3.14,
+                    "end": 3.2,
+                    "probability": 0.5301092863082886
+                },
+                {
+                    "word": " give",
+                    "start": 3.2,
+                    "end": 3.34,
+                    "probability": 0.8177878856658936
+                },
+                {
+                    "word": " you",
+                    "start": 3.34,
+                    "end": 3.44,
+                    "probability": 0.8783789873123169
+                },
+                {
+                    "word": " comfort,",
+                    "start": 3.44,
+                    "end": 3.62,
+                    "probability": 0.8381636142730713
+                },
+                {
+                    "word": " that's",
+                    "start": 3.72,
+                    "end": 3.84,
+                    "probability": 0.8953537940979004
+                },
+                {
+                    "word": " why",
+                    "start": 3.84,
+                    "end": 3.92,
+                    "probability": 0.8103652000427246
+                },
+                {
+                    "word": " we're",
+                    "start": 3.92,
+                    "end": 4.08,
+                    "probability": 0.8432339727878571
+                },
+                {
+                    "word": " giving",
+                    "start": 4.08,
+                    "end": 4.26,
+                    "probability": 0.8728951811790466
+                },
+                {
+                    "word": " third",
+                    "start": 4.26,
+                    "end": 4.46,
+                    "probability": 0.8219408392906189
+                },
+                {
+                    "word": "-party",
+                    "start": 4.46,
+                    "end": 4.7,
+                    "probability": 0.6635516881942749
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.7,
+            "end": 5.04,
+            "text": " monitors.",
+            "tokens": [
+                50598,
+                26518,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3748313585917155,
+            "compression_ratio": 1.3828125,
+            "no_speech_prob": 0.202876016497612,
+            "words": [
+                {
+                    "word": " monitors.",
+                    "start": 4.7,
+                    "end": 5.04,
+                    "probability": 0.7380271553993225
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.24,
+            "end": 8.64,
+            "text": " As an expert, I think you can agree that very few companies have to do this.",
+            "tokens": [
+                50648,
+                1018,
+                364,
+                5844,
+                11,
+                286,
+                519,
+                291,
+                393,
+                3986,
+                300,
+                588,
+                1326,
+                3431,
+                362,
+                281,
+                360,
+                341,
+                13,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3748313585917155,
+            "compression_ratio": 1.3828125,
+            "no_speech_prob": 0.202876016497612,
+            "words": [
+                {
+                    "word": " As",
+                    "start": 5.24,
+                    "end": 5.46,
+                    "probability": 0.811974823474884
+                },
+                {
+                    "word": " an",
+                    "start": 5.46,
+                    "end": 5.62,
+                    "probability": 0.9136282205581665
+                },
+                {
+                    "word": " expert,",
+                    "start": 5.62,
+                    "end": 5.88,
+                    "probability": 0.7773357629776001
+                },
+                {
+                    "word": " I",
+                    "start": 6.02,
+                    "end": 6.08,
+                    "probability": 0.9793916344642639
+                },
+                {
+                    "word": " think",
+                    "start": 6.08,
+                    "end": 6.18,
+                    "probability": 0.816358208656311
+                },
+                {
+                    "word": " you",
+                    "start": 6.18,
+                    "end": 6.28,
+                    "probability": 0.8898056149482727
+                },
+                {
+                    "word": " can",
+                    "start": 6.28,
+                    "end": 6.42,
+                    "probability": 0.8905640244483948
+                },
+                {
+                    "word": " agree",
+                    "start": 6.42,
+                    "end": 6.7,
+                    "probability": 0.8571082949638367
+                },
+                {
+                    "word": " that",
+                    "start": 6.7,
+                    "end": 6.98,
+                    "probability": 0.857866644859314
+                },
+                {
+                    "word": " very",
+                    "start": 6.98,
+                    "end": 7.36,
+                    "probability": 0.7123167514801025
+                },
+                {
+                    "word": " few",
+                    "start": 7.36,
+                    "end": 7.6,
+                    "probability": 0.7960152626037598
+                },
+                {
+                    "word": " companies",
+                    "start": 7.6,
+                    "end": 7.96,
+                    "probability": 0.8256781697273254
+                },
+                {
+                    "word": " have",
+                    "start": 7.96,
+                    "end": 8.08,
+                    "probability": 0.20424310863018036
+                },
+                {
+                    "word": " to",
+                    "start": 8.08,
+                    "end": 8.3,
+                    "probability": 0.47738972306251526
+                },
+                {
+                    "word": " do",
+                    "start": 8.3,
+                    "end": 8.52,
+                    "probability": 0.8925098180770874
+                },
+                {
+                    "word": " this.",
+                    "start": 8.52,
+                    "end": 8.64,
+                    "probability": 0.8652563095092773
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

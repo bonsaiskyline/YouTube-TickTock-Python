@@ -1,0 +1,38 @@
+{
+    "text": " Oh boy!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " Oh boy!",
+            "tokens": [
+                50364,
+                876,
+                3237,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7710060278574625,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.016430947929620743,
+            "words": [
+                {
+                    "word": " Oh",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.5096607804298401
+                },
+                {
+                    "word": " boy!",
+                    "start": 0.44,
+                    "end": 1.16,
+                    "probability": 0.38839083909988403
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

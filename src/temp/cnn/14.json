@@ -1,0 +1,660 @@
+{
+    "text": " And so the members of Congress are saying we will pass legislation allowing us to ban you from the United States unless you have a sale, a bite dance, a Chinese health company sell it publicly. The CEO keeps trying to say we hear you, we will fix it. Listen here, here's the idea being that look, we understand you think the Chinese government can access this data, we're going to create a firewall, it won't happen.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " And so the members of Congress are saying we will pass legislation allowing us to ban",
+            "tokens": [
+                50364,
+                400,
+                370,
+                264,
+                2679,
+                295,
+                6426,
+                366,
+                1566,
+                321,
+                486,
+                1320,
+                11329,
+                8293,
+                505,
+                281,
+                5643,
+                50545
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29847770987205136,
+            "compression_ratio": 1.5580524344569289,
+            "no_speech_prob": 0.014046900905668736,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6583127379417419
+                },
+                {
+                    "word": " so",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.8962926268577576
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.7605238556861877
+                },
+                {
+                    "word": " members",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.7828683257102966
+                },
+                {
+                    "word": " of",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.9041169881820679
+                },
+                {
+                    "word": " Congress",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.7995372414588928
+                },
+                {
+                    "word": " are",
+                    "start": 1.04,
+                    "end": 1.18,
+                    "probability": 0.8661983609199524
+                },
+                {
+                    "word": " saying",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.8126371502876282
+                },
+                {
+                    "word": " we",
+                    "start": 1.48,
+                    "end": 1.94,
+                    "probability": 0.5076851844787598
+                },
+                {
+                    "word": " will",
+                    "start": 1.94,
+                    "end": 2.12,
+                    "probability": 0.8067632913589478
+                },
+                {
+                    "word": " pass",
+                    "start": 2.12,
+                    "end": 2.36,
+                    "probability": 0.8365595936775208
+                },
+                {
+                    "word": " legislation",
+                    "start": 2.36,
+                    "end": 2.84,
+                    "probability": 0.7035790681838989
+                },
+                {
+                    "word": " allowing",
+                    "start": 2.84,
+                    "end": 3.14,
+                    "probability": 0.8040468096733093
+                },
+                {
+                    "word": " us",
+                    "start": 3.14,
+                    "end": 3.3,
+                    "probability": 0.8982133269309998
+                },
+                {
+                    "word": " to",
+                    "start": 3.3,
+                    "end": 3.44,
+                    "probability": 0.9044985175132751
+                },
+                {
+                    "word": " ban",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.8889847993850708
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.7,
+            "end": 7.62,
+            "text": " you from the United States unless you have a sale, a bite dance, a Chinese health company",
+            "tokens": [
+                50545,
+                291,
+                490,
+                264,
+                2824,
+                3040,
+                5969,
+                291,
+                362,
+                257,
+                8680,
+                11,
+                257,
+                7988,
+                4489,
+                11,
+                257,
+                4649,
+                1585,
+                2237,
+                50752
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29847770987205136,
+            "compression_ratio": 1.5580524344569289,
+            "no_speech_prob": 0.014046900905668736,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 3.7,
+                    "end": 3.92,
+                    "probability": 0.8939392566680908
+                },
+                {
+                    "word": " from",
+                    "start": 3.92,
+                    "end": 4.16,
+                    "probability": 0.8097211122512817
+                },
+                {
+                    "word": " the",
+                    "start": 4.16,
+                    "end": 4.28,
+                    "probability": 0.8077357411384583
+                },
+                {
+                    "word": " United",
+                    "start": 4.28,
+                    "end": 4.42,
+                    "probability": 0.8427586555480957
+                },
+                {
+                    "word": " States",
+                    "start": 4.42,
+                    "end": 4.66,
+                    "probability": 0.8776048421859741
+                },
+                {
+                    "word": " unless",
+                    "start": 4.66,
+                    "end": 5.02,
+                    "probability": 0.6029933094978333
+                },
+                {
+                    "word": " you",
+                    "start": 5.02,
+                    "end": 5.26,
+                    "probability": 0.897282600402832
+                },
+                {
+                    "word": " have",
+                    "start": 5.26,
+                    "end": 5.44,
+                    "probability": 0.879594624042511
+                },
+                {
+                    "word": " a",
+                    "start": 5.44,
+                    "end": 5.58,
+                    "probability": 0.9967849254608154
+                },
+                {
+                    "word": " sale,",
+                    "start": 5.58,
+                    "end": 5.9,
+                    "probability": 0.7683420777320862
+                },
+                {
+                    "word": " a",
+                    "start": 6.28,
+                    "end": 6.38,
+                    "probability": 0.9891096353530884
+                },
+                {
+                    "word": " bite",
+                    "start": 6.38,
+                    "end": 6.56,
+                    "probability": 0.6217464804649353
+                },
+                {
+                    "word": " dance,",
+                    "start": 6.56,
+                    "end": 6.82,
+                    "probability": 0.8004079461097717
+                },
+                {
+                    "word": " a",
+                    "start": 6.92,
+                    "end": 6.96,
+                    "probability": 0.5088409185409546
+                },
+                {
+                    "word": " Chinese",
+                    "start": 6.96,
+                    "end": 7.24,
+                    "probability": 0.7548664212226868
+                },
+                {
+                    "word": " health",
+                    "start": 7.24,
+                    "end": 7.4,
+                    "probability": 0.8580992221832275
+                },
+                {
+                    "word": " company",
+                    "start": 7.4,
+                    "end": 7.62,
+                    "probability": 0.7232045531272888
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.62,
+            "end": 8.56,
+            "text": " sell it publicly.",
+            "tokens": [
+                50752,
+                3607,
+                309,
+                14843,
+                13,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29847770987205136,
+            "compression_ratio": 1.5580524344569289,
+            "no_speech_prob": 0.014046900905668736,
+            "words": [
+                {
+                    "word": " sell",
+                    "start": 7.62,
+                    "end": 8.08,
+                    "probability": 0.43082937598228455
+                },
+                {
+                    "word": " it",
+                    "start": 8.08,
+                    "end": 8.22,
+                    "probability": 0.8886043429374695
+                },
+                {
+                    "word": " publicly.",
+                    "start": 8.22,
+                    "end": 8.56,
+                    "probability": 0.844691276550293
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.82,
+            "end": 11.94,
+            "text": " The CEO keeps trying to say we hear you, we will fix it.",
+            "tokens": [
+                50810,
+                440,
+                9282,
+                5965,
+                1382,
+                281,
+                584,
+                321,
+                1568,
+                291,
+                11,
+                321,
+                486,
+                3191,
+                309,
+                13,
+                50972
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29847770987205136,
+            "compression_ratio": 1.5580524344569289,
+            "no_speech_prob": 0.014046900905668736,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 8.82,
+                    "end": 9.02,
+                    "probability": 0.8219295740127563
+                },
+                {
+                    "word": " CEO",
+                    "start": 9.02,
+                    "end": 9.34,
+                    "probability": 0.840410590171814
+                },
+                {
+                    "word": " keeps",
+                    "start": 9.34,
+                    "end": 9.62,
+                    "probability": 0.7514625787734985
+                },
+                {
+                    "word": " trying",
+                    "start": 9.62,
+                    "end": 9.82,
+                    "probability": 0.7883681058883667
+                },
+                {
+                    "word": " to",
+                    "start": 9.82,
+                    "end": 9.96,
+                    "probability": 0.9045644998550415
+                },
+                {
+                    "word": " say",
+                    "start": 9.96,
+                    "end": 10.16,
+                    "probability": 0.9011129140853882
+                },
+                {
+                    "word": " we",
+                    "start": 10.16,
+                    "end": 10.58,
+                    "probability": 0.4940676689147949
+                },
+                {
+                    "word": " hear",
+                    "start": 10.58,
+                    "end": 10.8,
+                    "probability": 0.8693785071372986
+                },
+                {
+                    "word": " you,",
+                    "start": 10.8,
+                    "end": 11.02,
+                    "probability": 0.8950185775756836
+                },
+                {
+                    "word": " we",
+                    "start": 11.24,
+                    "end": 11.4,
+                    "probability": 0.9052211046218872
+                },
+                {
+                    "word": " will",
+                    "start": 11.4,
+                    "end": 11.52,
+                    "probability": 0.8059509992599487
+                },
+                {
+                    "word": " fix",
+                    "start": 11.52,
+                    "end": 11.8,
+                    "probability": 0.9045355916023254
+                },
+                {
+                    "word": " it.",
+                    "start": 11.8,
+                    "end": 11.94,
+                    "probability": 0.9034509658813477
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.16,
+            "end": 16.16,
+            "text": " Listen here, here's the idea being that look, we understand you think the Chinese government",
+            "tokens": [
+                50972,
+                7501,
+                510,
+                11,
+                510,
+                311,
+                264,
+                1558,
+                885,
+                300,
+                574,
+                11,
+                321,
+                1223,
+                291,
+                519,
+                264,
+                4649,
+                2463,
+                51174
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29847770987205136,
+            "compression_ratio": 1.5580524344569289,
+            "no_speech_prob": 0.014046900905668736,
+            "words": [
+                {
+                    "word": " Listen",
+                    "start": 12.16,
+                    "end": 12.38,
+                    "probability": 0.7774079442024231
+                },
+                {
+                    "word": " here,",
+                    "start": 12.38,
+                    "end": 12.58,
+                    "probability": 0.7648998498916626
+                },
+                {
+                    "word": " here's",
+                    "start": 12.68,
+                    "end": 12.88,
+                    "probability": 0.895643025636673
+                },
+                {
+                    "word": " the",
+                    "start": 12.88,
+                    "end": 13.0,
+                    "probability": 0.8173539042472839
+                },
+                {
+                    "word": " idea",
+                    "start": 13.0,
+                    "end": 13.44,
+                    "probability": 0.765312135219574
+                },
+                {
+                    "word": " being",
+                    "start": 13.44,
+                    "end": 13.66,
+                    "probability": 0.7877766489982605
+                },
+                {
+                    "word": " that",
+                    "start": 13.66,
+                    "end": 13.86,
+                    "probability": 0.8640855550765991
+                },
+                {
+                    "word": " look,",
+                    "start": 13.86,
+                    "end": 14.22,
+                    "probability": 0.5037717223167419
+                },
+                {
+                    "word": " we",
+                    "start": 14.32,
+                    "end": 14.4,
+                    "probability": 0.9008278250694275
+                },
+                {
+                    "word": " understand",
+                    "start": 14.4,
+                    "end": 14.84,
+                    "probability": 0.7646083831787109
+                },
+                {
+                    "word": " you",
+                    "start": 14.84,
+                    "end": 15.08,
+                    "probability": 0.6951295733451843
+                },
+                {
+                    "word": " think",
+                    "start": 15.08,
+                    "end": 15.34,
+                    "probability": 0.7892301678657532
+                },
+                {
+                    "word": " the",
+                    "start": 15.34,
+                    "end": 15.54,
+                    "probability": 0.7953199148178101
+                },
+                {
+                    "word": " Chinese",
+                    "start": 15.54,
+                    "end": 15.84,
+                    "probability": 0.76836097240448
+                },
+                {
+                    "word": " government",
+                    "start": 15.84,
+                    "end": 16.16,
+                    "probability": 0.8157781958580017
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 16.16,
+            "end": 18.54,
+            "text": " can access this data, we're going to create a firewall, it won't happen.",
+            "tokens": [
+                51174,
+                393,
+                2105,
+                341,
+                1412,
+                11,
+                321,
+                434,
+                516,
+                281,
+                1884,
+                257,
+                36109,
+                11,
+                309,
+                1582,
+                380,
+                1051,
+                13,
+                51292
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29847770987205136,
+            "compression_ratio": 1.5580524344569289,
+            "no_speech_prob": 0.014046900905668736,
+            "words": [
+                {
+                    "word": " can",
+                    "start": 16.16,
+                    "end": 16.42,
+                    "probability": 0.8893930912017822
+                },
+                {
+                    "word": " access",
+                    "start": 16.42,
+                    "end": 16.68,
+                    "probability": 0.8365408778190613
+                },
+                {
+                    "word": " this",
+                    "start": 16.68,
+                    "end": 16.92,
+                    "probability": 0.20989888906478882
+                },
+                {
+                    "word": " data,",
+                    "start": 16.92,
+                    "end": 17.12,
+                    "probability": 0.7761629819869995
+                },
+                {
+                    "word": " we're",
+                    "start": 17.18,
+                    "end": 17.32,
+                    "probability": 0.8856257796287537
+                },
+                {
+                    "word": " going",
+                    "start": 17.32,
+                    "end": 17.38,
+                    "probability": 0.7101773023605347
+                },
+                {
+                    "word": " to",
+                    "start": 17.38,
+                    "end": 17.46,
+                    "probability": 0.9005677103996277
+                },
+                {
+                    "word": " create",
+                    "start": 17.46,
+                    "end": 17.62,
+                    "probability": 0.8435722589492798
+                },
+                {
+                    "word": " a",
+                    "start": 17.62,
+                    "end": 17.76,
+                    "probability": 0.9958063364028931
+                },
+                {
+                    "word": " firewall,",
+                    "start": 17.76,
+                    "end": 18.02,
+                    "probability": 0.7782616019248962
+                },
+                {
+                    "word": " it",
+                    "start": 18.12,
+                    "end": 18.18,
+                    "probability": 0.8985424637794495
+                },
+                {
+                    "word": " won't",
+                    "start": 18.18,
+                    "end": 18.32,
+                    "probability": 0.9400293231010437
+                },
+                {
+                    "word": " happen.",
+                    "start": 18.32,
+                    "end": 18.54,
+                    "probability": 0.8028768301010132
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

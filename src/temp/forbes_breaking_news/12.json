@@ -1,0 +1,107 @@
+{
+    "text": " So by dance owns a number of businesses right there you are",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 2.9,
+            "text": " So by dance owns a number of businesses right there you are",
+            "tokens": [
+                50364,
+                407,
+                538,
+                4489,
+                19143,
+                257,
+                1230,
+                295,
+                6011,
+                558,
+                456,
+                291,
+                366,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5868662516276042,
+            "compression_ratio": 0.9672131147540983,
+            "no_speech_prob": 0.46311214566230774,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.04,
+                    "end": 0.52,
+                    "probability": 0.754218339920044
+                },
+                {
+                    "word": " by",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.5707311630249023
+                },
+                {
+                    "word": " dance",
+                    "start": 0.7,
+                    "end": 0.94,
+                    "probability": 0.5555480122566223
+                },
+                {
+                    "word": " owns",
+                    "start": 0.94,
+                    "end": 1.14,
+                    "probability": 0.7873814702033997
+                },
+                {
+                    "word": " a",
+                    "start": 1.14,
+                    "end": 1.26,
+                    "probability": 0.47683200240135193
+                },
+                {
+                    "word": " number",
+                    "start": 1.26,
+                    "end": 1.44,
+                    "probability": 0.8687381148338318
+                },
+                {
+                    "word": " of",
+                    "start": 1.44,
+                    "end": 1.58,
+                    "probability": 0.9041831493377686
+                },
+                {
+                    "word": " businesses",
+                    "start": 1.58,
+                    "end": 1.96,
+                    "probability": 0.8144860863685608
+                },
+                {
+                    "word": " right",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.3456656336784363
+                },
+                {
+                    "word": " there",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.5849969387054443
+                },
+                {
+                    "word": " you",
+                    "start": 2.66,
+                    "end": 2.9,
+                    "probability": 0.5385162234306335
+                },
+                {
+                    "word": " are",
+                    "start": 2.9,
+                    "end": 2.9,
+                    "probability": 0.4937688410282135
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

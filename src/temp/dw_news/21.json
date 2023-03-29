@@ -1,0 +1,1821 @@
+{
+    "text": " You're absolutely right. These issues of foreign influence and foreign interference in US democracy and elections are not new. But I think there was fury over Facebook's role in the 2016 election, including from lawmakers. Maybe not as uniform as we saw today, but this has been something that lawmakers have been hammering on about social media platforms for years now. And I think the question is, why haven't we seen more action beyond just words? Because this is clearly something that needs to be addressed. But I think one thing in the United States, we have this section 230 of the Communications Decency Act, which provides a very strong liability shield, particularly on content for these social media platforms. And actually, the same committee that grilled the TikTok CEO today is currently looking into precisely that provision and asking questions about whether we need to reform that act and make any changes to that liability shield. It's something the Supreme Court took up recently. So I think the conversation is certainly not done on content moderation and section 230 when it comes to the broader tech regulation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.86,
+            "text": " You're absolutely right.",
+            "tokens": [
+                50364,
+                509,
+                434,
+                3122,
+                558,
+                13,
+                50420
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " You're",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6561776995658875
+                },
+                {
+                    "word": " absolutely",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.7145382165908813
+                },
+                {
+                    "word": " right.",
+                    "start": 0.52,
+                    "end": 0.86,
+                    "probability": 0.8698393702507019
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.02,
+            "end": 3.12,
+            "text": " These issues of foreign influence",
+            "tokens": [
+                50420,
+                1981,
+                2663,
+                295,
+                5329,
+                6503,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.8223894238471985
+                },
+                {
+                    "word": " issues",
+                    "start": 1.26,
+                    "end": 1.94,
+                    "probability": 0.8113588690757751
+                },
+                {
+                    "word": " of",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.8997825384140015
+                },
+                {
+                    "word": " foreign",
+                    "start": 2.16,
+                    "end": 2.52,
+                    "probability": 0.7870759963989258
+                },
+                {
+                    "word": " influence",
+                    "start": 2.52,
+                    "end": 3.12,
+                    "probability": 0.819761335849762
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.12,
+            "end": 5.68,
+            "text": " and foreign interference in US democracy and elections",
+            "tokens": [
+                50524,
+                293,
+                5329,
+                24497,
+                294,
+                2546,
+                10528,
+                293,
+                12870,
+                50670
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 3.12,
+                    "end": 3.3,
+                    "probability": 0.8822029829025269
+                },
+                {
+                    "word": " foreign",
+                    "start": 3.3,
+                    "end": 3.5,
+                    "probability": 0.8212109804153442
+                },
+                {
+                    "word": " interference",
+                    "start": 3.5,
+                    "end": 4.0,
+                    "probability": 0.6184775829315186
+                },
+                {
+                    "word": " in",
+                    "start": 4.0,
+                    "end": 4.38,
+                    "probability": 0.8729389309883118
+                },
+                {
+                    "word": " US",
+                    "start": 4.38,
+                    "end": 4.6,
+                    "probability": 0.33017444610595703
+                },
+                {
+                    "word": " democracy",
+                    "start": 4.6,
+                    "end": 5.1,
+                    "probability": 0.7045726180076599
+                },
+                {
+                    "word": " and",
+                    "start": 5.1,
+                    "end": 5.3,
+                    "probability": 0.788808286190033
+                },
+                {
+                    "word": " elections",
+                    "start": 5.3,
+                    "end": 5.68,
+                    "probability": 0.7672260999679565
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.68,
+            "end": 6.92,
+            "text": " are not new.",
+            "tokens": [
+                50670,
+                366,
+                406,
+                777,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " are",
+                    "start": 5.68,
+                    "end": 6.32,
+                    "probability": 0.8865557909011841
+                },
+                {
+                    "word": " not",
+                    "start": 6.32,
+                    "end": 6.64,
+                    "probability": 0.8919429779052734
+                },
+                {
+                    "word": " new.",
+                    "start": 6.64,
+                    "end": 6.92,
+                    "probability": 0.8105901479721069
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 7.04,
+            "end": 10.14,
+            "text": " But I think there was fury over Facebook's role",
+            "tokens": [
+                50714,
+                583,
+                286,
+                519,
+                456,
+                390,
+                48887,
+                670,
+                4384,
+                311,
+                3090,
+                50878
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 7.04,
+                    "end": 7.12,
+                    "probability": 0.8871920108795166
+                },
+                {
+                    "word": " I",
+                    "start": 7.12,
+                    "end": 7.26,
+                    "probability": 0.9942188262939453
+                },
+                {
+                    "word": " think",
+                    "start": 7.26,
+                    "end": 7.4,
+                    "probability": 0.8113632202148438
+                },
+                {
+                    "word": " there",
+                    "start": 7.4,
+                    "end": 7.56,
+                    "probability": 0.8560310006141663
+                },
+                {
+                    "word": " was",
+                    "start": 7.56,
+                    "end": 8.02,
+                    "probability": 0.9016674160957336
+                },
+                {
+                    "word": " fury",
+                    "start": 8.02,
+                    "end": 8.34,
+                    "probability": 0.7347583174705505
+                },
+                {
+                    "word": " over",
+                    "start": 8.34,
+                    "end": 8.88,
+                    "probability": 0.8864482641220093
+                },
+                {
+                    "word": " Facebook's",
+                    "start": 8.88,
+                    "end": 9.82,
+                    "probability": 0.8785941004753113
+                },
+                {
+                    "word": " role",
+                    "start": 9.82,
+                    "end": 10.14,
+                    "probability": 0.7961515784263611
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.14,
+            "end": 13.6,
+            "text": " in the 2016 election, including from lawmakers.",
+            "tokens": [
+                50878,
+                294,
+                264,
+                6549,
+                6618,
+                11,
+                3009,
+                490,
+                40988,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 10.14,
+                    "end": 10.6,
+                    "probability": 0.903907299041748
+                },
+                {
+                    "word": " the",
+                    "start": 10.6,
+                    "end": 10.94,
+                    "probability": 0.8147274255752563
+                },
+                {
+                    "word": " 2016",
+                    "start": 10.94,
+                    "end": 11.44,
+                    "probability": 0.7006557583808899
+                },
+                {
+                    "word": " election,",
+                    "start": 11.44,
+                    "end": 12.32,
+                    "probability": 0.8599664568901062
+                },
+                {
+                    "word": " including",
+                    "start": 12.46,
+                    "end": 12.82,
+                    "probability": 0.7960482239723206
+                },
+                {
+                    "word": " from",
+                    "start": 12.82,
+                    "end": 13.16,
+                    "probability": 0.8323612213134766
+                },
+                {
+                    "word": " lawmakers.",
+                    "start": 13.16,
+                    "end": 13.6,
+                    "probability": 0.7586272954940796
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 13.9,
+            "end": 16.68,
+            "text": " Maybe not as uniform as we saw today,",
+            "tokens": [
+                51064,
+                2704,
+                406,
+                382,
+                9452,
+                382,
+                321,
+                1866,
+                965,
+                11,
+                51216
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " Maybe",
+                    "start": 13.9,
+                    "end": 14.28,
+                    "probability": 0.9123509526252747
+                },
+                {
+                    "word": " not",
+                    "start": 14.28,
+                    "end": 14.68,
+                    "probability": 0.9003369808197021
+                },
+                {
+                    "word": " as",
+                    "start": 14.68,
+                    "end": 14.94,
+                    "probability": 0.9062716364860535
+                },
+                {
+                    "word": " uniform",
+                    "start": 14.94,
+                    "end": 15.26,
+                    "probability": 0.8946961760520935
+                },
+                {
+                    "word": " as",
+                    "start": 15.26,
+                    "end": 15.7,
+                    "probability": 0.8979377150535583
+                },
+                {
+                    "word": " we",
+                    "start": 15.7,
+                    "end": 15.88,
+                    "probability": 0.9065309762954712
+                },
+                {
+                    "word": " saw",
+                    "start": 15.88,
+                    "end": 16.16,
+                    "probability": 0.8309502601623535
+                },
+                {
+                    "word": " today,",
+                    "start": 16.16,
+                    "end": 16.68,
+                    "probability": 0.787308931350708
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 16.82,
+            "end": 19.96,
+            "text": " but this has been something that lawmakers",
+            "tokens": [
+                51216,
+                457,
+                341,
+                575,
+                668,
+                746,
+                300,
+                40988,
+                51378
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 16.82,
+                    "end": 17.4,
+                    "probability": 0.8950762152671814
+                },
+                {
+                    "word": " this",
+                    "start": 17.4,
+                    "end": 18.06,
+                    "probability": 0.8819164037704468
+                },
+                {
+                    "word": " has",
+                    "start": 18.06,
+                    "end": 18.26,
+                    "probability": 0.8975841403007507
+                },
+                {
+                    "word": " been",
+                    "start": 18.26,
+                    "end": 18.6,
+                    "probability": 0.8103130459785461
+                },
+                {
+                    "word": " something",
+                    "start": 18.6,
+                    "end": 19.34,
+                    "probability": 0.7382983565330505
+                },
+                {
+                    "word": " that",
+                    "start": 19.34,
+                    "end": 19.62,
+                    "probability": 0.8849583864212036
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 19.62,
+                    "end": 19.96,
+                    "probability": 0.8013468384742737
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 19.96,
+            "end": 23.24,
+            "text": " have been hammering on about social media",
+            "tokens": [
+                51378,
+                362,
+                668,
+                13017,
+                278,
+                322,
+                466,
+                2093,
+                3021,
+                51528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 19.96,
+                    "end": 20.66,
+                    "probability": 0.8767365217208862
+                },
+                {
+                    "word": " been",
+                    "start": 20.66,
+                    "end": 21.22,
+                    "probability": 0.8059168457984924
+                },
+                {
+                    "word": " hammering",
+                    "start": 21.22,
+                    "end": 21.86,
+                    "probability": 0.8496339619159698
+                },
+                {
+                    "word": " on",
+                    "start": 21.86,
+                    "end": 22.1,
+                    "probability": 0.9025909304618835
+                },
+                {
+                    "word": " about",
+                    "start": 22.1,
+                    "end": 22.4,
+                    "probability": 0.8171045780181885
+                },
+                {
+                    "word": " social",
+                    "start": 22.4,
+                    "end": 22.94,
+                    "probability": 0.354878306388855
+                },
+                {
+                    "word": " media",
+                    "start": 22.94,
+                    "end": 23.24,
+                    "probability": 0.8181788921356201
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 23.24,
+            "end": 25.24,
+            "text": " platforms for years now.",
+            "tokens": [
+                51528,
+                9473,
+                337,
+                924,
+                586,
+                13,
+                51628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " platforms",
+                    "start": 23.24,
+                    "end": 23.78,
+                    "probability": 0.7368435859680176
+                },
+                {
+                    "word": " for",
+                    "start": 23.78,
+                    "end": 24.42,
+                    "probability": 0.8995336294174194
+                },
+                {
+                    "word": " years",
+                    "start": 24.42,
+                    "end": 24.84,
+                    "probability": 0.8774688839912415
+                },
+                {
+                    "word": " now.",
+                    "start": 24.84,
+                    "end": 25.24,
+                    "probability": 0.8942858576774597
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 25.3,
+            "end": 26.98,
+            "text": " And I think the question is, why haven't we",
+            "tokens": [
+                51628,
+                400,
+                286,
+                519,
+                264,
+                1168,
+                307,
+                11,
+                983,
+                2378,
+                380,
+                321,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943920317150298,
+            "compression_ratio": 1.5681818181818181,
+            "no_speech_prob": 0.0029323843773454428,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 25.3,
+                    "end": 25.38,
+                    "probability": 0.8523407578468323
+                },
+                {
+                    "word": " I",
+                    "start": 25.38,
+                    "end": 25.48,
+                    "probability": 0.9983797073364258
+                },
+                {
+                    "word": " think",
+                    "start": 25.48,
+                    "end": 25.58,
+                    "probability": 0.8113894462585449
+                },
+                {
+                    "word": " the",
+                    "start": 25.58,
+                    "end": 25.74,
+                    "probability": 0.8174263834953308
+                },
+                {
+                    "word": " question",
+                    "start": 25.74,
+                    "end": 26.02,
+                    "probability": 0.798891007900238
+                },
+                {
+                    "word": " is,",
+                    "start": 26.02,
+                    "end": 26.26,
+                    "probability": 0.9059872031211853
+                },
+                {
+                    "word": " why",
+                    "start": 26.32,
+                    "end": 26.44,
+                    "probability": 0.7767465710639954
+                },
+                {
+                    "word": " haven't",
+                    "start": 26.44,
+                    "end": 26.8,
+                    "probability": 0.9427592158317566
+                },
+                {
+                    "word": " we",
+                    "start": 26.8,
+                    "end": 26.98,
+                    "probability": 0.9034004211425781
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2698,
+            "start": 26.98,
+            "end": 30.76,
+            "text": " seen more action beyond just words?",
+            "tokens": [
+                50364,
+                1612,
+                544,
+                3069,
+                4399,
+                445,
+                2283,
+                30,
+                50558
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " seen",
+                    "start": 26.98,
+                    "end": 27.36,
+                    "probability": 0.3937069773674011
+                },
+                {
+                    "word": " more",
+                    "start": 27.36,
+                    "end": 27.94,
+                    "probability": 0.8255236148834229
+                },
+                {
+                    "word": " action",
+                    "start": 27.94,
+                    "end": 28.52,
+                    "probability": 0.8248514533042908
+                },
+                {
+                    "word": " beyond",
+                    "start": 28.52,
+                    "end": 29.38,
+                    "probability": 0.5160402655601501
+                },
+                {
+                    "word": " just",
+                    "start": 29.38,
+                    "end": 30.24,
+                    "probability": 0.558844268321991
+                },
+                {
+                    "word": " words?",
+                    "start": 30.24,
+                    "end": 30.76,
+                    "probability": 0.7094759941101074
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2698,
+            "start": 31.04,
+            "end": 32.54,
+            "text": " Because this is clearly something",
+            "tokens": [
+                50558,
+                1436,
+                341,
+                307,
+                4448,
+                746,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 31.04,
+                    "end": 31.1,
+                    "probability": 0.8715100884437561
+                },
+                {
+                    "word": " this",
+                    "start": 31.1,
+                    "end": 31.6,
+                    "probability": 0.8750687837600708
+                },
+                {
+                    "word": " is",
+                    "start": 31.6,
+                    "end": 31.76,
+                    "probability": 0.9003136157989502
+                },
+                {
+                    "word": " clearly",
+                    "start": 31.76,
+                    "end": 32.14,
+                    "probability": 0.786724865436554
+                },
+                {
+                    "word": " something",
+                    "start": 32.14,
+                    "end": 32.54,
+                    "probability": 0.7480798363685608
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2698,
+            "start": 32.54,
+            "end": 35.7,
+            "text": " that needs to be addressed.",
+            "tokens": [
+                50672,
+                300,
+                2203,
+                281,
+                312,
+                13847,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 32.54,
+                    "end": 33.44,
+                    "probability": 0.8751252293586731
+                },
+                {
+                    "word": " needs",
+                    "start": 33.44,
+                    "end": 34.08,
+                    "probability": 0.7706772685050964
+                },
+                {
+                    "word": " to",
+                    "start": 34.08,
+                    "end": 34.24,
+                    "probability": 0.902515709400177
+                },
+                {
+                    "word": " be",
+                    "start": 34.24,
+                    "end": 34.62,
+                    "probability": 0.9036689400672913
+                },
+                {
+                    "word": " addressed.",
+                    "start": 34.62,
+                    "end": 35.7,
+                    "probability": 0.5648462176322937
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2698,
+            "start": 36.06,
+            "end": 38.76,
+            "text": " But I think one thing in the United States,",
+            "tokens": [
+                50814,
+                583,
+                286,
+                519,
+                472,
+                551,
+                294,
+                264,
+                2824,
+                3040,
+                11,
+                50958
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 36.06,
+                    "end": 36.16,
+                    "probability": 0.8244041204452515
+                },
+                {
+                    "word": " I",
+                    "start": 36.16,
+                    "end": 36.62,
+                    "probability": 0.8720320463180542
+                },
+                {
+                    "word": " think",
+                    "start": 36.62,
+                    "end": 36.82,
+                    "probability": 0.7609769701957703
+                },
+                {
+                    "word": " one",
+                    "start": 36.82,
+                    "end": 37.28,
+                    "probability": 0.5583829283714294
+                },
+                {
+                    "word": " thing",
+                    "start": 37.28,
+                    "end": 37.7,
+                    "probability": 0.8210917711257935
+                },
+                {
+                    "word": " in",
+                    "start": 37.7,
+                    "end": 38.1,
+                    "probability": 0.7765528559684753
+                },
+                {
+                    "word": " the",
+                    "start": 38.1,
+                    "end": 38.22,
+                    "probability": 0.8177659511566162
+                },
+                {
+                    "word": " United",
+                    "start": 38.22,
+                    "end": 38.42,
+                    "probability": 0.8917312622070312
+                },
+                {
+                    "word": " States,",
+                    "start": 38.42,
+                    "end": 38.76,
+                    "probability": 0.8878438472747803
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2698,
+            "start": 38.8,
+            "end": 42.12,
+            "text": " we have this section 230 of the Communications Decency Act,",
+            "tokens": [
+                50958,
+                321,
+                362,
+                341,
+                3541,
+                35311,
+                295,
+                264,
+                38998,
+                12427,
+                3020,
+                3251,
+                11,
+                51134
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 38.8,
+                    "end": 38.96,
+                    "probability": 0.9028307795524597
+                },
+                {
+                    "word": " have",
+                    "start": 38.96,
+                    "end": 39.32,
+                    "probability": 0.8801397681236267
+                },
+                {
+                    "word": " this",
+                    "start": 39.32,
+                    "end": 39.54,
+                    "probability": 0.6473080515861511
+                },
+                {
+                    "word": " section",
+                    "start": 39.54,
+                    "end": 39.82,
+                    "probability": 0.39163315296173096
+                },
+                {
+                    "word": " 230",
+                    "start": 39.82,
+                    "end": 40.36,
+                    "probability": 0.9245508313179016
+                },
+                {
+                    "word": " of",
+                    "start": 40.36,
+                    "end": 40.6,
+                    "probability": 0.8980387449264526
+                },
+                {
+                    "word": " the",
+                    "start": 40.6,
+                    "end": 40.72,
+                    "probability": 0.8121337294578552
+                },
+                {
+                    "word": " Communications",
+                    "start": 40.72,
+                    "end": 41.18,
+                    "probability": 0.7025834918022156
+                },
+                {
+                    "word": " Decency",
+                    "start": 41.18,
+                    "end": 41.68,
+                    "probability": 0.7202306836843491
+                },
+                {
+                    "word": " Act,",
+                    "start": 41.68,
+                    "end": 42.12,
+                    "probability": 0.8932281136512756
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2698,
+            "start": 42.36,
+            "end": 44.7,
+            "text": " which provides a very strong liability shield,",
+            "tokens": [
+                51134,
+                597,
+                6417,
+                257,
+                588,
+                2068,
+                25196,
+                10257,
+                11,
+                51254
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 42.36,
+                    "end": 42.7,
+                    "probability": 0.9138040542602539
+                },
+                {
+                    "word": " provides",
+                    "start": 42.7,
+                    "end": 43.28,
+                    "probability": 0.8189534544944763
+                },
+                {
+                    "word": " a",
+                    "start": 43.28,
+                    "end": 43.44,
+                    "probability": 0.9994232654571533
+                },
+                {
+                    "word": " very",
+                    "start": 43.44,
+                    "end": 43.6,
+                    "probability": 0.7341654300689697
+                },
+                {
+                    "word": " strong",
+                    "start": 43.6,
+                    "end": 43.88,
+                    "probability": 0.8269634246826172
+                },
+                {
+                    "word": " liability",
+                    "start": 43.88,
+                    "end": 44.34,
+                    "probability": 0.801840603351593
+                },
+                {
+                    "word": " shield,",
+                    "start": 44.34,
+                    "end": 44.7,
+                    "probability": 0.7851168513298035
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2698,
+            "start": 44.8,
+            "end": 48.1,
+            "text": " particularly on content for these social media platforms.",
+            "tokens": [
+                51254,
+                4098,
+                322,
+                2701,
+                337,
+                613,
+                2093,
+                3021,
+                9473,
+                13,
+                51430
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " particularly",
+                    "start": 44.8,
+                    "end": 45.2,
+                    "probability": 0.7678233981132507
+                },
+                {
+                    "word": " on",
+                    "start": 45.2,
+                    "end": 45.52,
+                    "probability": 0.8970456719398499
+                },
+                {
+                    "word": " content",
+                    "start": 45.52,
+                    "end": 46.0,
+                    "probability": 0.7968161106109619
+                },
+                {
+                    "word": " for",
+                    "start": 46.0,
+                    "end": 46.72,
+                    "probability": 0.8142596483230591
+                },
+                {
+                    "word": " these",
+                    "start": 46.72,
+                    "end": 47.08,
+                    "probability": 0.5645690560340881
+                },
+                {
+                    "word": " social",
+                    "start": 47.08,
+                    "end": 47.38,
+                    "probability": 0.6966579556465149
+                },
+                {
+                    "word": " media",
+                    "start": 47.38,
+                    "end": 47.58,
+                    "probability": 0.8423877954483032
+                },
+                {
+                    "word": " platforms.",
+                    "start": 47.58,
+                    "end": 48.1,
+                    "probability": 0.7503299713134766
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 2698,
+            "start": 48.38,
+            "end": 50.54,
+            "text": " And actually, the same committee that",
+            "tokens": [
+                51430,
+                400,
+                767,
+                11,
+                264,
+                912,
+                7482,
+                300,
+                51548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 48.38,
+                    "end": 48.48,
+                    "probability": 0.8593297600746155
+                },
+                {
+                    "word": " actually,",
+                    "start": 48.48,
+                    "end": 48.8,
+                    "probability": 0.7664877772331238
+                },
+                {
+                    "word": " the",
+                    "start": 48.88,
+                    "end": 49.02,
+                    "probability": 0.8120692372322083
+                },
+                {
+                    "word": " same",
+                    "start": 49.02,
+                    "end": 49.32,
+                    "probability": 0.8149949908256531
+                },
+                {
+                    "word": " committee",
+                    "start": 49.32,
+                    "end": 49.68,
+                    "probability": 0.799714207649231
+                },
+                {
+                    "word": " that",
+                    "start": 49.68,
+                    "end": 50.54,
+                    "probability": 0.8769221901893616
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 2698,
+            "start": 50.54,
+            "end": 53.62,
+            "text": " grilled the TikTok CEO today is currently",
+            "tokens": [
+                51548,
+                25183,
+                264,
+                20211,
+                9282,
+                965,
+                307,
+                4362,
+                51702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631527827336238,
+            "compression_ratio": 1.4846153846153847,
+            "no_speech_prob": 0.39574238657951355,
+            "words": [
+                {
+                    "word": " grilled",
+                    "start": 50.54,
+                    "end": 51.04,
+                    "probability": 0.5800223350524902
+                },
+                {
+                    "word": " the",
+                    "start": 51.04,
+                    "end": 51.28,
+                    "probability": 0.7993162870407104
+                },
+                {
+                    "word": " TikTok",
+                    "start": 51.28,
+                    "end": 51.54,
+                    "probability": 0.8240039348602295
+                },
+                {
+                    "word": " CEO",
+                    "start": 51.54,
+                    "end": 52.02,
+                    "probability": 0.7962186932563782
+                },
+                {
+                    "word": " today",
+                    "start": 52.02,
+                    "end": 52.58,
+                    "probability": 0.7807112336158752
+                },
+                {
+                    "word": " is",
+                    "start": 52.58,
+                    "end": 53.24,
+                    "probability": 0.6970904469490051
+                },
+                {
+                    "word": " currently",
+                    "start": 53.24,
+                    "end": 53.62,
+                    "probability": 0.7139794230461121
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "seek": 5362,
+            "start": 54.62,
+            "end": 57.26,
+            "text": " looking into precisely that provision",
+            "tokens": [
+                50370,
+                1237,
+                666,
+                13402,
+                300,
+                17225,
+                50562
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " looking",
+                    "start": 54.62,
+                    "end": 55.22,
+                    "probability": 0.526092529296875
+                },
+                {
+                    "word": " into",
+                    "start": 55.22,
+                    "end": 54.64,
+                    "probability": 0.7199083566665649
+                },
+                {
+                    "word": " precisely",
+                    "start": 54.64,
+                    "end": 55.82,
+                    "probability": 0.6948094367980957
+                },
+                {
+                    "word": " that",
+                    "start": 55.82,
+                    "end": 56.78,
+                    "probability": 0.8715072274208069
+                },
+                {
+                    "word": " provision",
+                    "start": 56.78,
+                    "end": 57.26,
+                    "probability": 0.8365594148635864
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "seek": 5362,
+            "start": 57.26,
+            "end": 60.0,
+            "text": " and asking questions about whether we",
+            "tokens": [
+                50562,
+                293,
+                3365,
+                1651,
+                466,
+                1968,
+                321,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 57.26,
+                    "end": 57.96,
+                    "probability": 0.7893483638763428
+                },
+                {
+                    "word": " asking",
+                    "start": 57.96,
+                    "end": 58.54,
+                    "probability": 0.8119125366210938
+                },
+                {
+                    "word": " questions",
+                    "start": 58.54,
+                    "end": 59.16,
+                    "probability": 0.9131985306739807
+                },
+                {
+                    "word": " about",
+                    "start": 59.16,
+                    "end": 59.48,
+                    "probability": 0.8113863468170166
+                },
+                {
+                    "word": " whether",
+                    "start": 59.48,
+                    "end": 59.76,
+                    "probability": 0.8366318345069885
+                },
+                {
+                    "word": " we",
+                    "start": 59.76,
+                    "end": 60.0,
+                    "probability": 0.9065866470336914
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "seek": 5362,
+            "start": 60.0,
+            "end": 64.74,
+            "text": " need to reform that act and make any changes to that liability",
+            "tokens": [
+                50684,
+                643,
+                281,
+                8290,
+                300,
+                605,
+                293,
+                652,
+                604,
+                2962,
+                281,
+                300,
+                25196,
+                50928
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " need",
+                    "start": 60.0,
+                    "end": 60.22,
+                    "probability": 0.8104332089424133
+                },
+                {
+                    "word": " to",
+                    "start": 60.22,
+                    "end": 60.5,
+                    "probability": 0.9018456935882568
+                },
+                {
+                    "word": " reform",
+                    "start": 60.5,
+                    "end": 61.54,
+                    "probability": 0.7567026615142822
+                },
+                {
+                    "word": " that",
+                    "start": 61.54,
+                    "end": 62.02,
+                    "probability": 0.8648760914802551
+                },
+                {
+                    "word": " act",
+                    "start": 62.02,
+                    "end": 62.46,
+                    "probability": 0.616856038570404
+                },
+                {
+                    "word": " and",
+                    "start": 62.46,
+                    "end": 62.76,
+                    "probability": 0.8557841181755066
+                },
+                {
+                    "word": " make",
+                    "start": 62.76,
+                    "end": 62.96,
+                    "probability": 0.8995367288589478
+                },
+                {
+                    "word": " any",
+                    "start": 62.96,
+                    "end": 63.2,
+                    "probability": 0.8120099306106567
+                },
+                {
+                    "word": " changes",
+                    "start": 63.2,
+                    "end": 63.6,
+                    "probability": 0.801680326461792
+                },
+                {
+                    "word": " to",
+                    "start": 63.6,
+                    "end": 64.06,
+                    "probability": 0.9003748893737793
+                },
+                {
+                    "word": " that",
+                    "start": 64.06,
+                    "end": 64.26,
+                    "probability": 0.8783961534500122
+                },
+                {
+                    "word": " liability",
+                    "start": 64.26,
+                    "end": 64.74,
+                    "probability": 0.7402872443199158
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "seek": 5362,
+            "start": 64.74,
+            "end": 65.26,
+            "text": " shield.",
+            "tokens": [
+                50928,
+                10257,
+                13,
+                50960
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " shield.",
+                    "start": 64.74,
+                    "end": 65.26,
+                    "probability": 0.7953927516937256
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "seek": 5362,
+            "start": 65.48,
+            "end": 67.84,
+            "text": " It's something the Supreme Court took up recently.",
+            "tokens": [
+                50960,
+                467,
+                311,
+                746,
+                264,
+                11032,
+                7873,
+                1890,
+                493,
+                3938,
+                13,
+                51090
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 65.48,
+                    "end": 65.66,
+                    "probability": 0.8803627192974091
+                },
+                {
+                    "word": " something",
+                    "start": 65.66,
+                    "end": 65.86,
+                    "probability": 0.7413827180862427
+                },
+                {
+                    "word": " the",
+                    "start": 65.86,
+                    "end": 65.98,
+                    "probability": 0.3493254482746124
+                },
+                {
+                    "word": " Supreme",
+                    "start": 65.98,
+                    "end": 66.2,
+                    "probability": 0.8186355233192444
+                },
+                {
+                    "word": " Court",
+                    "start": 66.2,
+                    "end": 66.56,
+                    "probability": 0.7447686791419983
+                },
+                {
+                    "word": " took",
+                    "start": 66.56,
+                    "end": 66.96,
+                    "probability": 0.8799574375152588
+                },
+                {
+                    "word": " up",
+                    "start": 66.96,
+                    "end": 67.18,
+                    "probability": 0.9094191789627075
+                },
+                {
+                    "word": " recently.",
+                    "start": 67.18,
+                    "end": 67.84,
+                    "probability": 0.7860636115074158
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "seek": 5362,
+            "start": 68.14,
+            "end": 70.28,
+            "text": " So I think the conversation is certainly not",
+            "tokens": [
+                51090,
+                407,
+                286,
+                519,
+                264,
+                3761,
+                307,
+                3297,
+                406,
+                51200
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 68.14,
+                    "end": 68.3,
+                    "probability": 0.8391708135604858
+                },
+                {
+                    "word": " I",
+                    "start": 68.3,
+                    "end": 68.5,
+                    "probability": 0.750506579875946
+                },
+                {
+                    "word": " think",
+                    "start": 68.5,
+                    "end": 68.66,
+                    "probability": 0.8124613165855408
+                },
+                {
+                    "word": " the",
+                    "start": 68.66,
+                    "end": 68.92,
+                    "probability": 0.7888015508651733
+                },
+                {
+                    "word": " conversation",
+                    "start": 68.92,
+                    "end": 69.5,
+                    "probability": 0.6309383511543274
+                },
+                {
+                    "word": " is",
+                    "start": 69.5,
+                    "end": 69.76,
+                    "probability": 0.6037805676460266
+                },
+                {
+                    "word": " certainly",
+                    "start": 69.76,
+                    "end": 70.02,
+                    "probability": 0.7700571417808533
+                },
+                {
+                    "word": " not",
+                    "start": 70.02,
+                    "end": 70.28,
+                    "probability": 0.892992377281189
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "seek": 5362,
+            "start": 70.28,
+            "end": 73.44,
+            "text": " done on content moderation and section 230",
+            "tokens": [
+                51200,
+                1096,
+                322,
+                2701,
+                49471,
+                293,
+                3541,
+                35311,
+                51370
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " done",
+                    "start": 70.28,
+                    "end": 70.58,
+                    "probability": 0.8293072581291199
+                },
+                {
+                    "word": " on",
+                    "start": 70.58,
+                    "end": 70.82,
+                    "probability": 0.9105682373046875
+                },
+                {
+                    "word": " content",
+                    "start": 70.82,
+                    "end": 71.14,
+                    "probability": 0.8186294436454773
+                },
+                {
+                    "word": " moderation",
+                    "start": 71.14,
+                    "end": 71.64,
+                    "probability": 0.8647777438163757
+                },
+                {
+                    "word": " and",
+                    "start": 71.64,
+                    "end": 72.58,
+                    "probability": 0.8716579675674438
+                },
+                {
+                    "word": " section",
+                    "start": 72.58,
+                    "end": 73.02,
+                    "probability": 0.23288194835186005
+                },
+                {
+                    "word": " 230",
+                    "start": 73.02,
+                    "end": 73.44,
+                    "probability": 0.9068706631660461
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "seek": 5362,
+            "start": 73.44,
+            "end": 75.48,
+            "text": " when it comes to the broader tech regulation.",
+            "tokens": [
+                51370,
+                562,
+                309,
+                1487,
+                281,
+                264,
+                13227,
+                7553,
+                15062,
+                13,
+                51524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890553725393195,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.013371867127716541,
+            "words": [
+                {
+                    "word": " when",
+                    "start": 73.44,
+                    "end": 73.86,
+                    "probability": 0.8062201738357544
+                },
+                {
+                    "word": " it",
+                    "start": 73.86,
+                    "end": 73.96,
+                    "probability": 0.9086993336677551
+                },
+                {
+                    "word": " comes",
+                    "start": 73.96,
+                    "end": 74.16,
+                    "probability": 0.8159650564193726
+                },
+                {
+                    "word": " to",
+                    "start": 74.16,
+                    "end": 74.28,
+                    "probability": 0.9039224982261658
+                },
+                {
+                    "word": " the",
+                    "start": 74.28,
+                    "end": 74.38,
+                    "probability": 0.8127042651176453
+                },
+                {
+                    "word": " broader",
+                    "start": 74.38,
+                    "end": 74.62,
+                    "probability": 0.7618271112442017
+                },
+                {
+                    "word": " tech",
+                    "start": 74.62,
+                    "end": 74.9,
+                    "probability": 0.8601402640342712
+                },
+                {
+                    "word": " regulation.",
+                    "start": 74.9,
+                    "end": 75.48,
+                    "probability": 0.8798466920852661
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

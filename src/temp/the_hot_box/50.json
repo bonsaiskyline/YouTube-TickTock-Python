@@ -1,0 +1,66 @@
+{
+    "text": " It also exempts the secretary of",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.08,
+            "text": " It also exempts the secretary of",
+            "tokens": [
+                50364,
+                467,
+                611,
+                30425,
+                82,
+                264,
+                15691,
+                295,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32718396186828613,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.661583423614502,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7082880139350891
+                },
+                {
+                    "word": " also",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.8449904322624207
+                },
+                {
+                    "word": " exempts",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.9045765995979309
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.74,
+                    "probability": 0.8044260740280151
+                },
+                {
+                    "word": " secretary",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.38471540808677673
+                },
+                {
+                    "word": " of",
+                    "start": 0.98,
+                    "end": 1.08,
+                    "probability": 0.48900654911994934
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

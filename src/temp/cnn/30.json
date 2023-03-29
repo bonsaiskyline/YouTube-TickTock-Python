@@ -1,0 +1,242 @@
+{
+    "text": " And China's making clear to The Wall Street Journal today that it does not support this idea of a forced sale. So where do we go?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.58,
+            "end": 2.36,
+            "text": " And China's making clear to The Wall Street Journal today",
+            "tokens": [
+                50364,
+                400,
+                3533,
+                311,
+                1455,
+                1850,
+                281,
+                440,
+                9551,
+                7638,
+                16936,
+                965,
+                50486
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29664309819539386,
+            "compression_ratio": 1.1727272727272726,
+            "no_speech_prob": 0.009416515938937664,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.35195034742355347
+                },
+                {
+                    "word": " China's",
+                    "start": 0.9,
+                    "end": 0.9,
+                    "probability": 0.7351101040840149
+                },
+                {
+                    "word": " making",
+                    "start": 0.9,
+                    "end": 1.22,
+                    "probability": 0.805418074131012
+                },
+                {
+                    "word": " clear",
+                    "start": 1.22,
+                    "end": 1.42,
+                    "probability": 0.7865923047065735
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.54,
+                    "probability": 0.4874103367328644
+                },
+                {
+                    "word": " The",
+                    "start": 1.54,
+                    "end": 1.56,
+                    "probability": 0.4766225814819336
+                },
+                {
+                    "word": " Wall",
+                    "start": 1.56,
+                    "end": 1.7,
+                    "probability": 0.8982993960380554
+                },
+                {
+                    "word": " Street",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.7655388712882996
+                },
+                {
+                    "word": " Journal",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.92531418800354
+                },
+                {
+                    "word": " today",
+                    "start": 2.08,
+                    "end": 2.36,
+                    "probability": 0.7847377061843872
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.36,
+            "end": 5.0,
+            "text": " that it does not support this idea of a forced sale.",
+            "tokens": [
+                50486,
+                300,
+                309,
+                775,
+                406,
+                1406,
+                341,
+                1558,
+                295,
+                257,
+                7579,
+                8680,
+                13,
+                50616
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29664309819539386,
+            "compression_ratio": 1.1727272727272726,
+            "no_speech_prob": 0.009416515938937664,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 2.36,
+                    "end": 2.58,
+                    "probability": 0.8612493276596069
+                },
+                {
+                    "word": " it",
+                    "start": 2.58,
+                    "end": 2.7,
+                    "probability": 0.9097817540168762
+                },
+                {
+                    "word": " does",
+                    "start": 2.7,
+                    "end": 2.84,
+                    "probability": 0.9289968013763428
+                },
+                {
+                    "word": " not",
+                    "start": 2.84,
+                    "end": 3.0,
+                    "probability": 0.8998005390167236
+                },
+                {
+                    "word": " support",
+                    "start": 3.0,
+                    "end": 3.3,
+                    "probability": 0.9301377534866333
+                },
+                {
+                    "word": " this",
+                    "start": 3.3,
+                    "end": 3.5,
+                    "probability": 0.8844842910766602
+                },
+                {
+                    "word": " idea",
+                    "start": 3.5,
+                    "end": 3.8,
+                    "probability": 0.7945916652679443
+                },
+                {
+                    "word": " of",
+                    "start": 3.8,
+                    "end": 4.38,
+                    "probability": 0.8625558018684387
+                },
+                {
+                    "word": " a",
+                    "start": 4.38,
+                    "end": 4.52,
+                    "probability": 0.9847849607467651
+                },
+                {
+                    "word": " forced",
+                    "start": 4.52,
+                    "end": 4.76,
+                    "probability": 0.8257379531860352
+                },
+                {
+                    "word": " sale.",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.8603662848472595
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.1,
+            "end": 5.66,
+            "text": " So where do we go?",
+            "tokens": [
+                50616,
+                407,
+                689,
+                360,
+                321,
+                352,
+                30,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29664309819539386,
+            "compression_ratio": 1.1727272727272726,
+            "no_speech_prob": 0.009416515938937664,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 5.1,
+                    "end": 5.24,
+                    "probability": 0.903769314289093
+                },
+                {
+                    "word": " where",
+                    "start": 5.24,
+                    "end": 5.38,
+                    "probability": 0.8344250917434692
+                },
+                {
+                    "word": " do",
+                    "start": 5.38,
+                    "end": 5.46,
+                    "probability": 0.8949669003486633
+                },
+                {
+                    "word": " we",
+                    "start": 5.46,
+                    "end": 5.54,
+                    "probability": 0.9043697118759155
+                },
+                {
+                    "word": " go?",
+                    "start": 5.54,
+                    "end": 5.66,
+                    "probability": 0.9122658371925354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

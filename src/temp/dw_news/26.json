@@ -1,0 +1,761 @@
+{
+    "text": " Yeah, it's true. I heard him say that and it struck me too. That's what the Europeans have been calling for for years. We have that here. And now you have these U.S. lawmakers who are on board and perhaps it took a Chinese company to bring them there. Lindsay Gorman, head of technology. Yeah, exactly. Head of technology and the geopolitics team at the nonprofit organization, the Alliance for Securing Democracy. We appreciate your time and your insights tonight. Thank you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " Yeah, it's true. I heard him say that and it struck me too.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                309,
+                311,
+                2074,
+                13,
+                286,
+                2198,
+                796,
+                584,
+                300,
+                293,
+                309,
+                13159,
+                385,
+                886,
+                13,
+                50518
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.577144980430603
+                },
+                {
+                    "word": " it's",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.8510263562202454
+                },
+                {
+                    "word": " true.",
+                    "start": 0.48,
+                    "end": 0.7,
+                    "probability": 0.9185550212860107
+                },
+                {
+                    "word": " I",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.9933297038078308
+                },
+                {
+                    "word": " heard",
+                    "start": 1.08,
+                    "end": 1.62,
+                    "probability": 0.7058122754096985
+                },
+                {
+                    "word": " him",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.8873457312583923
+                },
+                {
+                    "word": " say",
+                    "start": 1.82,
+                    "end": 2.02,
+                    "probability": 0.89564448595047
+                },
+                {
+                    "word": " that",
+                    "start": 2.02,
+                    "end": 2.28,
+                    "probability": 0.8781929612159729
+                },
+                {
+                    "word": " and",
+                    "start": 2.28,
+                    "end": 2.42,
+                    "probability": 0.6189755201339722
+                },
+                {
+                    "word": " it",
+                    "start": 2.42,
+                    "end": 2.6,
+                    "probability": 0.9044550657272339
+                },
+                {
+                    "word": " struck",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.721903920173645
+                },
+                {
+                    "word": " me",
+                    "start": 2.78,
+                    "end": 2.94,
+                    "probability": 0.9023910164833069
+                },
+                {
+                    "word": " too.",
+                    "start": 2.94,
+                    "end": 3.08,
+                    "probability": 0.542483389377594
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.16,
+            "end": 5.36,
+            "text": " That's what the Europeans have been calling for for years.",
+            "tokens": [
+                50518,
+                663,
+                311,
+                437,
+                264,
+                29746,
+                362,
+                668,
+                5141,
+                337,
+                337,
+                924,
+                13,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 3.16,
+                    "end": 3.28,
+                    "probability": 0.9041580855846405
+                },
+                {
+                    "word": " what",
+                    "start": 3.28,
+                    "end": 3.38,
+                    "probability": 0.8891056776046753
+                },
+                {
+                    "word": " the",
+                    "start": 3.38,
+                    "end": 3.5,
+                    "probability": 0.819279670715332
+                },
+                {
+                    "word": " Europeans",
+                    "start": 3.5,
+                    "end": 3.86,
+                    "probability": 0.7443978786468506
+                },
+                {
+                    "word": " have",
+                    "start": 3.86,
+                    "end": 3.98,
+                    "probability": 0.79925936460495
+                },
+                {
+                    "word": " been",
+                    "start": 3.98,
+                    "end": 4.06,
+                    "probability": 0.8031293153762817
+                },
+                {
+                    "word": " calling",
+                    "start": 4.06,
+                    "end": 4.26,
+                    "probability": 0.7502164840698242
+                },
+                {
+                    "word": " for",
+                    "start": 4.26,
+                    "end": 4.66,
+                    "probability": 0.8958670496940613
+                },
+                {
+                    "word": " for",
+                    "start": 4.66,
+                    "end": 5.04,
+                    "probability": 0.5947030186653137
+                },
+                {
+                    "word": " years.",
+                    "start": 5.04,
+                    "end": 5.36,
+                    "probability": 0.8693216443061829
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.54,
+            "end": 8.1,
+            "text": " We have that here. And now you have these U.S.",
+            "tokens": [
+                50642,
+                492,
+                362,
+                300,
+                510,
+                13,
+                400,
+                586,
+                291,
+                362,
+                613,
+                624,
+                13,
+                50,
+                13,
+                50770
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.54,
+                    "end": 5.66,
+                    "probability": 0.8680681586265564
+                },
+                {
+                    "word": " have",
+                    "start": 5.66,
+                    "end": 5.84,
+                    "probability": 0.8713064193725586
+                },
+                {
+                    "word": " that",
+                    "start": 5.84,
+                    "end": 6.0,
+                    "probability": 0.8768247961997986
+                },
+                {
+                    "word": " here.",
+                    "start": 6.0,
+                    "end": 6.22,
+                    "probability": 0.8047745823860168
+                },
+                {
+                    "word": " And",
+                    "start": 6.34,
+                    "end": 6.38,
+                    "probability": 0.8498361706733704
+                },
+                {
+                    "word": " now",
+                    "start": 6.38,
+                    "end": 6.88,
+                    "probability": 0.8933786749839783
+                },
+                {
+                    "word": " you",
+                    "start": 6.88,
+                    "end": 7.06,
+                    "probability": 0.8722971677780151
+                },
+                {
+                    "word": " have",
+                    "start": 7.06,
+                    "end": 7.32,
+                    "probability": 0.8785140514373779
+                },
+                {
+                    "word": " these",
+                    "start": 7.32,
+                    "end": 7.84,
+                    "probability": 0.6914295554161072
+                },
+                {
+                    "word": " U",
+                    "start": 7.84,
+                    "end": 7.98,
+                    "probability": 0.4660022258758545
+                },
+                {
+                    "word": ".S.",
+                    "start": 7.98,
+                    "end": 8.1,
+                    "probability": 0.9845388233661652
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.16,
+            "end": 12.52,
+            "text": " lawmakers who are on board and perhaps it took a Chinese company to bring them there.",
+            "tokens": [
+                50770,
+                40988,
+                567,
+                366,
+                322,
+                3150,
+                293,
+                4317,
+                309,
+                1890,
+                257,
+                4649,
+                2237,
+                281,
+                1565,
+                552,
+                456,
+                13,
+                50992
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " lawmakers",
+                    "start": 8.16,
+                    "end": 8.44,
+                    "probability": 0.8313313722610474
+                },
+                {
+                    "word": " who",
+                    "start": 8.44,
+                    "end": 8.72,
+                    "probability": 0.8225790858268738
+                },
+                {
+                    "word": " are",
+                    "start": 8.72,
+                    "end": 8.92,
+                    "probability": 0.8913760185241699
+                },
+                {
+                    "word": " on",
+                    "start": 8.92,
+                    "end": 9.14,
+                    "probability": 0.8149445652961731
+                },
+                {
+                    "word": " board",
+                    "start": 9.14,
+                    "end": 9.44,
+                    "probability": 0.8312152028083801
+                },
+                {
+                    "word": " and",
+                    "start": 9.44,
+                    "end": 10.22,
+                    "probability": 0.4279179275035858
+                },
+                {
+                    "word": " perhaps",
+                    "start": 10.22,
+                    "end": 10.66,
+                    "probability": 0.8360708355903625
+                },
+                {
+                    "word": " it",
+                    "start": 10.66,
+                    "end": 10.8,
+                    "probability": 0.8718154430389404
+                },
+                {
+                    "word": " took",
+                    "start": 10.8,
+                    "end": 10.9,
+                    "probability": 0.8765896558761597
+                },
+                {
+                    "word": " a",
+                    "start": 10.9,
+                    "end": 11.02,
+                    "probability": 0.9962073564529419
+                },
+                {
+                    "word": " Chinese",
+                    "start": 11.02,
+                    "end": 11.26,
+                    "probability": 0.7500376105308533
+                },
+                {
+                    "word": " company",
+                    "start": 11.26,
+                    "end": 11.64,
+                    "probability": 0.8028290867805481
+                },
+                {
+                    "word": " to",
+                    "start": 11.64,
+                    "end": 11.86,
+                    "probability": 0.8992573618888855
+                },
+                {
+                    "word": " bring",
+                    "start": 11.86,
+                    "end": 12.18,
+                    "probability": 0.8724024295806885
+                },
+                {
+                    "word": " them",
+                    "start": 12.18,
+                    "end": 12.32,
+                    "probability": 0.7409155964851379
+                },
+                {
+                    "word": " there.",
+                    "start": 12.32,
+                    "end": 12.52,
+                    "probability": 0.8391588926315308
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.18,
+            "end": 14.42,
+            "text": " Lindsay Gorman, head of technology.",
+            "tokens": [
+                51018,
+                35017,
+                460,
+                46060,
+                11,
+                1378,
+                295,
+                2899,
+                13,
+                51098
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " Lindsay",
+                    "start": 13.18,
+                    "end": 13.34,
+                    "probability": 0.41594380140304565
+                },
+                {
+                    "word": " Gorman,",
+                    "start": 13.34,
+                    "end": 13.56,
+                    "probability": 0.8331884741783142
+                },
+                {
+                    "word": " head",
+                    "start": 13.68,
+                    "end": 13.8,
+                    "probability": 0.789087176322937
+                },
+                {
+                    "word": " of",
+                    "start": 13.8,
+                    "end": 13.92,
+                    "probability": 0.9090600609779358
+                },
+                {
+                    "word": " technology.",
+                    "start": 13.92,
+                    "end": 14.42,
+                    "probability": 0.7266051173210144
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.06,
+            "end": 20.92,
+            "text": " Yeah, exactly. Head of technology and the geopolitics team at the nonprofit",
+            "tokens": [
+                51170,
+                865,
+                11,
+                2293,
+                13,
+                11398,
+                295,
+                2899,
+                293,
+                264,
+                46615,
+                1167,
+                1469,
+                412,
+                264,
+                23348,
+                51436
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 15.06,
+                    "end": 15.08,
+                    "probability": 0.5533284544944763
+                },
+                {
+                    "word": " exactly.",
+                    "start": 15.08,
+                    "end": 16.72,
+                    "probability": 0.7156297564506531
+                },
+                {
+                    "word": " Head",
+                    "start": 17.74,
+                    "end": 17.94,
+                    "probability": 0.7983397841453552
+                },
+                {
+                    "word": " of",
+                    "start": 17.94,
+                    "end": 18.12,
+                    "probability": 0.9108275771141052
+                },
+                {
+                    "word": " technology",
+                    "start": 18.12,
+                    "end": 18.64,
+                    "probability": 0.7905476093292236
+                },
+                {
+                    "word": " and",
+                    "start": 18.64,
+                    "end": 19.06,
+                    "probability": 0.8730024695396423
+                },
+                {
+                    "word": " the",
+                    "start": 19.06,
+                    "end": 19.26,
+                    "probability": 0.8097883462905884
+                },
+                {
+                    "word": " geopolitics",
+                    "start": 19.26,
+                    "end": 19.88,
+                    "probability": 0.9238713979721069
+                },
+                {
+                    "word": " team",
+                    "start": 19.88,
+                    "end": 20.06,
+                    "probability": 0.9092976450920105
+                },
+                {
+                    "word": " at",
+                    "start": 20.06,
+                    "end": 20.2,
+                    "probability": 0.9034923315048218
+                },
+                {
+                    "word": " the",
+                    "start": 20.2,
+                    "end": 20.38,
+                    "probability": 0.8150975108146667
+                },
+                {
+                    "word": " nonprofit",
+                    "start": 20.38,
+                    "end": 20.92,
+                    "probability": 0.5968625545501709
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 20.92,
+            "end": 24.36,
+            "text": " organization, the Alliance for Securing Democracy.",
+            "tokens": [
+                51436,
+                4475,
+                11,
+                264,
+                21859,
+                337,
+                3306,
+                1345,
+                43062,
+                13,
+                51596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " organization,",
+                    "start": 20.92,
+                    "end": 22.04,
+                    "probability": 0.8687978982925415
+                },
+                {
+                    "word": " the",
+                    "start": 22.16,
+                    "end": 22.24,
+                    "probability": 0.6894896626472473
+                },
+                {
+                    "word": " Alliance",
+                    "start": 22.24,
+                    "end": 22.66,
+                    "probability": 0.7655897736549377
+                },
+                {
+                    "word": " for",
+                    "start": 22.66,
+                    "end": 23.0,
+                    "probability": 0.877454936504364
+                },
+                {
+                    "word": " Securing",
+                    "start": 23.0,
+                    "end": 23.7,
+                    "probability": 0.9161499738693237
+                },
+                {
+                    "word": " Democracy.",
+                    "start": 23.7,
+                    "end": 24.36,
+                    "probability": 0.8068422079086304
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 24.94,
+            "end": 26.76,
+            "text": " We appreciate your time and your insights tonight.",
+            "tokens": [
+                51616,
+                492,
+                4449,
+                428,
+                565,
+                293,
+                428,
+                14310,
+                4440,
+                13,
+                51706
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 24.94,
+                    "end": 25.18,
+                    "probability": 0.9040691256523132
+                },
+                {
+                    "word": " appreciate",
+                    "start": 25.18,
+                    "end": 25.48,
+                    "probability": 0.8711715936660767
+                },
+                {
+                    "word": " your",
+                    "start": 25.48,
+                    "end": 25.7,
+                    "probability": 0.8129783272743225
+                },
+                {
+                    "word": " time",
+                    "start": 25.7,
+                    "end": 25.88,
+                    "probability": 0.8004848957061768
+                },
+                {
+                    "word": " and",
+                    "start": 25.88,
+                    "end": 25.98,
+                    "probability": 0.8656484484672546
+                },
+                {
+                    "word": " your",
+                    "start": 25.98,
+                    "end": 26.1,
+                    "probability": 0.8079423904418945
+                },
+                {
+                    "word": " insights",
+                    "start": 26.1,
+                    "end": 26.44,
+                    "probability": 0.8517531752586365
+                },
+                {
+                    "word": " tonight.",
+                    "start": 26.44,
+                    "end": 26.76,
+                    "probability": 0.7922898530960083
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 26.82,
+            "end": 27.18,
+            "text": " Thank you.",
+            "tokens": [
+                51706,
+                1044,
+                291,
+                13,
+                51724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2987669968023533,
+            "compression_ratio": 1.6245733788395904,
+            "no_speech_prob": 0.0011299254838377237,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 26.82,
+                    "end": 27.06,
+                    "probability": 0.8777247071266174
+                },
+                {
+                    "word": " you.",
+                    "start": 27.06,
+                    "end": 27.18,
+                    "probability": 0.8945387601852417
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,559 @@
+{
+    "text": " Was it developed in China? Some of it? Some of it is. Okay, at ByteDance. When it's compiled in the compilation process, can bytecode be manipulated? We've talked a lot about source code. What about the bytecode, the ones and zeros that actually execute on the device? Can it be manipulated? Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " Was it developed in China?",
+            "tokens": [
+                50364,
+                3027,
+                309,
+                4743,
+                294,
+                3533,
+                30,
+                50526
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " Was",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.17635595798492432
+                },
+                {
+                    "word": " it",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.886136531829834
+                },
+                {
+                    "word": " developed",
+                    "start": 0.68,
+                    "end": 2.2,
+                    "probability": 0.644153356552124
+                },
+                {
+                    "word": " in",
+                    "start": 2.2,
+                    "end": 2.38,
+                    "probability": 0.8463346362113953
+                },
+                {
+                    "word": " China?",
+                    "start": 2.38,
+                    "end": 2.68,
+                    "probability": 0.8239710927009583
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.36,
+            "end": 3.78,
+            "text": " Some of it?",
+            "tokens": [
+                50526,
+                2188,
+                295,
+                309,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " Some",
+                    "start": 3.36,
+                    "end": 3.54,
+                    "probability": 0.8346653580665588
+                },
+                {
+                    "word": " of",
+                    "start": 3.54,
+                    "end": 3.68,
+                    "probability": 0.9038124680519104
+                },
+                {
+                    "word": " it?",
+                    "start": 3.68,
+                    "end": 3.78,
+                    "probability": 0.8998230695724487
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.0,
+            "end": 4.66,
+            "text": " Some of it is.",
+            "tokens": [
+                50564,
+                2188,
+                295,
+                309,
+                307,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " Some",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.7237759828567505
+                },
+                {
+                    "word": " of",
+                    "start": 4.26,
+                    "end": 4.4,
+                    "probability": 0.9030017256736755
+                },
+                {
+                    "word": " it",
+                    "start": 4.4,
+                    "end": 4.54,
+                    "probability": 0.902978777885437
+                },
+                {
+                    "word": " is.",
+                    "start": 4.54,
+                    "end": 4.66,
+                    "probability": 0.38375067710876465
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.68,
+            "end": 5.62,
+            "text": " Okay, at ByteDance.",
+            "tokens": [
+                50596,
+                1033,
+                11,
+                412,
+                3146,
+                975,
+                35,
+                719,
+                13,
+                50666
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 4.68,
+                    "end": 4.88,
+                    "probability": 0.5151064991950989
+                },
+                {
+                    "word": " at",
+                    "start": 5.0,
+                    "end": 5.08,
+                    "probability": 0.6779105067253113
+                },
+                {
+                    "word": " ByteDance.",
+                    "start": 5.08,
+                    "end": 5.62,
+                    "probability": 0.9396404474973679
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.1,
+            "end": 10.08,
+            "text": " When it's compiled in the compilation process,",
+            "tokens": [
+                50666,
+                1133,
+                309,
+                311,
+                36548,
+                294,
+                264,
+                40261,
+                1399,
+                11,
+                50900
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 6.1,
+                    "end": 6.7,
+                    "probability": 0.572699785232544
+                },
+                {
+                    "word": " it's",
+                    "start": 6.7,
+                    "end": 7.58,
+                    "probability": 0.9358333051204681
+                },
+                {
+                    "word": " compiled",
+                    "start": 7.58,
+                    "end": 8.28,
+                    "probability": 0.8589770197868347
+                },
+                {
+                    "word": " in",
+                    "start": 8.28,
+                    "end": 8.74,
+                    "probability": 0.6733564138412476
+                },
+                {
+                    "word": " the",
+                    "start": 8.74,
+                    "end": 8.88,
+                    "probability": 0.8088251352310181
+                },
+                {
+                    "word": " compilation",
+                    "start": 8.88,
+                    "end": 9.36,
+                    "probability": 0.9288632869720459
+                },
+                {
+                    "word": " process,",
+                    "start": 9.36,
+                    "end": 10.08,
+                    "probability": 0.8721488118171692
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.78,
+            "end": 12.92,
+            "text": " can bytecode be manipulated?",
+            "tokens": [
+                50900,
+                393,
+                40846,
+                22332,
+                312,
+                37161,
+                30,
+                51026
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " can",
+                    "start": 10.78,
+                    "end": 11.08,
+                    "probability": 0.8960138559341431
+                },
+                {
+                    "word": " bytecode",
+                    "start": 11.08,
+                    "end": 12.1,
+                    "probability": 0.6851981282234192
+                },
+                {
+                    "word": " be",
+                    "start": 12.1,
+                    "end": 12.36,
+                    "probability": 0.8301196694374084
+                },
+                {
+                    "word": " manipulated?",
+                    "start": 12.36,
+                    "end": 12.92,
+                    "probability": 0.9466423988342285
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 13.22,
+            "end": 14.92,
+            "text": " We've talked a lot about source code.",
+            "tokens": [
+                51026,
+                492,
+                600,
+                2825,
+                257,
+                688,
+                466,
+                4009,
+                3089,
+                13,
+                51134
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " We've",
+                    "start": 13.22,
+                    "end": 13.46,
+                    "probability": 0.9146395921707153
+                },
+                {
+                    "word": " talked",
+                    "start": 13.46,
+                    "end": 13.66,
+                    "probability": 0.7604465484619141
+                },
+                {
+                    "word": " a",
+                    "start": 13.66,
+                    "end": 13.8,
+                    "probability": 0.997455894947052
+                },
+                {
+                    "word": " lot",
+                    "start": 13.8,
+                    "end": 13.92,
+                    "probability": 0.8914445042610168
+                },
+                {
+                    "word": " about",
+                    "start": 13.92,
+                    "end": 14.16,
+                    "probability": 0.8202797174453735
+                },
+                {
+                    "word": " source",
+                    "start": 14.16,
+                    "end": 14.56,
+                    "probability": 0.7155731320381165
+                },
+                {
+                    "word": " code.",
+                    "start": 14.56,
+                    "end": 14.92,
+                    "probability": 0.7845506072044373
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 15.36,
+            "end": 19.76,
+            "text": " What about the bytecode, the ones and zeros that actually execute on the device?",
+            "tokens": [
+                51134,
+                708,
+                466,
+                264,
+                40846,
+                22332,
+                11,
+                264,
+                2306,
+                293,
+                35193,
+                300,
+                767,
+                14483,
+                322,
+                264,
+                4302,
+                30,
+                51374
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 15.36,
+                    "end": 15.54,
+                    "probability": 0.8188835382461548
+                },
+                {
+                    "word": " about",
+                    "start": 15.54,
+                    "end": 15.76,
+                    "probability": 0.8191593885421753
+                },
+                {
+                    "word": " the",
+                    "start": 15.76,
+                    "end": 15.98,
+                    "probability": 0.8076343536376953
+                },
+                {
+                    "word": " bytecode,",
+                    "start": 15.98,
+                    "end": 16.56,
+                    "probability": 0.8975161612033844
+                },
+                {
+                    "word": " the",
+                    "start": 16.7,
+                    "end": 16.84,
+                    "probability": 0.8169571161270142
+                },
+                {
+                    "word": " ones",
+                    "start": 16.84,
+                    "end": 17.08,
+                    "probability": 0.7314998507499695
+                },
+                {
+                    "word": " and",
+                    "start": 17.08,
+                    "end": 17.28,
+                    "probability": 0.8923235535621643
+                },
+                {
+                    "word": " zeros",
+                    "start": 17.28,
+                    "end": 17.58,
+                    "probability": 0.6512267589569092
+                },
+                {
+                    "word": " that",
+                    "start": 17.58,
+                    "end": 17.84,
+                    "probability": 0.8795313835144043
+                },
+                {
+                    "word": " actually",
+                    "start": 17.84,
+                    "end": 18.24,
+                    "probability": 0.7737743854522705
+                },
+                {
+                    "word": " execute",
+                    "start": 18.24,
+                    "end": 18.9,
+                    "probability": 0.853882908821106
+                },
+                {
+                    "word": " on",
+                    "start": 18.9,
+                    "end": 19.22,
+                    "probability": 0.9062594175338745
+                },
+                {
+                    "word": " the",
+                    "start": 19.22,
+                    "end": 19.36,
+                    "probability": 0.8120661973953247
+                },
+                {
+                    "word": " device?",
+                    "start": 19.36,
+                    "end": 19.76,
+                    "probability": 0.9152333736419678
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 20.3,
+            "end": 21.06,
+            "text": " Can it be manipulated?",
+            "tokens": [
+                51374,
+                1664,
+                309,
+                312,
+                37161,
+                30,
+                51456
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 20.3,
+                    "end": 20.42,
+                    "probability": 0.44158056378364563
+                },
+                {
+                    "word": " it",
+                    "start": 20.42,
+                    "end": 20.48,
+                    "probability": 0.808438777923584
+                },
+                {
+                    "word": " be",
+                    "start": 20.48,
+                    "end": 20.66,
+                    "probability": 0.8758926391601562
+                },
+                {
+                    "word": " manipulated?",
+                    "start": 20.66,
+                    "end": 21.06,
+                    "probability": 0.9553765058517456
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 21.86,
+            "end": 22.12,
+            "text": " Yes.",
+            "tokens": [
+                51456,
+                1079,
+                13,
+                51476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40612838579260785,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.004354090429842472,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 21.86,
+                    "end": 22.12,
+                    "probability": 0.6824302077293396
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

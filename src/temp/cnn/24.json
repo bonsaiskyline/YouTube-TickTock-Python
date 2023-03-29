@@ -1,0 +1,202 @@
+{
+    "text": " It is our commitment to this committee and all our users that we will keep this free from any manipulation by any government.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " It is our commitment to this committee and all our users that we will keep this free",
+            "tokens": [
+                50364,
+                467,
+                307,
+                527,
+                8371,
+                281,
+                341,
+                7482,
+                293,
+                439,
+                527,
+                5022,
+                300,
+                321,
+                486,
+                1066,
+                341,
+                1737,
+                50558
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28711720170645877,
+            "compression_ratio": 1.2755102040816326,
+            "no_speech_prob": 0.0239724013954401,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8186321258544922
+                },
+                {
+                    "word": " is",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9001869559288025
+                },
+                {
+                    "word": " our",
+                    "start": 0.3,
+                    "end": 0.44,
+                    "probability": 0.7980271577835083
+                },
+                {
+                    "word": " commitment",
+                    "start": 0.44,
+                    "end": 0.86,
+                    "probability": 0.8605249524116516
+                },
+                {
+                    "word": " to",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.8788779377937317
+                },
+                {
+                    "word": " this",
+                    "start": 1.18,
+                    "end": 1.36,
+                    "probability": 0.8727644085884094
+                },
+                {
+                    "word": " committee",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.5670865774154663
+                },
+                {
+                    "word": " and",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.8804587721824646
+                },
+                {
+                    "word": " all",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.8564493656158447
+                },
+                {
+                    "word": " our",
+                    "start": 1.96,
+                    "end": 2.08,
+                    "probability": 0.75544673204422
+                },
+                {
+                    "word": " users",
+                    "start": 2.08,
+                    "end": 2.32,
+                    "probability": 0.8930158019065857
+                },
+                {
+                    "word": " that",
+                    "start": 2.32,
+                    "end": 2.64,
+                    "probability": 0.7934982776641846
+                },
+                {
+                    "word": " we",
+                    "start": 2.64,
+                    "end": 2.74,
+                    "probability": 0.9024885892868042
+                },
+                {
+                    "word": " will",
+                    "start": 2.74,
+                    "end": 2.88,
+                    "probability": 0.7961036562919617
+                },
+                {
+                    "word": " keep",
+                    "start": 2.88,
+                    "end": 3.08,
+                    "probability": 0.8145253658294678
+                },
+                {
+                    "word": " this",
+                    "start": 3.08,
+                    "end": 3.3,
+                    "probability": 0.8727432489395142
+                },
+                {
+                    "word": " free",
+                    "start": 3.3,
+                    "end": 3.58,
+                    "probability": 0.8627837300300598
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.58,
+            "end": 5.42,
+            "text": " from any manipulation by any government.",
+            "tokens": [
+                50558,
+                490,
+                604,
+                26475,
+                538,
+                604,
+                2463,
+                13,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28711720170645877,
+            "compression_ratio": 1.2755102040816326,
+            "no_speech_prob": 0.0239724013954401,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 3.58,
+                    "end": 4.1,
+                    "probability": 0.7817902565002441
+                },
+                {
+                    "word": " any",
+                    "start": 4.1,
+                    "end": 4.28,
+                    "probability": 0.8434876799583435
+                },
+                {
+                    "word": " manipulation",
+                    "start": 4.28,
+                    "end": 4.76,
+                    "probability": 0.9119102954864502
+                },
+                {
+                    "word": " by",
+                    "start": 4.76,
+                    "end": 4.94,
+                    "probability": 0.8692501187324524
+                },
+                {
+                    "word": " any",
+                    "start": 4.94,
+                    "end": 5.12,
+                    "probability": 0.8261842131614685
+                },
+                {
+                    "word": " government.",
+                    "start": 5.12,
+                    "end": 5.42,
+                    "probability": 0.8174663186073303
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

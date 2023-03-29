@@ -1,0 +1,690 @@
+{
+    "text": " Well, you say that, we've thought that, but leaked audio from 80 internal TikTok meetings shows that US user data has been repeatedly accessed from China when you said it hasn't been. And here's the other thing, following back on my colleague's line of questioning, in your own privacy policy, it says that you may even share information within your so-called corporate group. Is ByteDance part of that corporate group?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " Well, you say that, we've thought that,",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                291,
+                584,
+                300,
+                11,
+                321,
+                600,
+                1194,
+                300,
+                11,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.11979661136865616
+                },
+                {
+                    "word": " you",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.8255972266197205
+                },
+                {
+                    "word": " say",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.8725910782814026
+                },
+                {
+                    "word": " that,",
+                    "start": 0.66,
+                    "end": 0.8,
+                    "probability": 0.8634362816810608
+                },
+                {
+                    "word": " we've",
+                    "start": 1.36,
+                    "end": 1.72,
+                    "probability": 0.5044838935136795
+                },
+                {
+                    "word": " thought",
+                    "start": 1.72,
+                    "end": 1.86,
+                    "probability": 0.5647982358932495
+                },
+                {
+                    "word": " that,",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.8548623919487
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.22,
+            "end": 4.52,
+            "text": " but leaked audio from 80 internal TikTok meetings",
+            "tokens": [
+                50472,
+                457,
+                31779,
+                6278,
+                490,
+                4688,
+                6920,
+                20211,
+                8410,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 2.22,
+                    "end": 2.26,
+                    "probability": 0.8664653301239014
+                },
+                {
+                    "word": " leaked",
+                    "start": 2.26,
+                    "end": 2.46,
+                    "probability": 0.7415647506713867
+                },
+                {
+                    "word": " audio",
+                    "start": 2.46,
+                    "end": 2.84,
+                    "probability": 0.9076685905456543
+                },
+                {
+                    "word": " from",
+                    "start": 2.84,
+                    "end": 3.06,
+                    "probability": 0.8376927971839905
+                },
+                {
+                    "word": " 80",
+                    "start": 3.06,
+                    "end": 3.38,
+                    "probability": 0.8846327662467957
+                },
+                {
+                    "word": " internal",
+                    "start": 3.38,
+                    "end": 3.84,
+                    "probability": 0.6018355488777161
+                },
+                {
+                    "word": " TikTok",
+                    "start": 3.84,
+                    "end": 4.14,
+                    "probability": 0.8009116649627686
+                },
+                {
+                    "word": " meetings",
+                    "start": 4.14,
+                    "end": 4.52,
+                    "probability": 0.6012073159217834
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.52,
+            "end": 7.08,
+            "text": " shows that US user data has been repeatedly accessed",
+            "tokens": [
+                50594,
+                3110,
+                300,
+                2546,
+                4195,
+                1412,
+                575,
+                668,
+                18227,
+                34211,
+                50722
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " shows",
+                    "start": 4.52,
+                    "end": 4.8,
+                    "probability": 0.7541045546531677
+                },
+                {
+                    "word": " that",
+                    "start": 4.8,
+                    "end": 4.94,
+                    "probability": 0.7991511225700378
+                },
+                {
+                    "word": " US",
+                    "start": 4.94,
+                    "end": 5.18,
+                    "probability": 0.48289474844932556
+                },
+                {
+                    "word": " user",
+                    "start": 5.18,
+                    "end": 5.5,
+                    "probability": 0.8062524795532227
+                },
+                {
+                    "word": " data",
+                    "start": 5.5,
+                    "end": 5.78,
+                    "probability": 0.8036696314811707
+                },
+                {
+                    "word": " has",
+                    "start": 5.78,
+                    "end": 5.98,
+                    "probability": 0.8953645825386047
+                },
+                {
+                    "word": " been",
+                    "start": 5.98,
+                    "end": 6.12,
+                    "probability": 0.8149868845939636
+                },
+                {
+                    "word": " repeatedly",
+                    "start": 6.12,
+                    "end": 6.56,
+                    "probability": 0.8165600299835205
+                },
+                {
+                    "word": " accessed",
+                    "start": 6.56,
+                    "end": 7.08,
+                    "probability": 0.7570767402648926
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.08,
+            "end": 8.74,
+            "text": " from China when you said it hasn't been.",
+            "tokens": [
+                50722,
+                490,
+                3533,
+                562,
+                291,
+                848,
+                309,
+                6132,
+                380,
+                668,
+                13,
+                50830
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 7.08,
+                    "end": 7.28,
+                    "probability": 0.8141160607337952
+                },
+                {
+                    "word": " China",
+                    "start": 7.28,
+                    "end": 7.54,
+                    "probability": 0.8613108396530151
+                },
+                {
+                    "word": " when",
+                    "start": 7.54,
+                    "end": 7.7,
+                    "probability": 0.7421400547027588
+                },
+                {
+                    "word": " you",
+                    "start": 7.7,
+                    "end": 7.8,
+                    "probability": 0.8947672247886658
+                },
+                {
+                    "word": " said",
+                    "start": 7.8,
+                    "end": 7.98,
+                    "probability": 0.8554922342300415
+                },
+                {
+                    "word": " it",
+                    "start": 7.98,
+                    "end": 8.1,
+                    "probability": 0.8768070936203003
+                },
+                {
+                    "word": " hasn't",
+                    "start": 8.1,
+                    "end": 8.5,
+                    "probability": 0.905074417591095
+                },
+                {
+                    "word": " been.",
+                    "start": 8.5,
+                    "end": 8.74,
+                    "probability": 0.7943546175956726
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.34,
+            "end": 10.04,
+            "text": " And here's the other thing,",
+            "tokens": [
+                50830,
+                400,
+                510,
+                311,
+                264,
+                661,
+                551,
+                11,
+                50872
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 9.34,
+                    "end": 9.46,
+                    "probability": 0.8292528986930847
+                },
+                {
+                    "word": " here's",
+                    "start": 9.46,
+                    "end": 9.62,
+                    "probability": 0.9000379145145416
+                },
+                {
+                    "word": " the",
+                    "start": 9.62,
+                    "end": 9.7,
+                    "probability": 0.8139427304267883
+                },
+                {
+                    "word": " other",
+                    "start": 9.7,
+                    "end": 9.84,
+                    "probability": 0.77461177110672
+                },
+                {
+                    "word": " thing,",
+                    "start": 9.84,
+                    "end": 10.04,
+                    "probability": 0.8268287777900696
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.14,
+            "end": 12.58,
+            "text": " following back on my colleague's line of questioning,",
+            "tokens": [
+                50872,
+                3480,
+                646,
+                322,
+                452,
+                13532,
+                311,
+                1622,
+                295,
+                21257,
+                11,
+                51011
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " following",
+                    "start": 10.14,
+                    "end": 10.32,
+                    "probability": 0.417901873588562
+                },
+                {
+                    "word": " back",
+                    "start": 10.32,
+                    "end": 10.6,
+                    "probability": 0.8197380900382996
+                },
+                {
+                    "word": " on",
+                    "start": 10.6,
+                    "end": 10.72,
+                    "probability": 0.9025281071662903
+                },
+                {
+                    "word": " my",
+                    "start": 10.72,
+                    "end": 11.04,
+                    "probability": 0.9054691791534424
+                },
+                {
+                    "word": " colleague's",
+                    "start": 11.04,
+                    "end": 12.04,
+                    "probability": 0.7479195594787598
+                },
+                {
+                    "word": " line",
+                    "start": 12.04,
+                    "end": 12.16,
+                    "probability": 0.8971368074417114
+                },
+                {
+                    "word": " of",
+                    "start": 12.16,
+                    "end": 12.26,
+                    "probability": 0.9028232097625732
+                },
+                {
+                    "word": " questioning,",
+                    "start": 12.26,
+                    "end": 12.58,
+                    "probability": 0.7748012542724609
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 12.98,
+            "end": 14.84,
+            "text": " in your own privacy policy,",
+            "tokens": [
+                51011,
+                294,
+                428,
+                1065,
+                11427,
+                3897,
+                11,
+                51110
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 12.98,
+                    "end": 13.1,
+                    "probability": 0.8900227546691895
+                },
+                {
+                    "word": " your",
+                    "start": 13.1,
+                    "end": 13.3,
+                    "probability": 0.8086400628089905
+                },
+                {
+                    "word": " own",
+                    "start": 13.3,
+                    "end": 13.68,
+                    "probability": 0.8132142424583435
+                },
+                {
+                    "word": " privacy",
+                    "start": 13.68,
+                    "end": 14.3,
+                    "probability": 0.8345123529434204
+                },
+                {
+                    "word": " policy,",
+                    "start": 14.3,
+                    "end": 14.84,
+                    "probability": 0.8025311827659607
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 14.94,
+            "end": 16.38,
+            "text": " it says that you may even share information",
+            "tokens": [
+                51110,
+                309,
+                1619,
+                300,
+                291,
+                815,
+                754,
+                2073,
+                1589,
+                51186
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " it",
+                    "start": 14.94,
+                    "end": 15.0,
+                    "probability": 0.8970842361450195
+                },
+                {
+                    "word": " says",
+                    "start": 15.0,
+                    "end": 15.12,
+                    "probability": 0.7964238524436951
+                },
+                {
+                    "word": " that",
+                    "start": 15.12,
+                    "end": 15.24,
+                    "probability": 0.8344445824623108
+                },
+                {
+                    "word": " you",
+                    "start": 15.24,
+                    "end": 15.32,
+                    "probability": 0.8858717083930969
+                },
+                {
+                    "word": " may",
+                    "start": 15.32,
+                    "end": 15.5,
+                    "probability": 0.7712497115135193
+                },
+                {
+                    "word": " even",
+                    "start": 15.5,
+                    "end": 15.66,
+                    "probability": 0.3141903877258301
+                },
+                {
+                    "word": " share",
+                    "start": 15.66,
+                    "end": 15.84,
+                    "probability": 0.809895932674408
+                },
+                {
+                    "word": " information",
+                    "start": 15.84,
+                    "end": 16.38,
+                    "probability": 0.7373087406158447
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 16.38,
+            "end": 17.78,
+            "text": " within your so-called corporate group.",
+            "tokens": [
+                51186,
+                1951,
+                428,
+                370,
+                12,
+                11880,
+                10896,
+                1594,
+                13,
+                51254
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " within",
+                    "start": 16.38,
+                    "end": 16.64,
+                    "probability": 0.7861465811729431
+                },
+                {
+                    "word": " your",
+                    "start": 16.64,
+                    "end": 16.82,
+                    "probability": 0.8103891611099243
+                },
+                {
+                    "word": " so",
+                    "start": 16.82,
+                    "end": 16.98,
+                    "probability": 0.9075062274932861
+                },
+                {
+                    "word": "-called",
+                    "start": 16.98,
+                    "end": 17.16,
+                    "probability": 0.7823743224143982
+                },
+                {
+                    "word": " corporate",
+                    "start": 17.16,
+                    "end": 17.5,
+                    "probability": 0.782440721988678
+                },
+                {
+                    "word": " group.",
+                    "start": 17.5,
+                    "end": 17.78,
+                    "probability": 0.8378331065177917
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 17.88,
+            "end": 19.34,
+            "text": " Is ByteDance part of that corporate group?",
+            "tokens": [
+                51254,
+                1119,
+                3146,
+                975,
+                35,
+                719,
+                644,
+                295,
+                300,
+                10896,
+                1594,
+                30,
+                51359
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27030572103797845,
+            "compression_ratio": 1.5634328358208955,
+            "no_speech_prob": 0.00991243589669466,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 17.88,
+                    "end": 17.92,
+                    "probability": 0.8466932773590088
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 17.92,
+                    "end": 18.32,
+                    "probability": 0.9662624895572662
+                },
+                {
+                    "word": " part",
+                    "start": 18.32,
+                    "end": 18.54,
+                    "probability": 0.8066174983978271
+                },
+                {
+                    "word": " of",
+                    "start": 18.54,
+                    "end": 18.62,
+                    "probability": 0.9058111310005188
+                },
+                {
+                    "word": " that",
+                    "start": 18.62,
+                    "end": 18.76,
+                    "probability": 0.884087085723877
+                },
+                {
+                    "word": " corporate",
+                    "start": 18.76,
+                    "end": 19.04,
+                    "probability": 0.7911009192466736
+                },
+                {
+                    "word": " group?",
+                    "start": 19.04,
+                    "end": 19.34,
+                    "probability": 0.8543168306350708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

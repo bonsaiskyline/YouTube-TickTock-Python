@@ -1,0 +1,390 @@
+{
+    "text": " If you look behind me, Mr. Cruz, you see some of the challenges that we've seen on TikTok. You know about them. You know about the milk crate. You know about the blackout challenge. You know about the NyQuil chicken challenge.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " If you look behind me, Mr. Cruz, you see some of the challenges that we've seen on TikTok.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                574,
+                2261,
+                385,
+                11,
+                2221,
+                13,
+                23008,
+                11,
+                291,
+                536,
+                512,
+                295,
+                264,
+                4759,
+                300,
+                321,
+                600,
+                1612,
+                322,
+                20211,
+                13,
+                50601
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995953857898712,
+            "compression_ratio": 1.661764705882353,
+            "no_speech_prob": 0.010160865262150764,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.631325900554657
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.8676491379737854
+                },
+                {
+                    "word": " look",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.7291653752326965
+                },
+                {
+                    "word": " behind",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.8668012619018555
+                },
+                {
+                    "word": " me,",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.8765146136283875
+                },
+                {
+                    "word": " Mr.",
+                    "start": 1.26,
+                    "end": 1.36,
+                    "probability": 0.8249667286872864
+                },
+                {
+                    "word": " Cruz,",
+                    "start": 1.44,
+                    "end": 1.52,
+                    "probability": 0.11760371178388596
+                },
+                {
+                    "word": " you",
+                    "start": 1.58,
+                    "end": 1.66,
+                    "probability": 0.8783371448516846
+                },
+                {
+                    "word": " see",
+                    "start": 1.66,
+                    "end": 1.84,
+                    "probability": 0.7797074317932129
+                },
+                {
+                    "word": " some",
+                    "start": 1.84,
+                    "end": 2.1,
+                    "probability": 0.8157727122306824
+                },
+                {
+                    "word": " of",
+                    "start": 2.1,
+                    "end": 2.22,
+                    "probability": 0.9005416631698608
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.4,
+                    "probability": 0.8146917223930359
+                },
+                {
+                    "word": " challenges",
+                    "start": 2.4,
+                    "end": 3.02,
+                    "probability": 0.7268730401992798
+                },
+                {
+                    "word": " that",
+                    "start": 3.02,
+                    "end": 3.38,
+                    "probability": 0.8747970461845398
+                },
+                {
+                    "word": " we've",
+                    "start": 3.38,
+                    "end": 3.62,
+                    "probability": 0.928612470626831
+                },
+                {
+                    "word": " seen",
+                    "start": 3.62,
+                    "end": 3.82,
+                    "probability": 0.8733487129211426
+                },
+                {
+                    "word": " on",
+                    "start": 3.82,
+                    "end": 4.0,
+                    "probability": 0.9057901501655579
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.7931864261627197
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.66,
+            "end": 5.34,
+            "text": " You know about them.",
+            "tokens": [
+                50601,
+                509,
+                458,
+                466,
+                552,
+                13,
+                50651
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995953857898712,
+            "compression_ratio": 1.661764705882353,
+            "no_speech_prob": 0.010160865262150764,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.66,
+                    "end": 4.8,
+                    "probability": 0.8898853063583374
+                },
+                {
+                    "word": " know",
+                    "start": 4.8,
+                    "end": 4.98,
+                    "probability": 0.8144258260726929
+                },
+                {
+                    "word": " about",
+                    "start": 4.98,
+                    "end": 5.24,
+                    "probability": 0.8265953063964844
+                },
+                {
+                    "word": " them.",
+                    "start": 5.24,
+                    "end": 5.34,
+                    "probability": 0.6541241407394409
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.38,
+            "end": 6.96,
+            "text": " You know about the milk crate.",
+            "tokens": [
+                50651,
+                509,
+                458,
+                466,
+                264,
+                5392,
+                42426,
+                13,
+                50722
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995953857898712,
+            "compression_ratio": 1.661764705882353,
+            "no_speech_prob": 0.010160865262150764,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 5.38,
+                    "end": 5.44,
+                    "probability": 0.8899698257446289
+                },
+                {
+                    "word": " know",
+                    "start": 5.44,
+                    "end": 5.6,
+                    "probability": 0.8165781497955322
+                },
+                {
+                    "word": " about",
+                    "start": 5.6,
+                    "end": 5.84,
+                    "probability": 0.8206537961959839
+                },
+                {
+                    "word": " the",
+                    "start": 5.84,
+                    "end": 5.98,
+                    "probability": 0.8116641044616699
+                },
+                {
+                    "word": " milk",
+                    "start": 5.98,
+                    "end": 6.24,
+                    "probability": 0.7082605957984924
+                },
+                {
+                    "word": " crate.",
+                    "start": 6.24,
+                    "end": 6.96,
+                    "probability": 0.8184866905212402
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.12,
+            "end": 10.46,
+            "text": " You know about the blackout challenge.",
+            "tokens": [
+                50722,
+                509,
+                458,
+                466,
+                264,
+                2211,
+                346,
+                3430,
+                13,
+                50896
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995953857898712,
+            "compression_ratio": 1.661764705882353,
+            "no_speech_prob": 0.010160865262150764,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 7.12,
+                    "end": 7.22,
+                    "probability": 0.888729453086853
+                },
+                {
+                    "word": " know",
+                    "start": 7.22,
+                    "end": 7.38,
+                    "probability": 0.8186885714530945
+                },
+                {
+                    "word": " about",
+                    "start": 7.38,
+                    "end": 7.76,
+                    "probability": 0.8252623081207275
+                },
+                {
+                    "word": " the",
+                    "start": 7.76,
+                    "end": 8.08,
+                    "probability": 0.8099862337112427
+                },
+                {
+                    "word": " blackout",
+                    "start": 8.08,
+                    "end": 9.98,
+                    "probability": 0.7554445266723633
+                },
+                {
+                    "word": " challenge.",
+                    "start": 9.98,
+                    "end": 10.46,
+                    "probability": 0.7868960499763489
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.64,
+            "end": 13.68,
+            "text": " You know about the NyQuil chicken challenge.",
+            "tokens": [
+                50896,
+                509,
+                458,
+                466,
+                264,
+                29214,
+                8547,
+                388,
+                4662,
+                3430,
+                13,
+                51056
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2995953857898712,
+            "compression_ratio": 1.661764705882353,
+            "no_speech_prob": 0.010160865262150764,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 10.64,
+                    "end": 10.72,
+                    "probability": 0.887779951095581
+                },
+                {
+                    "word": " know",
+                    "start": 10.72,
+                    "end": 10.88,
+                    "probability": 0.8198000192642212
+                },
+                {
+                    "word": " about",
+                    "start": 10.88,
+                    "end": 11.26,
+                    "probability": 0.8233937621116638
+                },
+                {
+                    "word": " the",
+                    "start": 11.26,
+                    "end": 11.6,
+                    "probability": 0.817486047744751
+                },
+                {
+                    "word": " NyQuil",
+                    "start": 11.6,
+                    "end": 12.66,
+                    "probability": 0.9338249961535136
+                },
+                {
+                    "word": " chicken",
+                    "start": 12.66,
+                    "end": 13.14,
+                    "probability": 0.7173003554344177
+                },
+                {
+                    "word": " challenge.",
+                    "start": 13.14,
+                    "end": 13.68,
+                    "probability": 0.7811228036880493
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

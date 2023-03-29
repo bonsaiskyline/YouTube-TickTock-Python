@@ -1,0 +1,153 @@
+{
+    "text": " The Chinese Communist Party is engaged in psychological warfare through TikTok to deliberately influence US children.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.86,
+            "text": " The Chinese Communist Party is engaged in psychological warfare through TikTok to deliberately",
+            "tokens": [
+                50364,
+                440,
+                4649,
+                23253,
+                8552,
+                307,
+                8237,
+                294,
+                14346,
+                24490,
+                807,
+                20211,
+                281,
+                23506,
+                50762
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4729920300570401,
+            "compression_ratio": 1.125,
+            "no_speech_prob": 0.23530365526676178,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.2375575304031372
+                },
+                {
+                    "word": " Chinese",
+                    "start": 0.94,
+                    "end": 1.72,
+                    "probability": 0.7302341461181641
+                },
+                {
+                    "word": " Communist",
+                    "start": 1.72,
+                    "end": 2.14,
+                    "probability": 0.6856532692909241
+                },
+                {
+                    "word": " Party",
+                    "start": 2.14,
+                    "end": 2.44,
+                    "probability": 0.8141881823539734
+                },
+                {
+                    "word": " is",
+                    "start": 2.44,
+                    "end": 2.64,
+                    "probability": 0.7958672642707825
+                },
+                {
+                    "word": " engaged",
+                    "start": 2.64,
+                    "end": 3.18,
+                    "probability": 0.7878082394599915
+                },
+                {
+                    "word": " in",
+                    "start": 3.18,
+                    "end": 3.4,
+                    "probability": 0.9051758050918579
+                },
+                {
+                    "word": " psychological",
+                    "start": 3.4,
+                    "end": 4.12,
+                    "probability": 0.8881611824035645
+                },
+                {
+                    "word": " warfare",
+                    "start": 4.12,
+                    "end": 4.88,
+                    "probability": 0.8564013838768005
+                },
+                {
+                    "word": " through",
+                    "start": 4.88,
+                    "end": 6.06,
+                    "probability": 0.716022789478302
+                },
+                {
+                    "word": " TikTok",
+                    "start": 6.06,
+                    "end": 6.54,
+                    "probability": 0.6186562776565552
+                },
+                {
+                    "word": " to",
+                    "start": 6.54,
+                    "end": 7.3,
+                    "probability": 0.8229624629020691
+                },
+                {
+                    "word": " deliberately",
+                    "start": 7.3,
+                    "end": 7.86,
+                    "probability": 0.8111535906791687
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.86,
+            "end": 10.18,
+            "text": " influence US children.",
+            "tokens": [
+                50762,
+                6503,
+                2546,
+                2227,
+                13,
+                50882
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4729920300570401,
+            "compression_ratio": 1.125,
+            "no_speech_prob": 0.23530365526676178,
+            "words": [
+                {
+                    "word": " influence",
+                    "start": 7.86,
+                    "end": 8.84,
+                    "probability": 0.8305361866950989
+                },
+                {
+                    "word": " US",
+                    "start": 8.84,
+                    "end": 9.72,
+                    "probability": 0.5184018015861511
+                },
+                {
+                    "word": " children.",
+                    "start": 9.72,
+                    "end": 10.18,
+                    "probability": 0.65827476978302
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

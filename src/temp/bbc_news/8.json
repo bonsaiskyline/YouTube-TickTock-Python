@@ -1,0 +1,417 @@
+{
+    "text": " No, I don't. It's a yes or no question. Have you directed your engineers to change that source code? I'm not sure I understand. Why are you allowing TikTok to continue to have the capacity for censorship, and yet you claim here that you don't?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " No, I don't. It's a yes or no question.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                286,
+                500,
+                380,
+                13,
+                467,
+                311,
+                257,
+                2086,
+                420,
+                572,
+                1168,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29051069003432545,
+            "compression_ratio": 1.4127906976744187,
+            "no_speech_prob": 0.0408751517534256,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.4160323441028595
+                },
+                {
+                    "word": " I",
+                    "start": 0.44,
+                    "end": 0.56,
+                    "probability": 0.8061003684997559
+                },
+                {
+                    "word": " don't.",
+                    "start": 0.56,
+                    "end": 0.98,
+                    "probability": 0.8978089392185211
+                },
+                {
+                    "word": " It's",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9376590549945831
+                },
+                {
+                    "word": " a",
+                    "start": 1.4,
+                    "end": 1.48,
+                    "probability": 0.9967089891433716
+                },
+                {
+                    "word": " yes",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.9097933173179626
+                },
+                {
+                    "word": " or",
+                    "start": 1.66,
+                    "end": 1.76,
+                    "probability": 0.8911027908325195
+                },
+                {
+                    "word": " no",
+                    "start": 1.76,
+                    "end": 1.88,
+                    "probability": 0.903987467288971
+                },
+                {
+                    "word": " question.",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.8004823327064514
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.32,
+            "end": 5.18,
+            "text": " Have you directed your engineers to change that source code?",
+            "tokens": [
+                50476,
+                3560,
+                291,
+                12898,
+                428,
+                11955,
+                281,
+                1319,
+                300,
+                4009,
+                3089,
+                30,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29051069003432545,
+            "compression_ratio": 1.4127906976744187,
+            "no_speech_prob": 0.0408751517534256,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 2.32,
+                    "end": 2.42,
+                    "probability": 0.8800737857818604
+                },
+                {
+                    "word": " you",
+                    "start": 2.42,
+                    "end": 2.54,
+                    "probability": 0.8966153860092163
+                },
+                {
+                    "word": " directed",
+                    "start": 2.54,
+                    "end": 2.9,
+                    "probability": 0.7965013980865479
+                },
+                {
+                    "word": " your",
+                    "start": 2.9,
+                    "end": 3.18,
+                    "probability": 0.8107814192771912
+                },
+                {
+                    "word": " engineers",
+                    "start": 3.18,
+                    "end": 3.6,
+                    "probability": 0.7377455234527588
+                },
+                {
+                    "word": " to",
+                    "start": 3.6,
+                    "end": 3.9,
+                    "probability": 0.9061182141304016
+                },
+                {
+                    "word": " change",
+                    "start": 3.9,
+                    "end": 4.18,
+                    "probability": 0.8416944742202759
+                },
+                {
+                    "word": " that",
+                    "start": 4.18,
+                    "end": 4.36,
+                    "probability": 0.88227778673172
+                },
+                {
+                    "word": " source",
+                    "start": 4.36,
+                    "end": 4.62,
+                    "probability": 0.7170530557632446
+                },
+                {
+                    "word": " code?",
+                    "start": 4.62,
+                    "end": 5.18,
+                    "probability": 0.7873746156692505
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.28,
+            "end": 6.7,
+            "text": " I'm not sure I understand.",
+            "tokens": [
+                50620,
+                286,
+                478,
+                406,
+                988,
+                286,
+                1223,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29051069003432545,
+            "compression_ratio": 1.4127906976744187,
+            "no_speech_prob": 0.0408751517534256,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 5.28,
+                    "end": 5.9,
+                    "probability": 0.891777753829956
+                },
+                {
+                    "word": " not",
+                    "start": 5.9,
+                    "end": 6.18,
+                    "probability": 0.8924923539161682
+                },
+                {
+                    "word": " sure",
+                    "start": 6.18,
+                    "end": 6.3,
+                    "probability": 0.8247113823890686
+                },
+                {
+                    "word": " I",
+                    "start": 6.3,
+                    "end": 6.42,
+                    "probability": 0.9454697966575623
+                },
+                {
+                    "word": " understand.",
+                    "start": 6.42,
+                    "end": 6.7,
+                    "probability": 0.8020060062408447
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.8,
+            "end": 11.2,
+            "text": " Why are you allowing TikTok to continue to have the capacity for censorship,",
+            "tokens": [
+                50700,
+                1545,
+                366,
+                291,
+                8293,
+                20211,
+                281,
+                2354,
+                281,
+                362,
+                264,
+                6042,
+                337,
+                40985,
+                11,
+                50940
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29051069003432545,
+            "compression_ratio": 1.4127906976744187,
+            "no_speech_prob": 0.0408751517534256,
+            "words": [
+                {
+                    "word": " Why",
+                    "start": 6.8,
+                    "end": 6.98,
+                    "probability": 0.8014796376228333
+                },
+                {
+                    "word": " are",
+                    "start": 6.98,
+                    "end": 7.18,
+                    "probability": 0.8978500962257385
+                },
+                {
+                    "word": " you",
+                    "start": 7.18,
+                    "end": 7.38,
+                    "probability": 0.8964959979057312
+                },
+                {
+                    "word": " allowing",
+                    "start": 7.38,
+                    "end": 7.94,
+                    "probability": 0.8023558259010315
+                },
+                {
+                    "word": " TikTok",
+                    "start": 7.94,
+                    "end": 8.44,
+                    "probability": 0.6423158645629883
+                },
+                {
+                    "word": " to",
+                    "start": 8.44,
+                    "end": 8.9,
+                    "probability": 0.9062010645866394
+                },
+                {
+                    "word": " continue",
+                    "start": 8.9,
+                    "end": 9.32,
+                    "probability": 0.7868417501449585
+                },
+                {
+                    "word": " to",
+                    "start": 9.32,
+                    "end": 9.52,
+                    "probability": 0.903450071811676
+                },
+                {
+                    "word": " have",
+                    "start": 9.52,
+                    "end": 9.74,
+                    "probability": 0.8827807307243347
+                },
+                {
+                    "word": " the",
+                    "start": 9.74,
+                    "end": 9.9,
+                    "probability": 0.8125340342521667
+                },
+                {
+                    "word": " capacity",
+                    "start": 9.9,
+                    "end": 10.4,
+                    "probability": 0.7410591840744019
+                },
+                {
+                    "word": " for",
+                    "start": 10.4,
+                    "end": 10.74,
+                    "probability": 0.8987382650375366
+                },
+                {
+                    "word": " censorship,",
+                    "start": 10.74,
+                    "end": 11.2,
+                    "probability": 0.8659356832504272
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.72,
+            "end": 14.16,
+            "text": " and yet you claim here that you don't?",
+            "tokens": [
+                50940,
+                293,
+                1939,
+                291,
+                3932,
+                510,
+                300,
+                291,
+                500,
+                380,
+                30,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29051069003432545,
+            "compression_ratio": 1.4127906976744187,
+            "no_speech_prob": 0.0408751517534256,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 11.72,
+                    "end": 11.82,
+                    "probability": 0.8913916945457458
+                },
+                {
+                    "word": " yet",
+                    "start": 11.82,
+                    "end": 12.0,
+                    "probability": 0.9006204009056091
+                },
+                {
+                    "word": " you",
+                    "start": 12.0,
+                    "end": 12.2,
+                    "probability": 0.8638008832931519
+                },
+                {
+                    "word": " claim",
+                    "start": 12.2,
+                    "end": 12.54,
+                    "probability": 0.8276060819625854
+                },
+                {
+                    "word": " here",
+                    "start": 12.54,
+                    "end": 12.96,
+                    "probability": 0.8175137042999268
+                },
+                {
+                    "word": " that",
+                    "start": 12.96,
+                    "end": 13.6,
+                    "probability": 0.8680242300033569
+                },
+                {
+                    "word": " you",
+                    "start": 13.6,
+                    "end": 13.78,
+                    "probability": 0.9002097249031067
+                },
+                {
+                    "word": " don't?",
+                    "start": 13.78,
+                    "end": 14.16,
+                    "probability": 0.9463105499744415
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

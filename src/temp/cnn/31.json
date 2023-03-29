@@ -1,0 +1,846 @@
+{
+    "text": " Yeah, well, there's also a broader conversation, too. I was talking to some senators yesterday. Of course, there's a national security component, but also there's the mental health component, especially for young people. And Senator Chris Murphy, for example, he told me that he has a teenage son, and he wants the conversation around TikTok to be much broader than just China and national security. And so he almost thinks that Congress is too singularly focused on China on this issue. So we'll see where this goes next.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " Yeah, well, there's also a broader conversation, too.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                731,
+                11,
+                456,
+                311,
+                611,
+                257,
+                13227,
+                3761,
+                11,
+                886,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8016202449798584
+                },
+                {
+                    "word": " well,",
+                    "start": 0.34,
+                    "end": 0.5,
+                    "probability": 0.881577730178833
+                },
+                {
+                    "word": " there's",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9221247434616089
+                },
+                {
+                    "word": " also",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.8169509768486023
+                },
+                {
+                    "word": " a",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.991996705532074
+                },
+                {
+                    "word": " broader",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.7547056674957275
+                },
+                {
+                    "word": " conversation,",
+                    "start": 1.56,
+                    "end": 2.24,
+                    "probability": 0.8425267934799194
+                },
+                {
+                    "word": " too.",
+                    "start": 2.52,
+                    "end": 2.58,
+                    "probability": 0.8042666912078857
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.64,
+            "end": 4.08,
+            "text": " I was talking to some senators yesterday.",
+            "tokens": [
+                50496,
+                286,
+                390,
+                1417,
+                281,
+                512,
+                32221,
+                5186,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 2.64,
+                    "end": 2.7,
+                    "probability": 0.9993280172348022
+                },
+                {
+                    "word": " was",
+                    "start": 2.7,
+                    "end": 2.82,
+                    "probability": 0.8980389833450317
+                },
+                {
+                    "word": " talking",
+                    "start": 2.82,
+                    "end": 3.04,
+                    "probability": 0.7729308605194092
+                },
+                {
+                    "word": " to",
+                    "start": 3.04,
+                    "end": 3.18,
+                    "probability": 0.899856686592102
+                },
+                {
+                    "word": " some",
+                    "start": 3.18,
+                    "end": 3.34,
+                    "probability": 0.8324868083000183
+                },
+                {
+                    "word": " senators",
+                    "start": 3.34,
+                    "end": 3.64,
+                    "probability": 0.730536699295044
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 3.64,
+                    "end": 4.08,
+                    "probability": 0.7624765634536743
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.24,
+            "end": 6.04,
+            "text": " Of course, there's a national security component,",
+            "tokens": [
+                50580,
+                2720,
+                1164,
+                11,
+                456,
+                311,
+                257,
+                4048,
+                3825,
+                6542,
+                11,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " Of",
+                    "start": 4.24,
+                    "end": 4.34,
+                    "probability": 0.9002166986465454
+                },
+                {
+                    "word": " course,",
+                    "start": 4.34,
+                    "end": 4.58,
+                    "probability": 0.869587242603302
+                },
+                {
+                    "word": " there's",
+                    "start": 4.64,
+                    "end": 4.76,
+                    "probability": 0.8944416642189026
+                },
+                {
+                    "word": " a",
+                    "start": 4.76,
+                    "end": 4.88,
+                    "probability": 0.5814189314842224
+                },
+                {
+                    "word": " national",
+                    "start": 4.88,
+                    "end": 5.16,
+                    "probability": 0.7271028757095337
+                },
+                {
+                    "word": " security",
+                    "start": 5.16,
+                    "end": 5.6,
+                    "probability": 0.9121403098106384
+                },
+                {
+                    "word": " component,",
+                    "start": 5.6,
+                    "end": 6.04,
+                    "probability": 0.7265746593475342
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.04,
+            "end": 8.5,
+            "text": " but also there's the mental health component, especially",
+            "tokens": [
+                50682,
+                457,
+                611,
+                456,
+                311,
+                264,
+                4973,
+                1585,
+                6542,
+                11,
+                2318,
+                50798
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 6.04,
+                    "end": 6.32,
+                    "probability": 0.8989017009735107
+                },
+                {
+                    "word": " also",
+                    "start": 6.32,
+                    "end": 6.62,
+                    "probability": 0.8094174861907959
+                },
+                {
+                    "word": " there's",
+                    "start": 6.62,
+                    "end": 6.92,
+                    "probability": 0.7691777050495148
+                },
+                {
+                    "word": " the",
+                    "start": 6.92,
+                    "end": 7.06,
+                    "probability": 0.8005084991455078
+                },
+                {
+                    "word": " mental",
+                    "start": 7.06,
+                    "end": 7.28,
+                    "probability": 0.7965947389602661
+                },
+                {
+                    "word": " health",
+                    "start": 7.28,
+                    "end": 7.64,
+                    "probability": 0.8984500765800476
+                },
+                {
+                    "word": " component,",
+                    "start": 7.64,
+                    "end": 8.04,
+                    "probability": 0.7024854421615601
+                },
+                {
+                    "word": " especially",
+                    "start": 8.18,
+                    "end": 8.5,
+                    "probability": 0.724414587020874
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.5,
+            "end": 9.34,
+            "text": " for young people.",
+            "tokens": [
+                50798,
+                337,
+                2037,
+                561,
+                13,
+                50850
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 8.5,
+                    "end": 8.76,
+                    "probability": 0.8711462616920471
+                },
+                {
+                    "word": " young",
+                    "start": 8.76,
+                    "end": 9.0,
+                    "probability": 0.9015746712684631
+                },
+                {
+                    "word": " people.",
+                    "start": 9.0,
+                    "end": 9.34,
+                    "probability": 0.9243284463882446
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 9.8,
+            "end": 11.48,
+            "text": " And Senator Chris Murphy, for example,",
+            "tokens": [
+                50850,
+                400,
+                10893,
+                6688,
+                28549,
+                11,
+                337,
+                1365,
+                11,
+                50946
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 9.8,
+                    "end": 9.94,
+                    "probability": 0.8926082253456116
+                },
+                {
+                    "word": " Senator",
+                    "start": 9.94,
+                    "end": 10.22,
+                    "probability": 0.9077194929122925
+                },
+                {
+                    "word": " Chris",
+                    "start": 10.22,
+                    "end": 10.5,
+                    "probability": 0.7240989208221436
+                },
+                {
+                    "word": " Murphy,",
+                    "start": 10.5,
+                    "end": 10.82,
+                    "probability": 0.8306630849838257
+                },
+                {
+                    "word": " for",
+                    "start": 10.96,
+                    "end": 11.08,
+                    "probability": 0.8891453742980957
+                },
+                {
+                    "word": " example,",
+                    "start": 11.08,
+                    "end": 11.48,
+                    "probability": 0.9325681328773499
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 11.62,
+            "end": 14.48,
+            "text": " he told me that he has a teenage son,",
+            "tokens": [
+                50946,
+                415,
+                1907,
+                385,
+                300,
+                415,
+                575,
+                257,
+                26866,
+                1872,
+                11,
+                51095
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " he",
+                    "start": 11.62,
+                    "end": 11.74,
+                    "probability": 0.9122776985168457
+                },
+                {
+                    "word": " told",
+                    "start": 11.74,
+                    "end": 12.02,
+                    "probability": 0.9164993762969971
+                },
+                {
+                    "word": " me",
+                    "start": 12.02,
+                    "end": 12.32,
+                    "probability": 0.9068931341171265
+                },
+                {
+                    "word": " that",
+                    "start": 12.32,
+                    "end": 12.94,
+                    "probability": 0.7350155115127563
+                },
+                {
+                    "word": " he",
+                    "start": 12.94,
+                    "end": 13.54,
+                    "probability": 0.8763542771339417
+                },
+                {
+                    "word": " has",
+                    "start": 13.54,
+                    "end": 13.68,
+                    "probability": 0.8975061178207397
+                },
+                {
+                    "word": " a",
+                    "start": 13.68,
+                    "end": 13.82,
+                    "probability": 0.9998161196708679
+                },
+                {
+                    "word": " teenage",
+                    "start": 13.82,
+                    "end": 14.0,
+                    "probability": 0.7960291504859924
+                },
+                {
+                    "word": " son,",
+                    "start": 14.0,
+                    "end": 14.48,
+                    "probability": 0.910017728805542
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 14.6,
+            "end": 16.74,
+            "text": " and he wants the conversation around TikTok",
+            "tokens": [
+                51095,
+                293,
+                415,
+                2738,
+                264,
+                3761,
+                926,
+                20211,
+                51212
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 14.6,
+                    "end": 14.76,
+                    "probability": 0.896029531955719
+                },
+                {
+                    "word": " he",
+                    "start": 14.76,
+                    "end": 15.02,
+                    "probability": 0.9033782482147217
+                },
+                {
+                    "word": " wants",
+                    "start": 15.02,
+                    "end": 15.36,
+                    "probability": 0.7315155863761902
+                },
+                {
+                    "word": " the",
+                    "start": 15.36,
+                    "end": 15.52,
+                    "probability": 0.8152368068695068
+                },
+                {
+                    "word": " conversation",
+                    "start": 15.52,
+                    "end": 16.1,
+                    "probability": 0.8432043790817261
+                },
+                {
+                    "word": " around",
+                    "start": 16.1,
+                    "end": 16.48,
+                    "probability": 0.857684314250946
+                },
+                {
+                    "word": " TikTok",
+                    "start": 16.48,
+                    "end": 16.74,
+                    "probability": 0.8219817876815796
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 16.74,
+            "end": 20.06,
+            "text": " to be much broader than just China and national security.",
+            "tokens": [
+                51212,
+                281,
+                312,
+                709,
+                13227,
+                813,
+                445,
+                3533,
+                293,
+                4048,
+                3825,
+                13,
+                51392
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 16.74,
+                    "end": 17.02,
+                    "probability": 0.9041593670845032
+                },
+                {
+                    "word": " be",
+                    "start": 17.02,
+                    "end": 17.2,
+                    "probability": 0.9081088900566101
+                },
+                {
+                    "word": " much",
+                    "start": 17.2,
+                    "end": 17.5,
+                    "probability": 0.8118636608123779
+                },
+                {
+                    "word": " broader",
+                    "start": 17.5,
+                    "end": 17.98,
+                    "probability": 0.7453561425209045
+                },
+                {
+                    "word": " than",
+                    "start": 17.98,
+                    "end": 18.3,
+                    "probability": 0.881955087184906
+                },
+                {
+                    "word": " just",
+                    "start": 18.3,
+                    "end": 18.58,
+                    "probability": 0.893481969833374
+                },
+                {
+                    "word": " China",
+                    "start": 18.58,
+                    "end": 18.96,
+                    "probability": 0.8539659380912781
+                },
+                {
+                    "word": " and",
+                    "start": 18.96,
+                    "end": 19.22,
+                    "probability": 0.8945546746253967
+                },
+                {
+                    "word": " national",
+                    "start": 19.22,
+                    "end": 19.56,
+                    "probability": 0.7410852909088135
+                },
+                {
+                    "word": " security.",
+                    "start": 19.56,
+                    "end": 20.06,
+                    "probability": 0.9225795269012451
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 20.52,
+            "end": 22.24,
+            "text": " And so he almost thinks that Congress",
+            "tokens": [
+                51392,
+                400,
+                370,
+                415,
+                1920,
+                7309,
+                300,
+                6426,
+                51484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 20.52,
+                    "end": 20.64,
+                    "probability": 0.8942867517471313
+                },
+                {
+                    "word": " so",
+                    "start": 20.64,
+                    "end": 20.78,
+                    "probability": 0.8999460935592651
+                },
+                {
+                    "word": " he",
+                    "start": 20.78,
+                    "end": 20.94,
+                    "probability": 0.8907795548439026
+                },
+                {
+                    "word": " almost",
+                    "start": 20.94,
+                    "end": 21.28,
+                    "probability": 0.6851097345352173
+                },
+                {
+                    "word": " thinks",
+                    "start": 21.28,
+                    "end": 21.54,
+                    "probability": 0.7052637338638306
+                },
+                {
+                    "word": " that",
+                    "start": 21.54,
+                    "end": 21.8,
+                    "probability": 0.8771471977233887
+                },
+                {
+                    "word": " Congress",
+                    "start": 21.8,
+                    "end": 22.24,
+                    "probability": 0.9047603607177734
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 22.24,
+            "end": 26.02,
+            "text": " is too singularly focused on China on this issue.",
+            "tokens": [
+                51484,
+                307,
+                886,
+                20010,
+                356,
+                5178,
+                322,
+                3533,
+                322,
+                341,
+                2734,
+                13,
+                51716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 22.24,
+                    "end": 22.54,
+                    "probability": 0.9041285514831543
+                },
+                {
+                    "word": " too",
+                    "start": 22.54,
+                    "end": 23.04,
+                    "probability": 0.8061796426773071
+                },
+                {
+                    "word": " singularly",
+                    "start": 23.04,
+                    "end": 24.16,
+                    "probability": 0.9485079944133759
+                },
+                {
+                    "word": " focused",
+                    "start": 24.16,
+                    "end": 24.64,
+                    "probability": 0.7670234441757202
+                },
+                {
+                    "word": " on",
+                    "start": 24.64,
+                    "end": 24.92,
+                    "probability": 0.9087983965873718
+                },
+                {
+                    "word": " China",
+                    "start": 24.92,
+                    "end": 25.22,
+                    "probability": 0.8695986866950989
+                },
+                {
+                    "word": " on",
+                    "start": 25.22,
+                    "end": 25.48,
+                    "probability": 0.8850187659263611
+                },
+                {
+                    "word": " this",
+                    "start": 25.48,
+                    "end": 25.72,
+                    "probability": 0.8846839070320129
+                },
+                {
+                    "word": " issue.",
+                    "start": 25.72,
+                    "end": 26.02,
+                    "probability": 0.9057449102401733
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 26.48,
+            "end": 28.32,
+            "text": " So we'll see where this goes next.",
+            "tokens": [
+                51716,
+                407,
+                321,
+                603,
+                536,
+                689,
+                341,
+                1709,
+                958,
+                13,
+                51844
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2601053051482466,
+            "compression_ratio": 1.7171052631578947,
+            "no_speech_prob": 0.0006976579898037016,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 26.48,
+                    "end": 27.08,
+                    "probability": 0.9004403948783875
+                },
+                {
+                    "word": " we'll",
+                    "start": 27.08,
+                    "end": 27.24,
+                    "probability": 0.9260834157466888
+                },
+                {
+                    "word": " see",
+                    "start": 27.24,
+                    "end": 27.42,
+                    "probability": 0.8148768544197083
+                },
+                {
+                    "word": " where",
+                    "start": 27.42,
+                    "end": 27.58,
+                    "probability": 0.9131128787994385
+                },
+                {
+                    "word": " this",
+                    "start": 27.58,
+                    "end": 27.78,
+                    "probability": 0.8823428153991699
+                },
+                {
+                    "word": " goes",
+                    "start": 27.78,
+                    "end": 28.0,
+                    "probability": 0.8687111139297485
+                },
+                {
+                    "word": " next.",
+                    "start": 28.0,
+                    "end": 28.32,
+                    "probability": 0.8538515567779541
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

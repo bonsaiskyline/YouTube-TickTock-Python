@@ -1,0 +1,2462 @@
+{
+    "text": " Okay. So your own privacy policy says you have to share data with ByteDance. And if the CCP says, hey, ByteDance, you're going to do what we say, and you can't tell anyone about it, because by law, according to that 2017 national intelligence law, they have to do it. That's our concern. Maybe you haven't done it yet, but my point is that you might have to. And that's where our concerns come from. I mean, over 300 TikTok employees have worked for China's state\u2011run propaganda media. That's just from looking at their LinkedIn profiles. Okay. So my last point is this. I want to say this to all the teenagers out there and TikTok influencers who think we're just old and out of touch and don't know what we're talking about, trying to take away your favorite app. You may not care that your data is being accessed now, but it will be one day when you do care about it. And here's the real problem. With data comes power. They can choose what you see and how you see it. They can make you believe things that are not true. They can encourage you to engage in behavior that will destroy your life. Even if it is not happening yet, it could in the future. The long\u2011term goal of the Chinese Communist Party is the demise of the American power, and that starts with our youth. At any moment, they could demand that all of TikTok's data be used to design an AI algorithm with the sole purpose of promoting Chinese interests and destroying our society from within. You want to know why Democrats and Republicans have come together on this? That's why we are so concerned. Thank you, and I yield back.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.28,
+            "text": " Okay. So your own privacy policy says you have to share data with ByteDance. And if",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                407,
+                428,
+                1065,
+                11427,
+                3897,
+                1619,
+                291,
+                362,
+                281,
+                2073,
+                1412,
+                365,
+                3146,
+                975,
+                35,
+                719,
+                13,
+                400,
+                498,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24425800868443082,
+            "compression_ratio": 1.5915915915915917,
+            "no_speech_prob": 0.26551616191864014,
+            "words": [
+                {
+                    "word": " Okay.",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.12395260483026505
+                },
+                {
+                    "word": " So",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.8105871677398682
+                },
+                {
+                    "word": " your",
+                    "start": 0.74,
+                    "end": 1.54,
+                    "probability": 0.6713058352470398
+                },
+                {
+                    "word": " own",
+                    "start": 1.54,
+                    "end": 1.72,
+                    "probability": 0.811420202255249
+                },
+                {
+                    "word": " privacy",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.8363792896270752
+                },
+                {
+                    "word": " policy",
+                    "start": 2.0,
+                    "end": 2.36,
+                    "probability": 0.7930816411972046
+                },
+                {
+                    "word": " says",
+                    "start": 2.36,
+                    "end": 2.58,
+                    "probability": 0.7961549162864685
+                },
+                {
+                    "word": " you",
+                    "start": 2.58,
+                    "end": 2.7,
+                    "probability": 0.8830548524856567
+                },
+                {
+                    "word": " have",
+                    "start": 2.7,
+                    "end": 2.88,
+                    "probability": 0.882782518863678
+                },
+                {
+                    "word": " to",
+                    "start": 2.88,
+                    "end": 3.02,
+                    "probability": 0.9038569927215576
+                },
+                {
+                    "word": " share",
+                    "start": 3.02,
+                    "end": 3.28,
+                    "probability": 0.8081744313240051
+                },
+                {
+                    "word": " data",
+                    "start": 3.28,
+                    "end": 3.68,
+                    "probability": 0.7936227321624756
+                },
+                {
+                    "word": " with",
+                    "start": 3.68,
+                    "end": 4.06,
+                    "probability": 0.8088970184326172
+                },
+                {
+                    "word": " ByteDance.",
+                    "start": 4.06,
+                    "end": 4.64,
+                    "probability": 0.9020863473415375
+                },
+                {
+                    "word": " And",
+                    "start": 4.86,
+                    "end": 5.18,
+                    "probability": 0.8857729434967041
+                },
+                {
+                    "word": " if",
+                    "start": 5.18,
+                    "end": 5.28,
+                    "probability": 0.9018531441688538
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.28,
+            "end": 9.0,
+            "text": " the CCP says, hey, ByteDance, you're going to do what we say, and you can't tell anyone",
+            "tokens": [
+                50628,
+                264,
+                27876,
+                1619,
+                11,
+                4177,
+                11,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                291,
+                434,
+                516,
+                281,
+                360,
+                437,
+                321,
+                584,
+                11,
+                293,
+                291,
+                393,
+                380,
+                980,
+                2878,
+                50818
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24425800868443082,
+            "compression_ratio": 1.5915915915915917,
+            "no_speech_prob": 0.26551616191864014,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 5.28,
+                    "end": 5.42,
+                    "probability": 0.8084625005722046
+                },
+                {
+                    "word": " CCP",
+                    "start": 5.42,
+                    "end": 5.74,
+                    "probability": 0.7224254012107849
+                },
+                {
+                    "word": " says,",
+                    "start": 5.74,
+                    "end": 6.28,
+                    "probability": 0.8290632367134094
+                },
+                {
+                    "word": " hey,",
+                    "start": 6.48,
+                    "end": 7.0,
+                    "probability": 0.43754416704177856
+                },
+                {
+                    "word": " ByteDance,",
+                    "start": 7.06,
+                    "end": 7.52,
+                    "probability": 0.967481404542923
+                },
+                {
+                    "word": " you're",
+                    "start": 7.6,
+                    "end": 7.78,
+                    "probability": 0.918024092912674
+                },
+                {
+                    "word": " going",
+                    "start": 7.78,
+                    "end": 7.84,
+                    "probability": 0.5528485774993896
+                },
+                {
+                    "word": " to",
+                    "start": 7.84,
+                    "end": 7.9,
+                    "probability": 0.9019677042961121
+                },
+                {
+                    "word": " do",
+                    "start": 7.9,
+                    "end": 8.02,
+                    "probability": 0.9029311537742615
+                },
+                {
+                    "word": " what",
+                    "start": 8.02,
+                    "end": 8.14,
+                    "probability": 0.8840399384498596
+                },
+                {
+                    "word": " we",
+                    "start": 8.14,
+                    "end": 8.26,
+                    "probability": 0.9035682082176208
+                },
+                {
+                    "word": " say,",
+                    "start": 8.26,
+                    "end": 8.42,
+                    "probability": 0.8937238454818726
+                },
+                {
+                    "word": " and",
+                    "start": 8.46,
+                    "end": 8.52,
+                    "probability": 0.8310728073120117
+                },
+                {
+                    "word": " you",
+                    "start": 8.52,
+                    "end": 8.58,
+                    "probability": 0.868943989276886
+                },
+                {
+                    "word": " can't",
+                    "start": 8.58,
+                    "end": 8.74,
+                    "probability": 0.9486289024353027
+                },
+                {
+                    "word": " tell",
+                    "start": 8.74,
+                    "end": 8.86,
+                    "probability": 0.7695976495742798
+                },
+                {
+                    "word": " anyone",
+                    "start": 8.86,
+                    "end": 9.0,
+                    "probability": 0.8895359039306641
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.0,
+            "end": 14.32,
+            "text": " about it, because by law, according to that 2017 national intelligence law, they have",
+            "tokens": [
+                50818,
+                466,
+                309,
+                11,
+                570,
+                538,
+                2101,
+                11,
+                4650,
+                281,
+                300,
+                6591,
+                4048,
+                7599,
+                2101,
+                11,
+                436,
+                362,
+                51076
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24425800868443082,
+            "compression_ratio": 1.5915915915915917,
+            "no_speech_prob": 0.26551616191864014,
+            "words": [
+                {
+                    "word": " about",
+                    "start": 9.0,
+                    "end": 9.3,
+                    "probability": 0.8212187886238098
+                },
+                {
+                    "word": " it,",
+                    "start": 9.3,
+                    "end": 9.4,
+                    "probability": 0.8989847898483276
+                },
+                {
+                    "word": " because",
+                    "start": 9.4,
+                    "end": 9.6,
+                    "probability": 0.8352732062339783
+                },
+                {
+                    "word": " by",
+                    "start": 9.6,
+                    "end": 9.82,
+                    "probability": 0.8800793290138245
+                },
+                {
+                    "word": " law,",
+                    "start": 9.82,
+                    "end": 10.24,
+                    "probability": 0.8066595196723938
+                },
+                {
+                    "word": " according",
+                    "start": 10.38,
+                    "end": 10.66,
+                    "probability": 0.8468287587165833
+                },
+                {
+                    "word": " to",
+                    "start": 10.66,
+                    "end": 10.8,
+                    "probability": 0.9016522169113159
+                },
+                {
+                    "word": " that",
+                    "start": 10.8,
+                    "end": 10.92,
+                    "probability": 0.876775860786438
+                },
+                {
+                    "word": " 2017",
+                    "start": 10.92,
+                    "end": 11.54,
+                    "probability": 0.747981607913971
+                },
+                {
+                    "word": " national",
+                    "start": 11.54,
+                    "end": 12.5,
+                    "probability": 0.5037071108818054
+                },
+                {
+                    "word": " intelligence",
+                    "start": 12.5,
+                    "end": 13.02,
+                    "probability": 0.657568633556366
+                },
+                {
+                    "word": " law,",
+                    "start": 13.02,
+                    "end": 13.4,
+                    "probability": 0.801119327545166
+                },
+                {
+                    "word": " they",
+                    "start": 13.66,
+                    "end": 14.06,
+                    "probability": 0.7256104946136475
+                },
+                {
+                    "word": " have",
+                    "start": 14.06,
+                    "end": 14.32,
+                    "probability": 0.8790159821510315
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.32,
+            "end": 19.1,
+            "text": " to do it. That's our concern. Maybe you haven't done it yet, but my point is that you might",
+            "tokens": [
+                51076,
+                281,
+                360,
+                309,
+                13,
+                663,
+                311,
+                527,
+                3136,
+                13,
+                2704,
+                291,
+                2378,
+                380,
+                1096,
+                309,
+                1939,
+                11,
+                457,
+                452,
+                935,
+                307,
+                300,
+                291,
+                1062,
+                51322
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24425800868443082,
+            "compression_ratio": 1.5915915915915917,
+            "no_speech_prob": 0.26551616191864014,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 14.32,
+                    "end": 14.46,
+                    "probability": 0.9061469435691833
+                },
+                {
+                    "word": " do",
+                    "start": 14.46,
+                    "end": 14.64,
+                    "probability": 0.9083349704742432
+                },
+                {
+                    "word": " it.",
+                    "start": 14.64,
+                    "end": 14.76,
+                    "probability": 0.9034831523895264
+                },
+                {
+                    "word": " That's",
+                    "start": 14.8,
+                    "end": 15.04,
+                    "probability": 0.9044438898563385
+                },
+                {
+                    "word": " our",
+                    "start": 15.04,
+                    "end": 15.18,
+                    "probability": 0.8156287670135498
+                },
+                {
+                    "word": " concern.",
+                    "start": 15.18,
+                    "end": 15.68,
+                    "probability": 0.8976550698280334
+                },
+                {
+                    "word": " Maybe",
+                    "start": 16.04,
+                    "end": 16.26,
+                    "probability": 0.8275007009506226
+                },
+                {
+                    "word": " you",
+                    "start": 16.26,
+                    "end": 16.4,
+                    "probability": 0.8259816765785217
+                },
+                {
+                    "word": " haven't",
+                    "start": 16.4,
+                    "end": 16.64,
+                    "probability": 0.9364379644393921
+                },
+                {
+                    "word": " done",
+                    "start": 16.64,
+                    "end": 16.82,
+                    "probability": 0.7942054867744446
+                },
+                {
+                    "word": " it",
+                    "start": 16.82,
+                    "end": 16.94,
+                    "probability": 0.9039639234542847
+                },
+                {
+                    "word": " yet,",
+                    "start": 16.94,
+                    "end": 17.24,
+                    "probability": 0.9046736359596252
+                },
+                {
+                    "word": " but",
+                    "start": 17.38,
+                    "end": 17.66,
+                    "probability": 0.8968820571899414
+                },
+                {
+                    "word": " my",
+                    "start": 17.66,
+                    "end": 17.84,
+                    "probability": 0.9073615074157715
+                },
+                {
+                    "word": " point",
+                    "start": 17.84,
+                    "end": 18.04,
+                    "probability": 0.863290548324585
+                },
+                {
+                    "word": " is",
+                    "start": 18.04,
+                    "end": 18.28,
+                    "probability": 0.9043135643005371
+                },
+                {
+                    "word": " that",
+                    "start": 18.28,
+                    "end": 18.74,
+                    "probability": 0.8440507650375366
+                },
+                {
+                    "word": " you",
+                    "start": 18.74,
+                    "end": 18.88,
+                    "probability": 0.89791339635849
+                },
+                {
+                    "word": " might",
+                    "start": 18.88,
+                    "end": 19.1,
+                    "probability": 0.8083357214927673
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.1,
+            "end": 24.28,
+            "text": " have to. And that's where our concerns come from. I mean, over 300 TikTok employees have",
+            "tokens": [
+                51322,
+                362,
+                281,
+                13,
+                400,
+                300,
+                311,
+                689,
+                527,
+                7389,
+                808,
+                490,
+                13,
+                286,
+                914,
+                11,
+                670,
+                6641,
+                20211,
+                6619,
+                362,
+                51576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24425800868443082,
+            "compression_ratio": 1.5915915915915917,
+            "no_speech_prob": 0.26551616191864014,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 19.1,
+                    "end": 19.46,
+                    "probability": 0.8780317306518555
+                },
+                {
+                    "word": " to.",
+                    "start": 19.46,
+                    "end": 19.68,
+                    "probability": 0.9051950573921204
+                },
+                {
+                    "word": " And",
+                    "start": 20.16,
+                    "end": 20.28,
+                    "probability": 0.861849844455719
+                },
+                {
+                    "word": " that's",
+                    "start": 20.28,
+                    "end": 20.5,
+                    "probability": 0.9405087530612946
+                },
+                {
+                    "word": " where",
+                    "start": 20.5,
+                    "end": 20.6,
+                    "probability": 0.9071677327156067
+                },
+                {
+                    "word": " our",
+                    "start": 20.6,
+                    "end": 20.78,
+                    "probability": 0.8147189617156982
+                },
+                {
+                    "word": " concerns",
+                    "start": 20.78,
+                    "end": 21.16,
+                    "probability": 0.832308292388916
+                },
+                {
+                    "word": " come",
+                    "start": 21.16,
+                    "end": 21.42,
+                    "probability": 0.7945961356163025
+                },
+                {
+                    "word": " from.",
+                    "start": 21.42,
+                    "end": 21.58,
+                    "probability": 0.8264163136482239
+                },
+                {
+                    "word": " I",
+                    "start": 21.64,
+                    "end": 21.7,
+                    "probability": 0.9039066433906555
+                },
+                {
+                    "word": " mean,",
+                    "start": 21.7,
+                    "end": 21.8,
+                    "probability": 0.9227498173713684
+                },
+                {
+                    "word": " over",
+                    "start": 21.8,
+                    "end": 22.04,
+                    "probability": 0.8803297281265259
+                },
+                {
+                    "word": " 300",
+                    "start": 22.04,
+                    "end": 22.8,
+                    "probability": 0.6807366013526917
+                },
+                {
+                    "word": " TikTok",
+                    "start": 22.8,
+                    "end": 23.18,
+                    "probability": 0.8019989132881165
+                },
+                {
+                    "word": " employees",
+                    "start": 23.18,
+                    "end": 23.78,
+                    "probability": 0.699192225933075
+                },
+                {
+                    "word": " have",
+                    "start": 23.78,
+                    "end": 24.28,
+                    "probability": 0.8715350031852722
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 24.28,
+            "end": 27.96,
+            "text": " worked for China's state\u2011run propaganda media. That's just from looking at their LinkedIn",
+            "tokens": [
+                51576,
+                2732,
+                337,
+                3533,
+                311,
+                1785,
+                27392,
+                12997,
+                22968,
+                3021,
+                13,
+                663,
+                311,
+                445,
+                490,
+                1237,
+                412,
+                641,
+                20657,
+                51772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24425800868443082,
+            "compression_ratio": 1.5915915915915917,
+            "no_speech_prob": 0.26551616191864014,
+            "words": [
+                {
+                    "word": " worked",
+                    "start": 24.28,
+                    "end": 24.6,
+                    "probability": 0.7220751047134399
+                },
+                {
+                    "word": " for",
+                    "start": 24.6,
+                    "end": 24.8,
+                    "probability": 0.8929835557937622
+                },
+                {
+                    "word": " China's",
+                    "start": 24.8,
+                    "end": 25.26,
+                    "probability": 0.9043833315372467
+                },
+                {
+                    "word": " state\u2011run",
+                    "start": 25.26,
+                    "end": 25.6,
+                    "probability": 0.6015572263859212
+                },
+                {
+                    "word": " propaganda",
+                    "start": 25.6,
+                    "end": 26.0,
+                    "probability": 0.8690111637115479
+                },
+                {
+                    "word": " media.",
+                    "start": 26.0,
+                    "end": 26.5,
+                    "probability": 0.833495020866394
+                },
+                {
+                    "word": " That's",
+                    "start": 26.64,
+                    "end": 26.96,
+                    "probability": 0.9098914563655853
+                },
+                {
+                    "word": " just",
+                    "start": 26.96,
+                    "end": 27.12,
+                    "probability": 0.8830252885818481
+                },
+                {
+                    "word": " from",
+                    "start": 27.12,
+                    "end": 27.28,
+                    "probability": 0.8190604448318481
+                },
+                {
+                    "word": " looking",
+                    "start": 27.28,
+                    "end": 27.48,
+                    "probability": 0.8047764301300049
+                },
+                {
+                    "word": " at",
+                    "start": 27.48,
+                    "end": 27.62,
+                    "probability": 0.901594877243042
+                },
+                {
+                    "word": " their",
+                    "start": 27.62,
+                    "end": 27.72,
+                    "probability": 0.9030622839927673
+                },
+                {
+                    "word": " LinkedIn",
+                    "start": 27.72,
+                    "end": 27.96,
+                    "probability": 0.801312267780304
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2796,
+            "start": 29.02,
+            "end": 32.86,
+            "text": " profiles. Okay. So my last point is this. I want to say this to all the teenagers out",
+            "tokens": [
+                50370,
+                23693,
+                13,
+                1033,
+                13,
+                407,
+                452,
+                1036,
+                935,
+                307,
+                341,
+                13,
+                286,
+                528,
+                281,
+                584,
+                341,
+                281,
+                439,
+                264,
+                23618,
+                484,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " profiles.",
+                    "start": 29.02,
+                    "end": 29.34,
+                    "probability": 0.05988597869873047
+                },
+                {
+                    "word": " Okay.",
+                    "start": 29.56,
+                    "end": 29.66,
+                    "probability": 0.3003925383090973
+                },
+                {
+                    "word": " So",
+                    "start": 29.8,
+                    "end": 29.9,
+                    "probability": 0.6369261741638184
+                },
+                {
+                    "word": " my",
+                    "start": 29.9,
+                    "end": 30.6,
+                    "probability": 0.5221956968307495
+                },
+                {
+                    "word": " last",
+                    "start": 30.6,
+                    "end": 30.84,
+                    "probability": 0.7729889154434204
+                },
+                {
+                    "word": " point",
+                    "start": 30.84,
+                    "end": 31.08,
+                    "probability": 0.8748046159744263
+                },
+                {
+                    "word": " is",
+                    "start": 31.08,
+                    "end": 31.22,
+                    "probability": 0.8961154818534851
+                },
+                {
+                    "word": " this.",
+                    "start": 31.22,
+                    "end": 31.38,
+                    "probability": 0.8647345900535583
+                },
+                {
+                    "word": " I",
+                    "start": 31.44,
+                    "end": 31.48,
+                    "probability": 0.9797859787940979
+                },
+                {
+                    "word": " want",
+                    "start": 31.48,
+                    "end": 31.56,
+                    "probability": 0.7953512668609619
+                },
+                {
+                    "word": " to",
+                    "start": 31.56,
+                    "end": 31.62,
+                    "probability": 0.901611328125
+                },
+                {
+                    "word": " say",
+                    "start": 31.62,
+                    "end": 31.76,
+                    "probability": 0.8915537595748901
+                },
+                {
+                    "word": " this",
+                    "start": 31.76,
+                    "end": 31.9,
+                    "probability": 0.8426430821418762
+                },
+                {
+                    "word": " to",
+                    "start": 31.9,
+                    "end": 32.02,
+                    "probability": 0.876279890537262
+                },
+                {
+                    "word": " all",
+                    "start": 32.02,
+                    "end": 32.08,
+                    "probability": 0.8720547556877136
+                },
+                {
+                    "word": " the",
+                    "start": 32.08,
+                    "end": 32.22,
+                    "probability": 0.7172132730484009
+                },
+                {
+                    "word": " teenagers",
+                    "start": 32.22,
+                    "end": 32.6,
+                    "probability": 0.8356859683990479
+                },
+                {
+                    "word": " out",
+                    "start": 32.6,
+                    "end": 32.86,
+                    "probability": 0.7991781830787659
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2796,
+            "start": 32.86,
+            "end": 36.06,
+            "text": " there and TikTok influencers who think we're just old and out of touch and don't know what",
+            "tokens": [
+                50608,
+                456,
+                293,
+                20211,
+                38646,
+                567,
+                519,
+                321,
+                434,
+                445,
+                1331,
+                293,
+                484,
+                295,
+                2557,
+                293,
+                500,
+                380,
+                458,
+                437,
+                50768
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " there",
+                    "start": 32.86,
+                    "end": 33.1,
+                    "probability": 0.8519818186759949
+                },
+                {
+                    "word": " and",
+                    "start": 33.1,
+                    "end": 33.28,
+                    "probability": 0.8010764122009277
+                },
+                {
+                    "word": " TikTok",
+                    "start": 33.28,
+                    "end": 33.6,
+                    "probability": 0.49713370203971863
+                },
+                {
+                    "word": " influencers",
+                    "start": 33.6,
+                    "end": 34.18,
+                    "probability": 0.7891003489494324
+                },
+                {
+                    "word": " who",
+                    "start": 34.18,
+                    "end": 34.38,
+                    "probability": 0.6887297034263611
+                },
+                {
+                    "word": " think",
+                    "start": 34.38,
+                    "end": 34.52,
+                    "probability": 0.7735121250152588
+                },
+                {
+                    "word": " we're",
+                    "start": 34.52,
+                    "end": 34.62,
+                    "probability": 0.9004696607589722
+                },
+                {
+                    "word": " just",
+                    "start": 34.62,
+                    "end": 34.8,
+                    "probability": 0.5117772221565247
+                },
+                {
+                    "word": " old",
+                    "start": 34.8,
+                    "end": 35.08,
+                    "probability": 0.8751656413078308
+                },
+                {
+                    "word": " and",
+                    "start": 35.08,
+                    "end": 35.18,
+                    "probability": 0.8748742938041687
+                },
+                {
+                    "word": " out",
+                    "start": 35.18,
+                    "end": 35.32,
+                    "probability": 0.8094096183776855
+                },
+                {
+                    "word": " of",
+                    "start": 35.32,
+                    "end": 35.42,
+                    "probability": 0.8935117125511169
+                },
+                {
+                    "word": " touch",
+                    "start": 35.42,
+                    "end": 35.62,
+                    "probability": 0.7179011702537537
+                },
+                {
+                    "word": " and",
+                    "start": 35.62,
+                    "end": 35.72,
+                    "probability": 0.8138500452041626
+                },
+                {
+                    "word": " don't",
+                    "start": 35.72,
+                    "end": 35.82,
+                    "probability": 0.9387858808040619
+                },
+                {
+                    "word": " know",
+                    "start": 35.82,
+                    "end": 35.94,
+                    "probability": 0.8083183169364929
+                },
+                {
+                    "word": " what",
+                    "start": 35.94,
+                    "end": 36.06,
+                    "probability": 0.882324755191803
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2796,
+            "start": 36.06,
+            "end": 39.68,
+            "text": " we're talking about, trying to take away your favorite app. You may not care that your data",
+            "tokens": [
+                50768,
+                321,
+                434,
+                1417,
+                466,
+                11,
+                1382,
+                281,
+                747,
+                1314,
+                428,
+                2954,
+                724,
+                13,
+                509,
+                815,
+                406,
+                1127,
+                300,
+                428,
+                1412,
+                50950
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " we're",
+                    "start": 36.06,
+                    "end": 36.16,
+                    "probability": 0.9191845059394836
+                },
+                {
+                    "word": " talking",
+                    "start": 36.16,
+                    "end": 36.4,
+                    "probability": 0.7598475813865662
+                },
+                {
+                    "word": " about,",
+                    "start": 36.4,
+                    "end": 36.6,
+                    "probability": 0.8155365586280823
+                },
+                {
+                    "word": " trying",
+                    "start": 36.66,
+                    "end": 36.78,
+                    "probability": 0.7734217643737793
+                },
+                {
+                    "word": " to",
+                    "start": 36.78,
+                    "end": 36.9,
+                    "probability": 0.9015209078788757
+                },
+                {
+                    "word": " take",
+                    "start": 36.9,
+                    "end": 37.06,
+                    "probability": 0.7937170267105103
+                },
+                {
+                    "word": " away",
+                    "start": 37.06,
+                    "end": 37.32,
+                    "probability": 0.8070785999298096
+                },
+                {
+                    "word": " your",
+                    "start": 37.32,
+                    "end": 37.78,
+                    "probability": 0.7650059461593628
+                },
+                {
+                    "word": " favorite",
+                    "start": 37.78,
+                    "end": 38.04,
+                    "probability": 0.7717506289482117
+                },
+                {
+                    "word": " app.",
+                    "start": 38.04,
+                    "end": 38.32,
+                    "probability": 0.9047262072563171
+                },
+                {
+                    "word": " You",
+                    "start": 38.72,
+                    "end": 38.78,
+                    "probability": 0.8895299434661865
+                },
+                {
+                    "word": " may",
+                    "start": 38.78,
+                    "end": 38.92,
+                    "probability": 0.8937978148460388
+                },
+                {
+                    "word": " not",
+                    "start": 38.92,
+                    "end": 39.1,
+                    "probability": 0.8979062438011169
+                },
+                {
+                    "word": " care",
+                    "start": 39.1,
+                    "end": 39.3,
+                    "probability": 0.8194313645362854
+                },
+                {
+                    "word": " that",
+                    "start": 39.3,
+                    "end": 39.42,
+                    "probability": 0.8453832864761353
+                },
+                {
+                    "word": " your",
+                    "start": 39.42,
+                    "end": 39.52,
+                    "probability": 0.799091637134552
+                },
+                {
+                    "word": " data",
+                    "start": 39.52,
+                    "end": 39.68,
+                    "probability": 0.7958588600158691
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2796,
+            "start": 39.68,
+            "end": 43.44,
+            "text": " is being accessed now, but it will be one day when you do care about it. And here's",
+            "tokens": [
+                50950,
+                307,
+                885,
+                34211,
+                586,
+                11,
+                457,
+                309,
+                486,
+                312,
+                472,
+                786,
+                562,
+                291,
+                360,
+                1127,
+                466,
+                309,
+                13,
+                400,
+                510,
+                311,
+                51136
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 39.68,
+                    "end": 39.8,
+                    "probability": 0.7903839945793152
+                },
+                {
+                    "word": " being",
+                    "start": 39.8,
+                    "end": 39.96,
+                    "probability": 0.8723400831222534
+                },
+                {
+                    "word": " accessed",
+                    "start": 39.96,
+                    "end": 40.34,
+                    "probability": 0.7601125836372375
+                },
+                {
+                    "word": " now,",
+                    "start": 40.34,
+                    "end": 40.68,
+                    "probability": 0.8949171304702759
+                },
+                {
+                    "word": " but",
+                    "start": 40.72,
+                    "end": 41.1,
+                    "probability": 0.8970336318016052
+                },
+                {
+                    "word": " it",
+                    "start": 41.1,
+                    "end": 41.22,
+                    "probability": 0.8993746042251587
+                },
+                {
+                    "word": " will",
+                    "start": 41.22,
+                    "end": 41.4,
+                    "probability": 0.8180172443389893
+                },
+                {
+                    "word": " be",
+                    "start": 41.4,
+                    "end": 41.6,
+                    "probability": 0.9015978574752808
+                },
+                {
+                    "word": " one",
+                    "start": 41.6,
+                    "end": 41.84,
+                    "probability": 0.8151673674583435
+                },
+                {
+                    "word": " day",
+                    "start": 41.84,
+                    "end": 41.98,
+                    "probability": 0.8917320370674133
+                },
+                {
+                    "word": " when",
+                    "start": 41.98,
+                    "end": 42.12,
+                    "probability": 0.8638288974761963
+                },
+                {
+                    "word": " you",
+                    "start": 42.12,
+                    "end": 42.24,
+                    "probability": 0.8992608189582825
+                },
+                {
+                    "word": " do",
+                    "start": 42.24,
+                    "end": 42.38,
+                    "probability": 0.9024507403373718
+                },
+                {
+                    "word": " care",
+                    "start": 42.38,
+                    "end": 42.58,
+                    "probability": 0.7931259870529175
+                },
+                {
+                    "word": " about",
+                    "start": 42.58,
+                    "end": 42.86,
+                    "probability": 0.8146128058433533
+                },
+                {
+                    "word": " it.",
+                    "start": 42.86,
+                    "end": 43.02,
+                    "probability": 0.9004724621772766
+                },
+                {
+                    "word": " And",
+                    "start": 43.14,
+                    "end": 43.26,
+                    "probability": 0.8382493853569031
+                },
+                {
+                    "word": " here's",
+                    "start": 43.26,
+                    "end": 43.44,
+                    "probability": 0.8993406593799591
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2796,
+            "start": 43.44,
+            "end": 47.02,
+            "text": " the real problem. With data comes power. They can choose what you see and how you see it.",
+            "tokens": [
+                51136,
+                264,
+                957,
+                1154,
+                13,
+                2022,
+                1412,
+                1487,
+                1347,
+                13,
+                814,
+                393,
+                2826,
+                437,
+                291,
+                536,
+                293,
+                577,
+                291,
+                536,
+                309,
+                13,
+                51320
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 43.44,
+                    "end": 43.56,
+                    "probability": 0.8182620406150818
+                },
+                {
+                    "word": " real",
+                    "start": 43.56,
+                    "end": 43.72,
+                    "probability": 0.8800909519195557
+                },
+                {
+                    "word": " problem.",
+                    "start": 43.72,
+                    "end": 44.08,
+                    "probability": 0.7694335579872131
+                },
+                {
+                    "word": " With",
+                    "start": 44.14,
+                    "end": 44.26,
+                    "probability": 0.8438387513160706
+                },
+                {
+                    "word": " data",
+                    "start": 44.26,
+                    "end": 44.42,
+                    "probability": 0.8011379241943359
+                },
+                {
+                    "word": " comes",
+                    "start": 44.42,
+                    "end": 44.7,
+                    "probability": 0.7780165076255798
+                },
+                {
+                    "word": " power.",
+                    "start": 44.7,
+                    "end": 45.12,
+                    "probability": 0.8126643896102905
+                },
+                {
+                    "word": " They",
+                    "start": 45.44,
+                    "end": 45.56,
+                    "probability": 0.7482324242591858
+                },
+                {
+                    "word": " can",
+                    "start": 45.56,
+                    "end": 45.68,
+                    "probability": 0.893847644329071
+                },
+                {
+                    "word": " choose",
+                    "start": 45.68,
+                    "end": 45.9,
+                    "probability": 0.7970773577690125
+                },
+                {
+                    "word": " what",
+                    "start": 45.9,
+                    "end": 46.02,
+                    "probability": 0.8813695907592773
+                },
+                {
+                    "word": " you",
+                    "start": 46.02,
+                    "end": 46.12,
+                    "probability": 0.899296224117279
+                },
+                {
+                    "word": " see",
+                    "start": 46.12,
+                    "end": 46.32,
+                    "probability": 0.8253762125968933
+                },
+                {
+                    "word": " and",
+                    "start": 46.32,
+                    "end": 46.44,
+                    "probability": 0.8777517080307007
+                },
+                {
+                    "word": " how",
+                    "start": 46.44,
+                    "end": 46.6,
+                    "probability": 0.9002634286880493
+                },
+                {
+                    "word": " you",
+                    "start": 46.6,
+                    "end": 46.74,
+                    "probability": 0.8986753821372986
+                },
+                {
+                    "word": " see",
+                    "start": 46.74,
+                    "end": 46.92,
+                    "probability": 0.8121713995933533
+                },
+                {
+                    "word": " it.",
+                    "start": 46.92,
+                    "end": 47.02,
+                    "probability": 0.8963991403579712
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2796,
+            "start": 47.06,
+            "end": 49.96,
+            "text": " They can make you believe things that are not true. They can encourage you to engage",
+            "tokens": [
+                51320,
+                814,
+                393,
+                652,
+                291,
+                1697,
+                721,
+                300,
+                366,
+                406,
+                2074,
+                13,
+                814,
+                393,
+                5373,
+                291,
+                281,
+                4683,
+                51463
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 47.06,
+                    "end": 47.14,
+                    "probability": 0.7476062178611755
+                },
+                {
+                    "word": " can",
+                    "start": 47.14,
+                    "end": 47.26,
+                    "probability": 0.8974544405937195
+                },
+                {
+                    "word": " make",
+                    "start": 47.26,
+                    "end": 47.38,
+                    "probability": 0.8815539479255676
+                },
+                {
+                    "word": " you",
+                    "start": 47.38,
+                    "end": 47.5,
+                    "probability": 0.8995625376701355
+                },
+                {
+                    "word": " believe",
+                    "start": 47.5,
+                    "end": 47.76,
+                    "probability": 0.7152603268623352
+                },
+                {
+                    "word": " things",
+                    "start": 47.76,
+                    "end": 48.0,
+                    "probability": 0.7372878789901733
+                },
+                {
+                    "word": " that",
+                    "start": 48.0,
+                    "end": 48.1,
+                    "probability": 0.8817228674888611
+                },
+                {
+                    "word": " are",
+                    "start": 48.1,
+                    "end": 48.2,
+                    "probability": 0.8945429921150208
+                },
+                {
+                    "word": " not",
+                    "start": 48.2,
+                    "end": 48.36,
+                    "probability": 0.8900557160377502
+                },
+                {
+                    "word": " true.",
+                    "start": 48.36,
+                    "end": 48.6,
+                    "probability": 0.9017932415008545
+                },
+                {
+                    "word": " They",
+                    "start": 48.78,
+                    "end": 48.98,
+                    "probability": 0.7445743083953857
+                },
+                {
+                    "word": " can",
+                    "start": 48.98,
+                    "end": 49.12,
+                    "probability": 0.8905814290046692
+                },
+                {
+                    "word": " encourage",
+                    "start": 49.12,
+                    "end": 49.44,
+                    "probability": 0.644474983215332
+                },
+                {
+                    "word": " you",
+                    "start": 49.44,
+                    "end": 49.58,
+                    "probability": 0.8959490656852722
+                },
+                {
+                    "word": " to",
+                    "start": 49.58,
+                    "end": 49.68,
+                    "probability": 0.9114676713943481
+                },
+                {
+                    "word": " engage",
+                    "start": 49.68,
+                    "end": 49.96,
+                    "probability": 0.7864795327186584
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2796,
+            "start": 49.96,
+            "end": 54.3,
+            "text": " in behavior that will destroy your life. Even if it is not happening yet, it could in the",
+            "tokens": [
+                51463,
+                294,
+                5223,
+                300,
+                486,
+                5293,
+                428,
+                993,
+                13,
+                2754,
+                498,
+                309,
+                307,
+                406,
+                2737,
+                1939,
+                11,
+                309,
+                727,
+                294,
+                264,
+                51678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23924164310578377,
+            "compression_ratio": 1.7282913165266107,
+            "no_speech_prob": 0.11911845207214355,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 49.96,
+                    "end": 50.08,
+                    "probability": 0.9041088223457336
+                },
+                {
+                    "word": " behavior",
+                    "start": 50.08,
+                    "end": 50.4,
+                    "probability": 0.8667158484458923
+                },
+                {
+                    "word": " that",
+                    "start": 50.4,
+                    "end": 50.62,
+                    "probability": 0.8817918300628662
+                },
+                {
+                    "word": " will",
+                    "start": 50.62,
+                    "end": 50.74,
+                    "probability": 0.8209319114685059
+                },
+                {
+                    "word": " destroy",
+                    "start": 50.74,
+                    "end": 51.14,
+                    "probability": 0.8108143210411072
+                },
+                {
+                    "word": " your",
+                    "start": 51.14,
+                    "end": 51.56,
+                    "probability": 0.8045894503593445
+                },
+                {
+                    "word": " life.",
+                    "start": 51.56,
+                    "end": 51.88,
+                    "probability": 0.8252891898155212
+                },
+                {
+                    "word": " Even",
+                    "start": 51.92,
+                    "end": 52.16,
+                    "probability": 0.7986979484558105
+                },
+                {
+                    "word": " if",
+                    "start": 52.16,
+                    "end": 52.34,
+                    "probability": 0.899101972579956
+                },
+                {
+                    "word": " it",
+                    "start": 52.34,
+                    "end": 52.44,
+                    "probability": 0.9041791558265686
+                },
+                {
+                    "word": " is",
+                    "start": 52.44,
+                    "end": 52.56,
+                    "probability": 0.8951706886291504
+                },
+                {
+                    "word": " not",
+                    "start": 52.56,
+                    "end": 52.74,
+                    "probability": 0.8984652757644653
+                },
+                {
+                    "word": " happening",
+                    "start": 52.74,
+                    "end": 53.1,
+                    "probability": 0.7329390645027161
+                },
+                {
+                    "word": " yet,",
+                    "start": 53.1,
+                    "end": 53.44,
+                    "probability": 0.8885830640792847
+                },
+                {
+                    "word": " it",
+                    "start": 53.54,
+                    "end": 53.8,
+                    "probability": 0.9018021821975708
+                },
+                {
+                    "word": " could",
+                    "start": 53.8,
+                    "end": 54.02,
+                    "probability": 0.8104817271232605
+                },
+                {
+                    "word": " in",
+                    "start": 54.02,
+                    "end": 54.16,
+                    "probability": 0.8953099250793457
+                },
+                {
+                    "word": " the",
+                    "start": 54.16,
+                    "end": 54.3,
+                    "probability": 0.8161250948905945
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 5430,
+            "start": 54.3,
+            "end": 57.94,
+            "text": " future. The long\u2011term goal of the Chinese Communist Party is the demise of the American",
+            "tokens": [
+                50364,
+                2027,
+                13,
+                440,
+                938,
+                27392,
+                7039,
+                3387,
+                295,
+                264,
+                4649,
+                23253,
+                8552,
+                307,
+                264,
+                45982,
+                295,
+                264,
+                2665,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884024665469215,
+            "compression_ratio": 1.5570934256055364,
+            "no_speech_prob": 0.3569295108318329,
+            "words": [
+                {
+                    "word": " future.",
+                    "start": 54.3,
+                    "end": 54.62,
+                    "probability": 0.41417253017425537
+                },
+                {
+                    "word": " The",
+                    "start": 54.82,
+                    "end": 55.04,
+                    "probability": 0.8023394346237183
+                },
+                {
+                    "word": " long\u2011term",
+                    "start": 55.04,
+                    "end": 55.52,
+                    "probability": 0.5606491103923569
+                },
+                {
+                    "word": " goal",
+                    "start": 55.52,
+                    "end": 55.74,
+                    "probability": 0.9071753621101379
+                },
+                {
+                    "word": " of",
+                    "start": 55.74,
+                    "end": 55.84,
+                    "probability": 0.8848080039024353
+                },
+                {
+                    "word": " the",
+                    "start": 55.84,
+                    "end": 55.92,
+                    "probability": 0.8059945702552795
+                },
+                {
+                    "word": " Chinese",
+                    "start": 55.92,
+                    "end": 56.2,
+                    "probability": 0.8234804272651672
+                },
+                {
+                    "word": " Communist",
+                    "start": 56.2,
+                    "end": 56.56,
+                    "probability": 0.7232648730278015
+                },
+                {
+                    "word": " Party",
+                    "start": 56.56,
+                    "end": 56.86,
+                    "probability": 0.7553953528404236
+                },
+                {
+                    "word": " is",
+                    "start": 56.86,
+                    "end": 57.0,
+                    "probability": 0.8937141299247742
+                },
+                {
+                    "word": " the",
+                    "start": 57.0,
+                    "end": 57.12,
+                    "probability": 0.8066019415855408
+                },
+                {
+                    "word": " demise",
+                    "start": 57.12,
+                    "end": 57.44,
+                    "probability": 0.7551741600036621
+                },
+                {
+                    "word": " of",
+                    "start": 57.44,
+                    "end": 57.58,
+                    "probability": 0.9031956195831299
+                },
+                {
+                    "word": " the",
+                    "start": 57.58,
+                    "end": 57.68,
+                    "probability": 0.7501241564750671
+                },
+                {
+                    "word": " American",
+                    "start": 57.68,
+                    "end": 57.94,
+                    "probability": 0.8027361631393433
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 5430,
+            "start": 57.94,
+            "end": 62.06,
+            "text": " power, and that starts with our youth. At any moment, they could demand that all of",
+            "tokens": [
+                50548,
+                1347,
+                11,
+                293,
+                300,
+                3719,
+                365,
+                527,
+                7503,
+                13,
+                1711,
+                604,
+                1623,
+                11,
+                436,
+                727,
+                4733,
+                300,
+                439,
+                295,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884024665469215,
+            "compression_ratio": 1.5570934256055364,
+            "no_speech_prob": 0.3569295108318329,
+            "words": [
+                {
+                    "word": " power,",
+                    "start": 57.94,
+                    "end": 58.36,
+                    "probability": 0.7440996170043945
+                },
+                {
+                    "word": " and",
+                    "start": 58.62,
+                    "end": 58.66,
+                    "probability": 0.8908422589302063
+                },
+                {
+                    "word": " that",
+                    "start": 58.66,
+                    "end": 58.78,
+                    "probability": 0.8787509202957153
+                },
+                {
+                    "word": " starts",
+                    "start": 58.78,
+                    "end": 59.08,
+                    "probability": 0.7734134793281555
+                },
+                {
+                    "word": " with",
+                    "start": 59.08,
+                    "end": 59.34,
+                    "probability": 0.8174859881401062
+                },
+                {
+                    "word": " our",
+                    "start": 59.34,
+                    "end": 59.58,
+                    "probability": 0.8199410438537598
+                },
+                {
+                    "word": " youth.",
+                    "start": 59.58,
+                    "end": 59.92,
+                    "probability": 0.776629626750946
+                },
+                {
+                    "word": " At",
+                    "start": 60.24,
+                    "end": 60.36,
+                    "probability": 0.9089648723602295
+                },
+                {
+                    "word": " any",
+                    "start": 60.36,
+                    "end": 60.56,
+                    "probability": 0.810350239276886
+                },
+                {
+                    "word": " moment,",
+                    "start": 60.56,
+                    "end": 60.9,
+                    "probability": 0.9231273531913757
+                },
+                {
+                    "word": " they",
+                    "start": 61.14,
+                    "end": 61.24,
+                    "probability": 0.7343281507492065
+                },
+                {
+                    "word": " could",
+                    "start": 61.24,
+                    "end": 61.36,
+                    "probability": 0.7419182062149048
+                },
+                {
+                    "word": " demand",
+                    "start": 61.36,
+                    "end": 61.64,
+                    "probability": 0.7094733119010925
+                },
+                {
+                    "word": " that",
+                    "start": 61.64,
+                    "end": 61.78,
+                    "probability": 0.8568772673606873
+                },
+                {
+                    "word": " all",
+                    "start": 61.78,
+                    "end": 61.92,
+                    "probability": 0.8978254199028015
+                },
+                {
+                    "word": " of",
+                    "start": 61.92,
+                    "end": 62.06,
+                    "probability": 0.8767392039299011
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 5430,
+            "start": 62.06,
+            "end": 67.5,
+            "text": " TikTok's data be used to design an AI algorithm with the sole purpose of promoting Chinese",
+            "tokens": [
+                50756,
+                20211,
+                311,
+                1412,
+                312,
+                1143,
+                281,
+                1715,
+                364,
+                7318,
+                9284,
+                365,
+                264,
+                12321,
+                4334,
+                295,
+                16383,
+                4649,
+                51028
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884024665469215,
+            "compression_ratio": 1.5570934256055364,
+            "no_speech_prob": 0.3569295108318329,
+            "words": [
+                {
+                    "word": " TikTok's",
+                    "start": 62.06,
+                    "end": 62.5,
+                    "probability": 0.8655922114849091
+                },
+                {
+                    "word": " data",
+                    "start": 62.5,
+                    "end": 62.78,
+                    "probability": 0.8061989545822144
+                },
+                {
+                    "word": " be",
+                    "start": 62.78,
+                    "end": 63.16,
+                    "probability": 0.89322429895401
+                },
+                {
+                    "word": " used",
+                    "start": 63.16,
+                    "end": 63.38,
+                    "probability": 0.8070293068885803
+                },
+                {
+                    "word": " to",
+                    "start": 63.38,
+                    "end": 63.54,
+                    "probability": 0.9058822989463806
+                },
+                {
+                    "word": " design",
+                    "start": 63.54,
+                    "end": 63.98,
+                    "probability": 0.9118043184280396
+                },
+                {
+                    "word": " an",
+                    "start": 63.98,
+                    "end": 64.48,
+                    "probability": 0.8881573677062988
+                },
+                {
+                    "word": " AI",
+                    "start": 64.48,
+                    "end": 64.78,
+                    "probability": 0.8974969983100891
+                },
+                {
+                    "word": " algorithm",
+                    "start": 64.78,
+                    "end": 65.28,
+                    "probability": 0.8219417333602905
+                },
+                {
+                    "word": " with",
+                    "start": 65.28,
+                    "end": 65.5,
+                    "probability": 0.8034049868583679
+                },
+                {
+                    "word": " the",
+                    "start": 65.5,
+                    "end": 65.68,
+                    "probability": 0.7509596347808838
+                },
+                {
+                    "word": " sole",
+                    "start": 65.68,
+                    "end": 65.9,
+                    "probability": 0.8824830651283264
+                },
+                {
+                    "word": " purpose",
+                    "start": 65.9,
+                    "end": 66.42,
+                    "probability": 0.7853858470916748
+                },
+                {
+                    "word": " of",
+                    "start": 66.42,
+                    "end": 66.64,
+                    "probability": 0.907119631767273
+                },
+                {
+                    "word": " promoting",
+                    "start": 66.64,
+                    "end": 67.02,
+                    "probability": 0.6938762664794922
+                },
+                {
+                    "word": " Chinese",
+                    "start": 67.02,
+                    "end": 67.5,
+                    "probability": 0.8095434904098511
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 5430,
+            "start": 67.5,
+            "end": 73.48,
+            "text": " interests and destroying our society from within. You want to know why Democrats and",
+            "tokens": [
+                51028,
+                8847,
+                293,
+                19926,
+                527,
+                4086,
+                490,
+                1951,
+                13,
+                509,
+                528,
+                281,
+                458,
+                983,
+                12217,
+                293,
+                51322
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884024665469215,
+            "compression_ratio": 1.5570934256055364,
+            "no_speech_prob": 0.3569295108318329,
+            "words": [
+                {
+                    "word": " interests",
+                    "start": 67.5,
+                    "end": 67.98,
+                    "probability": 0.6098641157150269
+                },
+                {
+                    "word": " and",
+                    "start": 67.98,
+                    "end": 68.46,
+                    "probability": 0.88482266664505
+                },
+                {
+                    "word": " destroying",
+                    "start": 68.46,
+                    "end": 68.78,
+                    "probability": 0.7303676605224609
+                },
+                {
+                    "word": " our",
+                    "start": 68.78,
+                    "end": 69.0,
+                    "probability": 0.8034842014312744
+                },
+                {
+                    "word": " society",
+                    "start": 69.0,
+                    "end": 69.46,
+                    "probability": 0.8449689745903015
+                },
+                {
+                    "word": " from",
+                    "start": 69.46,
+                    "end": 69.78,
+                    "probability": 0.8225803971290588
+                },
+                {
+                    "word": " within.",
+                    "start": 69.78,
+                    "end": 70.18,
+                    "probability": 0.7708501815795898
+                },
+                {
+                    "word": " You",
+                    "start": 70.42,
+                    "end": 70.52,
+                    "probability": 0.673529863357544
+                },
+                {
+                    "word": " want",
+                    "start": 70.52,
+                    "end": 70.6,
+                    "probability": 0.7871272563934326
+                },
+                {
+                    "word": " to",
+                    "start": 70.6,
+                    "end": 70.66,
+                    "probability": 0.9084936380386353
+                },
+                {
+                    "word": " know",
+                    "start": 70.66,
+                    "end": 70.8,
+                    "probability": 0.8376637697219849
+                },
+                {
+                    "word": " why",
+                    "start": 70.8,
+                    "end": 70.98,
+                    "probability": 0.8304096460342407
+                },
+                {
+                    "word": " Democrats",
+                    "start": 70.98,
+                    "end": 73.14,
+                    "probability": 0.39384880661964417
+                },
+                {
+                    "word": " and",
+                    "start": 73.14,
+                    "end": 73.48,
+                    "probability": 0.8928425312042236
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 5430,
+            "start": 73.48,
+            "end": 77.64,
+            "text": " Republicans have come together on this? That's why we are so concerned. Thank you, and I",
+            "tokens": [
+                51322,
+                12017,
+                362,
+                808,
+                1214,
+                322,
+                341,
+                30,
+                663,
+                311,
+                983,
+                321,
+                366,
+                370,
+                5922,
+                13,
+                1044,
+                291,
+                11,
+                293,
+                286,
+                51528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884024665469215,
+            "compression_ratio": 1.5570934256055364,
+            "no_speech_prob": 0.3569295108318329,
+            "words": [
+                {
+                    "word": " Republicans",
+                    "start": 73.48,
+                    "end": 73.94,
+                    "probability": 0.8382130265235901
+                },
+                {
+                    "word": " have",
+                    "start": 73.94,
+                    "end": 74.12,
+                    "probability": 0.8727343082427979
+                },
+                {
+                    "word": " come",
+                    "start": 74.12,
+                    "end": 74.24,
+                    "probability": 0.7814838886260986
+                },
+                {
+                    "word": " together",
+                    "start": 74.24,
+                    "end": 74.5,
+                    "probability": 0.7644959092140198
+                },
+                {
+                    "word": " on",
+                    "start": 74.5,
+                    "end": 74.68,
+                    "probability": 0.9021973013877869
+                },
+                {
+                    "word": " this?",
+                    "start": 74.68,
+                    "end": 74.86,
+                    "probability": 0.8821364045143127
+                },
+                {
+                    "word": " That's",
+                    "start": 75.12,
+                    "end": 75.52,
+                    "probability": 0.8952460587024689
+                },
+                {
+                    "word": " why",
+                    "start": 75.52,
+                    "end": 75.86,
+                    "probability": 0.817516565322876
+                },
+                {
+                    "word": " we",
+                    "start": 75.86,
+                    "end": 76.1,
+                    "probability": 0.9040387272834778
+                },
+                {
+                    "word": " are",
+                    "start": 76.1,
+                    "end": 76.26,
+                    "probability": 0.8679472804069519
+                },
+                {
+                    "word": " so",
+                    "start": 76.26,
+                    "end": 76.52,
+                    "probability": 0.9021357893943787
+                },
+                {
+                    "word": " concerned.",
+                    "start": 76.52,
+                    "end": 77.0,
+                    "probability": 0.8462345600128174
+                },
+                {
+                    "word": " Thank",
+                    "start": 77.18,
+                    "end": 77.4,
+                    "probability": 0.8744568824768066
+                },
+                {
+                    "word": " you,",
+                    "start": 77.4,
+                    "end": 77.46,
+                    "probability": 0.8920477032661438
+                },
+                {
+                    "word": " and",
+                    "start": 77.48,
+                    "end": 77.54,
+                    "probability": 0.8954346179962158
+                },
+                {
+                    "word": " I",
+                    "start": 77.54,
+                    "end": 77.64,
+                    "probability": 0.9972278475761414
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 5430,
+            "start": 77.64,
+            "end": 78.06,
+            "text": " yield back.",
+            "tokens": [
+                51528,
+                11257,
+                646,
+                13,
+                51553
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884024665469215,
+            "compression_ratio": 1.5570934256055364,
+            "no_speech_prob": 0.3569295108318329,
+            "words": [
+                {
+                    "word": " yield",
+                    "start": 77.64,
+                    "end": 77.76,
+                    "probability": 0.8049224615097046
+                },
+                {
+                    "word": " back.",
+                    "start": 77.76,
+                    "end": 78.06,
+                    "probability": 0.8021333813667297
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

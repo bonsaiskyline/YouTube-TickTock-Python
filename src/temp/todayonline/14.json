@@ -1,0 +1,58 @@
+{
+    "text": " What percentage of TikTok sources",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " What percentage of TikTok sources",
+            "tokens": [
+                50364,
+                708,
+                9668,
+                295,
+                20211,
+                7139,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.785334050655365,
+            "compression_ratio": 0.825,
+            "no_speech_prob": 0.29805296659469604,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.08406563103199005
+                },
+                {
+                    "word": " percentage",
+                    "start": 0.32,
+                    "end": 0.86,
+                    "probability": 0.7599324584007263
+                },
+                {
+                    "word": " of",
+                    "start": 0.86,
+                    "end": 1.42,
+                    "probability": 0.8946199417114258
+                },
+                {
+                    "word": " TikTok",
+                    "start": 1.42,
+                    "end": 1.88,
+                    "probability": 0.7984045147895813
+                },
+                {
+                    "word": " sources",
+                    "start": 1.88,
+                    "end": 2.38,
+                    "probability": 0.60514235496521
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

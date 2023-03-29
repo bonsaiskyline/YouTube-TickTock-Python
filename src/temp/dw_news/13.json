@@ -1,0 +1,31 @@
+{
+    "text": " Bye.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.32,
+            "text": " Bye.",
+            "tokens": [
+                50364,
+                4621,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7196594715118408,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.8568898439407349,
+            "words": [
+                {
+                    "word": " Bye.",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.1415434330701828
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

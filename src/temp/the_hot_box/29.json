@@ -1,0 +1,287 @@
+{
+    "text": " I want to ask you, as I understand it, there's a sister app in China, Duikin. I'm sorry if I'm butchering the pronunciation. Do they have these same things over there?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.16,
+            "text": " I want to ask you, as I understand it, there's a sister app in China, Duikin.",
+            "tokens": [
+                50364,
+                286,
+                528,
+                281,
+                1029,
+                291,
+                11,
+                382,
+                286,
+                1223,
+                309,
+                11,
+                456,
+                311,
+                257,
+                4892,
+                724,
+                294,
+                3533,
+                11,
+                5153,
+                1035,
+                259,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3204241733925015,
+            "compression_ratio": 1.3046875,
+            "no_speech_prob": 0.0017144945450127125,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9390281438827515
+                },
+                {
+                    "word": " want",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.7325459718704224
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.42,
+                    "probability": 0.909216046333313
+                },
+                {
+                    "word": " ask",
+                    "start": 0.42,
+                    "end": 0.74,
+                    "probability": 0.822087824344635
+                },
+                {
+                    "word": " you,",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.8955565094947815
+                },
+                {
+                    "word": " as",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.8950574994087219
+                },
+                {
+                    "word": " I",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9951829314231873
+                },
+                {
+                    "word": " understand",
+                    "start": 1.42,
+                    "end": 1.8,
+                    "probability": 0.7632233500480652
+                },
+                {
+                    "word": " it,",
+                    "start": 1.8,
+                    "end": 1.94,
+                    "probability": 0.762374997138977
+                },
+                {
+                    "word": " there's",
+                    "start": 2.04,
+                    "end": 2.22,
+                    "probability": 0.8549632132053375
+                },
+                {
+                    "word": " a",
+                    "start": 2.22,
+                    "end": 2.44,
+                    "probability": 0.9925716519355774
+                },
+                {
+                    "word": " sister",
+                    "start": 2.44,
+                    "end": 2.8,
+                    "probability": 0.7590346336364746
+                },
+                {
+                    "word": " app",
+                    "start": 2.8,
+                    "end": 3.18,
+                    "probability": 0.9029249548912048
+                },
+                {
+                    "word": " in",
+                    "start": 3.18,
+                    "end": 3.38,
+                    "probability": 0.8983088135719299
+                },
+                {
+                    "word": " China,",
+                    "start": 3.38,
+                    "end": 3.84,
+                    "probability": 0.8607388734817505
+                },
+                {
+                    "word": " Duikin.",
+                    "start": 4.6,
+                    "end": 5.16,
+                    "probability": 0.519732266664505
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 8.14,
+            "text": " I'm sorry if I'm butchering the pronunciation.",
+            "tokens": [
+                50644,
+                286,
+                478,
+                2597,
+                498,
+                286,
+                478,
+                457,
+                339,
+                1794,
+                264,
+                23338,
+                13,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3204241733925015,
+            "compression_ratio": 1.3046875,
+            "no_speech_prob": 0.0017144945450127125,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 5.38,
+                    "end": 5.74,
+                    "probability": 0.9782111644744873
+                },
+                {
+                    "word": " sorry",
+                    "start": 5.74,
+                    "end": 6.04,
+                    "probability": 0.7428061366081238
+                },
+                {
+                    "word": " if",
+                    "start": 6.04,
+                    "end": 6.32,
+                    "probability": 0.8824079036712646
+                },
+                {
+                    "word": " I'm",
+                    "start": 6.32,
+                    "end": 6.64,
+                    "probability": 0.9970406889915466
+                },
+                {
+                    "word": " butchering",
+                    "start": 6.64,
+                    "end": 7.1,
+                    "probability": 0.9659662445386251
+                },
+                {
+                    "word": " the",
+                    "start": 7.1,
+                    "end": 7.46,
+                    "probability": 0.8192541003227234
+                },
+                {
+                    "word": " pronunciation.",
+                    "start": 7.46,
+                    "end": 8.14,
+                    "probability": 0.8191183805465698
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.22,
+            "end": 11.42,
+            "text": " Do they have these same things over there?",
+            "tokens": [
+                50832,
+                1144,
+                436,
+                362,
+                613,
+                912,
+                721,
+                670,
+                456,
+                30,
+                50938
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3204241733925015,
+            "compression_ratio": 1.3046875,
+            "no_speech_prob": 0.0017144945450127125,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 9.22,
+                    "end": 9.44,
+                    "probability": 0.914350688457489
+                },
+                {
+                    "word": " they",
+                    "start": 9.44,
+                    "end": 9.66,
+                    "probability": 0.7409603595733643
+                },
+                {
+                    "word": " have",
+                    "start": 9.66,
+                    "end": 10.0,
+                    "probability": 0.8855592608451843
+                },
+                {
+                    "word": " these",
+                    "start": 10.0,
+                    "end": 10.28,
+                    "probability": 0.6685880422592163
+                },
+                {
+                    "word": " same",
+                    "start": 10.28,
+                    "end": 10.56,
+                    "probability": 0.8173291087150574
+                },
+                {
+                    "word": " things",
+                    "start": 10.56,
+                    "end": 10.94,
+                    "probability": 0.7348897457122803
+                },
+                {
+                    "word": " over",
+                    "start": 10.94,
+                    "end": 11.16,
+                    "probability": 0.8738307952880859
+                },
+                {
+                    "word": " there?",
+                    "start": 11.16,
+                    "end": 11.42,
+                    "probability": 0.8553043007850647
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

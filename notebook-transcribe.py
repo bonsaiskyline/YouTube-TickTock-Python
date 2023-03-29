@@ -20,48 +20,52 @@ def millisec(timeStr):
 def download_from_url(ydl, url):
     ydl.download([url])
     stream = ffmpeg.input('output.m4a')
-    stream = ffmpeg.output(stream, filename='output.wav')
+    stream = ffmpeg.output(stream, filename='output.wav') # the name here doesn't matter
 
 
-def append_silence(filename):
+def append_silence(raw_name, input_name):
     spacer = AudioSegment.silent(duration=SPACERMILLI)
-    audio = AudioSegment.from_wav(filename)
+    audio = AudioSegment.from_wav(raw_name)
     audio = spacer.append(audio, crossfade=0)
-    audio.export('input_prep.wav', format='wav')
+    audio.export(input_name, format='wav')
 
 
-ydl_opts = {
-    'format': 'bestaudio/best',
-    'postprocessors': [{
-        'key': 'FFmpegExtractAudio',
-        'preferredcodec': 'wav',
-    }],
-    'outtmpl': 'output'
-}
-# with YoutubeDL(ydl_opts) as ydl:
-#     info_dict = ydl.extract_info(video_url, download=False)
-#     video_title = info_dict.get('title', None)
-#     download_from_url(video_url)
-#     append_silence('output.wav')
+def get_info(url):
+    with YoutubeDL() as ydl:
+        info_dict = ydl.extract_info(url, download=False)
+        video_title = info_dict.get('title', None)
+        video_id = info_dict.get('id', None)
+        author = info_dict.get('uploader', None).replace(" ", "_").lower()
+        raw_name = f'{author}.wav'
+        input_name = f'{author}_prep.wav'
+        return video_title, video_id, author, raw_name, input_name
 
-def download_wav(url):
+def download_wav(url, author, raw_name, input_name):
+    if os.path.exists(input_name):
+        print(f"file {input_name} already exists, skipping download")
+        return
+    else:
+        print(f"downloading {url} to {raw_name}...")
+
     ydl_opts = {
         'format': 'bestaudio/best',
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'wav',
         }],
-        'outtmpl': 'output'
+        'outtmpl': author,
     }
     with YoutubeDL(ydl_opts) as ydl:
-        info_dict = ydl.extract_info(url, download=False)
-        video_title = info_dict.get('title', None)
-        video_id = info_dict.get('id', None)
         download_from_url(ydl, url)
-        append_silence('output.wav')
-        return video_title, video_id
+        append_silence(raw_name, input_name)
 
 def diarize(input_file, output_file):
+    if os.path.exists(output_file):
+        print(f"file {output_file} already exists, skipping diarization")
+        return
+    else:
+        print(f"diarizing {input_file} to {output_file}...")
+
     pyannote_key = config('PYANNOTE_KEY')
     pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization', use_auth_token= (pyannote_key))
     DEMO_FILE = {'uri': 'blabla', 'audio': input_file}
@@ -99,6 +103,12 @@ def group(filename):
     return groups
 
 def get_audio_from_groups(input_file, groups):
+    total_num = len(groups) - 1
+    if os.path.exists(str(total_num) + '.wav'):
+        print(f"files already exist, skipping audio extraction")
+    else:
+        print(f"extracting audio from {input_file}...")
+
     audio = AudioSegment.from_wav(input_file)
     gidx = -1
     for g in groups:
@@ -111,10 +121,24 @@ def get_audio_from_groups(input_file, groups):
         print(f"group {gidx}: {start}--{end}")
 
 
+def generate_json_for_group(model, groups):
+    total_num = len(groups) - 1
+    if os.path.exists(str(total_num) + '.json'):
+        print(f"files already exist, skipping json generation")
+        return
+    else:
+        print(f"extracting json for audio clips.")
+
+    for i in range(len(groups)):
+        audiof = str(i) + '.wav'
+        result = model.transcribe(audio=audiof, language='en', word_timestamps=True)#, initial_prompt=result.get('text', ""))
+        with open(str(i)+'.json', "w") as outfile:
+            json.dump(result, outfile, indent=4)
+
 def timeStr(t):
   return '{0:02d}:{1:02d}:{2:06.2f}'.format(round(t // 3600), round(t % 3600 // 60), t % 60)
 
-def generate_html(video_title, video_id, groups):
+def generate_html(filename, video_title, video_id, groups):
     speakers = {'SPEAKER_00':('Customer', '#e1ffc7', 'darkgreen'), 'SPEAKER_01':('Call Center', 'white', 'darkorange') }
     def_boxclr = 'white'
     def_spkrclr = 'orange'
@@ -166,34 +190,68 @@ def generate_html(video_title, video_id, groups):
 
     html.append(postS)
 
-    with open(f"capspeaker.html", "w", encoding='utf-8') as file:    #TODO: proper html embed tag when video/audio from file
+    with open(filename, "w", encoding='utf-8') as file:    #TODO: proper html embed tag when video/audio from file
         s = "".join(html)
         file.write(s)
         print('captions saved to capspeaker.html:')
         print(s+'\n')
 
-if __name__ == '__main__':
-    os.chdir('temp')
+def change_directory(author):
+    if not os.path.exists(author):
+        os.makedirs(author)
+        print(f"Created directory: {author}")
+    os.chdir(author)
+    print(f"Changed current working directory to: {author}")
 
-    locale.getpreferredencoding = lambda: "UTF-8"
-    video_url = "https://www.youtube.com/watch?v=sZDpJHl6amo"
 
-    video_title, video_id = download_wav(video_url)
+def process_url(url, model):
+    #  start in the temp directory
+    video_title, video_id, author, raw_name, input_name = get_info(video_url)
+    html_name = f'{author}.html'
+    if os.path.exists(html_name):
+        print("html file already exists, skipping video")
+        return
+    else:
+        print(f"processing {url}...")
+
+    change_directory(author)
+    download_wav(video_url, author, raw_name, input_name)
     output_file = "diarization.txt"
-    input_file = "input_prep.wav"
-    diarize(input_file, output_file)
+    diarize(input_name, output_file)
 
     groups = group(output_file)
-    get_audio_from_groups(input_file, groups)
+    get_audio_from_groups(input_name, groups)
 
-    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    # model = whisper.load_model('large', device = device)
 
-    # for i in range(len(groups)):
-    #     audiof = str(i) + '.wav'
-    #     result = model.transcribe(audio=audiof, language='en', word_timestamps=True)#, initial_prompt=result.get('text', ""))
-    #     with open(str(i)+'.json', "w") as outfile:
-    #         json.dump(result, outfile, indent=4)
+    generate_json_for_group(model, groups)
 
-    generate_html(video_title, video_id, groups)
+    html_name = f'{author}.html'
+    generate_html(html_name, video_title, video_id, groups)
+    #  end in the temp directory
+    os.chdir('..')
+
+
+if __name__ == '__main__':
+    os.chdir('temp')
+    locale.getpreferredencoding = lambda: "UTF-8"
+
+    YOUTUBE_URLS = [
+        "https://www.youtube.com/watch?v=sZDpJHl6amo",
+        "https://www.youtube.com/shorts/vbXfyNxnkcs",
+        "https://www.youtube.com/watch?v=AvsIogVNs7w",
+        "https://www.youtube.com/shorts/xq3aFCEnFrQ",
+        "https://www.youtube.com/shorts/IhvEU-6bnrM",
+        "https://www.youtube.com/watch?v=SvHpy_tk9DQ",
+        "https://www.youtube.com/watch?v=zFDz4zmM990",
+        "https://www.youtube.com/watch?v=m_H4zguqeRM",
+        "https://www.youtube.com/watch?v=RwcV4DJUEvM",
+        "https://www.youtube.com/watch?v=E5d-qNAuArs",
+        "https://www.youtube.com/watch?v=Lq_xbt1cqg4",
+        "https://www.youtube.com/watch?v=gPZA98whQGI",
+    ]
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = whisper.load_model('large', device = device)
+
+    for video_url in YOUTUBE_URLS:
+        process_url(video_url, model)
 

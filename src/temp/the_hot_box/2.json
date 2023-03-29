@@ -1,0 +1,59 @@
+{
+    "text": " most bipartisan committee in Congress.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " most bipartisan committee in Congress.",
+            "tokens": [
+                50364,
+                881,
+                31954,
+                7482,
+                294,
+                6426,
+                13,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6307790014478896,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.10722710937261581,
+            "words": [
+                {
+                    "word": " most",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.33789658546447754
+                },
+                {
+                    "word": " bipartisan",
+                    "start": 0.28,
+                    "end": 0.9,
+                    "probability": 0.849606990814209
+                },
+                {
+                    "word": " committee",
+                    "start": 0.9,
+                    "end": 1.46,
+                    "probability": 0.7927284240722656
+                },
+                {
+                    "word": " in",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.8826606273651123
+                },
+                {
+                    "word": " Congress.",
+                    "start": 1.68,
+                    "end": 2.1,
+                    "probability": 0.5980392098426819
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

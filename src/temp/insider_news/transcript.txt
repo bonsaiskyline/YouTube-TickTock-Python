@@ -1,0 +1,42 @@
+==> SPEAKER_03: 
+ Can you say with 100% certainty that TikTok does not use the phone's camera to determine whether the content that elicits a pupil dilation should be amplified by the algorithm? Can you tell me that?
+==> SPEAKER_01: 
+ We do not collect body, face or voice data to identify our users. We do not. The only face data that you get, that we collect, is when you use the filters to have sunglasses on your face, we need to know where your eyes are.
+==> SPEAKER_03: 
+ Why do you need to know what the eyes are if you're not seeing if they're dilated?
+==> SPEAKER_01: 
+ and that data is stored on your local device and deleted after use if you use it for facial. Again, we do not collect body, face or voice data to identify our users.
+==> SPEAKER_03: 
+ in.
+==> SPEAKER_03: 
+ I find that hard to believe. It's our understanding that they're looking at the eyes. How do you determine what age they are then?
+==> SPEAKER_01: 
+ We rely on age gating as our key age assurance. Age? Gating, which is when you ask the user what age they are. We have also developed some tools where we look at their public profile to go through the videos that they post to see whether... Boy, that's creepy.
+==> SPEAKER_03: 
+ Tell me more about that.
+==> SPEAKER_01: 
+ It's public. So if you post a video that you choose that video to go public, that's how you get people to see your video. We look at those to see if it matches up the age that you talked about.
+==> SPEAKER_02: 
+ The 10-year-old girl participated in a blackout challenge, also known as the choking challenge. TikTok actively pushes video on her feed. Unfortunately this is one of the many devastating examples of children losing their lives because of content promoted by TikTok.
+==> SPEAKER_01: 
+ Congressman, as a father myself, when I hear about the tragic deaths of young people, it's heartbreaking.
+==> SPEAKER_02: 
+ people it's heartbreaking.
+==> SPEAKER_01: 
+ We are very focused on safety and all these stages, challenges, move when we find them. There are more than 150 million Americans who love our platform. And we know we have a responsibility to protect them.
+==> SPEAKER_02: 
+ and all these stages trying to just move.
+==> SPEAKER_00: 
+ we find them.
+==> SPEAKER_01: 
+ which is why I'm making the following commitments to you and to all our users. Number one, we will keep safety, particularly for teenagers, as a top priority for us. Number two, we will firewall protected US data from unwanted foreign access. Number three, TikTok will remain a place for free expression and will not be manipulated by any government. Data is stored here in American soil.
+==> SPEAKER_00: 
+ your TikTok employees that live in China, they must cooperate with Chinese intelligence whenever they are called upon. And if they are called upon, they're bound to secrecy. That would include you. So Mr. Chu, if the CCP tells ByteDance to turn over all data that TikTok has collected inside the US, even within Project Texas, do they have to do so according to Chinese law?
+==> SPEAKER_01: 
+ Congressman, first, I'm Singaporean.
+==> SPEAKER_00: 
+ That's fine, but there are employees of yours and by dances in China
+==> SPEAKER_01: 
+ We understand this concern. In my opening statement, we said, we hear these concerns, we didn't try to avoid them or trivialise them. We built something where we take that data and put it out of reach.
+==> SPEAKER_03: 
+ The Chinese Communist Party is engaged in psychological warfare through TikTok to deliberately influence U.S. children.

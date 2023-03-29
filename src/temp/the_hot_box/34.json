@@ -1,0 +1,48 @@
+{
+    "text": " It's a chalk.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.4,
+            "text": " It's a chalk.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                257,
+                417,
+                304,
+                74,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8699997901916504,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.5423516631126404,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4785728007555008
+                },
+                {
+                    "word": " a",
+                    "start": 0.16,
+                    "end": 0.2,
+                    "probability": 0.7373026609420776
+                },
+                {
+                    "word": " chalk.",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.3615775505701701
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

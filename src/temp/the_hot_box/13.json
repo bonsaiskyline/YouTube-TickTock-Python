@@ -1,0 +1,397 @@
+{
+    "text": " Yes. No, she just talks to herself for five minutes straight. Yeah, I really want to listen to the person with the don't tread on me sticker. Actually, why do I want to listen to a country that puts that stuff on their license plates?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 0.58,
+            "text": " Yes.",
+            "tokens": [
+                50364,
+                1079,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3121308357484879,
+            "compression_ratio": 1.453416149068323,
+            "no_speech_prob": 0.08060286194086075,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.3495919108390808
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.88,
+            "end": 5.36,
+            "text": " No, she just talks to herself for five minutes straight.",
+            "tokens": [
+                50414,
+                883,
+                11,
+                750,
+                445,
+                6686,
+                281,
+                7530,
+                337,
+                1732,
+                2077,
+                2997,
+                13,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3121308357484879,
+            "compression_ratio": 1.453416149068323,
+            "no_speech_prob": 0.08060286194086075,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.88,
+                    "end": 1.38,
+                    "probability": 0.8026540279388428
+                },
+                {
+                    "word": " she",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.8043748140335083
+                },
+                {
+                    "word": " just",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.8829936981201172
+                },
+                {
+                    "word": " talks",
+                    "start": 2.3,
+                    "end": 2.94,
+                    "probability": 0.7407333254814148
+                },
+                {
+                    "word": " to",
+                    "start": 2.94,
+                    "end": 3.14,
+                    "probability": 0.9033405184745789
+                },
+                {
+                    "word": " herself",
+                    "start": 3.14,
+                    "end": 3.68,
+                    "probability": 0.7903714179992676
+                },
+                {
+                    "word": " for",
+                    "start": 3.68,
+                    "end": 4.1,
+                    "probability": 0.7025297284126282
+                },
+                {
+                    "word": " five",
+                    "start": 4.1,
+                    "end": 4.6,
+                    "probability": 0.6998525261878967
+                },
+                {
+                    "word": " minutes",
+                    "start": 4.6,
+                    "end": 4.9,
+                    "probability": 0.8922641277313232
+                },
+                {
+                    "word": " straight.",
+                    "start": 4.9,
+                    "end": 5.36,
+                    "probability": 0.836736261844635
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.8,
+            "end": 8.8,
+            "text": " Yeah, I really want to listen to the person with the don't tread on me sticker.",
+            "tokens": [
+                50638,
+                865,
+                11,
+                286,
+                534,
+                528,
+                281,
+                2140,
+                281,
+                264,
+                954,
+                365,
+                264,
+                500,
+                380,
+                28286,
+                322,
+                385,
+                20400,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3121308357484879,
+            "compression_ratio": 1.453416149068323,
+            "no_speech_prob": 0.08060286194086075,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 5.8,
+                    "end": 6.0,
+                    "probability": 0.8678305745124817
+                },
+                {
+                    "word": " I",
+                    "start": 6.08,
+                    "end": 6.16,
+                    "probability": 0.9933858513832092
+                },
+                {
+                    "word": " really",
+                    "start": 6.16,
+                    "end": 6.36,
+                    "probability": 0.7744936943054199
+                },
+                {
+                    "word": " want",
+                    "start": 6.36,
+                    "end": 6.52,
+                    "probability": 0.7459007501602173
+                },
+                {
+                    "word": " to",
+                    "start": 6.52,
+                    "end": 6.6,
+                    "probability": 0.9054059386253357
+                },
+                {
+                    "word": " listen",
+                    "start": 6.6,
+                    "end": 6.76,
+                    "probability": 0.8019862174987793
+                },
+                {
+                    "word": " to",
+                    "start": 6.76,
+                    "end": 6.86,
+                    "probability": 0.9011427164077759
+                },
+                {
+                    "word": " the",
+                    "start": 6.86,
+                    "end": 6.98,
+                    "probability": 0.8143178224563599
+                },
+                {
+                    "word": " person",
+                    "start": 6.98,
+                    "end": 7.22,
+                    "probability": 0.7919148206710815
+                },
+                {
+                    "word": " with",
+                    "start": 7.22,
+                    "end": 7.4,
+                    "probability": 0.8153958916664124
+                },
+                {
+                    "word": " the",
+                    "start": 7.4,
+                    "end": 7.52,
+                    "probability": 0.7326279878616333
+                },
+                {
+                    "word": " don't",
+                    "start": 7.52,
+                    "end": 7.92,
+                    "probability": 0.5934578031301498
+                },
+                {
+                    "word": " tread",
+                    "start": 7.92,
+                    "end": 8.18,
+                    "probability": 0.909784197807312
+                },
+                {
+                    "word": " on",
+                    "start": 8.18,
+                    "end": 8.34,
+                    "probability": 0.9030295610427856
+                },
+                {
+                    "word": " me",
+                    "start": 8.34,
+                    "end": 8.46,
+                    "probability": 0.9134373068809509
+                },
+                {
+                    "word": " sticker.",
+                    "start": 8.46,
+                    "end": 8.8,
+                    "probability": 0.8117718696594238
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.2,
+            "end": 13.18,
+            "text": " Actually, why do I want to listen to a country that puts that stuff on their license plates?",
+            "tokens": [
+                50814,
+                5135,
+                11,
+                983,
+                360,
+                286,
+                528,
+                281,
+                2140,
+                281,
+                257,
+                1941,
+                300,
+                8137,
+                300,
+                1507,
+                322,
+                641,
+                10476,
+                14231,
+                30,
+                51032
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3121308357484879,
+            "compression_ratio": 1.453416149068323,
+            "no_speech_prob": 0.08060286194086075,
+            "words": [
+                {
+                    "word": " Actually,",
+                    "start": 9.2,
+                    "end": 9.48,
+                    "probability": 0.8498213887214661
+                },
+                {
+                    "word": " why",
+                    "start": 9.6,
+                    "end": 9.72,
+                    "probability": 0.822921872138977
+                },
+                {
+                    "word": " do",
+                    "start": 9.72,
+                    "end": 9.84,
+                    "probability": 0.9135684967041016
+                },
+                {
+                    "word": " I",
+                    "start": 9.84,
+                    "end": 9.94,
+                    "probability": 0.9943162798881531
+                },
+                {
+                    "word": " want",
+                    "start": 9.94,
+                    "end": 10.1,
+                    "probability": 0.818773090839386
+                },
+                {
+                    "word": " to",
+                    "start": 10.1,
+                    "end": 10.18,
+                    "probability": 0.9079669117927551
+                },
+                {
+                    "word": " listen",
+                    "start": 10.18,
+                    "end": 10.36,
+                    "probability": 0.7896727323532104
+                },
+                {
+                    "word": " to",
+                    "start": 10.36,
+                    "end": 10.48,
+                    "probability": 0.907371997833252
+                },
+                {
+                    "word": " a",
+                    "start": 10.48,
+                    "end": 10.62,
+                    "probability": 0.9967032074928284
+                },
+                {
+                    "word": " country",
+                    "start": 10.62,
+                    "end": 10.88,
+                    "probability": 0.8188393712043762
+                },
+                {
+                    "word": " that",
+                    "start": 10.88,
+                    "end": 11.12,
+                    "probability": 0.8789848685264587
+                },
+                {
+                    "word": " puts",
+                    "start": 11.12,
+                    "end": 11.36,
+                    "probability": 0.8072248697280884
+                },
+                {
+                    "word": " that",
+                    "start": 11.36,
+                    "end": 11.56,
+                    "probability": 0.8804506659507751
+                },
+                {
+                    "word": " stuff",
+                    "start": 11.56,
+                    "end": 11.86,
+                    "probability": 0.7890394330024719
+                },
+                {
+                    "word": " on",
+                    "start": 11.86,
+                    "end": 12.0,
+                    "probability": 0.9081302285194397
+                },
+                {
+                    "word": " their",
+                    "start": 12.0,
+                    "end": 12.14,
+                    "probability": 0.9158070683479309
+                },
+                {
+                    "word": " license",
+                    "start": 12.14,
+                    "end": 12.68,
+                    "probability": 0.7629465460777283
+                },
+                {
+                    "word": " plates?",
+                    "start": 12.68,
+                    "end": 13.18,
+                    "probability": 0.7992370128631592
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

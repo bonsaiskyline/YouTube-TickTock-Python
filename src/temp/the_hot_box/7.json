@@ -1,0 +1,158 @@
+{
+    "text": " A few minutes ago exposed that TikTok and ByteDance share legal teams. You confirmed this, correct?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.2,
+            "end": 3.92,
+            "text": " A few minutes ago exposed that TikTok and ByteDance share legal teams.",
+            "tokens": [
+                50364,
+                316,
+                1326,
+                2077,
+                2057,
+                9495,
+                300,
+                20211,
+                293,
+                3146,
+                975,
+                35,
+                719,
+                2073,
+                5089,
+                5491,
+                13,
+                50573
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3475562201605903,
+            "compression_ratio": 1.064516129032258,
+            "no_speech_prob": 0.00289873662404716,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 0.2,
+                    "end": 0.72,
+                    "probability": 0.5965962409973145
+                },
+                {
+                    "word": " few",
+                    "start": 0.72,
+                    "end": 1.14,
+                    "probability": 0.845021665096283
+                },
+                {
+                    "word": " minutes",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.8838396668434143
+                },
+                {
+                    "word": " ago",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.857910692691803
+                },
+                {
+                    "word": " exposed",
+                    "start": 1.56,
+                    "end": 1.98,
+                    "probability": 0.46713611483573914
+                },
+                {
+                    "word": " that",
+                    "start": 1.98,
+                    "end": 2.14,
+                    "probability": 0.8443273901939392
+                },
+                {
+                    "word": " TikTok",
+                    "start": 2.14,
+                    "end": 2.4,
+                    "probability": 0.3457522690296173
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.66,
+                    "probability": 0.8896680474281311
+                },
+                {
+                    "word": " ByteDance",
+                    "start": 2.66,
+                    "end": 3.08,
+                    "probability": 0.837286576628685
+                },
+                {
+                    "word": " share",
+                    "start": 3.08,
+                    "end": 3.34,
+                    "probability": 0.7989462614059448
+                },
+                {
+                    "word": " legal",
+                    "start": 3.34,
+                    "end": 3.62,
+                    "probability": 0.7919705510139465
+                },
+                {
+                    "word": " teams.",
+                    "start": 3.62,
+                    "end": 3.92,
+                    "probability": 0.7088334560394287
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.1,
+            "end": 5.16,
+            "text": " You confirmed this, correct?",
+            "tokens": [
+                50573,
+                509,
+                11341,
+                341,
+                11,
+                3006,
+                30,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3475562201605903,
+            "compression_ratio": 1.064516129032258,
+            "no_speech_prob": 0.00289873662404716,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.1,
+                    "end": 4.22,
+                    "probability": 0.8922744989395142
+                },
+                {
+                    "word": " confirmed",
+                    "start": 4.22,
+                    "end": 4.72,
+                    "probability": 0.7933212518692017
+                },
+                {
+                    "word": " this,",
+                    "start": 4.72,
+                    "end": 4.96,
+                    "probability": 0.8881401419639587
+                },
+                {
+                    "word": " correct?",
+                    "start": 5.02,
+                    "end": 5.16,
+                    "probability": 0.8783296942710876
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

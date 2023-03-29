@@ -1,0 +1,62 @@
+==> SPEAKER_02: 
+ Oh tick tock CEO goes under oath and says his company is not a glaring risk to U.S. national security. Lawmakers though in both parties clearly not convinced. Piercing questions today up on Capitol Hill the hearing in the House Energy and Commerce Committee kicking off with a reminder that misleading Congress is a federal crime. Tick tocks chief very very careful in his answers. He says the app can keep data for millions of American users off limits from the Chinese government. But lawmakers counter. They say simply they don't believe it. They see tick tock as a weapon for the Chinese regime.
+==> SPEAKER_07: 
+ Your platform should be banned. I expect today you'll say anything to avoid this outcome.
+==> SPEAKER_06: 
+ You gave me only generalized statements that you're investing, that you're concerned, that you're doing more. That's not enough for me. Any I-DANCE employees in China, including engineers, currently have access to U.S. data.
+==> SPEAKER_01: 
+ Congressman, I would appreciate this. This is a complex topic. Today, all data is stored by default.
+==> SPEAKER_02: 
+ Yes, yes, I know. It's not that complex.
+==> SPEAKER_01: 
+ I have seen no evidence that the Chinese government has access to that data. They have never asked us. We have not provided.
+==> SPEAKER_06: 
+ Well, you know what, I find that actually preposterous.
+==> SPEAKER_08: 
+ Why, if you had nothing to hide, would you need to downplay the association with ByteDance in China?
+==> SPEAKER_01: 
+ Congressman, I have not seen this memo.
+==> SPEAKER_08: 
+ There's
+==> SPEAKER_02: 
+ with me in studio to share their reporting and their insights. Leanne Caldwell of The Washington Post CNN's Melanie Zanona Francesca Chambers of USA Today and Sarah Fisher of Axios. The CEO is doing his best to say we will protect this data. We have this new project underway to get it out of Singapore get it out of Asia. We'll be all in America. They don't believe it. So the question is what will Congress do. The scorn is bipartisan. But there's a lot of scorn for Facebook and Instagram and Twitter and American social media companies and they can't agree on what to do. Will they agree here.
+==> SPEAKER_03: 
+ I think they're in a lot of agreement here. There seems to be bipartisan support for taking action on TikTok. The question's actually not what Congress will do, it's what will the courts do? So the White House and CFIUS, the Committee for Foreign Investment in the United States, may say that TikTok has to be banned if it's not sold to a US company. But like Donald Trump tried to do this in 2020, the courts will ultimately have to support that decision. That's where the next step of this comes to fruition. And then the last question, of course, is who even would buy TikTok? This is a very expensive company. You know, in 2020, when it had 50 million fewer users, it was valued at roughly 30 billion, according to some reports. Now imagine, who can even afford to buy something like that and get it passed through regulatory scrutiny? So there's a lot of questions, John, about how we get to this hearing to the next step.
+==> SPEAKER_02: 
+ And so the members of Congress are saying we will pass legislation allowing us to ban you from the United States unless you have a sale, a bite dance, a Chinese health company sell it publicly. The CEO keeps trying to say we hear you, we will fix it. Listen here, here's the idea being that look, we understand you think the Chinese government can access this data, we're going to create a firewall, it won't happen.
+==> SPEAKER_01: 
+ There are more than 150 million Americans who love our platform, and we know we have a responsibility to protect them. We will firewall protected U.S. data from unwanted foreign access.
+==> SPEAKER_02: 
+ The members simply don't buy it. They don't think that any company that has any ties to China, even if you try to reduce your ties to China, your footprint in China, that if the Chinese have even a small entry, they can, if they wish, take your data and get access to it. But if you notice the CEO there, Mr. Chu, working in the 150 million Americans, he's trying to tell Congress, dare you, I dare you.
+==> SPEAKER_05: 
+ Yeah, there's a lot of politics here, too. This was a bipartisan grilling of the CEO of TikTok. So they are in agreement, members of Congress, Republicans and Democrats, on that. But this also comes with some political consequences also. Are members of Congress willing to ban TikTok, understanding that there are a lot of young users who use it, potential voters? There's been a higher percentage of young people who voted in the last election than in the last several decades. And this impacts Democrats more than it impacts Republicans. Republicans are a lot less worried about the political blowback than Democrats are. For example, the Senate Republican Campaign Committee, they actually have a policy that their candidates, that they do not use TikTok to campaign. Meanwhile, Democrats have been utilizing this app on the campaign trail. And so a ban might be too much for some Democrats.
+==> SPEAKER_02: 
+ Yeah.
+==> SPEAKER_04: 
+ And I would point out, leadership in the House has actually not yet committed to bringing a ban forward. They said there's a number of different proposals. They're working their way through the committee process. I'd also point out, there are some lobbyists who are closely aligned to Kevin McCarthy, a former California Republican, who's lobbying on behalf of TikTok, a former McCarthy aide. So it is a question of what McCarthy's going to do, but this hearing was just a disaster for TikTok. You had lawmakers coming out in the middle of it, renewing their calls, or coming out for a ban on TikTok, if it shows you how well it went for TikTok. It's hard to imagine that there won't be some sort of congressional action.
+==> SPEAKER_02: 
+ Yeah, and it's interesting. You mentioned what will the administration do, what will the courts do. Congress has the ball at the moment. And the chairwoman, Cathy McMorris-Rogers, just scornful from the beginning, just full of distrust. And again, they want definitive answers. They want yes or no. Listen here as she presses for answers, and she says, I'm not getting them on the question of can you actually keep the Chinese? Can you say no to Xi Jinping, essentially?
+==> SPEAKER_01: 
+ We do not promote or remove content at the request of the Chinese government.
+==> SPEAKER_07: 
+ The question is...
+==> SPEAKER_07: 
+ The question is, are you 100% certain that they cannot use your company to promote such messages?
+==> SPEAKER_01: 
+ It is our commitment to this committee and all our users that we will keep this free from any manipulation by any government.
+==> SPEAKER_07: 
+ If you can't say 100% certain, I take that as a no.
+==> SPEAKER_02: 
+ And that's a skepticism in the sense that there have been engineers who have admitted that they've been able to get access to U.S. data in China. And the concern is, even if there's no public evidence now of anything nefarious, that if China wanted to do it, whether it's to interfere in a U.S. election, whether to promote its views that we can take Taiwan, that the Chinese, maybe they're not doing it today, but they have the opportunity, the technical ability, and then the power of coercion, the communist regime to say, sorry.
+==> SPEAKER_00: 
+ And lawmakers on both sides of the aisle were concerned about that and asking questions about whether or not, even if the data was fully based in Texas, whether the Chinese government would be able to compel employees of ByteDance to be able to provide that data. Ultimately, though, even if Congress passes this legislation, it will fall at Joe Biden's feet. It will be up to the president to determine whether or not, of course, to sign the legislation. But if one of the versions that Congress passes gives the authority to the president of the United States to ban TikTok, if he chooses to do so, Biden would then have to decide whether he wants to ban it. You talked about some of the political concerns here. The White House has brushed aside political concerns. But when you have two thirds of young Americans saying that they don't want to see TikTok banned, and then you also have, within President Joe Biden's approval rating, young people essentially dragging down his approval rating among Democrats, it's hard to see how political considerations wouldn't at least be on their minds, regardless of what the decision he makes is.
+==> SPEAKER_02: 
+ That's a fascinating question as you go into 2024 in the sense that the Republicans say Chinese Communist Party just about every other breath. Right. And they believe it's and look it's a very important issue. It's a very important geopolitical issue whether we're talking about social media or we're talking about the South China Sea whether we're talking about the war in Ukraine. China comes up all the time. But the growth of the company that does make the politics interesting. In 2020 about 100 million users the CEO repeatedly reminding people today it's up to 150 million now. And you look at this Quinnipiac poll. Do you support a tick tock ban. Forty nine percent of Americans say yes. Forty two percent. No. So a slight plurality close to a majority. But you see the split there. But then look at the age differences. Older Americans say sure. And again they're more open to the idea of it. Younger Americans say no. So how complicated is this. We talk about Congress for a president who might get the authority to get to ban or could use other administrative steps to do something. But.
+==> SPEAKER_03: 
+ It's very complicated for two reasons. One, you have the internal politics here in the United States. You just said we've been talking about it, young voters. Two, you have your politics with China. China passed a law in 2020 that basically said we're not going to allow exports of our technology. So now he's got to figure out, even if they do force TikTok to sell to a US company, can they get China on board to let them sell? That's going to be a huge political negotiation that he has to manage on top of all the other national security conversations he's having with China. Puts an enormous pressure point on Joe Biden ahead of 2024.
+==> SPEAKER_02: 
+ And China's making clear to The Wall Street Journal today that it does not support this idea of a forced sale. So where do we go?
+==> SPEAKER_05: 
+ Yeah, well, there's also a broader conversation, too. I was talking to some senators yesterday. Of course, there's a national security component, but also there's the mental health component, especially for young people. And Senator Chris Murphy, for example, he told me that he has a teenage son, and he wants the conversation around TikTok to be much broader than just China and national security. And so he almost thinks that Congress is too singularly focused on China on this issue. So we'll see where this goes next.
+==> SPEAKER_02: 
+ But that gets you into the broader conversation with other social media companies as well, where they talk a lot and they use them as a piñata a lot, but they have been unable to reach a consensus about what to actually try to pass.

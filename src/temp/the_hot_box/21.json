@@ -1,0 +1,125 @@
+{
+    "text": " Thank you Madam Chair. Mr. Crew, welcome to the most bipartisan committee in Congress.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Thank you Madam Chair. Mr. Crew, welcome to the most bipartisan committee in Congress.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                18490,
+                8678,
+                13,
+                2221,
+                13,
+                29857,
+                11,
+                2928,
+                281,
+                264,
+                881,
+                31954,
+                7482,
+                294,
+                6426,
+                13,
+                50578
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3739508901323591,
+            "compression_ratio": 1.036144578313253,
+            "no_speech_prob": 0.0005581529694609344,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8050532341003418
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.8627346754074097
+                },
+                {
+                    "word": " Madam",
+                    "start": 0.32,
+                    "end": 0.46,
+                    "probability": 0.3511025309562683
+                },
+                {
+                    "word": " Chair.",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.8334860801696777
+                },
+                {
+                    "word": " Mr.",
+                    "start": 0.9,
+                    "end": 1.06,
+                    "probability": 0.9028033018112183
+                },
+                {
+                    "word": " Crew,",
+                    "start": 1.2,
+                    "end": 1.36,
+                    "probability": 0.46047139167785645
+                },
+                {
+                    "word": " welcome",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.7720918655395508
+                },
+                {
+                    "word": " to",
+                    "start": 1.76,
+                    "end": 2.0,
+                    "probability": 0.9013020992279053
+                },
+                {
+                    "word": " the",
+                    "start": 2.0,
+                    "end": 2.12,
+                    "probability": 0.7819705605506897
+                },
+                {
+                    "word": " most",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.8295221328735352
+                },
+                {
+                    "word": " bipartisan",
+                    "start": 2.34,
+                    "end": 2.9,
+                    "probability": 0.7382727861404419
+                },
+                {
+                    "word": " committee",
+                    "start": 2.9,
+                    "end": 3.44,
+                    "probability": 0.8077732920646667
+                },
+                {
+                    "word": " in",
+                    "start": 3.44,
+                    "end": 3.66,
+                    "probability": 0.9010137915611267
+                },
+                {
+                    "word": " Congress.",
+                    "start": 3.66,
+                    "end": 4.0,
+                    "probability": 0.7706736326217651
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

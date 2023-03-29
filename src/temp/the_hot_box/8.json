@@ -1,0 +1,88 @@
+{
+    "text": " Our general counsel is an American lawyer, Jennifer Reynolds.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " Our general counsel is an American lawyer, Jennifer Reynolds.",
+            "tokens": [
+                50364,
+                2621,
+                2674,
+                10351,
+                307,
+                364,
+                2665,
+                11613,
+                11,
+                14351,
+                29516,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7018651962280273,
+            "compression_ratio": 0.9104477611940298,
+            "no_speech_prob": 0.0367748960852623,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.610240638256073
+                },
+                {
+                    "word": " general",
+                    "start": 0.2,
+                    "end": 0.46,
+                    "probability": 0.6165555119514465
+                },
+                {
+                    "word": " counsel",
+                    "start": 0.46,
+                    "end": 0.9,
+                    "probability": 0.8456904292106628
+                },
+                {
+                    "word": " is",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.9049280881881714
+                },
+                {
+                    "word": " an",
+                    "start": 1.14,
+                    "end": 1.66,
+                    "probability": 0.8463686108589172
+                },
+                {
+                    "word": " American",
+                    "start": 1.66,
+                    "end": 2.04,
+                    "probability": 0.7943965196609497
+                },
+                {
+                    "word": " lawyer,",
+                    "start": 2.04,
+                    "end": 3.04,
+                    "probability": 0.7996313571929932
+                },
+                {
+                    "word": " Jennifer",
+                    "start": 3.44,
+                    "end": 3.48,
+                    "probability": 0.06610089540481567
+                },
+                {
+                    "word": " Reynolds.",
+                    "start": 3.48,
+                    "end": 3.7,
+                    "probability": 0.4726455509662628
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

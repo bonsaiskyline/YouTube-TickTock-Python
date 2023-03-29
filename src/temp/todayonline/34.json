@@ -1,0 +1,321 @@
+{
+    "text": " Congressman, I'm here to discard TikTok and what we do as a platform. And as a platform, we allow our users to freely express their views on this issue and any other issue that matters to them.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " Congressman, I'm here to discard TikTok and what we do as a platform.",
+            "tokens": [
+                50364,
+                38071,
+                11,
+                286,
+                478,
+                510,
+                281,
+                31597,
+                20211,
+                293,
+                437,
+                321,
+                360,
+                382,
+                257,
+                3663,
+                13,
+                50529
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36037682513801417,
+            "compression_ratio": 1.4087591240875912,
+            "no_speech_prob": 0.009316453710198402,
+            "words": [
+                {
+                    "word": " Congressman,",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.2724974453449249
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.54,
+                    "end": 0.64,
+                    "probability": 0.979302704334259
+                },
+                {
+                    "word": " here",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.7905528545379639
+                },
+                {
+                    "word": " to",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9094337821006775
+                },
+                {
+                    "word": " discard",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.6161360144615173
+                },
+                {
+                    "word": " TikTok",
+                    "start": 1.36,
+                    "end": 1.8,
+                    "probability": 0.4348354935646057
+                },
+                {
+                    "word": " and",
+                    "start": 1.8,
+                    "end": 2.14,
+                    "probability": 0.8085373640060425
+                },
+                {
+                    "word": " what",
+                    "start": 2.14,
+                    "end": 2.24,
+                    "probability": 0.8849194645881653
+                },
+                {
+                    "word": " we",
+                    "start": 2.24,
+                    "end": 2.38,
+                    "probability": 0.9114564061164856
+                },
+                {
+                    "word": " do",
+                    "start": 2.38,
+                    "end": 2.56,
+                    "probability": 0.9089663624763489
+                },
+                {
+                    "word": " as",
+                    "start": 2.56,
+                    "end": 2.72,
+                    "probability": 0.8920625448226929
+                },
+                {
+                    "word": " a",
+                    "start": 2.72,
+                    "end": 2.82,
+                    "probability": 0.9985961318016052
+                },
+                {
+                    "word": " platform.",
+                    "start": 2.82,
+                    "end": 3.22,
+                    "probability": 0.8461750745773315
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.38,
+            "end": 7.2,
+            "text": " And as a platform, we allow our users to freely express their views on this issue and any",
+            "tokens": [
+                50529,
+                400,
+                382,
+                257,
+                3663,
+                11,
+                321,
+                2089,
+                527,
+                5022,
+                281,
+                16433,
+                5109,
+                641,
+                6809,
+                322,
+                341,
+                2734,
+                293,
+                604,
+                50722
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36037682513801417,
+            "compression_ratio": 1.4087591240875912,
+            "no_speech_prob": 0.009316453710198402,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 3.38,
+                    "end": 3.48,
+                    "probability": 0.7555608153343201
+                },
+                {
+                    "word": " as",
+                    "start": 3.48,
+                    "end": 3.62,
+                    "probability": 0.8627169132232666
+                },
+                {
+                    "word": " a",
+                    "start": 3.62,
+                    "end": 3.7,
+                    "probability": 0.9969660639762878
+                },
+                {
+                    "word": " platform,",
+                    "start": 3.7,
+                    "end": 3.98,
+                    "probability": 0.8556063175201416
+                },
+                {
+                    "word": " we",
+                    "start": 4.14,
+                    "end": 4.18,
+                    "probability": 0.9035850763320923
+                },
+                {
+                    "word": " allow",
+                    "start": 4.18,
+                    "end": 4.38,
+                    "probability": 0.8860441446304321
+                },
+                {
+                    "word": " our",
+                    "start": 4.38,
+                    "end": 4.56,
+                    "probability": 0.622984766960144
+                },
+                {
+                    "word": " users",
+                    "start": 4.56,
+                    "end": 4.8,
+                    "probability": 0.8337377905845642
+                },
+                {
+                    "word": " to",
+                    "start": 4.8,
+                    "end": 5.06,
+                    "probability": 0.8990780115127563
+                },
+                {
+                    "word": " freely",
+                    "start": 5.06,
+                    "end": 5.32,
+                    "probability": 0.8891499638557434
+                },
+                {
+                    "word": " express",
+                    "start": 5.32,
+                    "end": 5.7,
+                    "probability": 0.8435961604118347
+                },
+                {
+                    "word": " their",
+                    "start": 5.7,
+                    "end": 5.9,
+                    "probability": 0.37271061539649963
+                },
+                {
+                    "word": " views",
+                    "start": 5.9,
+                    "end": 6.1,
+                    "probability": 0.7243236899375916
+                },
+                {
+                    "word": " on",
+                    "start": 6.1,
+                    "end": 6.26,
+                    "probability": 0.8736616969108582
+                },
+                {
+                    "word": " this",
+                    "start": 6.26,
+                    "end": 6.48,
+                    "probability": 0.8716504573822021
+                },
+                {
+                    "word": " issue",
+                    "start": 6.48,
+                    "end": 6.74,
+                    "probability": 0.8491358757019043
+                },
+                {
+                    "word": " and",
+                    "start": 6.74,
+                    "end": 7.02,
+                    "probability": 0.5820592045783997
+                },
+                {
+                    "word": " any",
+                    "start": 7.02,
+                    "end": 7.2,
+                    "probability": 0.8125681281089783
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.2,
+            "end": 8.32,
+            "text": " other issue that matters to them.",
+            "tokens": [
+                50722,
+                661,
+                2734,
+                300,
+                7001,
+                281,
+                552,
+                13,
+                50780
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36037682513801417,
+            "compression_ratio": 1.4087591240875912,
+            "no_speech_prob": 0.009316453710198402,
+            "words": [
+                {
+                    "word": " other",
+                    "start": 7.2,
+                    "end": 7.4,
+                    "probability": 0.7690967917442322
+                },
+                {
+                    "word": " issue",
+                    "start": 7.4,
+                    "end": 7.68,
+                    "probability": 0.7185910940170288
+                },
+                {
+                    "word": " that",
+                    "start": 7.68,
+                    "end": 7.82,
+                    "probability": 0.8648023009300232
+                },
+                {
+                    "word": " matters",
+                    "start": 7.82,
+                    "end": 8.04,
+                    "probability": 0.7451489567756653
+                },
+                {
+                    "word": " to",
+                    "start": 8.04,
+                    "end": 8.18,
+                    "probability": 0.9048555493354797
+                },
+                {
+                    "word": " them.",
+                    "start": 8.18,
+                    "end": 8.32,
+                    "probability": 0.7341443300247192
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

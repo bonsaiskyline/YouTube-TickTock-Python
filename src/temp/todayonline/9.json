@@ -1,0 +1,461 @@
+{
+    "text": " We do not collect body, face or voice data to identify our users. We do not. You don't? No. The only face data that you get, that we collect, is when you use the filters to have sunglasses on your face, we need to know where your eyes are.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.78,
+            "text": " We do not collect body, face or voice data to identify our users.",
+            "tokens": [
+                50364,
+                492,
+                360,
+                406,
+                2500,
+                1772,
+                11,
+                1851,
+                420,
+                3177,
+                1412,
+                281,
+                5876,
+                527,
+                5022,
+                13,
+                50626
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3083506160312229,
+            "compression_ratio": 1.5126582278481013,
+            "no_speech_prob": 0.0020025053527206182,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6156169772148132
+                },
+                {
+                    "word": " do",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.8352752923965454
+                },
+                {
+                    "word": " not",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9025999903678894
+                },
+                {
+                    "word": " collect",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.8377763032913208
+                },
+                {
+                    "word": " body,",
+                    "start": 0.86,
+                    "end": 1.28,
+                    "probability": 0.7256152629852295
+                },
+                {
+                    "word": " face",
+                    "start": 1.54,
+                    "end": 1.84,
+                    "probability": 0.8221742510795593
+                },
+                {
+                    "word": " or",
+                    "start": 1.84,
+                    "end": 2.0,
+                    "probability": 0.5111868977546692
+                },
+                {
+                    "word": " voice",
+                    "start": 2.0,
+                    "end": 2.24,
+                    "probability": 0.8350974917411804
+                },
+                {
+                    "word": " data",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.8109802007675171
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 2.7,
+                    "probability": 0.8791216611862183
+                },
+                {
+                    "word": " identify",
+                    "start": 2.7,
+                    "end": 3.22,
+                    "probability": 0.911221444606781
+                },
+                {
+                    "word": " our",
+                    "start": 3.22,
+                    "end": 3.46,
+                    "probability": 0.7223962545394897
+                },
+                {
+                    "word": " users.",
+                    "start": 3.46,
+                    "end": 3.78,
+                    "probability": 0.8455867767333984
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.12,
+            "end": 5.64,
+            "text": " We do not.",
+            "tokens": [
+                50626,
+                492,
+                360,
+                406,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3083506160312229,
+            "compression_ratio": 1.5126582278481013,
+            "no_speech_prob": 0.0020025053527206182,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.12,
+                    "end": 5.3,
+                    "probability": 0.7343282103538513
+                },
+                {
+                    "word": " do",
+                    "start": 5.3,
+                    "end": 5.42,
+                    "probability": 0.8862656354904175
+                },
+                {
+                    "word": " not.",
+                    "start": 5.42,
+                    "end": 5.64,
+                    "probability": 0.898192822933197
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.58,
+            "end": 7.76,
+            "text": " You don't?",
+            "tokens": [
+                50676,
+                509,
+                500,
+                380,
+                30,
+                50726
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3083506160312229,
+            "compression_ratio": 1.5126582278481013,
+            "no_speech_prob": 0.0020025053527206182,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 6.58,
+                    "end": 7.06,
+                    "probability": 0.3181280493736267
+                },
+                {
+                    "word": " don't?",
+                    "start": 7.06,
+                    "end": 7.76,
+                    "probability": 0.9371486306190491
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.12,
+            "end": 8.54,
+            "text": " No.",
+            "tokens": [
+                50726,
+                883,
+                13,
+                50776
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3083506160312229,
+            "compression_ratio": 1.5126582278481013,
+            "no_speech_prob": 0.0020025053527206182,
+            "words": [
+                {
+                    "word": " No.",
+                    "start": 8.12,
+                    "end": 8.54,
+                    "probability": 0.805983304977417
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.74,
+            "end": 13.44,
+            "text": " The only face data that you get, that we collect, is when you use the filters to have sunglasses",
+            "tokens": [
+                50776,
+                440,
+                787,
+                1851,
+                1412,
+                300,
+                291,
+                483,
+                11,
+                300,
+                321,
+                2500,
+                11,
+                307,
+                562,
+                291,
+                764,
+                264,
+                15995,
+                281,
+                362,
+                28675,
+                51046
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3083506160312229,
+            "compression_ratio": 1.5126582278481013,
+            "no_speech_prob": 0.0020025053527206182,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 8.74,
+                    "end": 8.86,
+                    "probability": 0.7912782430648804
+                },
+                {
+                    "word": " only",
+                    "start": 8.86,
+                    "end": 9.02,
+                    "probability": 0.8613401651382446
+                },
+                {
+                    "word": " face",
+                    "start": 9.02,
+                    "end": 9.32,
+                    "probability": 0.8062576651573181
+                },
+                {
+                    "word": " data",
+                    "start": 9.32,
+                    "end": 9.58,
+                    "probability": 0.8022860884666443
+                },
+                {
+                    "word": " that",
+                    "start": 9.58,
+                    "end": 9.74,
+                    "probability": 0.6196755766868591
+                },
+                {
+                    "word": " you",
+                    "start": 9.74,
+                    "end": 9.86,
+                    "probability": 0.4835057556629181
+                },
+                {
+                    "word": " get,",
+                    "start": 9.86,
+                    "end": 10.16,
+                    "probability": 0.40273889899253845
+                },
+                {
+                    "word": " that",
+                    "start": 10.26,
+                    "end": 10.34,
+                    "probability": 0.8382917642593384
+                },
+                {
+                    "word": " we",
+                    "start": 10.34,
+                    "end": 10.48,
+                    "probability": 0.9039503931999207
+                },
+                {
+                    "word": " collect,",
+                    "start": 10.48,
+                    "end": 10.9,
+                    "probability": 0.7965719103813171
+                },
+                {
+                    "word": " is",
+                    "start": 11.0,
+                    "end": 11.18,
+                    "probability": 0.8729295134544373
+                },
+                {
+                    "word": " when",
+                    "start": 11.18,
+                    "end": 11.46,
+                    "probability": 0.8670353889465332
+                },
+                {
+                    "word": " you",
+                    "start": 11.46,
+                    "end": 11.6,
+                    "probability": 0.891842782497406
+                },
+                {
+                    "word": " use",
+                    "start": 11.6,
+                    "end": 11.86,
+                    "probability": 0.8009732365608215
+                },
+                {
+                    "word": " the",
+                    "start": 11.86,
+                    "end": 12.02,
+                    "probability": 0.7996084690093994
+                },
+                {
+                    "word": " filters",
+                    "start": 12.02,
+                    "end": 12.32,
+                    "probability": 0.8303179740905762
+                },
+                {
+                    "word": " to",
+                    "start": 12.32,
+                    "end": 12.52,
+                    "probability": 0.8830777406692505
+                },
+                {
+                    "word": " have",
+                    "start": 12.52,
+                    "end": 12.72,
+                    "probability": 0.8296401500701904
+                },
+                {
+                    "word": " sunglasses",
+                    "start": 12.72,
+                    "end": 13.44,
+                    "probability": 0.5876656174659729
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.44,
+            "end": 15.24,
+            "text": " on your face, we need to know where your eyes are.",
+            "tokens": [
+                51046,
+                322,
+                428,
+                1851,
+                11,
+                321,
+                643,
+                281,
+                458,
+                689,
+                428,
+                2575,
+                366,
+                13,
+                51128
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3083506160312229,
+            "compression_ratio": 1.5126582278481013,
+            "no_speech_prob": 0.0020025053527206182,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 13.44,
+                    "end": 13.8,
+                    "probability": 0.8862287402153015
+                },
+                {
+                    "word": " your",
+                    "start": 13.8,
+                    "end": 13.88,
+                    "probability": 0.7974997758865356
+                },
+                {
+                    "word": " face,",
+                    "start": 13.88,
+                    "end": 14.1,
+                    "probability": 0.8084372282028198
+                },
+                {
+                    "word": " we",
+                    "start": 14.18,
+                    "end": 14.26,
+                    "probability": 0.8664249777793884
+                },
+                {
+                    "word": " need",
+                    "start": 14.26,
+                    "end": 14.4,
+                    "probability": 0.8015086650848389
+                },
+                {
+                    "word": " to",
+                    "start": 14.4,
+                    "end": 14.5,
+                    "probability": 0.9034213423728943
+                },
+                {
+                    "word": " know",
+                    "start": 14.5,
+                    "end": 14.6,
+                    "probability": 0.8169008493423462
+                },
+                {
+                    "word": " where",
+                    "start": 14.6,
+                    "end": 14.72,
+                    "probability": 0.8609114289283752
+                },
+                {
+                    "word": " your",
+                    "start": 14.72,
+                    "end": 14.84,
+                    "probability": 0.7955084443092346
+                },
+                {
+                    "word": " eyes",
+                    "start": 14.84,
+                    "end": 15.06,
+                    "probability": 0.8348560929298401
+                },
+                {
+                    "word": " are.",
+                    "start": 15.06,
+                    "end": 15.24,
+                    "probability": 0.8927064538002014
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

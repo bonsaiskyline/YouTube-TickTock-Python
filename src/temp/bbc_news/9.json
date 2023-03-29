@@ -1,0 +1,236 @@
+{
+    "text": " On Wednesday, TikTok gathered a group of influencers to protest the Biden administration's threat to ban the app unless it divests from its Chinese owners.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " On Wednesday, TikTok gathered a group of influencers",
+            "tokens": [
+                50364,
+                1282,
+                10579,
+                11,
+                20211,
+                13032,
+                257,
+                1594,
+                295,
+                38646,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26129738489786786,
+            "compression_ratio": 1.220472440944882,
+            "no_speech_prob": 0.005474685691297054,
+            "words": [
+                {
+                    "word": " On",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7617039084434509
+                },
+                {
+                    "word": " Wednesday,",
+                    "start": 0.16,
+                    "end": 0.58,
+                    "probability": 0.9237325191497803
+                },
+                {
+                    "word": " TikTok",
+                    "start": 0.82,
+                    "end": 1.1,
+                    "probability": 0.8020071983337402
+                },
+                {
+                    "word": " gathered",
+                    "start": 1.1,
+                    "end": 1.74,
+                    "probability": 0.6269207000732422
+                },
+                {
+                    "word": " a",
+                    "start": 1.74,
+                    "end": 1.96,
+                    "probability": 0.9925766587257385
+                },
+                {
+                    "word": " group",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.8679218888282776
+                },
+                {
+                    "word": " of",
+                    "start": 2.16,
+                    "end": 2.32,
+                    "probability": 0.9030728936195374
+                },
+                {
+                    "word": " influencers",
+                    "start": 2.32,
+                    "end": 2.88,
+                    "probability": 0.837801992893219
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.88,
+            "end": 5.02,
+            "text": " to protest the Biden administration's threat",
+            "tokens": [
+                50514,
+                281,
+                11281,
+                264,
+                9877,
+                7236,
+                311,
+                4734,
+                50616
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26129738489786786,
+            "compression_ratio": 1.220472440944882,
+            "no_speech_prob": 0.005474685691297054,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 2.88,
+                    "end": 3.14,
+                    "probability": 0.8966953158378601
+                },
+                {
+                    "word": " protest",
+                    "start": 3.14,
+                    "end": 3.48,
+                    "probability": 0.7755740880966187
+                },
+                {
+                    "word": " the",
+                    "start": 3.48,
+                    "end": 3.66,
+                    "probability": 0.8119145631790161
+                },
+                {
+                    "word": " Biden",
+                    "start": 3.66,
+                    "end": 3.9,
+                    "probability": 0.9193779230117798
+                },
+                {
+                    "word": " administration's",
+                    "start": 3.9,
+                    "end": 4.78,
+                    "probability": 0.8779846429824829
+                },
+                {
+                    "word": " threat",
+                    "start": 4.78,
+                    "end": 5.02,
+                    "probability": 0.84475177526474
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.02,
+            "end": 8.56,
+            "text": " to ban the app unless it divests from its Chinese owners.",
+            "tokens": [
+                50616,
+                281,
+                5643,
+                264,
+                724,
+                5969,
+                309,
+                3414,
+                4409,
+                490,
+                1080,
+                4649,
+                7710,
+                13,
+                50850
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26129738489786786,
+            "compression_ratio": 1.220472440944882,
+            "no_speech_prob": 0.005474685691297054,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 5.02,
+                    "end": 5.2,
+                    "probability": 0.9053583741188049
+                },
+                {
+                    "word": " ban",
+                    "start": 5.2,
+                    "end": 5.44,
+                    "probability": 0.8934652805328369
+                },
+                {
+                    "word": " the",
+                    "start": 5.44,
+                    "end": 5.58,
+                    "probability": 0.8140544295310974
+                },
+                {
+                    "word": " app",
+                    "start": 5.58,
+                    "end": 5.84,
+                    "probability": 0.8543374538421631
+                },
+                {
+                    "word": " unless",
+                    "start": 5.84,
+                    "end": 6.38,
+                    "probability": 0.5228714346885681
+                },
+                {
+                    "word": " it",
+                    "start": 6.38,
+                    "end": 6.6,
+                    "probability": 0.9094930291175842
+                },
+                {
+                    "word": " divests",
+                    "start": 6.6,
+                    "end": 7.16,
+                    "probability": 0.9027668237686157
+                },
+                {
+                    "word": " from",
+                    "start": 7.16,
+                    "end": 7.4,
+                    "probability": 0.8253288865089417
+                },
+                {
+                    "word": " its",
+                    "start": 7.4,
+                    "end": 7.58,
+                    "probability": 0.7934721112251282
+                },
+                {
+                    "word": " Chinese",
+                    "start": 7.58,
+                    "end": 8.06,
+                    "probability": 0.7868136167526245
+                },
+                {
+                    "word": " owners.",
+                    "start": 8.06,
+                    "end": 8.56,
+                    "probability": 0.7503365278244019
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

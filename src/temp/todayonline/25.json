@@ -1,0 +1,38 @@
+{
+    "text": " Very serious.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.34,
+            "text": " Very serious.",
+            "tokens": [
+                50364,
+                4372,
+                3156,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137249310811361,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.7347061038017273,
+            "words": [
+                {
+                    "word": " Very",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.13245265185832977
+                },
+                {
+                    "word": " serious.",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.8213968276977539
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

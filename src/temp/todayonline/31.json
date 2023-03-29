@@ -1,0 +1,244 @@
+{
+    "text": " get all sorts of content out of that stuff. That's not my question. My question is, do you agree that the Chinese government has persecuted the Uyghur population?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " get all sorts of content out of that stuff.",
+            "tokens": [
+                50364,
+                483,
+                439,
+                7527,
+                295,
+                2701,
+                484,
+                295,
+                300,
+                1507,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40671102012076027,
+            "compression_ratio": 1.296,
+            "no_speech_prob": 0.04838048294186592,
+            "words": [
+                {
+                    "word": " get",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.26458683609962463
+                },
+                {
+                    "word": " all",
+                    "start": 0.28,
+                    "end": 0.68,
+                    "probability": 0.8708719611167908
+                },
+                {
+                    "word": " sorts",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.7351174354553223
+                },
+                {
+                    "word": " of",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.8892310261726379
+                },
+                {
+                    "word": " content",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.445497065782547
+                },
+                {
+                    "word": " out",
+                    "start": 1.4,
+                    "end": 1.44,
+                    "probability": 0.49008896946907043
+                },
+                {
+                    "word": " of",
+                    "start": 1.44,
+                    "end": 1.44,
+                    "probability": 0.8711580038070679
+                },
+                {
+                    "word": " that",
+                    "start": 1.44,
+                    "end": 1.44,
+                    "probability": 0.3452524244785309
+                },
+                {
+                    "word": " stuff.",
+                    "start": 1.44,
+                    "end": 1.44,
+                    "probability": 0.6213095188140869
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.46,
+            "end": 7.86,
+            "text": " That's not my question. My question is, do you agree that the Chinese government has persecuted the Uyghur population?",
+            "tokens": [
+                50464,
+                663,
+                311,
+                406,
+                452,
+                1168,
+                13,
+                1222,
+                1168,
+                307,
+                11,
+                360,
+                291,
+                3986,
+                300,
+                264,
+                4649,
+                2463,
+                575,
+                49903,
+                264,
+                624,
+                88,
+                9030,
+                374,
+                4415,
+                30,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40671102012076027,
+            "compression_ratio": 1.296,
+            "no_speech_prob": 0.04838048294186592,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 1.46,
+                    "end": 1.46,
+                    "probability": 0.7360625267028809
+                },
+                {
+                    "word": " not",
+                    "start": 1.46,
+                    "end": 1.46,
+                    "probability": 0.8981742262840271
+                },
+                {
+                    "word": " my",
+                    "start": 1.46,
+                    "end": 1.46,
+                    "probability": 0.8866694569587708
+                },
+                {
+                    "word": " question.",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.7998132705688477
+                },
+                {
+                    "word": " My",
+                    "start": 2.06,
+                    "end": 2.22,
+                    "probability": 0.8962138295173645
+                },
+                {
+                    "word": " question",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.8049449324607849
+                },
+                {
+                    "word": " is,",
+                    "start": 2.66,
+                    "end": 2.96,
+                    "probability": 0.9036207795143127
+                },
+                {
+                    "word": " do",
+                    "start": 3.08,
+                    "end": 3.22,
+                    "probability": 0.8745445609092712
+                },
+                {
+                    "word": " you",
+                    "start": 3.22,
+                    "end": 3.4,
+                    "probability": 0.8984254002571106
+                },
+                {
+                    "word": " agree",
+                    "start": 3.4,
+                    "end": 3.96,
+                    "probability": 0.8738014101982117
+                },
+                {
+                    "word": " that",
+                    "start": 3.96,
+                    "end": 4.68,
+                    "probability": 0.8753954172134399
+                },
+                {
+                    "word": " the",
+                    "start": 4.68,
+                    "end": 4.84,
+                    "probability": 0.8117787837982178
+                },
+                {
+                    "word": " Chinese",
+                    "start": 4.84,
+                    "end": 5.28,
+                    "probability": 0.7818047404289246
+                },
+                {
+                    "word": " government",
+                    "start": 5.28,
+                    "end": 5.74,
+                    "probability": 0.8118422031402588
+                },
+                {
+                    "word": " has",
+                    "start": 5.74,
+                    "end": 6.12,
+                    "probability": 0.8980000019073486
+                },
+                {
+                    "word": " persecuted",
+                    "start": 6.12,
+                    "end": 6.78,
+                    "probability": 0.7781956195831299
+                },
+                {
+                    "word": " the",
+                    "start": 6.78,
+                    "end": 7.08,
+                    "probability": 0.8155561089515686
+                },
+                {
+                    "word": " Uyghur",
+                    "start": 7.08,
+                    "end": 7.38,
+                    "probability": 0.8997859060764313
+                },
+                {
+                    "word": " population?",
+                    "start": 7.38,
+                    "end": 7.86,
+                    "probability": 0.8718520998954773
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " How important is TikTok to American consumers and American businesses?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "text": " How important is TikTok to American consumers and American businesses?",
+            "tokens": [
+                50364,
+                1012,
+                1021,
+                307,
+                20211,
+                281,
+                2665,
+                11883,
+                293,
+                2665,
+                6011,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2759432962962559,
+            "compression_ratio": 1.0294117647058822,
+            "no_speech_prob": 0.012858323752880096,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.817376971244812
+                },
+                {
+                    "word": " important",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.7807919979095459
+                },
+                {
+                    "word": " is",
+                    "start": 0.72,
+                    "end": 1.12,
+                    "probability": 0.9067453742027283
+                },
+                {
+                    "word": " TikTok",
+                    "start": 1.12,
+                    "end": 1.5,
+                    "probability": 0.7641019821166992
+                },
+                {
+                    "word": " to",
+                    "start": 1.5,
+                    "end": 2.02,
+                    "probability": 0.9089876413345337
+                },
+                {
+                    "word": " American",
+                    "start": 2.02,
+                    "end": 2.62,
+                    "probability": 0.805923581123352
+                },
+                {
+                    "word": " consumers",
+                    "start": 2.62,
+                    "end": 3.28,
+                    "probability": 0.8801008462905884
+                },
+                {
+                    "word": " and",
+                    "start": 3.28,
+                    "end": 3.56,
+                    "probability": 0.881605327129364
+                },
+                {
+                    "word": " American",
+                    "start": 3.56,
+                    "end": 3.9,
+                    "probability": 0.7844784259796143
+                },
+                {
+                    "word": " businesses?",
+                    "start": 3.9,
+                    "end": 4.36,
+                    "probability": 0.8131387233734131
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

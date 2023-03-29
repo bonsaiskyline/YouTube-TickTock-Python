@@ -1,0 +1,174 @@
+{
+    "text": " And if you thought it was as simple as getting a VPN and jumping back on the app, well, it's not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " And if you thought it was as simple as getting a VPN and jumping back on the app, well, it's not.",
+            "tokens": [
+                50364,
+                400,
+                498,
+                291,
+                1194,
+                309,
+                390,
+                382,
+                2199,
+                382,
+                1242,
+                257,
+                24512,
+                293,
+                11233,
+                646,
+                322,
+                264,
+                724,
+                11,
+                731,
+                11,
+                309,
+                311,
+                406,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25467044966561453,
+            "compression_ratio": 1.0543478260869565,
+            "no_speech_prob": 0.004263950511813164,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6280089616775513
+                },
+                {
+                    "word": " if",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.8962600827217102
+                },
+                {
+                    "word": " you",
+                    "start": 0.26,
+                    "end": 0.36,
+                    "probability": 0.8979759216308594
+                },
+                {
+                    "word": " thought",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.8295378088951111
+                },
+                {
+                    "word": " it",
+                    "start": 0.5,
+                    "end": 0.56,
+                    "probability": 0.890074610710144
+                },
+                {
+                    "word": " was",
+                    "start": 0.56,
+                    "end": 0.68,
+                    "probability": 0.8861199617385864
+                },
+                {
+                    "word": " as",
+                    "start": 0.68,
+                    "end": 0.78,
+                    "probability": 0.8542649745941162
+                },
+                {
+                    "word": " simple",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.8939687013626099
+                },
+                {
+                    "word": " as",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9057071208953857
+                },
+                {
+                    "word": " getting",
+                    "start": 1.2,
+                    "end": 1.36,
+                    "probability": 0.9027112126350403
+                },
+                {
+                    "word": " a",
+                    "start": 1.36,
+                    "end": 1.46,
+                    "probability": 0.9902902245521545
+                },
+                {
+                    "word": " VPN",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.9295478463172913
+                },
+                {
+                    "word": " and",
+                    "start": 1.7,
+                    "end": 1.9,
+                    "probability": 0.881334125995636
+                },
+                {
+                    "word": " jumping",
+                    "start": 1.9,
+                    "end": 2.12,
+                    "probability": 0.7233928442001343
+                },
+                {
+                    "word": " back",
+                    "start": 2.12,
+                    "end": 2.36,
+                    "probability": 0.8103914260864258
+                },
+                {
+                    "word": " on",
+                    "start": 2.36,
+                    "end": 2.5,
+                    "probability": 0.888022780418396
+                },
+                {
+                    "word": " the",
+                    "start": 2.5,
+                    "end": 2.6,
+                    "probability": 0.8181134462356567
+                },
+                {
+                    "word": " app,",
+                    "start": 2.6,
+                    "end": 2.8,
+                    "probability": 0.8909457325935364
+                },
+                {
+                    "word": " well,",
+                    "start": 2.92,
+                    "end": 3.1,
+                    "probability": 0.8787276148796082
+                },
+                {
+                    "word": " it's",
+                    "start": 3.5,
+                    "end": 3.76,
+                    "probability": 0.945842444896698
+                },
+                {
+                    "word": " not.",
+                    "start": 3.76,
+                    "end": 3.98,
+                    "probability": 0.8948139548301697
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

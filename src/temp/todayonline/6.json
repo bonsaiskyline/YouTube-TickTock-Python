@@ -1,0 +1,123 @@
+{
+    "text": " Data is stored here in American soil by an American company overseen by American...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " Data is stored here in American soil by an American company overseen by American...",
+            "tokens": [
+                50364,
+                11888,
+                307,
+                12187,
+                510,
+                294,
+                2665,
+                6704,
+                538,
+                364,
+                2665,
+                2237,
+                11916,
+                268,
+                538,
+                2665,
+                485,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5191089730513724,
+            "compression_ratio": 1.1527777777777777,
+            "no_speech_prob": 0.14875896275043488,
+            "words": [
+                {
+                    "word": " Data",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.047448400408029556
+                },
+                {
+                    "word": " is",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.8868958950042725
+                },
+                {
+                    "word": " stored",
+                    "start": 0.52,
+                    "end": 0.72,
+                    "probability": 0.7181921601295471
+                },
+                {
+                    "word": " here",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.8099889159202576
+                },
+                {
+                    "word": " in",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.6629163026809692
+                },
+                {
+                    "word": " American",
+                    "start": 1.5,
+                    "end": 1.8,
+                    "probability": 0.7906866073608398
+                },
+                {
+                    "word": " soil",
+                    "start": 1.8,
+                    "end": 2.26,
+                    "probability": 0.8946307301521301
+                },
+                {
+                    "word": " by",
+                    "start": 2.26,
+                    "end": 2.84,
+                    "probability": 0.7772494554519653
+                },
+                {
+                    "word": " an",
+                    "start": 2.84,
+                    "end": 2.98,
+                    "probability": 0.9016608595848083
+                },
+                {
+                    "word": " American",
+                    "start": 2.98,
+                    "end": 3.28,
+                    "probability": 0.7993563413619995
+                },
+                {
+                    "word": " company",
+                    "start": 3.28,
+                    "end": 3.84,
+                    "probability": 0.6039038896560669
+                },
+                {
+                    "word": " overseen",
+                    "start": 3.84,
+                    "end": 4.36,
+                    "probability": 0.7917916178703308
+                },
+                {
+                    "word": " by",
+                    "start": 4.36,
+                    "end": 4.5,
+                    "probability": 0.8991856575012207
+                },
+                {
+                    "word": " American...",
+                    "start": 4.5,
+                    "end": 4.84,
+                    "probability": 0.3986856937408447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

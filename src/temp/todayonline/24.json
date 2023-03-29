@@ -1,0 +1,236 @@
+{
+    "text": " We do take these issues very seriously. Yes or no? And we do provide resources for anyone who types in anything that is suicide-related.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5,
+            "end": 2.82,
+            "text": " We do take these issues very seriously.",
+            "tokens": [
+                50364,
+                492,
+                360,
+                747,
+                613,
+                2663,
+                588,
+                6638,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5846157603793674,
+            "compression_ratio": 1.2252252252252251,
+            "no_speech_prob": 0.16916407644748688,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.5,
+                    "end": 1.1,
+                    "probability": 0.2331041693687439
+                },
+                {
+                    "word": " do",
+                    "start": 1.1,
+                    "end": 1.42,
+                    "probability": 0.4243325889110565
+                },
+                {
+                    "word": " take",
+                    "start": 1.42,
+                    "end": 1.7,
+                    "probability": 0.8145584464073181
+                },
+                {
+                    "word": " these",
+                    "start": 1.7,
+                    "end": 1.92,
+                    "probability": 0.6896341443061829
+                },
+                {
+                    "word": " issues",
+                    "start": 1.92,
+                    "end": 2.2,
+                    "probability": 0.8490763902664185
+                },
+                {
+                    "word": " very",
+                    "start": 2.2,
+                    "end": 2.42,
+                    "probability": 0.7379878759384155
+                },
+                {
+                    "word": " seriously.",
+                    "start": 2.42,
+                    "end": 2.82,
+                    "probability": 0.5912628173828125
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.16,
+            "end": 3.76,
+            "text": " Yes or no?",
+            "tokens": [
+                50504,
+                1079,
+                420,
+                572,
+                30,
+                50554
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5846157603793674,
+            "compression_ratio": 1.2252252252252251,
+            "no_speech_prob": 0.16916407644748688,
+            "words": [
+                {
+                    "word": " Yes",
+                    "start": 3.16,
+                    "end": 3.26,
+                    "probability": 0.6044363975524902
+                },
+                {
+                    "word": " or",
+                    "start": 3.26,
+                    "end": 3.46,
+                    "probability": 0.8813114762306213
+                },
+                {
+                    "word": " no?",
+                    "start": 3.46,
+                    "end": 3.76,
+                    "probability": 0.8782173991203308
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.02,
+            "end": 8.7,
+            "text": " And we do provide resources for anyone who types in anything that is suicide-related.",
+            "tokens": [
+                50554,
+                400,
+                321,
+                360,
+                2893,
+                3593,
+                337,
+                2878,
+                567,
+                3467,
+                294,
+                1340,
+                300,
+                307,
+                12308,
+                12,
+                12004,
+                13,
+                50804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5846157603793674,
+            "compression_ratio": 1.2252252252252251,
+            "no_speech_prob": 0.16916407644748688,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 4.02,
+                    "end": 4.32,
+                    "probability": 0.7831017374992371
+                },
+                {
+                    "word": " we",
+                    "start": 4.32,
+                    "end": 4.44,
+                    "probability": 0.8991750478744507
+                },
+                {
+                    "word": " do",
+                    "start": 4.44,
+                    "end": 4.56,
+                    "probability": 0.9015190005302429
+                },
+                {
+                    "word": " provide",
+                    "start": 4.56,
+                    "end": 4.88,
+                    "probability": 0.9019760489463806
+                },
+                {
+                    "word": " resources",
+                    "start": 4.88,
+                    "end": 5.4,
+                    "probability": 0.778355062007904
+                },
+                {
+                    "word": " for",
+                    "start": 5.4,
+                    "end": 5.66,
+                    "probability": 0.8833714127540588
+                },
+                {
+                    "word": " anyone",
+                    "start": 5.66,
+                    "end": 6.0,
+                    "probability": 0.9031085968017578
+                },
+                {
+                    "word": " who",
+                    "start": 6.0,
+                    "end": 6.18,
+                    "probability": 0.7928047180175781
+                },
+                {
+                    "word": " types",
+                    "start": 6.18,
+                    "end": 6.52,
+                    "probability": 0.7362199425697327
+                },
+                {
+                    "word": " in",
+                    "start": 6.52,
+                    "end": 6.7,
+                    "probability": 0.9039333462715149
+                },
+                {
+                    "word": " anything",
+                    "start": 6.7,
+                    "end": 7.02,
+                    "probability": 0.8697646856307983
+                },
+                {
+                    "word": " that",
+                    "start": 7.02,
+                    "end": 7.32,
+                    "probability": 0.7504820823669434
+                },
+                {
+                    "word": " is",
+                    "start": 7.32,
+                    "end": 7.66,
+                    "probability": 0.09418459981679916
+                },
+                {
+                    "word": " suicide",
+                    "start": 7.66,
+                    "end": 8.34,
+                    "probability": 0.39967140555381775
+                },
+                {
+                    "word": "-related.",
+                    "start": 8.34,
+                    "end": 8.7,
+                    "probability": 0.3111317977309227
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

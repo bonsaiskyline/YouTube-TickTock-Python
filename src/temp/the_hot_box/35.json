@@ -1,0 +1,108 @@
+{
+    "text": " Does nobody know how to have an actual conversation in this committee?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.44,
+            "end": 3.52,
+            "text": " Does nobody know how to have an actual conversation in this committee?",
+            "tokens": [
+                50364,
+                4402,
+                5079,
+                458,
+                577,
+                281,
+                362,
+                364,
+                3539,
+                3761,
+                294,
+                341,
+                7482,
+                30,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.307517945766449,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.007390368264168501,
+            "words": [
+                {
+                    "word": " Does",
+                    "start": 0.44,
+                    "end": 0.84,
+                    "probability": 0.8083329200744629
+                },
+                {
+                    "word": " nobody",
+                    "start": 0.84,
+                    "end": 0.94,
+                    "probability": 0.8212010264396667
+                },
+                {
+                    "word": " know",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.8151533007621765
+                },
+                {
+                    "word": " how",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9068090915679932
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.52,
+                    "probability": 0.907220721244812
+                },
+                {
+                    "word": " have",
+                    "start": 1.52,
+                    "end": 1.66,
+                    "probability": 0.8873989582061768
+                },
+                {
+                    "word": " an",
+                    "start": 1.66,
+                    "end": 1.76,
+                    "probability": 0.9118971824645996
+                },
+                {
+                    "word": " actual",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.8145328760147095
+                },
+                {
+                    "word": " conversation",
+                    "start": 2.16,
+                    "end": 2.94,
+                    "probability": 0.8824664950370789
+                },
+                {
+                    "word": " in",
+                    "start": 2.94,
+                    "end": 3.14,
+                    "probability": 0.9018362164497375
+                },
+                {
+                    "word": " this",
+                    "start": 3.14,
+                    "end": 3.28,
+                    "probability": 0.8833116888999939
+                },
+                {
+                    "word": " committee?",
+                    "start": 3.28,
+                    "end": 3.52,
+                    "probability": 0.8076584339141846
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,614 @@
+{
+    "text": " It's becoming incredibly important. There is a lot of creators who have built their brands and built their businesses on tick tock and who would be severely impacted if the app were to be banned here. That said a lot of creators are prepared for the potential of a ban. They're already using other platforms. Many of them have set up small businesses so they do have other ways of reaching their customers and their audiences.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.04,
+            "text": " It's becoming incredibly important. There is a lot of creators who have built their brands and built their businesses on tick",
+            "tokens": [
+                50364,
+                467,
+                311,
+                5617,
+                6252,
+                1021,
+                13,
+                821,
+                307,
+                257,
+                688,
+                295,
+                16039,
+                567,
+                362,
+                3094,
+                641,
+                11324,
+                293,
+                3094,
+                641,
+                6011,
+                322,
+                5204,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21935042514595934,
+            "compression_ratio": 1.7459016393442623,
+            "no_speech_prob": 0.00024890658096410334,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8130247592926025
+                },
+                {
+                    "word": " becoming",
+                    "start": 0.28,
+                    "end": 0.68,
+                    "probability": 0.5277704000473022
+                },
+                {
+                    "word": " incredibly",
+                    "start": 0.68,
+                    "end": 1.14,
+                    "probability": 0.4838544726371765
+                },
+                {
+                    "word": " important.",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.765554666519165
+                },
+                {
+                    "word": " There",
+                    "start": 2.0,
+                    "end": 2.08,
+                    "probability": 0.7900148630142212
+                },
+                {
+                    "word": " is",
+                    "start": 2.08,
+                    "end": 2.24,
+                    "probability": 0.5829644203186035
+                },
+                {
+                    "word": " a",
+                    "start": 2.24,
+                    "end": 2.4,
+                    "probability": 0.9987775683403015
+                },
+                {
+                    "word": " lot",
+                    "start": 2.4,
+                    "end": 2.56,
+                    "probability": 0.896291196346283
+                },
+                {
+                    "word": " of",
+                    "start": 2.56,
+                    "end": 2.72,
+                    "probability": 0.9063950181007385
+                },
+                {
+                    "word": " creators",
+                    "start": 2.72,
+                    "end": 3.16,
+                    "probability": 0.8909921050071716
+                },
+                {
+                    "word": " who",
+                    "start": 3.16,
+                    "end": 3.96,
+                    "probability": 0.8187761306762695
+                },
+                {
+                    "word": " have",
+                    "start": 3.96,
+                    "end": 4.46,
+                    "probability": 0.8741148114204407
+                },
+                {
+                    "word": " built",
+                    "start": 4.46,
+                    "end": 4.78,
+                    "probability": 0.9349382519721985
+                },
+                {
+                    "word": " their",
+                    "start": 4.78,
+                    "end": 4.98,
+                    "probability": 0.9040330052375793
+                },
+                {
+                    "word": " brands",
+                    "start": 4.98,
+                    "end": 5.42,
+                    "probability": 0.7136390209197998
+                },
+                {
+                    "word": " and",
+                    "start": 5.42,
+                    "end": 5.58,
+                    "probability": 0.8958728909492493
+                },
+                {
+                    "word": " built",
+                    "start": 5.58,
+                    "end": 5.8,
+                    "probability": 0.8979960083961487
+                },
+                {
+                    "word": " their",
+                    "start": 5.8,
+                    "end": 5.96,
+                    "probability": 0.8997477889060974
+                },
+                {
+                    "word": " businesses",
+                    "start": 5.96,
+                    "end": 6.42,
+                    "probability": 0.8045575022697449
+                },
+                {
+                    "word": " on",
+                    "start": 6.42,
+                    "end": 6.82,
+                    "probability": 0.8962857127189636
+                },
+                {
+                    "word": " tick",
+                    "start": 6.82,
+                    "end": 7.04,
+                    "probability": 0.08985453844070435
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.04,
+            "end": 13.86,
+            "text": " tock and who would be severely impacted if the app were to be banned here. That said a lot of creators are prepared for the",
+            "tokens": [
+                50714,
+                281,
+                547,
+                293,
+                567,
+                576,
+                312,
+                26271,
+                15653,
+                498,
+                264,
+                724,
+                645,
+                281,
+                312,
+                19564,
+                510,
+                13,
+                663,
+                848,
+                257,
+                688,
+                295,
+                16039,
+                366,
+                4927,
+                337,
+                264,
+                51054
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21935042514595934,
+            "compression_ratio": 1.7459016393442623,
+            "no_speech_prob": 0.00024890658096410334,
+            "words": [
+                {
+                    "word": " tock",
+                    "start": 7.04,
+                    "end": 7.36,
+                    "probability": 0.8148922622203827
+                },
+                {
+                    "word": " and",
+                    "start": 7.36,
+                    "end": 7.56,
+                    "probability": 0.8433055281639099
+                },
+                {
+                    "word": " who",
+                    "start": 7.56,
+                    "end": 7.66,
+                    "probability": 0.7615658044815063
+                },
+                {
+                    "word": " would",
+                    "start": 7.66,
+                    "end": 7.78,
+                    "probability": 0.8406043648719788
+                },
+                {
+                    "word": " be",
+                    "start": 7.78,
+                    "end": 7.94,
+                    "probability": 0.9068481922149658
+                },
+                {
+                    "word": " severely",
+                    "start": 7.94,
+                    "end": 8.4,
+                    "probability": 0.7702542543411255
+                },
+                {
+                    "word": " impacted",
+                    "start": 8.4,
+                    "end": 9.04,
+                    "probability": 0.8057401180267334
+                },
+                {
+                    "word": " if",
+                    "start": 9.04,
+                    "end": 9.5,
+                    "probability": 0.8777499794960022
+                },
+                {
+                    "word": " the",
+                    "start": 9.5,
+                    "end": 9.66,
+                    "probability": 0.7805288434028625
+                },
+                {
+                    "word": " app",
+                    "start": 9.66,
+                    "end": 10.06,
+                    "probability": 0.6012583374977112
+                },
+                {
+                    "word": " were",
+                    "start": 10.06,
+                    "end": 10.2,
+                    "probability": 0.8600860834121704
+                },
+                {
+                    "word": " to",
+                    "start": 10.2,
+                    "end": 10.36,
+                    "probability": 0.9070847034454346
+                },
+                {
+                    "word": " be",
+                    "start": 10.36,
+                    "end": 10.52,
+                    "probability": 0.8991408348083496
+                },
+                {
+                    "word": " banned",
+                    "start": 10.52,
+                    "end": 10.82,
+                    "probability": 0.7006233334541321
+                },
+                {
+                    "word": " here.",
+                    "start": 10.82,
+                    "end": 11.12,
+                    "probability": 0.7912578582763672
+                },
+                {
+                    "word": " That",
+                    "start": 11.64,
+                    "end": 11.7,
+                    "probability": 0.810860812664032
+                },
+                {
+                    "word": " said",
+                    "start": 11.7,
+                    "end": 11.96,
+                    "probability": 0.7893579602241516
+                },
+                {
+                    "word": " a",
+                    "start": 11.96,
+                    "end": 12.16,
+                    "probability": 0.7587389349937439
+                },
+                {
+                    "word": " lot",
+                    "start": 12.16,
+                    "end": 12.3,
+                    "probability": 0.8920195698738098
+                },
+                {
+                    "word": " of",
+                    "start": 12.3,
+                    "end": 12.42,
+                    "probability": 0.9060121774673462
+                },
+                {
+                    "word": " creators",
+                    "start": 12.42,
+                    "end": 12.72,
+                    "probability": 0.8148382902145386
+                },
+                {
+                    "word": " are",
+                    "start": 12.72,
+                    "end": 13.06,
+                    "probability": 0.893353283405304
+                },
+                {
+                    "word": " prepared",
+                    "start": 13.06,
+                    "end": 13.5,
+                    "probability": 0.841866672039032
+                },
+                {
+                    "word": " for",
+                    "start": 13.5,
+                    "end": 13.72,
+                    "probability": 0.8980005979537964
+                },
+                {
+                    "word": " the",
+                    "start": 13.72,
+                    "end": 13.86,
+                    "probability": 0.8113004565238953
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.86,
+            "end": 20.28,
+            "text": " potential of a ban. They're already using other platforms. Many of them have set up small businesses so they do have other",
+            "tokens": [
+                51054,
+                3995,
+                295,
+                257,
+                5643,
+                13,
+                814,
+                434,
+                1217,
+                1228,
+                661,
+                9473,
+                13,
+                5126,
+                295,
+                552,
+                362,
+                992,
+                493,
+                1359,
+                6011,
+                370,
+                436,
+                360,
+                362,
+                661,
+                51378
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21935042514595934,
+            "compression_ratio": 1.7459016393442623,
+            "no_speech_prob": 0.00024890658096410334,
+            "words": [
+                {
+                    "word": " potential",
+                    "start": 13.86,
+                    "end": 14.22,
+                    "probability": 0.8736960291862488
+                },
+                {
+                    "word": " of",
+                    "start": 14.22,
+                    "end": 14.4,
+                    "probability": 0.8874809741973877
+                },
+                {
+                    "word": " a",
+                    "start": 14.4,
+                    "end": 14.48,
+                    "probability": 0.9268937110900879
+                },
+                {
+                    "word": " ban.",
+                    "start": 14.48,
+                    "end": 14.74,
+                    "probability": 0.6060619950294495
+                },
+                {
+                    "word": " They're",
+                    "start": 14.9,
+                    "end": 15.04,
+                    "probability": 0.8480410575866699
+                },
+                {
+                    "word": " already",
+                    "start": 15.04,
+                    "end": 15.46,
+                    "probability": 0.8265302181243896
+                },
+                {
+                    "word": " using",
+                    "start": 15.46,
+                    "end": 16.36,
+                    "probability": 0.8250566124916077
+                },
+                {
+                    "word": " other",
+                    "start": 16.36,
+                    "end": 16.76,
+                    "probability": 0.7760053277015686
+                },
+                {
+                    "word": " platforms.",
+                    "start": 16.76,
+                    "end": 17.32,
+                    "probability": 0.7431790232658386
+                },
+                {
+                    "word": " Many",
+                    "start": 17.6,
+                    "end": 17.72,
+                    "probability": 0.869091808795929
+                },
+                {
+                    "word": " of",
+                    "start": 17.72,
+                    "end": 17.86,
+                    "probability": 0.9050842523574829
+                },
+                {
+                    "word": " them",
+                    "start": 17.86,
+                    "end": 18.0,
+                    "probability": 0.7404248118400574
+                },
+                {
+                    "word": " have",
+                    "start": 18.0,
+                    "end": 18.16,
+                    "probability": 0.8824862241744995
+                },
+                {
+                    "word": " set",
+                    "start": 18.16,
+                    "end": 18.36,
+                    "probability": 0.8750244379043579
+                },
+                {
+                    "word": " up",
+                    "start": 18.36,
+                    "end": 18.5,
+                    "probability": 0.919492781162262
+                },
+                {
+                    "word": " small",
+                    "start": 18.5,
+                    "end": 18.78,
+                    "probability": 0.8551713228225708
+                },
+                {
+                    "word": " businesses",
+                    "start": 18.78,
+                    "end": 19.24,
+                    "probability": 0.807159423828125
+                },
+                {
+                    "word": " so",
+                    "start": 19.24,
+                    "end": 19.5,
+                    "probability": 0.6417911052703857
+                },
+                {
+                    "word": " they",
+                    "start": 19.5,
+                    "end": 19.66,
+                    "probability": 0.7430363893508911
+                },
+                {
+                    "word": " do",
+                    "start": 19.66,
+                    "end": 19.86,
+                    "probability": 0.9026134014129639
+                },
+                {
+                    "word": " have",
+                    "start": 19.86,
+                    "end": 20.04,
+                    "probability": 0.8754760026931763
+                },
+                {
+                    "word": " other",
+                    "start": 20.04,
+                    "end": 20.28,
+                    "probability": 0.7844969630241394
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.28,
+            "end": 23.68,
+            "text": " ways of reaching their customers and their audiences.",
+            "tokens": [
+                51378,
+                2098,
+                295,
+                9906,
+                641,
+                4581,
+                293,
+                641,
+                15479,
+                13,
+                51562
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21935042514595934,
+            "compression_ratio": 1.7459016393442623,
+            "no_speech_prob": 0.00024890658096410334,
+            "words": [
+                {
+                    "word": " ways",
+                    "start": 20.28,
+                    "end": 20.66,
+                    "probability": 0.8175415992736816
+                },
+                {
+                    "word": " of",
+                    "start": 20.66,
+                    "end": 20.88,
+                    "probability": 0.9010205864906311
+                },
+                {
+                    "word": " reaching",
+                    "start": 20.88,
+                    "end": 21.36,
+                    "probability": 0.7405359148979187
+                },
+                {
+                    "word": " their",
+                    "start": 21.36,
+                    "end": 22.16,
+                    "probability": 0.908656120300293
+                },
+                {
+                    "word": " customers",
+                    "start": 22.16,
+                    "end": 22.62,
+                    "probability": 0.7727819085121155
+                },
+                {
+                    "word": " and",
+                    "start": 22.62,
+                    "end": 23.04,
+                    "probability": 0.8924573063850403
+                },
+                {
+                    "word": " their",
+                    "start": 23.04,
+                    "end": 23.2,
+                    "probability": 0.8953983187675476
+                },
+                {
+                    "word": " audiences.",
+                    "start": 23.2,
+                    "end": 23.68,
+                    "probability": 0.8454465866088867
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

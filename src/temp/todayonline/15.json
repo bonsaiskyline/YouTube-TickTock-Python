@@ -1,0 +1,426 @@
+{
+    "text": " What percentage of TikTok's source code is the same as Dolan? What percentage? I can get back to you on the specifics. Okay, I'd appreciate that. Where was the source code for TikTok developed? Was it developed in China or in the United States?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " What percentage of TikTok's source code is the same as Dolan?",
+            "tokens": [
+                50364,
+                708,
+                9668,
+                295,
+                20211,
+                311,
+                4009,
+                3089,
+                307,
+                264,
+                912,
+                382,
+                18786,
+                282,
+                30,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3543011964257084,
+            "compression_ratio": 1.5061728395061729,
+            "no_speech_prob": 0.010293652303516865,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.3679908812046051
+                },
+                {
+                    "word": " percentage",
+                    "start": 0.34,
+                    "end": 0.8,
+                    "probability": 0.7014622688293457
+                },
+                {
+                    "word": " of",
+                    "start": 0.8,
+                    "end": 1.28,
+                    "probability": 0.8600079417228699
+                },
+                {
+                    "word": " TikTok's",
+                    "start": 1.28,
+                    "end": 2.16,
+                    "probability": 0.6344863474369049
+                },
+                {
+                    "word": " source",
+                    "start": 2.16,
+                    "end": 2.44,
+                    "probability": 0.7418796420097351
+                },
+                {
+                    "word": " code",
+                    "start": 2.44,
+                    "end": 2.76,
+                    "probability": 0.8210285305976868
+                },
+                {
+                    "word": " is",
+                    "start": 2.76,
+                    "end": 3.08,
+                    "probability": 0.9061131477355957
+                },
+                {
+                    "word": " the",
+                    "start": 3.08,
+                    "end": 3.3,
+                    "probability": 0.8119080662727356
+                },
+                {
+                    "word": " same",
+                    "start": 3.3,
+                    "end": 3.82,
+                    "probability": 0.816920280456543
+                },
+                {
+                    "word": " as",
+                    "start": 3.82,
+                    "end": 4.42,
+                    "probability": 0.9128091931343079
+                },
+                {
+                    "word": " Dolan?",
+                    "start": 4.42,
+                    "end": 4.92,
+                    "probability": 0.6003401130437851
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.7,
+            "end": 6.32,
+            "text": " What percentage?",
+            "tokens": [
+                50648,
+                708,
+                9668,
+                30,
+                50686
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3543011964257084,
+            "compression_ratio": 1.5061728395061729,
+            "no_speech_prob": 0.010293652303516865,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 5.7,
+                    "end": 5.88,
+                    "probability": 0.7627890110015869
+                },
+                {
+                    "word": " percentage?",
+                    "start": 5.88,
+                    "end": 6.32,
+                    "probability": 0.7701066136360168
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.56,
+            "end": 8.02,
+            "text": " I can get back to you on the specifics.",
+            "tokens": [
+                50690,
+                286,
+                393,
+                483,
+                646,
+                281,
+                291,
+                322,
+                264,
+                28454,
+                13,
+                50772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3543011964257084,
+            "compression_ratio": 1.5061728395061729,
+            "no_speech_prob": 0.010293652303516865,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 6.56,
+                    "end": 6.76,
+                    "probability": 0.9573731422424316
+                },
+                {
+                    "word": " can",
+                    "start": 6.76,
+                    "end": 6.94,
+                    "probability": 0.8917694687843323
+                },
+                {
+                    "word": " get",
+                    "start": 6.94,
+                    "end": 7.08,
+                    "probability": 0.8783395290374756
+                },
+                {
+                    "word": " back",
+                    "start": 7.08,
+                    "end": 7.22,
+                    "probability": 0.8176766633987427
+                },
+                {
+                    "word": " to",
+                    "start": 7.22,
+                    "end": 7.32,
+                    "probability": 0.9074661731719971
+                },
+                {
+                    "word": " you",
+                    "start": 7.32,
+                    "end": 7.4,
+                    "probability": 0.898037314414978
+                },
+                {
+                    "word": " on",
+                    "start": 7.4,
+                    "end": 7.48,
+                    "probability": 0.9104781150817871
+                },
+                {
+                    "word": " the",
+                    "start": 7.48,
+                    "end": 7.6,
+                    "probability": 0.8139323592185974
+                },
+                {
+                    "word": " specifics.",
+                    "start": 7.6,
+                    "end": 8.02,
+                    "probability": 0.7224168181419373
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.26,
+            "end": 9.64,
+            "text": " Okay, I'd appreciate that.",
+            "tokens": [
+                50772,
+                1033,
+                11,
+                286,
+                1116,
+                4449,
+                300,
+                13,
+                50846
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3543011964257084,
+            "compression_ratio": 1.5061728395061729,
+            "no_speech_prob": 0.010293652303516865,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 8.26,
+                    "end": 8.44,
+                    "probability": 0.6984981298446655
+                },
+                {
+                    "word": " I'd",
+                    "start": 8.66,
+                    "end": 8.9,
+                    "probability": 0.9793042838573456
+                },
+                {
+                    "word": " appreciate",
+                    "start": 8.9,
+                    "end": 9.12,
+                    "probability": 0.8506159782409668
+                },
+                {
+                    "word": " that.",
+                    "start": 9.12,
+                    "end": 9.64,
+                    "probability": 0.8813115358352661
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.78,
+            "end": 12.08,
+            "text": " Where was the source code for TikTok developed?",
+            "tokens": [
+                50846,
+                2305,
+                390,
+                264,
+                4009,
+                3089,
+                337,
+                20211,
+                4743,
+                30,
+                50970
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3543011964257084,
+            "compression_ratio": 1.5061728395061729,
+            "no_speech_prob": 0.010293652303516865,
+            "words": [
+                {
+                    "word": " Where",
+                    "start": 9.78,
+                    "end": 9.96,
+                    "probability": 0.7427066564559937
+                },
+                {
+                    "word": " was",
+                    "start": 9.96,
+                    "end": 10.2,
+                    "probability": 0.9031417369842529
+                },
+                {
+                    "word": " the",
+                    "start": 10.2,
+                    "end": 10.42,
+                    "probability": 0.8134199380874634
+                },
+                {
+                    "word": " source",
+                    "start": 10.42,
+                    "end": 10.7,
+                    "probability": 0.7260191440582275
+                },
+                {
+                    "word": " code",
+                    "start": 10.7,
+                    "end": 10.94,
+                    "probability": 0.8234976530075073
+                },
+                {
+                    "word": " for",
+                    "start": 10.94,
+                    "end": 11.14,
+                    "probability": 0.9059756398200989
+                },
+                {
+                    "word": " TikTok",
+                    "start": 11.14,
+                    "end": 11.46,
+                    "probability": 0.8934323787689209
+                },
+                {
+                    "word": " developed?",
+                    "start": 11.46,
+                    "end": 12.08,
+                    "probability": 0.6614322066307068
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 12.2,
+            "end": 14.4,
+            "text": " Was it developed in China or in the United States?",
+            "tokens": [
+                50970,
+                3027,
+                309,
+                4743,
+                294,
+                3533,
+                420,
+                294,
+                264,
+                2824,
+                3040,
+                30,
+                51084
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3543011964257084,
+            "compression_ratio": 1.5061728395061729,
+            "no_speech_prob": 0.010293652303516865,
+            "words": [
+                {
+                    "word": " Was",
+                    "start": 12.2,
+                    "end": 12.36,
+                    "probability": 0.9053090214729309
+                },
+                {
+                    "word": " it",
+                    "start": 12.36,
+                    "end": 12.48,
+                    "probability": 0.9019179344177246
+                },
+                {
+                    "word": " developed",
+                    "start": 12.48,
+                    "end": 12.82,
+                    "probability": 0.6645658612251282
+                },
+                {
+                    "word": " in",
+                    "start": 12.82,
+                    "end": 13.06,
+                    "probability": 0.9046666026115417
+                },
+                {
+                    "word": " China",
+                    "start": 13.06,
+                    "end": 13.38,
+                    "probability": 0.8633242249488831
+                },
+                {
+                    "word": " or",
+                    "start": 13.38,
+                    "end": 13.66,
+                    "probability": 0.813372790813446
+                },
+                {
+                    "word": " in",
+                    "start": 13.66,
+                    "end": 13.78,
+                    "probability": 0.8882065415382385
+                },
+                {
+                    "word": " the",
+                    "start": 13.78,
+                    "end": 13.86,
+                    "probability": 0.815609872341156
+                },
+                {
+                    "word": " United",
+                    "start": 13.86,
+                    "end": 14.06,
+                    "probability": 0.8815721869468689
+                },
+                {
+                    "word": " States?",
+                    "start": 14.06,
+                    "end": 14.4,
+                    "probability": 0.8779609799385071
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

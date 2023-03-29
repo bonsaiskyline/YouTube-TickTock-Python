@@ -1,0 +1,162 @@
+{
+    "text": " No, no, no, it's not industry. This is TikTok. We're talking about TikTok. We're talking about...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " No, no, no, it's not industry. This is TikTok.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                572,
+                11,
+                572,
+                11,
+                309,
+                311,
+                406,
+                3518,
+                13,
+                639,
+                307,
+                20211,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.586104977515436,
+            "compression_ratio": 1.3661971830985915,
+            "no_speech_prob": 0.12206263095140457,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.2899417281150818
+                },
+                {
+                    "word": " no,",
+                    "start": 0.34,
+                    "end": 0.34,
+                    "probability": 0.7830963730812073
+                },
+                {
+                    "word": " no,",
+                    "start": 0.4,
+                    "end": 0.48,
+                    "probability": 0.7435888648033142
+                },
+                {
+                    "word": " it's",
+                    "start": 0.54,
+                    "end": 0.66,
+                    "probability": 0.7736584842205048
+                },
+                {
+                    "word": " not",
+                    "start": 0.66,
+                    "end": 0.76,
+                    "probability": 0.6825214624404907
+                },
+                {
+                    "word": " industry.",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.3240991234779358
+                },
+                {
+                    "word": " This",
+                    "start": 1.36,
+                    "end": 1.44,
+                    "probability": 0.7951273918151855
+                },
+                {
+                    "word": " is",
+                    "start": 1.44,
+                    "end": 1.62,
+                    "probability": 0.9058820009231567
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 1.62,
+                    "end": 1.94,
+                    "probability": 0.5341669917106628
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.5,
+            "end": 5.1,
+            "text": " We're talking about TikTok. We're talking about...",
+            "tokens": [
+                50500,
+                492,
+                434,
+                1417,
+                466,
+                20211,
+                13,
+                492,
+                434,
+                1417,
+                466,
+                485,
+                50616
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.586104977515436,
+            "compression_ratio": 1.3661971830985915,
+            "no_speech_prob": 0.12206263095140457,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 2.5,
+                    "end": 3.2,
+                    "probability": 0.8171312212944031
+                },
+                {
+                    "word": " talking",
+                    "start": 3.2,
+                    "end": 3.52,
+                    "probability": 0.7803522348403931
+                },
+                {
+                    "word": " about",
+                    "start": 3.52,
+                    "end": 3.8,
+                    "probability": 0.8153095245361328
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 3.8,
+                    "end": 4.1,
+                    "probability": 0.9016749858856201
+                },
+                {
+                    "word": " We're",
+                    "start": 4.32,
+                    "end": 4.46,
+                    "probability": 0.928589403629303
+                },
+                {
+                    "word": " talking",
+                    "start": 4.46,
+                    "end": 4.76,
+                    "probability": 0.7716673016548157
+                },
+                {
+                    "word": " about...",
+                    "start": 4.76,
+                    "end": 5.1,
+                    "probability": 0.5574467331171036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

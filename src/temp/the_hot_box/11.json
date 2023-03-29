@@ -1,0 +1,131 @@
+{
+    "text": " confirm that your parent company, ByteDance, currently can access user data. Yes?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.14,
+            "text": " confirm that your parent company, ByteDance, currently can access user data.",
+            "tokens": [
+                50364,
+                9064,
+                300,
+                428,
+                2596,
+                2237,
+                11,
+                3146,
+                975,
+                35,
+                719,
+                11,
+                4362,
+                393,
+                2105,
+                4195,
+                1412,
+                13,
+                50578
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.584339420000712,
+            "compression_ratio": 1.0253164556962024,
+            "no_speech_prob": 0.09480012953281403,
+            "words": [
+                {
+                    "word": " confirm",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.05921635404229164
+                },
+                {
+                    "word": " that",
+                    "start": 0.44,
+                    "end": 0.66,
+                    "probability": 0.8472068309783936
+                },
+                {
+                    "word": " your",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.8033145070075989
+                },
+                {
+                    "word": " parent",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.7403551936149597
+                },
+                {
+                    "word": " company,",
+                    "start": 1.14,
+                    "end": 1.62,
+                    "probability": 0.8417122960090637
+                },
+                {
+                    "word": " ByteDance,",
+                    "start": 1.82,
+                    "end": 2.3,
+                    "probability": 0.9457363486289978
+                },
+                {
+                    "word": " currently",
+                    "start": 2.44,
+                    "end": 2.74,
+                    "probability": 0.6900056004524231
+                },
+                {
+                    "word": " can",
+                    "start": 2.74,
+                    "end": 3.02,
+                    "probability": 0.8979957699775696
+                },
+                {
+                    "word": " access",
+                    "start": 3.02,
+                    "end": 3.44,
+                    "probability": 0.8050945997238159
+                },
+                {
+                    "word": " user",
+                    "start": 3.44,
+                    "end": 3.78,
+                    "probability": 0.8337398767471313
+                },
+                {
+                    "word": " data.",
+                    "start": 3.78,
+                    "end": 4.14,
+                    "probability": 0.8194211721420288
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.96,
+            "end": 5.32,
+            "text": " Yes?",
+            "tokens": [
+                50578,
+                1079,
+                30,
+                50728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.584339420000712,
+            "compression_ratio": 1.0253164556962024,
+            "no_speech_prob": 0.09480012953281403,
+            "words": [
+                {
+                    "word": " Yes?",
+                    "start": 4.96,
+                    "end": 5.32,
+                    "probability": 0.8710634708404541
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,49 @@
+{
+    "text": " It's a violent.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.5,
+            "text": " It's a violent.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                257,
+                371,
+                1004,
+                75,
+                317,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.856144211509011,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.8823414444923401,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5113273933529854
+                },
+                {
+                    "word": " a",
+                    "start": 0.22,
+                    "end": 0.26,
+                    "probability": 0.9309588074684143
+                },
+                {
+                    "word": " violent.",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.5117257535457611
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

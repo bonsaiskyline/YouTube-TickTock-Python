@@ -1,0 +1,163 @@
+{
+    "text": " ByteDance owns some Chinese businesses and you're talking about a very special subsidiary that is for Chinese business licensing",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.9,
+            "text": " ByteDance owns some Chinese businesses and you're talking about a very special subsidiary that is for Chinese business licensing",
+            "tokens": [
+                50364,
+                3146,
+                975,
+                35,
+                719,
+                19143,
+                512,
+                4649,
+                6011,
+                293,
+                291,
+                434,
+                1417,
+                466,
+                257,
+                588,
+                2121,
+                48296,
+                822,
+                300,
+                307,
+                337,
+                4649,
+                1606,
+                6169,
+                694,
+                278,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4234215966586409,
+            "compression_ratio": 1.292929292929293,
+            "no_speech_prob": 0.14847324788570404,
+            "words": [
+                {
+                    "word": " ByteDance",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.5961212366819382
+                },
+                {
+                    "word": " owns",
+                    "start": 0.54,
+                    "end": 0.82,
+                    "probability": 0.7443707585334778
+                },
+                {
+                    "word": " some",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.8164042830467224
+                },
+                {
+                    "word": " Chinese",
+                    "start": 1.12,
+                    "end": 1.46,
+                    "probability": 0.7202467918395996
+                },
+                {
+                    "word": " businesses",
+                    "start": 1.46,
+                    "end": 1.88,
+                    "probability": 0.7961360216140747
+                },
+                {
+                    "word": " and",
+                    "start": 1.88,
+                    "end": 2.24,
+                    "probability": 0.6787976026535034
+                },
+                {
+                    "word": " you're",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.8603523075580597
+                },
+                {
+                    "word": " talking",
+                    "start": 2.5,
+                    "end": 2.76,
+                    "probability": 0.7697997093200684
+                },
+                {
+                    "word": " about",
+                    "start": 2.76,
+                    "end": 3.02,
+                    "probability": 0.8207384943962097
+                },
+                {
+                    "word": " a",
+                    "start": 3.02,
+                    "end": 3.2,
+                    "probability": 0.7012545466423035
+                },
+                {
+                    "word": " very",
+                    "start": 3.2,
+                    "end": 3.44,
+                    "probability": 0.6763640642166138
+                },
+                {
+                    "word": " special",
+                    "start": 3.44,
+                    "end": 3.96,
+                    "probability": 0.9025344252586365
+                },
+                {
+                    "word": " subsidiary",
+                    "start": 3.96,
+                    "end": 4.8,
+                    "probability": 0.8542764782905579
+                },
+                {
+                    "word": " that",
+                    "start": 4.8,
+                    "end": 5.3,
+                    "probability": 0.7693420052528381
+                },
+                {
+                    "word": " is",
+                    "start": 5.3,
+                    "end": 5.46,
+                    "probability": 0.899664044380188
+                },
+                {
+                    "word": " for",
+                    "start": 5.46,
+                    "end": 5.68,
+                    "probability": 0.7979008555412292
+                },
+                {
+                    "word": " Chinese",
+                    "start": 5.68,
+                    "end": 6.04,
+                    "probability": 0.7013658881187439
+                },
+                {
+                    "word": " business",
+                    "start": 6.04,
+                    "end": 6.42,
+                    "probability": 0.8763852715492249
+                },
+                {
+                    "word": " licensing",
+                    "start": 6.42,
+                    "end": 6.9,
+                    "probability": 0.5666871170202891
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

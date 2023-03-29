@@ -1,0 +1,779 @@
+{
+    "text": " Well the US is an incredibly important market for tick tock and billions of dollars are at stake here. So at Insider Intelligence we estimate that tick tock will rake in about seven billion dollars in the US alone. And that's about half of its worldwide ad revenues. Now a lot of tick tocks meteoric growth over the past couple of years has also come at the expense of some US based companies including Meta and YouTube. So it's incredibly important. And there's a lot of factors at play here for for why this is happening.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.48,
+            "text": " Well the US is an incredibly important market for tick tock and billions of dollars are at stake here. So at Insider",
+            "tokens": [
+                50364,
+                1042,
+                264,
+                2546,
+                307,
+                364,
+                6252,
+                1021,
+                2142,
+                337,
+                5204,
+                281,
+                547,
+                293,
+                17375,
+                295,
+                3808,
+                366,
+                412,
+                10407,
+                510,
+                13,
+                407,
+                412,
+                9442,
+                1438,
+                50690
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2356124040557117,
+            "compression_ratio": 1.7375415282392026,
+            "no_speech_prob": 6.15587123320438e-05,
+            "words": [
+                {
+                    "word": " Well",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.3294849991798401
+                },
+                {
+                    "word": " the",
+                    "start": 0.3,
+                    "end": 0.8,
+                    "probability": 0.5078771710395813
+                },
+                {
+                    "word": " US",
+                    "start": 0.8,
+                    "end": 1.04,
+                    "probability": 0.5285418033599854
+                },
+                {
+                    "word": " is",
+                    "start": 1.04,
+                    "end": 1.18,
+                    "probability": 0.7743219137191772
+                },
+                {
+                    "word": " an",
+                    "start": 1.18,
+                    "end": 1.3,
+                    "probability": 0.8725543022155762
+                },
+                {
+                    "word": " incredibly",
+                    "start": 1.3,
+                    "end": 1.8,
+                    "probability": 0.7988612055778503
+                },
+                {
+                    "word": " important",
+                    "start": 1.8,
+                    "end": 2.46,
+                    "probability": 0.7628266215324402
+                },
+                {
+                    "word": " market",
+                    "start": 2.46,
+                    "end": 2.84,
+                    "probability": 0.7798858284950256
+                },
+                {
+                    "word": " for",
+                    "start": 2.84,
+                    "end": 3.04,
+                    "probability": 0.8304944634437561
+                },
+                {
+                    "word": " tick",
+                    "start": 3.04,
+                    "end": 3.24,
+                    "probability": 0.08233349025249481
+                },
+                {
+                    "word": " tock",
+                    "start": 3.24,
+                    "end": 3.48,
+                    "probability": 0.7932985424995422
+                },
+                {
+                    "word": " and",
+                    "start": 3.48,
+                    "end": 3.66,
+                    "probability": 0.8396843671798706
+                },
+                {
+                    "word": " billions",
+                    "start": 3.66,
+                    "end": 4.08,
+                    "probability": 0.8386698365211487
+                },
+                {
+                    "word": " of",
+                    "start": 4.08,
+                    "end": 4.3,
+                    "probability": 0.8986461162567139
+                },
+                {
+                    "word": " dollars",
+                    "start": 4.3,
+                    "end": 4.64,
+                    "probability": 0.9337576627731323
+                },
+                {
+                    "word": " are",
+                    "start": 4.64,
+                    "end": 4.84,
+                    "probability": 0.87095046043396
+                },
+                {
+                    "word": " at",
+                    "start": 4.84,
+                    "end": 5.0,
+                    "probability": 0.9024872183799744
+                },
+                {
+                    "word": " stake",
+                    "start": 5.0,
+                    "end": 5.32,
+                    "probability": 0.8484772443771362
+                },
+                {
+                    "word": " here.",
+                    "start": 5.32,
+                    "end": 5.66,
+                    "probability": 0.7971135973930359
+                },
+                {
+                    "word": " So",
+                    "start": 5.96,
+                    "end": 6.02,
+                    "probability": 0.8901284337043762
+                },
+                {
+                    "word": " at",
+                    "start": 6.02,
+                    "end": 6.16,
+                    "probability": 0.5754169225692749
+                },
+                {
+                    "word": " Insider",
+                    "start": 6.16,
+                    "end": 6.48,
+                    "probability": 0.6255999952554703
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.48,
+            "end": 13.36,
+            "text": " Intelligence we estimate that tick tock will rake in about seven billion dollars in the US alone. And that's about half of",
+            "tokens": [
+                50690,
+                27274,
+                321,
+                12539,
+                300,
+                5204,
+                281,
+                547,
+                486,
+                367,
+                619,
+                294,
+                466,
+                3407,
+                5218,
+                3808,
+                294,
+                264,
+                2546,
+                3312,
+                13,
+                400,
+                300,
+                311,
+                466,
+                1922,
+                295,
+                51031
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2356124040557117,
+            "compression_ratio": 1.7375415282392026,
+            "no_speech_prob": 6.15587123320438e-05,
+            "words": [
+                {
+                    "word": " Intelligence",
+                    "start": 6.48,
+                    "end": 6.96,
+                    "probability": 0.7310980558395386
+                },
+                {
+                    "word": " we",
+                    "start": 6.96,
+                    "end": 7.34,
+                    "probability": 0.797008752822876
+                },
+                {
+                    "word": " estimate",
+                    "start": 7.34,
+                    "end": 7.84,
+                    "probability": 0.803604245185852
+                },
+                {
+                    "word": " that",
+                    "start": 7.84,
+                    "end": 8.14,
+                    "probability": 0.8782756924629211
+                },
+                {
+                    "word": " tick",
+                    "start": 8.14,
+                    "end": 8.34,
+                    "probability": 0.7222017645835876
+                },
+                {
+                    "word": " tock",
+                    "start": 8.34,
+                    "end": 8.58,
+                    "probability": 0.8958756923675537
+                },
+                {
+                    "word": " will",
+                    "start": 8.58,
+                    "end": 8.72,
+                    "probability": 0.8013214468955994
+                },
+                {
+                    "word": " rake",
+                    "start": 8.72,
+                    "end": 9.0,
+                    "probability": 0.8366081416606903
+                },
+                {
+                    "word": " in",
+                    "start": 9.0,
+                    "end": 9.14,
+                    "probability": 0.9016187787055969
+                },
+                {
+                    "word": " about",
+                    "start": 9.14,
+                    "end": 9.4,
+                    "probability": 0.8179722428321838
+                },
+                {
+                    "word": " seven",
+                    "start": 9.4,
+                    "end": 9.86,
+                    "probability": 0.505986750125885
+                },
+                {
+                    "word": " billion",
+                    "start": 9.86,
+                    "end": 10.38,
+                    "probability": 0.7399002909660339
+                },
+                {
+                    "word": " dollars",
+                    "start": 10.38,
+                    "end": 10.88,
+                    "probability": 0.9165809154510498
+                },
+                {
+                    "word": " in",
+                    "start": 10.88,
+                    "end": 11.16,
+                    "probability": 0.8952812552452087
+                },
+                {
+                    "word": " the",
+                    "start": 11.16,
+                    "end": 11.3,
+                    "probability": 0.8121670484542847
+                },
+                {
+                    "word": " US",
+                    "start": 11.3,
+                    "end": 11.62,
+                    "probability": 0.8020665049552917
+                },
+                {
+                    "word": " alone.",
+                    "start": 11.62,
+                    "end": 11.98,
+                    "probability": 0.8962684869766235
+                },
+                {
+                    "word": " And",
+                    "start": 12.38,
+                    "end": 12.42,
+                    "probability": 0.8825318217277527
+                },
+                {
+                    "word": " that's",
+                    "start": 12.42,
+                    "end": 12.64,
+                    "probability": 0.9391143918037415
+                },
+                {
+                    "word": " about",
+                    "start": 12.64,
+                    "end": 12.86,
+                    "probability": 0.8211592435836792
+                },
+                {
+                    "word": " half",
+                    "start": 12.86,
+                    "end": 13.22,
+                    "probability": 0.8020660281181335
+                },
+                {
+                    "word": " of",
+                    "start": 13.22,
+                    "end": 13.36,
+                    "probability": 0.9034523963928223
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.36,
+            "end": 20.68,
+            "text": " its worldwide ad revenues. Now a lot of tick tocks meteoric growth over the past couple of years has also come at the",
+            "tokens": [
+                51031,
+                1080,
+                13485,
+                614,
+                27299,
+                13,
+                823,
+                257,
+                688,
+                295,
+                5204,
+                281,
+                2761,
+                21245,
+                16345,
+                4599,
+                670,
+                264,
+                1791,
+                1916,
+                295,
+                924,
+                575,
+                611,
+                808,
+                412,
+                264,
+                51396
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2356124040557117,
+            "compression_ratio": 1.7375415282392026,
+            "no_speech_prob": 6.15587123320438e-05,
+            "words": [
+                {
+                    "word": " its",
+                    "start": 13.36,
+                    "end": 13.52,
+                    "probability": 0.8084392547607422
+                },
+                {
+                    "word": " worldwide",
+                    "start": 13.52,
+                    "end": 13.96,
+                    "probability": 0.8584936857223511
+                },
+                {
+                    "word": " ad",
+                    "start": 13.96,
+                    "end": 14.36,
+                    "probability": 0.8344898223876953
+                },
+                {
+                    "word": " revenues.",
+                    "start": 14.36,
+                    "end": 14.74,
+                    "probability": 0.9001649022102356
+                },
+                {
+                    "word": " Now",
+                    "start": 15.24,
+                    "end": 15.34,
+                    "probability": 0.8949180245399475
+                },
+                {
+                    "word": " a",
+                    "start": 15.34,
+                    "end": 15.66,
+                    "probability": 0.9728801846504211
+                },
+                {
+                    "word": " lot",
+                    "start": 15.66,
+                    "end": 15.84,
+                    "probability": 0.8949236273765564
+                },
+                {
+                    "word": " of",
+                    "start": 15.84,
+                    "end": 16.0,
+                    "probability": 0.8985064625740051
+                },
+                {
+                    "word": " tick",
+                    "start": 16.0,
+                    "end": 16.2,
+                    "probability": 0.7313619256019592
+                },
+                {
+                    "word": " tocks",
+                    "start": 16.2,
+                    "end": 16.52,
+                    "probability": 0.7764368057250977
+                },
+                {
+                    "word": " meteoric",
+                    "start": 16.52,
+                    "end": 17.18,
+                    "probability": 0.7037772834300995
+                },
+                {
+                    "word": " growth",
+                    "start": 17.18,
+                    "end": 17.64,
+                    "probability": 0.7967330813407898
+                },
+                {
+                    "word": " over",
+                    "start": 17.64,
+                    "end": 17.78,
+                    "probability": 0.8755525946617126
+                },
+                {
+                    "word": " the",
+                    "start": 17.78,
+                    "end": 17.92,
+                    "probability": 0.8131443858146667
+                },
+                {
+                    "word": " past",
+                    "start": 17.92,
+                    "end": 18.12,
+                    "probability": 0.825626015663147
+                },
+                {
+                    "word": " couple",
+                    "start": 18.12,
+                    "end": 18.32,
+                    "probability": 0.7843579649925232
+                },
+                {
+                    "word": " of",
+                    "start": 18.32,
+                    "end": 18.46,
+                    "probability": 0.9031696319580078
+                },
+                {
+                    "word": " years",
+                    "start": 18.46,
+                    "end": 18.7,
+                    "probability": 0.8815163969993591
+                },
+                {
+                    "word": " has",
+                    "start": 18.7,
+                    "end": 19.04,
+                    "probability": 0.8926323652267456
+                },
+                {
+                    "word": " also",
+                    "start": 19.04,
+                    "end": 19.68,
+                    "probability": 0.7534024119377136
+                },
+                {
+                    "word": " come",
+                    "start": 19.68,
+                    "end": 20.42,
+                    "probability": 0.7813096642494202
+                },
+                {
+                    "word": " at",
+                    "start": 20.42,
+                    "end": 20.54,
+                    "probability": 0.8970854878425598
+                },
+                {
+                    "word": " the",
+                    "start": 20.54,
+                    "end": 20.68,
+                    "probability": 0.8114673495292664
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.68,
+            "end": 27.18,
+            "text": " expense of some US based companies including Meta and YouTube. So it's incredibly important. And there's a lot of factors",
+            "tokens": [
+                51396,
+                18406,
+                295,
+                512,
+                2546,
+                2361,
+                3431,
+                3009,
+                6377,
+                64,
+                293,
+                3088,
+                13,
+                407,
+                309,
+                311,
+                6252,
+                1021,
+                13,
+                400,
+                456,
+                311,
+                257,
+                688,
+                295,
+                6771,
+                51726
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2356124040557117,
+            "compression_ratio": 1.7375415282392026,
+            "no_speech_prob": 6.15587123320438e-05,
+            "words": [
+                {
+                    "word": " expense",
+                    "start": 20.68,
+                    "end": 21.14,
+                    "probability": 0.9157543182373047
+                },
+                {
+                    "word": " of",
+                    "start": 21.14,
+                    "end": 21.42,
+                    "probability": 0.902541995048523
+                },
+                {
+                    "word": " some",
+                    "start": 21.42,
+                    "end": 21.62,
+                    "probability": 0.8135123252868652
+                },
+                {
+                    "word": " US",
+                    "start": 21.62,
+                    "end": 21.96,
+                    "probability": 0.7098938822746277
+                },
+                {
+                    "word": " based",
+                    "start": 21.96,
+                    "end": 22.26,
+                    "probability": 0.7749949097633362
+                },
+                {
+                    "word": " companies",
+                    "start": 22.26,
+                    "end": 22.68,
+                    "probability": 0.7860280871391296
+                },
+                {
+                    "word": " including",
+                    "start": 22.68,
+                    "end": 23.2,
+                    "probability": 0.7664296627044678
+                },
+                {
+                    "word": " Meta",
+                    "start": 23.2,
+                    "end": 23.6,
+                    "probability": 0.5359741300344467
+                },
+                {
+                    "word": " and",
+                    "start": 23.6,
+                    "end": 23.8,
+                    "probability": 0.883086085319519
+                },
+                {
+                    "word": " YouTube.",
+                    "start": 23.8,
+                    "end": 24.14,
+                    "probability": 0.7644587755203247
+                },
+                {
+                    "word": " So",
+                    "start": 24.6,
+                    "end": 24.82,
+                    "probability": 0.8970577716827393
+                },
+                {
+                    "word": " it's",
+                    "start": 24.82,
+                    "end": 25.1,
+                    "probability": 0.9506056010723114
+                },
+                {
+                    "word": " incredibly",
+                    "start": 25.1,
+                    "end": 25.56,
+                    "probability": 0.7869472503662109
+                },
+                {
+                    "word": " important.",
+                    "start": 25.56,
+                    "end": 26.06,
+                    "probability": 0.7769198417663574
+                },
+                {
+                    "word": " And",
+                    "start": 26.2,
+                    "end": 26.26,
+                    "probability": 0.8918070197105408
+                },
+                {
+                    "word": " there's",
+                    "start": 26.26,
+                    "end": 26.42,
+                    "probability": 0.9238630533218384
+                },
+                {
+                    "word": " a",
+                    "start": 26.42,
+                    "end": 26.58,
+                    "probability": 0.9998340606689453
+                },
+                {
+                    "word": " lot",
+                    "start": 26.58,
+                    "end": 26.72,
+                    "probability": 0.898726224899292
+                },
+                {
+                    "word": " of",
+                    "start": 26.72,
+                    "end": 26.86,
+                    "probability": 0.9011815786361694
+                },
+                {
+                    "word": " factors",
+                    "start": 26.86,
+                    "end": 27.18,
+                    "probability": 0.8424707651138306
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 27.18,
+            "end": 29.4,
+            "text": " at play here for for why this is happening.",
+            "tokens": [
+                51726,
+                412,
+                862,
+                510,
+                337,
+                337,
+                983,
+                341,
+                307,
+                2737,
+                13,
+                51842
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2356124040557117,
+            "compression_ratio": 1.7375415282392026,
+            "no_speech_prob": 6.15587123320438e-05,
+            "words": [
+                {
+                    "word": " at",
+                    "start": 27.18,
+                    "end": 27.38,
+                    "probability": 0.8391488194465637
+                },
+                {
+                    "word": " play",
+                    "start": 27.38,
+                    "end": 27.58,
+                    "probability": 0.8972373008728027
+                },
+                {
+                    "word": " here",
+                    "start": 27.58,
+                    "end": 27.86,
+                    "probability": 0.8107358813285828
+                },
+                {
+                    "word": " for",
+                    "start": 27.86,
+                    "end": 28.14,
+                    "probability": 0.8820620775222778
+                },
+                {
+                    "word": " for",
+                    "start": 28.14,
+                    "end": 28.42,
+                    "probability": 0.6089135408401489
+                },
+                {
+                    "word": " why",
+                    "start": 28.42,
+                    "end": 28.64,
+                    "probability": 0.8027445077896118
+                },
+                {
+                    "word": " this",
+                    "start": 28.64,
+                    "end": 28.86,
+                    "probability": 0.8780466318130493
+                },
+                {
+                    "word": " is",
+                    "start": 28.86,
+                    "end": 29.02,
+                    "probability": 0.9004291892051697
+                },
+                {
+                    "word": " happening.",
+                    "start": 29.02,
+                    "end": 29.4,
+                    "probability": 0.7213978171348572
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,648 @@
+{
+    "text": " The United States has never before banned a social media company from existence, from operating in our borders. And when the United States is proposing a very major move that has something to do with significant risk to national security, one of the first things that happens is that Congress receives a classified briefing. And I can tell you that Congress has not received a classified briefing around the allegations of national security risks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " The United States has never before banned a social media company from existence, from",
+            "tokens": [
+                50364,
+                440,
+                2824,
+                3040,
+                575,
+                1128,
+                949,
+                19564,
+                257,
+                2093,
+                3021,
+                2237,
+                490,
+                9123,
+                11,
+                490,
+                50562
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7024840712547302
+                },
+                {
+                    "word": " United",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.8479511737823486
+                },
+                {
+                    "word": " States",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.8852816820144653
+                },
+                {
+                    "word": " has",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.8908309936523438
+                },
+                {
+                    "word": " never",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.8740504384040833
+                },
+                {
+                    "word": " before",
+                    "start": 1.08,
+                    "end": 1.38,
+                    "probability": 0.7734147310256958
+                },
+                {
+                    "word": " banned",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.6838231086730957
+                },
+                {
+                    "word": " a",
+                    "start": 1.68,
+                    "end": 1.86,
+                    "probability": 0.986024022102356
+                },
+                {
+                    "word": " social",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.8202712535858154
+                },
+                {
+                    "word": " media",
+                    "start": 2.06,
+                    "end": 2.3,
+                    "probability": 0.8072256445884705
+                },
+                {
+                    "word": " company",
+                    "start": 2.3,
+                    "end": 2.7,
+                    "probability": 0.79727703332901
+                },
+                {
+                    "word": " from",
+                    "start": 2.7,
+                    "end": 3.32,
+                    "probability": 0.8124629259109497
+                },
+                {
+                    "word": " existence,",
+                    "start": 3.32,
+                    "end": 3.74,
+                    "probability": 0.8426944017410278
+                },
+                {
+                    "word": " from",
+                    "start": 3.88,
+                    "end": 3.98,
+                    "probability": 0.8289394974708557
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.98,
+            "end": 5.08,
+            "text": " operating in our borders.",
+            "tokens": [
+                50562,
+                7447,
+                294,
+                527,
+                16287,
+                13,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " operating",
+                    "start": 3.98,
+                    "end": 4.42,
+                    "probability": 0.8992884159088135
+                },
+                {
+                    "word": " in",
+                    "start": 4.42,
+                    "end": 4.64,
+                    "probability": 0.8699211478233337
+                },
+                {
+                    "word": " our",
+                    "start": 4.64,
+                    "end": 4.76,
+                    "probability": 0.8089695572853088
+                },
+                {
+                    "word": " borders.",
+                    "start": 4.76,
+                    "end": 5.08,
+                    "probability": 0.7669142484664917
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.3,
+            "end": 9.32,
+            "text": " And when the United States is proposing a very major move that has something to do with",
+            "tokens": [
+                50612,
+                400,
+                562,
+                264,
+                2824,
+                3040,
+                307,
+                29939,
+                257,
+                588,
+                2563,
+                1286,
+                300,
+                575,
+                746,
+                281,
+                360,
+                365,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 5.3,
+                    "end": 5.34,
+                    "probability": 0.5219536423683167
+                },
+                {
+                    "word": " when",
+                    "start": 5.34,
+                    "end": 5.48,
+                    "probability": 0.8445740938186646
+                },
+                {
+                    "word": " the",
+                    "start": 5.48,
+                    "end": 5.58,
+                    "probability": 0.8075501918792725
+                },
+                {
+                    "word": " United",
+                    "start": 5.58,
+                    "end": 5.74,
+                    "probability": 0.8762142658233643
+                },
+                {
+                    "word": " States",
+                    "start": 5.74,
+                    "end": 6.1,
+                    "probability": 0.8842359781265259
+                },
+                {
+                    "word": " is",
+                    "start": 6.1,
+                    "end": 6.34,
+                    "probability": 0.8974065184593201
+                },
+                {
+                    "word": " proposing",
+                    "start": 6.34,
+                    "end": 6.68,
+                    "probability": 0.7591735124588013
+                },
+                {
+                    "word": " a",
+                    "start": 6.68,
+                    "end": 7.02,
+                    "probability": 0.9986251592636108
+                },
+                {
+                    "word": " very",
+                    "start": 7.02,
+                    "end": 7.28,
+                    "probability": 0.7287517786026001
+                },
+                {
+                    "word": " major",
+                    "start": 7.28,
+                    "end": 7.52,
+                    "probability": 0.8005816340446472
+                },
+                {
+                    "word": " move",
+                    "start": 7.52,
+                    "end": 7.88,
+                    "probability": 0.8742318749427795
+                },
+                {
+                    "word": " that",
+                    "start": 7.88,
+                    "end": 8.22,
+                    "probability": 0.8238613605499268
+                },
+                {
+                    "word": " has",
+                    "start": 8.22,
+                    "end": 8.42,
+                    "probability": 0.8938722014427185
+                },
+                {
+                    "word": " something",
+                    "start": 8.42,
+                    "end": 8.68,
+                    "probability": 0.7373895049095154
+                },
+                {
+                    "word": " to",
+                    "start": 8.68,
+                    "end": 8.94,
+                    "probability": 0.9070836305618286
+                },
+                {
+                    "word": " do",
+                    "start": 8.94,
+                    "end": 9.14,
+                    "probability": 0.903968870639801
+                },
+                {
+                    "word": " with",
+                    "start": 9.14,
+                    "end": 9.32,
+                    "probability": 0.8154224753379822
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.32,
+            "end": 12.72,
+            "text": " significant risk to national security, one of the first things that happens is that Congress",
+            "tokens": [
+                50828,
+                4776,
+                3148,
+                281,
+                4048,
+                3825,
+                11,
+                472,
+                295,
+                264,
+                700,
+                721,
+                300,
+                2314,
+                307,
+                300,
+                6426,
+                51000
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " significant",
+                    "start": 9.32,
+                    "end": 9.68,
+                    "probability": 0.8245968222618103
+                },
+                {
+                    "word": " risk",
+                    "start": 9.68,
+                    "end": 9.9,
+                    "probability": 0.5895134806632996
+                },
+                {
+                    "word": " to",
+                    "start": 9.9,
+                    "end": 10.02,
+                    "probability": 0.8973790407180786
+                },
+                {
+                    "word": " national",
+                    "start": 10.02,
+                    "end": 10.22,
+                    "probability": 0.7216585278511047
+                },
+                {
+                    "word": " security,",
+                    "start": 10.22,
+                    "end": 10.62,
+                    "probability": 0.9207384586334229
+                },
+                {
+                    "word": " one",
+                    "start": 11.02,
+                    "end": 11.12,
+                    "probability": 0.8072914481163025
+                },
+                {
+                    "word": " of",
+                    "start": 11.12,
+                    "end": 11.18,
+                    "probability": 0.904218316078186
+                },
+                {
+                    "word": " the",
+                    "start": 11.18,
+                    "end": 11.26,
+                    "probability": 0.8169259428977966
+                },
+                {
+                    "word": " first",
+                    "start": 11.26,
+                    "end": 11.42,
+                    "probability": 0.8097928762435913
+                },
+                {
+                    "word": " things",
+                    "start": 11.42,
+                    "end": 11.6,
+                    "probability": 0.7212722301483154
+                },
+                {
+                    "word": " that",
+                    "start": 11.6,
+                    "end": 11.76,
+                    "probability": 0.8788228034973145
+                },
+                {
+                    "word": " happens",
+                    "start": 11.76,
+                    "end": 12.1,
+                    "probability": 0.9042803049087524
+                },
+                {
+                    "word": " is",
+                    "start": 12.1,
+                    "end": 12.34,
+                    "probability": 0.884843111038208
+                },
+                {
+                    "word": " that",
+                    "start": 12.34,
+                    "end": 12.48,
+                    "probability": 0.8617056608200073
+                },
+                {
+                    "word": " Congress",
+                    "start": 12.48,
+                    "end": 12.72,
+                    "probability": 0.8208032846450806
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.72,
+            "end": 13.78,
+            "text": " receives a classified briefing.",
+            "tokens": [
+                51000,
+                20717,
+                257,
+                20627,
+                28878,
+                13,
+                51050
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " receives",
+                    "start": 12.72,
+                    "end": 13.04,
+                    "probability": 0.7255153059959412
+                },
+                {
+                    "word": " a",
+                    "start": 13.04,
+                    "end": 13.18,
+                    "probability": 0.9577494859695435
+                },
+                {
+                    "word": " classified",
+                    "start": 13.18,
+                    "end": 13.46,
+                    "probability": 0.9101610779762268
+                },
+                {
+                    "word": " briefing.",
+                    "start": 13.46,
+                    "end": 13.78,
+                    "probability": 0.7968423366546631
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.22,
+            "end": 17.6,
+            "text": " And I can tell you that Congress has not received a classified briefing around the allegations",
+            "tokens": [
+                51050,
+                400,
+                286,
+                393,
+                980,
+                291,
+                300,
+                6426,
+                575,
+                406,
+                4613,
+                257,
+                20627,
+                28878,
+                926,
+                264,
+                29259,
+                51248
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 14.22,
+                    "end": 14.36,
+                    "probability": 0.845527708530426
+                },
+                {
+                    "word": " I",
+                    "start": 14.36,
+                    "end": 14.46,
+                    "probability": 0.9944637417793274
+                },
+                {
+                    "word": " can",
+                    "start": 14.46,
+                    "end": 14.56,
+                    "probability": 0.8960190415382385
+                },
+                {
+                    "word": " tell",
+                    "start": 14.56,
+                    "end": 14.68,
+                    "probability": 0.8188923597335815
+                },
+                {
+                    "word": " you",
+                    "start": 14.68,
+                    "end": 14.76,
+                    "probability": 0.8909938335418701
+                },
+                {
+                    "word": " that",
+                    "start": 14.76,
+                    "end": 14.86,
+                    "probability": 0.7858976721763611
+                },
+                {
+                    "word": " Congress",
+                    "start": 14.86,
+                    "end": 15.06,
+                    "probability": 0.8820857405662537
+                },
+                {
+                    "word": " has",
+                    "start": 15.06,
+                    "end": 15.2,
+                    "probability": 0.8959751129150391
+                },
+                {
+                    "word": " not",
+                    "start": 15.2,
+                    "end": 15.44,
+                    "probability": 0.8971814513206482
+                },
+                {
+                    "word": " received",
+                    "start": 15.44,
+                    "end": 15.76,
+                    "probability": 0.7522832155227661
+                },
+                {
+                    "word": " a",
+                    "start": 15.76,
+                    "end": 15.92,
+                    "probability": 0.9919679760932922
+                },
+                {
+                    "word": " classified",
+                    "start": 15.92,
+                    "end": 16.2,
+                    "probability": 0.9336553812026978
+                },
+                {
+                    "word": " briefing",
+                    "start": 16.2,
+                    "end": 16.56,
+                    "probability": 0.8067936301231384
+                },
+                {
+                    "word": " around",
+                    "start": 16.56,
+                    "end": 17.06,
+                    "probability": 0.8678038120269775
+                },
+                {
+                    "word": " the",
+                    "start": 17.06,
+                    "end": 17.22,
+                    "probability": 0.8057965636253357
+                },
+                {
+                    "word": " allegations",
+                    "start": 17.22,
+                    "end": 17.6,
+                    "probability": 0.8114814758300781
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 17.6,
+            "end": 18.72,
+            "text": " of national security risks.",
+            "tokens": [
+                51248,
+                295,
+                4048,
+                3825,
+                10888,
+                13,
+                51304
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2479248655603287,
+            "compression_ratio": 1.8170731707317074,
+            "no_speech_prob": 0.005808446556329727,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 17.6,
+                    "end": 17.84,
+                    "probability": 0.9002045392990112
+                },
+                {
+                    "word": " national",
+                    "start": 17.84,
+                    "end": 18.1,
+                    "probability": 0.721203625202179
+                },
+                {
+                    "word": " security",
+                    "start": 18.1,
+                    "end": 18.42,
+                    "probability": 0.9107974767684937
+                },
+                {
+                    "word": " risks.",
+                    "start": 18.42,
+                    "end": 18.72,
+                    "probability": 0.667959988117218
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,903 @@
+{
+    "text": " Hello there. We begin in the United States where time is ticking for TikTok. The chief of the social media app, Shozy Chu, was grilled by lawmakers over a whole range of issues, mostly related to the company's Chinese ownership. His appearance before the Congressional Committee comes after the Biden administration threatened to ban the social media app if the company's Chinese owners didn't sell their shares. TikTok is wildly popular in the States. It's got over 150 million American users, including almost 5 million businesses. Well, our North America business correspondent, Michelle Flurry, has been following the story from Washington, D.C.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " Hello there. We begin in the United States where time is ticking for TikTok.",
+            "tokens": [
+                50364,
+                2425,
+                456,
+                13,
+                492,
+                1841,
+                294,
+                264,
+                2824,
+                3040,
+                689,
+                565,
+                307,
+                33999,
+                337,
+                20211,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3217719805122602,
+            "compression_ratio": 1.6678966789667897,
+            "no_speech_prob": 0.018283315002918243,
+            "words": [
+                {
+                    "word": " Hello",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4187141954898834
+                },
+                {
+                    "word": " there.",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.6482199430465698
+                },
+                {
+                    "word": " We",
+                    "start": 0.46,
+                    "end": 0.54,
+                    "probability": 0.8963057398796082
+                },
+                {
+                    "word": " begin",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.7587582468986511
+                },
+                {
+                    "word": " in",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.8821831345558167
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.28,
+                    "probability": 0.8009809851646423
+                },
+                {
+                    "word": " United",
+                    "start": 1.28,
+                    "end": 1.54,
+                    "probability": 0.8095359802246094
+                },
+                {
+                    "word": " States",
+                    "start": 1.54,
+                    "end": 1.96,
+                    "probability": 0.874853789806366
+                },
+                {
+                    "word": " where",
+                    "start": 1.96,
+                    "end": 2.18,
+                    "probability": 0.5163947343826294
+                },
+                {
+                    "word": " time",
+                    "start": 2.18,
+                    "end": 2.52,
+                    "probability": 0.7845084071159363
+                },
+                {
+                    "word": " is",
+                    "start": 2.52,
+                    "end": 2.78,
+                    "probability": 0.9011986255645752
+                },
+                {
+                    "word": " ticking",
+                    "start": 2.78,
+                    "end": 3.12,
+                    "probability": 0.7620112299919128
+                },
+                {
+                    "word": " for",
+                    "start": 3.12,
+                    "end": 3.54,
+                    "probability": 0.8760195374488831
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 3.54,
+                    "end": 3.8,
+                    "probability": 0.7679762244224548
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.28,
+            "end": 11.0,
+            "text": " The chief of the social media app, Shozy Chu, was grilled by lawmakers over a whole range of issues,",
+            "tokens": [
+                50580,
+                440,
+                9588,
+                295,
+                264,
+                2093,
+                3021,
+                724,
+                11,
+                31404,
+                1229,
+                25585,
+                11,
+                390,
+                25183,
+                538,
+                40988,
+                670,
+                257,
+                1379,
+                3613,
+                295,
+                2663,
+                11,
+                50916
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3217719805122602,
+            "compression_ratio": 1.6678966789667897,
+            "no_speech_prob": 0.018283315002918243,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.28,
+                    "end": 4.48,
+                    "probability": 0.810552179813385
+                },
+                {
+                    "word": " chief",
+                    "start": 4.48,
+                    "end": 4.84,
+                    "probability": 0.7862574458122253
+                },
+                {
+                    "word": " of",
+                    "start": 4.84,
+                    "end": 4.98,
+                    "probability": 0.8995262980461121
+                },
+                {
+                    "word": " the",
+                    "start": 4.98,
+                    "end": 5.14,
+                    "probability": 0.8090565204620361
+                },
+                {
+                    "word": " social",
+                    "start": 5.14,
+                    "end": 5.42,
+                    "probability": 0.8267757892608643
+                },
+                {
+                    "word": " media",
+                    "start": 5.42,
+                    "end": 5.82,
+                    "probability": 0.8156009912490845
+                },
+                {
+                    "word": " app,",
+                    "start": 5.82,
+                    "end": 6.28,
+                    "probability": 0.8956215977668762
+                },
+                {
+                    "word": " Shozy",
+                    "start": 6.58,
+                    "end": 6.96,
+                    "probability": 0.34568196535110474
+                },
+                {
+                    "word": " Chu,",
+                    "start": 6.96,
+                    "end": 7.46,
+                    "probability": 0.3266604244709015
+                },
+                {
+                    "word": " was",
+                    "start": 7.6,
+                    "end": 7.84,
+                    "probability": 0.8883801102638245
+                },
+                {
+                    "word": " grilled",
+                    "start": 7.84,
+                    "end": 8.52,
+                    "probability": 0.6750330924987793
+                },
+                {
+                    "word": " by",
+                    "start": 8.52,
+                    "end": 8.88,
+                    "probability": 0.9005089402198792
+                },
+                {
+                    "word": " lawmakers",
+                    "start": 8.88,
+                    "end": 9.34,
+                    "probability": 0.7029300928115845
+                },
+                {
+                    "word": " over",
+                    "start": 9.34,
+                    "end": 9.8,
+                    "probability": 0.8791812658309937
+                },
+                {
+                    "word": " a",
+                    "start": 9.8,
+                    "end": 10.16,
+                    "probability": 0.9927263259887695
+                },
+                {
+                    "word": " whole",
+                    "start": 10.16,
+                    "end": 10.32,
+                    "probability": 0.8051109313964844
+                },
+                {
+                    "word": " range",
+                    "start": 10.32,
+                    "end": 10.6,
+                    "probability": 0.7761712074279785
+                },
+                {
+                    "word": " of",
+                    "start": 10.6,
+                    "end": 10.74,
+                    "probability": 0.9071108102798462
+                },
+                {
+                    "word": " issues,",
+                    "start": 10.74,
+                    "end": 11.0,
+                    "probability": 0.8365108966827393
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.1,
+            "end": 14.1,
+            "text": " mostly related to the company's Chinese ownership.",
+            "tokens": [
+                50916,
+                5240,
+                4077,
+                281,
+                264,
+                2237,
+                311,
+                4649,
+                15279,
+                13,
+                51090
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3217719805122602,
+            "compression_ratio": 1.6678966789667897,
+            "no_speech_prob": 0.018283315002918243,
+            "words": [
+                {
+                    "word": " mostly",
+                    "start": 11.1,
+                    "end": 11.34,
+                    "probability": 0.8086392283439636
+                },
+                {
+                    "word": " related",
+                    "start": 11.34,
+                    "end": 11.76,
+                    "probability": 0.858142077922821
+                },
+                {
+                    "word": " to",
+                    "start": 11.76,
+                    "end": 12.48,
+                    "probability": 0.9044607877731323
+                },
+                {
+                    "word": " the",
+                    "start": 12.48,
+                    "end": 12.74,
+                    "probability": 0.8094091415405273
+                },
+                {
+                    "word": " company's",
+                    "start": 12.74,
+                    "end": 13.24,
+                    "probability": 0.8941367566585541
+                },
+                {
+                    "word": " Chinese",
+                    "start": 13.24,
+                    "end": 13.54,
+                    "probability": 0.7966578602790833
+                },
+                {
+                    "word": " ownership.",
+                    "start": 13.54,
+                    "end": 14.1,
+                    "probability": 0.7649111747741699
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.5,
+            "end": 18.66,
+            "text": " His appearance before the Congressional Committee comes after the Biden administration",
+            "tokens": [
+                51090,
+                2812,
+                8967,
+                949,
+                264,
+                6426,
+                1966,
+                11556,
+                1487,
+                934,
+                264,
+                9877,
+                7236,
+                51318
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3217719805122602,
+            "compression_ratio": 1.6678966789667897,
+            "no_speech_prob": 0.018283315002918243,
+            "words": [
+                {
+                    "word": " His",
+                    "start": 14.5,
+                    "end": 14.7,
+                    "probability": 0.8843169808387756
+                },
+                {
+                    "word": " appearance",
+                    "start": 14.7,
+                    "end": 15.1,
+                    "probability": 0.7256174683570862
+                },
+                {
+                    "word": " before",
+                    "start": 15.1,
+                    "end": 15.64,
+                    "probability": 0.7870144844055176
+                },
+                {
+                    "word": " the",
+                    "start": 15.64,
+                    "end": 15.92,
+                    "probability": 0.8060190081596375
+                },
+                {
+                    "word": " Congressional",
+                    "start": 15.92,
+                    "end": 16.4,
+                    "probability": 0.7304917126893997
+                },
+                {
+                    "word": " Committee",
+                    "start": 16.4,
+                    "end": 16.74,
+                    "probability": 0.5795007944107056
+                },
+                {
+                    "word": " comes",
+                    "start": 16.74,
+                    "end": 17.24,
+                    "probability": 0.7610749006271362
+                },
+                {
+                    "word": " after",
+                    "start": 17.24,
+                    "end": 17.64,
+                    "probability": 0.739042341709137
+                },
+                {
+                    "word": " the",
+                    "start": 17.64,
+                    "end": 17.78,
+                    "probability": 0.815697431564331
+                },
+                {
+                    "word": " Biden",
+                    "start": 17.78,
+                    "end": 18.0,
+                    "probability": 0.9149302840232849
+                },
+                {
+                    "word": " administration",
+                    "start": 18.0,
+                    "end": 18.66,
+                    "probability": 0.7561314105987549
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.66,
+            "end": 23.76,
+            "text": " threatened to ban the social media app if the company's Chinese owners didn't sell their shares.",
+            "tokens": [
+                51318,
+                18268,
+                281,
+                5643,
+                264,
+                2093,
+                3021,
+                724,
+                498,
+                264,
+                2237,
+                311,
+                4649,
+                7710,
+                994,
+                380,
+                3607,
+                641,
+                12182,
+                13,
+                51582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3217719805122602,
+            "compression_ratio": 1.6678966789667897,
+            "no_speech_prob": 0.018283315002918243,
+            "words": [
+                {
+                    "word": " threatened",
+                    "start": 18.66,
+                    "end": 19.38,
+                    "probability": 0.8628817796707153
+                },
+                {
+                    "word": " to",
+                    "start": 19.38,
+                    "end": 19.6,
+                    "probability": 0.9019507169723511
+                },
+                {
+                    "word": " ban",
+                    "start": 19.6,
+                    "end": 19.86,
+                    "probability": 0.8714478015899658
+                },
+                {
+                    "word": " the",
+                    "start": 19.86,
+                    "end": 20.04,
+                    "probability": 0.8131812810897827
+                },
+                {
+                    "word": " social",
+                    "start": 20.04,
+                    "end": 20.32,
+                    "probability": 0.8298938870429993
+                },
+                {
+                    "word": " media",
+                    "start": 20.32,
+                    "end": 20.6,
+                    "probability": 0.8077518343925476
+                },
+                {
+                    "word": " app",
+                    "start": 20.6,
+                    "end": 20.96,
+                    "probability": 0.9009477496147156
+                },
+                {
+                    "word": " if",
+                    "start": 20.96,
+                    "end": 21.1,
+                    "probability": 0.8540045022964478
+                },
+                {
+                    "word": " the",
+                    "start": 21.1,
+                    "end": 21.26,
+                    "probability": 0.8101164102554321
+                },
+                {
+                    "word": " company's",
+                    "start": 21.26,
+                    "end": 21.8,
+                    "probability": 0.8949640393257141
+                },
+                {
+                    "word": " Chinese",
+                    "start": 21.8,
+                    "end": 22.08,
+                    "probability": 0.8099501729011536
+                },
+                {
+                    "word": " owners",
+                    "start": 22.08,
+                    "end": 22.46,
+                    "probability": 0.7424960732460022
+                },
+                {
+                    "word": " didn't",
+                    "start": 22.46,
+                    "end": 22.82,
+                    "probability": 0.9277805685997009
+                },
+                {
+                    "word": " sell",
+                    "start": 22.82,
+                    "end": 23.12,
+                    "probability": 0.8142751455307007
+                },
+                {
+                    "word": " their",
+                    "start": 23.12,
+                    "end": 23.36,
+                    "probability": 0.9010853171348572
+                },
+                {
+                    "word": " shares.",
+                    "start": 23.36,
+                    "end": 23.76,
+                    "probability": 0.7188990116119385
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 24.42,
+            "end": 26.82,
+            "text": " TikTok is wildly popular in the States.",
+            "tokens": [
+                51582,
+                20211,
+                307,
+                34731,
+                3743,
+                294,
+                264,
+                3040,
+                13,
+                51710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3217719805122602,
+            "compression_ratio": 1.6678966789667897,
+            "no_speech_prob": 0.018283315002918243,
+            "words": [
+                {
+                    "word": " TikTok",
+                    "start": 24.42,
+                    "end": 24.68,
+                    "probability": 0.8867284655570984
+                },
+                {
+                    "word": " is",
+                    "start": 24.68,
+                    "end": 25.16,
+                    "probability": 0.9057499766349792
+                },
+                {
+                    "word": " wildly",
+                    "start": 25.16,
+                    "end": 25.7,
+                    "probability": 0.8725091814994812
+                },
+                {
+                    "word": " popular",
+                    "start": 25.7,
+                    "end": 26.06,
+                    "probability": 0.8957962393760681
+                },
+                {
+                    "word": " in",
+                    "start": 26.06,
+                    "end": 26.34,
+                    "probability": 0.9049957990646362
+                },
+                {
+                    "word": " the",
+                    "start": 26.34,
+                    "end": 26.52,
+                    "probability": 0.8158185482025146
+                },
+                {
+                    "word": " States.",
+                    "start": 26.52,
+                    "end": 26.82,
+                    "probability": 0.6591209173202515
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2682,
+            "start": 26.82,
+            "end": 32.1,
+            "text": " It's got over 150 million American users, including almost 5 million businesses.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                658,
+                670,
+                8451,
+                2459,
+                2665,
+                5022,
+                11,
+                3009,
+                1920,
+                1025,
+                2459,
+                6011,
+                13,
+                50642
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4095735549926758,
+            "compression_ratio": 1.3154362416107384,
+            "no_speech_prob": 0.06808827072381973,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 26.82,
+                    "end": 27.1,
+                    "probability": 0.5477472245693207
+                },
+                {
+                    "word": " got",
+                    "start": 27.1,
+                    "end": 27.26,
+                    "probability": 0.8813695311546326
+                },
+                {
+                    "word": " over",
+                    "start": 27.26,
+                    "end": 27.5,
+                    "probability": 0.8900684118270874
+                },
+                {
+                    "word": " 150",
+                    "start": 27.5,
+                    "end": 28.16,
+                    "probability": 0.7400063276290894
+                },
+                {
+                    "word": " million",
+                    "start": 28.16,
+                    "end": 28.74,
+                    "probability": 0.7772397398948669
+                },
+                {
+                    "word": " American",
+                    "start": 28.74,
+                    "end": 29.1,
+                    "probability": 0.7041540741920471
+                },
+                {
+                    "word": " users,",
+                    "start": 29.1,
+                    "end": 29.48,
+                    "probability": 0.8568964004516602
+                },
+                {
+                    "word": " including",
+                    "start": 29.94,
+                    "end": 30.36,
+                    "probability": 0.7833476066589355
+                },
+                {
+                    "word": " almost",
+                    "start": 30.36,
+                    "end": 30.88,
+                    "probability": 0.6072157621383667
+                },
+                {
+                    "word": " 5",
+                    "start": 30.88,
+                    "end": 31.24,
+                    "probability": 0.6654819846153259
+                },
+                {
+                    "word": " million",
+                    "start": 31.24,
+                    "end": 31.5,
+                    "probability": 0.7980121374130249
+                },
+                {
+                    "word": " businesses.",
+                    "start": 31.5,
+                    "end": 32.1,
+                    "probability": 0.7981656789779663
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2682,
+            "start": 32.58,
+            "end": 34.9,
+            "text": " Well, our North America business correspondent, Michelle Flurry,",
+            "tokens": [
+                50642,
+                1042,
+                11,
+                527,
+                4067,
+                3374,
+                1606,
+                44406,
+                11,
+                14933,
+                3235,
+                30614,
+                11,
+                50770
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4095735549926758,
+            "compression_ratio": 1.3154362416107384,
+            "no_speech_prob": 0.06808827072381973,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 32.58,
+                    "end": 32.64,
+                    "probability": 0.36572352051734924
+                },
+                {
+                    "word": " our",
+                    "start": 32.74,
+                    "end": 32.8,
+                    "probability": 0.7973538041114807
+                },
+                {
+                    "word": " North",
+                    "start": 32.8,
+                    "end": 32.96,
+                    "probability": 0.8892009854316711
+                },
+                {
+                    "word": " America",
+                    "start": 32.96,
+                    "end": 33.32,
+                    "probability": 0.7080516815185547
+                },
+                {
+                    "word": " business",
+                    "start": 33.32,
+                    "end": 33.7,
+                    "probability": 0.5311191082000732
+                },
+                {
+                    "word": " correspondent,",
+                    "start": 33.7,
+                    "end": 34.16,
+                    "probability": 0.8336094617843628
+                },
+                {
+                    "word": " Michelle",
+                    "start": 34.28,
+                    "end": 34.48,
+                    "probability": 0.5302361845970154
+                },
+                {
+                    "word": " Flurry,",
+                    "start": 34.48,
+                    "end": 34.9,
+                    "probability": 0.3906303346157074
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2682,
+            "start": 35.06,
+            "end": 37.32,
+            "text": " has been following the story from Washington, D.C.",
+            "tokens": [
+                50770,
+                575,
+                668,
+                3480,
+                264,
+                1657,
+                490,
+                6149,
+                11,
+                413,
+                13,
+                34,
+                13,
+                50896
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4095735549926758,
+            "compression_ratio": 1.3154362416107384,
+            "no_speech_prob": 0.06808827072381973,
+            "words": [
+                {
+                    "word": " has",
+                    "start": 35.06,
+                    "end": 35.14,
+                    "probability": 0.8893295526504517
+                },
+                {
+                    "word": " been",
+                    "start": 35.14,
+                    "end": 35.3,
+                    "probability": 0.8423109650611877
+                },
+                {
+                    "word": " following",
+                    "start": 35.3,
+                    "end": 35.64,
+                    "probability": 0.8384679555892944
+                },
+                {
+                    "word": " the",
+                    "start": 35.64,
+                    "end": 35.86,
+                    "probability": 0.7979499101638794
+                },
+                {
+                    "word": " story",
+                    "start": 35.86,
+                    "end": 36.16,
+                    "probability": 0.8689394593238831
+                },
+                {
+                    "word": " from",
+                    "start": 36.16,
+                    "end": 36.4,
+                    "probability": 0.8136926293373108
+                },
+                {
+                    "word": " Washington,",
+                    "start": 36.4,
+                    "end": 36.8,
+                    "probability": 0.8667498826980591
+                },
+                {
+                    "word": " D",
+                    "start": 37.02,
+                    "end": 37.08,
+                    "probability": 0.6753162145614624
+                },
+                {
+                    "word": ".C.",
+                    "start": 37.08,
+                    "end": 37.32,
+                    "probability": 0.9951536059379578
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

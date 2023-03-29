@@ -1,0 +1,755 @@
+{
+    "text": " The Washington Post received leaked emails confirming that Mark Zuckerberg paid a large consulting firm last year to organize a nationwide campaign with the primary goal of turning the public against TikTok. Yet one email read, The dream would be to get stories with headlines like, From dances to danger, How TikTok has become the most harmful social media space for kids. This was in reference to dangerous trends that supposedly started on TikTok, but after investigation turned out to have originated on Facebook.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The Washington Post received leaked emails confirming that Mark Zuckerberg paid a large",
+            "tokens": [
+                50364,
+                440,
+                6149,
+                10223,
+                4613,
+                31779,
+                12524,
+                42861,
+                300,
+                3934,
+                34032,
+                6873,
+                4835,
+                257,
+                2416,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.26920273900032043
+                },
+                {
+                    "word": " Washington",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.8851240277290344
+                },
+                {
+                    "word": " Post",
+                    "start": 0.38,
+                    "end": 0.62,
+                    "probability": 0.7463850975036621
+                },
+                {
+                    "word": " received",
+                    "start": 0.62,
+                    "end": 0.96,
+                    "probability": 0.6556592583656311
+                },
+                {
+                    "word": " leaked",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.7791064977645874
+                },
+                {
+                    "word": " emails",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.722398579120636
+                },
+                {
+                    "word": " confirming",
+                    "start": 1.5,
+                    "end": 1.88,
+                    "probability": 0.8414875864982605
+                },
+                {
+                    "word": " that",
+                    "start": 1.88,
+                    "end": 2.06,
+                    "probability": 0.8536509275436401
+                },
+                {
+                    "word": " Mark",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.8835538625717163
+                },
+                {
+                    "word": " Zuckerberg",
+                    "start": 2.26,
+                    "end": 2.58,
+                    "probability": 0.8921301364898682
+                },
+                {
+                    "word": " paid",
+                    "start": 2.58,
+                    "end": 2.78,
+                    "probability": 0.7976955771446228
+                },
+                {
+                    "word": " a",
+                    "start": 2.78,
+                    "end": 2.96,
+                    "probability": 0.9925848841667175
+                },
+                {
+                    "word": " large",
+                    "start": 2.96,
+                    "end": 3.24,
+                    "probability": 0.9221243858337402
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.24,
+            "end": 6.7,
+            "text": " consulting firm last year to organize a nationwide campaign with the primary goal of turning",
+            "tokens": [
+                50524,
+                23682,
+                6174,
+                1036,
+                1064,
+                281,
+                13859,
+                257,
+                29102,
+                5129,
+                365,
+                264,
+                6194,
+                3387,
+                295,
+                6246,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " consulting",
+                    "start": 3.24,
+                    "end": 3.62,
+                    "probability": 0.7503899931907654
+                },
+                {
+                    "word": " firm",
+                    "start": 3.62,
+                    "end": 3.86,
+                    "probability": 0.7540069818496704
+                },
+                {
+                    "word": " last",
+                    "start": 3.86,
+                    "end": 4.08,
+                    "probability": 0.7629923224449158
+                },
+                {
+                    "word": " year",
+                    "start": 4.08,
+                    "end": 4.28,
+                    "probability": 0.8820579051971436
+                },
+                {
+                    "word": " to",
+                    "start": 4.28,
+                    "end": 4.34,
+                    "probability": 0.7004185914993286
+                },
+                {
+                    "word": " organize",
+                    "start": 4.34,
+                    "end": 4.58,
+                    "probability": 0.7580898404121399
+                },
+                {
+                    "word": " a",
+                    "start": 4.58,
+                    "end": 4.78,
+                    "probability": 0.994135856628418
+                },
+                {
+                    "word": " nationwide",
+                    "start": 4.78,
+                    "end": 5.16,
+                    "probability": 0.8450298309326172
+                },
+                {
+                    "word": " campaign",
+                    "start": 5.16,
+                    "end": 5.56,
+                    "probability": 0.7923604249954224
+                },
+                {
+                    "word": " with",
+                    "start": 5.56,
+                    "end": 5.68,
+                    "probability": 0.7695243954658508
+                },
+                {
+                    "word": " the",
+                    "start": 5.68,
+                    "end": 5.8,
+                    "probability": 0.8090440630912781
+                },
+                {
+                    "word": " primary",
+                    "start": 5.8,
+                    "end": 6.1,
+                    "probability": 0.8645974397659302
+                },
+                {
+                    "word": " goal",
+                    "start": 6.1,
+                    "end": 6.36,
+                    "probability": 0.9072895646095276
+                },
+                {
+                    "word": " of",
+                    "start": 6.36,
+                    "end": 6.52,
+                    "probability": 0.9046398997306824
+                },
+                {
+                    "word": " turning",
+                    "start": 6.52,
+                    "end": 6.7,
+                    "probability": 0.7595577836036682
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.7,
+            "end": 7.9,
+            "text": " the public against TikTok.",
+            "tokens": [
+                50700,
+                264,
+                1908,
+                1970,
+                20211,
+                13,
+                50760
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 6.7,
+                    "end": 6.84,
+                    "probability": 0.8157752752304077
+                },
+                {
+                    "word": " public",
+                    "start": 6.84,
+                    "end": 7.14,
+                    "probability": 0.8975197076797485
+                },
+                {
+                    "word": " against",
+                    "start": 7.14,
+                    "end": 7.58,
+                    "probability": 0.8740441203117371
+                },
+                {
+                    "word": " TikTok.",
+                    "start": 7.58,
+                    "end": 7.9,
+                    "probability": 0.802502453327179
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.98,
+            "end": 8.52,
+            "text": " Yet one email read,",
+            "tokens": [
+                50760,
+                10890,
+                472,
+                3796,
+                1401,
+                11,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " Yet",
+                    "start": 7.98,
+                    "end": 8.04,
+                    "probability": 0.543782114982605
+                },
+                {
+                    "word": " one",
+                    "start": 8.04,
+                    "end": 8.14,
+                    "probability": 0.694528341293335
+                },
+                {
+                    "word": " email",
+                    "start": 8.14,
+                    "end": 8.36,
+                    "probability": 0.8640195727348328
+                },
+                {
+                    "word": " read,",
+                    "start": 8.36,
+                    "end": 8.52,
+                    "probability": 0.899273157119751
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.58,
+            "end": 10.02,
+            "text": " The dream would be to get stories with headlines like,",
+            "tokens": [
+                50810,
+                440,
+                3055,
+                576,
+                312,
+                281,
+                483,
+                3676,
+                365,
+                23867,
+                411,
+                11,
+                50872
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 8.58,
+                    "end": 8.58,
+                    "probability": 0.00846486259251833
+                },
+                {
+                    "word": " dream",
+                    "start": 8.58,
+                    "end": 8.68,
+                    "probability": 0.6366985440254211
+                },
+                {
+                    "word": " would",
+                    "start": 8.68,
+                    "end": 8.78,
+                    "probability": 0.8269901275634766
+                },
+                {
+                    "word": " be",
+                    "start": 8.78,
+                    "end": 8.88,
+                    "probability": 0.9032430648803711
+                },
+                {
+                    "word": " to",
+                    "start": 8.88,
+                    "end": 8.96,
+                    "probability": 0.8835597038269043
+                },
+                {
+                    "word": " get",
+                    "start": 8.96,
+                    "end": 9.08,
+                    "probability": 0.890934407711029
+                },
+                {
+                    "word": " stories",
+                    "start": 9.08,
+                    "end": 9.32,
+                    "probability": 0.7675067782402039
+                },
+                {
+                    "word": " with",
+                    "start": 9.32,
+                    "end": 9.44,
+                    "probability": 0.7869098782539368
+                },
+                {
+                    "word": " headlines",
+                    "start": 9.44,
+                    "end": 9.78,
+                    "probability": 0.8578396439552307
+                },
+                {
+                    "word": " like,",
+                    "start": 9.78,
+                    "end": 10.02,
+                    "probability": 0.8296310901641846
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.14,
+            "end": 11.1,
+            "text": " From dances to danger,",
+            "tokens": [
+                50872,
+                3358,
+                28322,
+                281,
+                4330,
+                11,
+                50922
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " From",
+                    "start": 10.14,
+                    "end": 10.16,
+                    "probability": 0.07174287736415863
+                },
+                {
+                    "word": " dances",
+                    "start": 10.16,
+                    "end": 10.56,
+                    "probability": 0.21325574815273285
+                },
+                {
+                    "word": " to",
+                    "start": 10.56,
+                    "end": 10.8,
+                    "probability": 0.9088299870491028
+                },
+                {
+                    "word": " danger,",
+                    "start": 10.8,
+                    "end": 11.1,
+                    "probability": 0.6290345788002014
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 11.24,
+            "end": 13.74,
+            "text": " How TikTok has become the most harmful social media space for kids.",
+            "tokens": [
+                50922,
+                1012,
+                20211,
+                575,
+                1813,
+                264,
+                881,
+                19727,
+                2093,
+                3021,
+                1901,
+                337,
+                2301,
+                13,
+                51054
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 11.24,
+                    "end": 11.26,
+                    "probability": 0.17822082340717316
+                },
+                {
+                    "word": " TikTok",
+                    "start": 11.26,
+                    "end": 11.52,
+                    "probability": 0.8069263696670532
+                },
+                {
+                    "word": " has",
+                    "start": 11.52,
+                    "end": 11.66,
+                    "probability": 0.7846229672431946
+                },
+                {
+                    "word": " become",
+                    "start": 11.66,
+                    "end": 11.84,
+                    "probability": 0.8177293539047241
+                },
+                {
+                    "word": " the",
+                    "start": 11.84,
+                    "end": 11.94,
+                    "probability": 0.8054339289665222
+                },
+                {
+                    "word": " most",
+                    "start": 11.94,
+                    "end": 12.08,
+                    "probability": 0.8357613682746887
+                },
+                {
+                    "word": " harmful",
+                    "start": 12.08,
+                    "end": 12.46,
+                    "probability": 0.7839524745941162
+                },
+                {
+                    "word": " social",
+                    "start": 12.46,
+                    "end": 12.78,
+                    "probability": 0.8365168571472168
+                },
+                {
+                    "word": " media",
+                    "start": 12.78,
+                    "end": 13.06,
+                    "probability": 0.7705772519111633
+                },
+                {
+                    "word": " space",
+                    "start": 13.06,
+                    "end": 13.36,
+                    "probability": 0.8032987117767334
+                },
+                {
+                    "word": " for",
+                    "start": 13.36,
+                    "end": 13.56,
+                    "probability": 0.9000574946403503
+                },
+                {
+                    "word": " kids.",
+                    "start": 13.56,
+                    "end": 13.74,
+                    "probability": 0.8116939663887024
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 13.78,
+            "end": 16.54,
+            "text": " This was in reference to dangerous trends that supposedly started on TikTok, but after",
+            "tokens": [
+                51054,
+                639,
+                390,
+                294,
+                6408,
+                281,
+                5795,
+                13892,
+                300,
+                20581,
+                1409,
+                322,
+                20211,
+                11,
+                457,
+                934,
+                51190
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 13.78,
+                    "end": 13.86,
+                    "probability": 0.7950180768966675
+                },
+                {
+                    "word": " was",
+                    "start": 13.86,
+                    "end": 13.94,
+                    "probability": 0.47312626242637634
+                },
+                {
+                    "word": " in",
+                    "start": 13.94,
+                    "end": 14.04,
+                    "probability": 0.7598702907562256
+                },
+                {
+                    "word": " reference",
+                    "start": 14.04,
+                    "end": 14.26,
+                    "probability": 0.7751544117927551
+                },
+                {
+                    "word": " to",
+                    "start": 14.26,
+                    "end": 14.44,
+                    "probability": 0.9052883982658386
+                },
+                {
+                    "word": " dangerous",
+                    "start": 14.44,
+                    "end": 14.74,
+                    "probability": 0.6677669882774353
+                },
+                {
+                    "word": " trends",
+                    "start": 14.74,
+                    "end": 15.04,
+                    "probability": 0.6898927092552185
+                },
+                {
+                    "word": " that",
+                    "start": 15.04,
+                    "end": 15.2,
+                    "probability": 0.8631464838981628
+                },
+                {
+                    "word": " supposedly",
+                    "start": 15.2,
+                    "end": 15.58,
+                    "probability": 0.8922163844108582
+                },
+                {
+                    "word": " started",
+                    "start": 15.58,
+                    "end": 15.86,
+                    "probability": 0.8085314631462097
+                },
+                {
+                    "word": " on",
+                    "start": 15.86,
+                    "end": 16.02,
+                    "probability": 0.9040586352348328
+                },
+                {
+                    "word": " TikTok,",
+                    "start": 16.02,
+                    "end": 16.26,
+                    "probability": 0.8989908695220947
+                },
+                {
+                    "word": " but",
+                    "start": 16.32,
+                    "end": 16.4,
+                    "probability": 0.7689518332481384
+                },
+                {
+                    "word": " after",
+                    "start": 16.4,
+                    "end": 16.54,
+                    "probability": 0.7262241244316101
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 16.54,
+            "end": 19.02,
+            "text": " investigation turned out to have originated on Facebook.",
+            "tokens": [
+                51190,
+                9627,
+                3574,
+                484,
+                281,
+                362,
+                31129,
+                322,
+                4384,
+                13,
+                51336
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34738121376381265,
+            "compression_ratio": 1.6105919003115265,
+            "no_speech_prob": 0.03494524583220482,
+            "words": [
+                {
+                    "word": " investigation",
+                    "start": 16.54,
+                    "end": 17.02,
+                    "probability": 0.7050377130508423
+                },
+                {
+                    "word": " turned",
+                    "start": 17.02,
+                    "end": 17.36,
+                    "probability": 0.4336211681365967
+                },
+                {
+                    "word": " out",
+                    "start": 17.36,
+                    "end": 17.6,
+                    "probability": 0.8146200180053711
+                },
+                {
+                    "word": " to",
+                    "start": 17.6,
+                    "end": 17.74,
+                    "probability": 0.8746766448020935
+                },
+                {
+                    "word": " have",
+                    "start": 17.74,
+                    "end": 17.82,
+                    "probability": 0.884437084197998
+                },
+                {
+                    "word": " originated",
+                    "start": 17.82,
+                    "end": 18.3,
+                    "probability": 0.6704699993133545
+                },
+                {
+                    "word": " on",
+                    "start": 18.3,
+                    "end": 18.6,
+                    "probability": 0.8996703028678894
+                },
+                {
+                    "word": " Facebook.",
+                    "start": 18.6,
+                    "end": 19.02,
+                    "probability": 0.7760264277458191
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

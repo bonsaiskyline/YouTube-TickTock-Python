@@ -1,0 +1,125 @@
+{
+    "text": " If it's banned, I'll just get a VPN or download the APK or-",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " If it's banned, I'll just get a VPN or download the APK or-",
+            "tokens": [
+                50364,
+                759,
+                309,
+                311,
+                19564,
+                11,
+                286,
+                603,
+                445,
+                483,
+                257,
+                24512,
+                420,
+                5484,
+                264,
+                5372,
+                42,
+                420,
+                12,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44714795975458055,
+            "compression_ratio": 0.8939393939393939,
+            "no_speech_prob": 0.6811791658401489,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.06,
+                    "probability": 0.17717085778713226
+                },
+                {
+                    "word": " it's",
+                    "start": 0.06,
+                    "end": 0.22,
+                    "probability": 0.9301919937133789
+                },
+                {
+                    "word": " banned,",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.8700714707374573
+                },
+                {
+                    "word": " I'll",
+                    "start": 0.52,
+                    "end": 0.56,
+                    "probability": 0.9135000109672546
+                },
+                {
+                    "word": " just",
+                    "start": 0.56,
+                    "end": 0.64,
+                    "probability": 0.8566216230392456
+                },
+                {
+                    "word": " get",
+                    "start": 0.64,
+                    "end": 0.74,
+                    "probability": 0.8834506869316101
+                },
+                {
+                    "word": " a",
+                    "start": 0.74,
+                    "end": 0.82,
+                    "probability": 0.9818063974380493
+                },
+                {
+                    "word": " VPN",
+                    "start": 0.82,
+                    "end": 1.08,
+                    "probability": 0.8987600207328796
+                },
+                {
+                    "word": " or",
+                    "start": 1.08,
+                    "end": 1.3,
+                    "probability": 0.706352710723877
+                },
+                {
+                    "word": " download",
+                    "start": 1.3,
+                    "end": 1.52,
+                    "probability": 0.9044376015663147
+                },
+                {
+                    "word": " the",
+                    "start": 1.52,
+                    "end": 1.6,
+                    "probability": 0.6614786386489868
+                },
+                {
+                    "word": " APK",
+                    "start": 1.6,
+                    "end": 1.88,
+                    "probability": 0.8193941116333008
+                },
+                {
+                    "word": " or",
+                    "start": 1.88,
+                    "end": 1.98,
+                    "probability": 0.6220973134040833
+                },
+                {
+                    "word": "-",
+                    "start": 1.98,
+                    "end": 1.98,
+                    "probability": 0.13567011058330536
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

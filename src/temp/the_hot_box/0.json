@@ -1,0 +1,316 @@
+{
+    "text": " Hi, this is the Hotbox, telling you that this video might have some sensitive stuff in it, so take a second if you need to and go check out something else. Otherwise, please enjoy the show.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " Hi, this is the Hotbox, telling you that this video might have some sensitive stuff in it,",
+            "tokens": [
+                50364,
+                2421,
+                11,
+                341,
+                307,
+                264,
+                9423,
+                4995,
+                11,
+                3585,
+                291,
+                300,
+                341,
+                960,
+                1062,
+                362,
+                512,
+                9477,
+                1507,
+                294,
+                309,
+                11,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3966677474975586,
+            "compression_ratio": 1.3695652173913044,
+            "no_speech_prob": 0.09558577835559845,
+            "words": [
+                {
+                    "word": " Hi,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.6608315706253052
+                },
+                {
+                    "word": " this",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.8617299795150757
+                },
+                {
+                    "word": " is",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.9023613929748535
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.14,
+                    "probability": 0.4756418466567993
+                },
+                {
+                    "word": " Hotbox,",
+                    "start": 1.14,
+                    "end": 1.62,
+                    "probability": 0.599442183971405
+                },
+                {
+                    "word": " telling",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.7010114192962646
+                },
+                {
+                    "word": " you",
+                    "start": 2.3,
+                    "end": 2.52,
+                    "probability": 0.8966158628463745
+                },
+                {
+                    "word": " that",
+                    "start": 2.52,
+                    "end": 2.68,
+                    "probability": 0.8616954684257507
+                },
+                {
+                    "word": " this",
+                    "start": 2.68,
+                    "end": 2.96,
+                    "probability": 0.8813215494155884
+                },
+                {
+                    "word": " video",
+                    "start": 2.96,
+                    "end": 3.34,
+                    "probability": 0.7882527709007263
+                },
+                {
+                    "word": " might",
+                    "start": 3.34,
+                    "end": 3.88,
+                    "probability": 0.781689465045929
+                },
+                {
+                    "word": " have",
+                    "start": 3.88,
+                    "end": 4.08,
+                    "probability": 0.8887234330177307
+                },
+                {
+                    "word": " some",
+                    "start": 4.08,
+                    "end": 4.3,
+                    "probability": 0.7987508177757263
+                },
+                {
+                    "word": " sensitive",
+                    "start": 4.3,
+                    "end": 4.8,
+                    "probability": 0.8058491349220276
+                },
+                {
+                    "word": " stuff",
+                    "start": 4.8,
+                    "end": 5.16,
+                    "probability": 0.7946025729179382
+                },
+                {
+                    "word": " in",
+                    "start": 5.16,
+                    "end": 5.32,
+                    "probability": 0.902063250541687
+                },
+                {
+                    "word": " it,",
+                    "start": 5.32,
+                    "end": 5.54,
+                    "probability": 0.9068379402160645
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.66,
+            "end": 8.92,
+            "text": " so take a second if you need to and go check out something else.",
+            "tokens": [
+                50636,
+                370,
+                747,
+                257,
+                1150,
+                498,
+                291,
+                643,
+                281,
+                293,
+                352,
+                1520,
+                484,
+                746,
+                1646,
+                13,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3966677474975586,
+            "compression_ratio": 1.3695652173913044,
+            "no_speech_prob": 0.09558577835559845,
+            "words": [
+                {
+                    "word": " so",
+                    "start": 5.66,
+                    "end": 5.86,
+                    "probability": 0.8795895576477051
+                },
+                {
+                    "word": " take",
+                    "start": 5.86,
+                    "end": 6.2,
+                    "probability": 0.6274803876876831
+                },
+                {
+                    "word": " a",
+                    "start": 6.2,
+                    "end": 6.34,
+                    "probability": 0.9983618855476379
+                },
+                {
+                    "word": " second",
+                    "start": 6.34,
+                    "end": 6.54,
+                    "probability": 0.7754450440406799
+                },
+                {
+                    "word": " if",
+                    "start": 6.54,
+                    "end": 6.7,
+                    "probability": 0.8861653804779053
+                },
+                {
+                    "word": " you",
+                    "start": 6.7,
+                    "end": 6.78,
+                    "probability": 0.9014407992362976
+                },
+                {
+                    "word": " need",
+                    "start": 6.78,
+                    "end": 7.0,
+                    "probability": 0.8147192001342773
+                },
+                {
+                    "word": " to",
+                    "start": 7.0,
+                    "end": 7.22,
+                    "probability": 0.899814784526825
+                },
+                {
+                    "word": " and",
+                    "start": 7.22,
+                    "end": 7.66,
+                    "probability": 0.6598471999168396
+                },
+                {
+                    "word": " go",
+                    "start": 7.66,
+                    "end": 7.96,
+                    "probability": 0.8861517310142517
+                },
+                {
+                    "word": " check",
+                    "start": 7.96,
+                    "end": 8.16,
+                    "probability": 0.8398492336273193
+                },
+                {
+                    "word": " out",
+                    "start": 8.16,
+                    "end": 8.3,
+                    "probability": 0.8127925992012024
+                },
+                {
+                    "word": " something",
+                    "start": 8.3,
+                    "end": 8.56,
+                    "probability": 0.7330941557884216
+                },
+                {
+                    "word": " else.",
+                    "start": 8.56,
+                    "end": 8.92,
+                    "probability": 0.8509789705276489
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.36,
+            "end": 11.0,
+            "text": " Otherwise, please enjoy the show.",
+            "tokens": [
+                50832,
+                10328,
+                11,
+                1767,
+                2103,
+                264,
+                855,
+                13,
+                50932
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3966677474975586,
+            "compression_ratio": 1.3695652173913044,
+            "no_speech_prob": 0.09558577835559845,
+            "words": [
+                {
+                    "word": " Otherwise,",
+                    "start": 9.36,
+                    "end": 9.76,
+                    "probability": 0.9046517610549927
+                },
+                {
+                    "word": " please",
+                    "start": 10.24,
+                    "end": 10.4,
+                    "probability": 0.7397274374961853
+                },
+                {
+                    "word": " enjoy",
+                    "start": 10.4,
+                    "end": 10.64,
+                    "probability": 0.7756319046020508
+                },
+                {
+                    "word": " the",
+                    "start": 10.64,
+                    "end": 10.82,
+                    "probability": 0.816684365272522
+                },
+                {
+                    "word": " show.",
+                    "start": 10.82,
+                    "end": 11.0,
+                    "probability": 0.8806081414222717
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

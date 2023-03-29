@@ -1,0 +1,136 @@
+{
+    "text": " is for Chinese business licensure. So I'm going to have to move on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " is for Chinese business licensure.",
+            "tokens": [
+                50364,
+                307,
+                337,
+                4649,
+                1606,
+                6169,
+                694,
+                540,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6220829175866168,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.13112474977970123,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.22063978016376495
+                },
+                {
+                    "word": " for",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.836014449596405
+                },
+                {
+                    "word": " Chinese",
+                    "start": 0.38,
+                    "end": 0.74,
+                    "probability": 0.5240049958229065
+                },
+                {
+                    "word": " business",
+                    "start": 0.74,
+                    "end": 1.14,
+                    "probability": 0.8927865624427795
+                },
+                {
+                    "word": " licensure.",
+                    "start": 1.14,
+                    "end": 1.58,
+                    "probability": 0.6062071224053701
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.78,
+            "end": 2.88,
+            "text": " So I'm going to have to move on.",
+            "tokens": [
+                50444,
+                407,
+                286,
+                478,
+                516,
+                281,
+                362,
+                281,
+                1286,
+                322,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6220829175866168,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.13112474977970123,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 1.78,
+                    "end": 1.78,
+                    "probability": 0.2935665249824524
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.78,
+                    "end": 2.02,
+                    "probability": 0.9638016521930695
+                },
+                {
+                    "word": " going",
+                    "start": 2.02,
+                    "end": 2.1,
+                    "probability": 0.5971984267234802
+                },
+                {
+                    "word": " to",
+                    "start": 2.1,
+                    "end": 2.16,
+                    "probability": 0.9029582738876343
+                },
+                {
+                    "word": " have",
+                    "start": 2.16,
+                    "end": 2.3,
+                    "probability": 0.8832200765609741
+                },
+                {
+                    "word": " to",
+                    "start": 2.3,
+                    "end": 2.42,
+                    "probability": 0.9120422601699829
+                },
+                {
+                    "word": " move",
+                    "start": 2.42,
+                    "end": 2.62,
+                    "probability": 0.8822880983352661
+                },
+                {
+                    "word": " on.",
+                    "start": 2.62,
+                    "end": 2.88,
+                    "probability": 0.9095085859298706
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

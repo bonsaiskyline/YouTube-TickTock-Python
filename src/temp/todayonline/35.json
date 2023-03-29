@@ -1,0 +1,61 @@
+{
+    "text": " All right. We're weird today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.58,
+            "end": 1.82,
+            "text": " All right. We're weird today.",
+            "tokens": [
+                50364,
+                1057,
+                558,
+                13,
+                492,
+                434,
+                3657,
+                965,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6643266677856445,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.08570215851068497,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 0.58,
+                    "end": 1.1,
+                    "probability": 0.2760520279407501
+                },
+                {
+                    "word": " right.",
+                    "start": 1.1,
+                    "end": 1.12,
+                    "probability": 0.8889244794845581
+                },
+                {
+                    "word": " We're",
+                    "start": 1.14,
+                    "end": 1.2,
+                    "probability": 0.598902240395546
+                },
+                {
+                    "word": " weird",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.8494199514389038
+                },
+                {
+                    "word": " today.",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.771087110042572
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

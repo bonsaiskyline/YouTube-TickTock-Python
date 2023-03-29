@@ -1,0 +1,477 @@
+{
+    "text": " Mr. Chiu, does TikTok access the home Wi-Fi network? So if I have a TikTok app on my phone and my phone is on my home Wi-Fi network, does TikTok access that network? Is it possible, then, that it could access other devices on that home Wi-Fi network?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " Mr. Chiu, does TikTok access the home Wi-Fi network?",
+            "tokens": [
+                50364,
+                2221,
+                13,
+                761,
+                5951,
+                11,
+                775,
+                20211,
+                2105,
+                264,
+                1280,
+                14035,
+                12,
+                13229,
+                3209,
+                30,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26568538264224406,
+            "compression_ratio": 1.7482517482517483,
+            "no_speech_prob": 0.0005118680419400334,
+            "words": [
+                {
+                    "word": " Mr.",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6795485019683838
+                },
+                {
+                    "word": " Chiu,",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.38318464159965515
+                },
+                {
+                    "word": " does",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9067590832710266
+                },
+                {
+                    "word": " TikTok",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.6343891620635986
+                },
+                {
+                    "word": " access",
+                    "start": 1.06,
+                    "end": 1.7,
+                    "probability": 0.7817224264144897
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.8060413002967834
+                },
+                {
+                    "word": " home",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.7479806542396545
+                },
+                {
+                    "word": " Wi",
+                    "start": 2.18,
+                    "end": 2.4,
+                    "probability": 0.5216418504714966
+                },
+                {
+                    "word": "-Fi",
+                    "start": 2.4,
+                    "end": 2.54,
+                    "probability": 0.9913122951984406
+                },
+                {
+                    "word": " network?",
+                    "start": 2.54,
+                    "end": 2.94,
+                    "probability": 0.79790198802948
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.56,
+            "end": 7.06,
+            "text": " So if I have a TikTok app on my phone",
+            "tokens": [
+                50598,
+                407,
+                498,
+                286,
+                362,
+                257,
+                20211,
+                724,
+                322,
+                452,
+                2593,
+                50730
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26568538264224406,
+            "compression_ratio": 1.7482517482517483,
+            "no_speech_prob": 0.0005118680419400334,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 4.56,
+                    "end": 4.78,
+                    "probability": 0.8281375169754028
+                },
+                {
+                    "word": " if",
+                    "start": 4.78,
+                    "end": 4.9,
+                    "probability": 0.6838381886482239
+                },
+                {
+                    "word": " I",
+                    "start": 4.9,
+                    "end": 5.02,
+                    "probability": 0.9946868419647217
+                },
+                {
+                    "word": " have",
+                    "start": 5.02,
+                    "end": 5.22,
+                    "probability": 0.8674136400222778
+                },
+                {
+                    "word": " a",
+                    "start": 5.22,
+                    "end": 5.4,
+                    "probability": 0.5923975110054016
+                },
+                {
+                    "word": " TikTok",
+                    "start": 5.4,
+                    "end": 5.68,
+                    "probability": 0.9414729475975037
+                },
+                {
+                    "word": " app",
+                    "start": 5.68,
+                    "end": 6.24,
+                    "probability": 0.9063910841941833
+                },
+                {
+                    "word": " on",
+                    "start": 6.24,
+                    "end": 6.46,
+                    "probability": 0.901698648929596
+                },
+                {
+                    "word": " my",
+                    "start": 6.46,
+                    "end": 6.7,
+                    "probability": 0.9079866409301758
+                },
+                {
+                    "word": " phone",
+                    "start": 6.7,
+                    "end": 7.06,
+                    "probability": 0.8805197477340698
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.06,
+            "end": 9.28,
+            "text": " and my phone is on my home Wi-Fi network,",
+            "tokens": [
+                50730,
+                293,
+                452,
+                2593,
+                307,
+                322,
+                452,
+                1280,
+                14035,
+                12,
+                13229,
+                3209,
+                11,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26568538264224406,
+            "compression_ratio": 1.7482517482517483,
+            "no_speech_prob": 0.0005118680419400334,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 7.06,
+                    "end": 7.44,
+                    "probability": 0.618811309337616
+                },
+                {
+                    "word": " my",
+                    "start": 7.44,
+                    "end": 7.64,
+                    "probability": 0.8955568671226501
+                },
+                {
+                    "word": " phone",
+                    "start": 7.64,
+                    "end": 7.88,
+                    "probability": 0.8780256509780884
+                },
+                {
+                    "word": " is",
+                    "start": 7.88,
+                    "end": 8.0,
+                    "probability": 0.9014068841934204
+                },
+                {
+                    "word": " on",
+                    "start": 8.0,
+                    "end": 8.14,
+                    "probability": 0.9105888605117798
+                },
+                {
+                    "word": " my",
+                    "start": 8.14,
+                    "end": 8.3,
+                    "probability": 0.8942878842353821
+                },
+                {
+                    "word": " home",
+                    "start": 8.3,
+                    "end": 8.5,
+                    "probability": 0.8125452399253845
+                },
+                {
+                    "word": " Wi",
+                    "start": 8.5,
+                    "end": 8.74,
+                    "probability": 0.9422202706336975
+                },
+                {
+                    "word": "-Fi",
+                    "start": 8.74,
+                    "end": 8.9,
+                    "probability": 0.9986738860607147
+                },
+                {
+                    "word": " network,",
+                    "start": 8.9,
+                    "end": 9.28,
+                    "probability": 0.8339815735816956
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.38,
+            "end": 10.9,
+            "text": " does TikTok access that network?",
+            "tokens": [
+                50832,
+                775,
+                20211,
+                2105,
+                300,
+                3209,
+                30,
+                50983
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26568538264224406,
+            "compression_ratio": 1.7482517482517483,
+            "no_speech_prob": 0.0005118680419400334,
+            "words": [
+                {
+                    "word": " does",
+                    "start": 9.38,
+                    "end": 9.5,
+                    "probability": 0.9241151213645935
+                },
+                {
+                    "word": " TikTok",
+                    "start": 9.5,
+                    "end": 9.8,
+                    "probability": 0.92750084400177
+                },
+                {
+                    "word": " access",
+                    "start": 9.8,
+                    "end": 10.32,
+                    "probability": 0.8139305114746094
+                },
+                {
+                    "word": " that",
+                    "start": 10.32,
+                    "end": 10.62,
+                    "probability": 0.8827800750732422
+                },
+                {
+                    "word": " network?",
+                    "start": 10.62,
+                    "end": 10.9,
+                    "probability": 0.8314269185066223
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.1,
+            "end": 14.46,
+            "text": " Is it possible, then, that it could access other devices",
+            "tokens": [
+                50983,
+                1119,
+                309,
+                1944,
+                11,
+                550,
+                11,
+                300,
+                309,
+                727,
+                2105,
+                661,
+                5759,
+                51092
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26568538264224406,
+            "compression_ratio": 1.7482517482517483,
+            "no_speech_prob": 0.0005118680419400334,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 12.1,
+                    "end": 12.48,
+                    "probability": 0.9017138481140137
+                },
+                {
+                    "word": " it",
+                    "start": 12.48,
+                    "end": 12.58,
+                    "probability": 0.8952264189720154
+                },
+                {
+                    "word": " possible,",
+                    "start": 12.58,
+                    "end": 12.9,
+                    "probability": 0.8165521025657654
+                },
+                {
+                    "word": " then,",
+                    "start": 13.08,
+                    "end": 13.14,
+                    "probability": 0.7266656160354614
+                },
+                {
+                    "word": " that",
+                    "start": 13.2,
+                    "end": 13.3,
+                    "probability": 0.8803173303604126
+                },
+                {
+                    "word": " it",
+                    "start": 13.3,
+                    "end": 13.4,
+                    "probability": 0.9024876356124878
+                },
+                {
+                    "word": " could",
+                    "start": 13.4,
+                    "end": 13.52,
+                    "probability": 0.8018579483032227
+                },
+                {
+                    "word": " access",
+                    "start": 13.52,
+                    "end": 13.8,
+                    "probability": 0.7700841426849365
+                },
+                {
+                    "word": " other",
+                    "start": 13.8,
+                    "end": 14.08,
+                    "probability": 0.7742341160774231
+                },
+                {
+                    "word": " devices",
+                    "start": 14.08,
+                    "end": 14.46,
+                    "probability": 0.9033277630805969
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.46,
+            "end": 15.7,
+            "text": " on that home Wi-Fi network?",
+            "tokens": [
+                51092,
+                322,
+                300,
+                1280,
+                14035,
+                12,
+                13229,
+                3209,
+                30,
+                51154
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26568538264224406,
+            "compression_ratio": 1.7482517482517483,
+            "no_speech_prob": 0.0005118680419400334,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 14.46,
+                    "end": 14.74,
+                    "probability": 0.9063121676445007
+                },
+                {
+                    "word": " that",
+                    "start": 14.74,
+                    "end": 14.9,
+                    "probability": 0.8819901347160339
+                },
+                {
+                    "word": " home",
+                    "start": 14.9,
+                    "end": 15.08,
+                    "probability": 0.8030343651771545
+                },
+                {
+                    "word": " Wi",
+                    "start": 15.08,
+                    "end": 15.3,
+                    "probability": 0.9356953501701355
+                },
+                {
+                    "word": "-Fi",
+                    "start": 15.3,
+                    "end": 15.42,
+                    "probability": 0.9986667633056641
+                },
+                {
+                    "word": " network?",
+                    "start": 15.42,
+                    "end": 15.7,
+                    "probability": 0.8046950697898865
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

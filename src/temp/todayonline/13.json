@@ -1,0 +1,30 @@
+{
+    "text": " and",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.06,
+            "text": " and",
+            "tokens": [
+                50364,
+                293,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9124491214752197,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.960473358631134,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.06,
+                    "probability": 0.07326355576515198
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>TikTok boss grilled for hours in US Congress – BBC News</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			font-size: 14px;
+			color: #111;
+			padding: 0 0 1em 0;
+			background-color: #efe7dd;
+		}
+
+		table {
+			border-spacing: 10px;
+		}
+
+		th {
+			text-align: left;
+		}
+
+		.lt {
+			color: inherit;
+			text-decoration: inherit;
+		}
+
+		.l {
+			color: #050;
+		}
+
+		.s {
+			display: inline-block;
+		}
+
+		.c {
+			display: inline-block;
+		}
+
+		.e {
+			/*background-color: white; Changing background color */
+			border-radius: 10px;
+			/* Making border radius */
+			width: 50%;
+			/* Making auto-sizable width */
+			padding: 0 0 0 0;
+			/* Making space around letters */
+			font-size: 14px;
+			/* Changing font size */
+			margin-bottom: 0;
+		}
+
+		.t {
+			display: inline-block;
+		}
+
+		#player-div {
+			position: sticky;
+			top: 20px;
+			float: right;
+			width: 40%
+		}
+
+		#player {
+			aspect-ratio: 16 / 9;
+			width: 100%;
+			height: auto;
+
+		}
+
+		a {
+			display: inline;
+		}
+	</style>
+	<script>
+		var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/iframe_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		var player;
+		function onYouTubeIframeAPIReady() {
+			player = new YT.Player('player', {
+				//height: '210',
+				//width: '340',
+				videoId: 'RwcV4DJUEvM',
+			});
+
+
+
+			// This is the source "window" that will emit the events.
+			var iframeWindow = player.getIframe().contentWindow;
+			var lastword = null;
+
+			// So we can compare against new updates.
+			var lastTimeUpdate = "-1";
+
+			// Listen to events triggered by postMessage,
+			// this is how different windows in a browser
+			// (such as a popup or iFrame) can communicate.
+			// See: https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
+			window.addEventListener("message", function (event) {
+				// Check that the event was sent from the YouTube IFrame.
+				if (event.source === iframeWindow) {
+					var data = JSON.parse(event.data);
+
+					// The "infoDelivery" event is used by YT to transmit any
+					// kind of information change in the player,
+					// such as the current time or a playback quality change.
+					if (
+						data.event === "infoDelivery" &&
+						data.info &&
+						data.info.currentTime
+					) {
+						// currentTime is emitted very frequently (milliseconds),
+						// but we only care about whole second changes.
+						var ts = (data.info.currentTime).toFixed(1).toString();
+						ts = (Math.round((data.info.currentTime) * 5) / 5).toFixed(1);
+						ts = ts.toString();
+						console.log(ts)
+						if (ts !== lastTimeUpdate) {
+							lastTimeUpdate = ts;
+
+							// It's now up to you to format the time.
+							//document.getElementById("time2").innerHTML = time;
+							word = document.getElementById(ts)
+							if (word) {
+								if (lastword) {
+									lastword.style.fontWeight = 'normal';
+								}
+								lastword = word;
+								//word.style.textDecoration = 'underline';
+								word.style.fontWeight = 'bold';
+
+								let toggle = document.getElementById("autoscroll");
+								if (toggle.checked) {
+									let position = word.offsetTop - 20;
+									window.scrollTo({
+										top: position,
+										behavior: 'smooth'
+									});
+								}
+
+							}
+						}
+					}
+				}
+			})
+		}
+		function jumptoTime(timepoint, id) {
+			event.preventDefault();
+			history.pushState(null, null, "#" + id);
+			player.seekTo(timepoint);
+			player.playVideo();
+		}
+	</script>
+</head>
+
+<body>
+	<h2>TikTok boss grilled for hours in US Congress – BBC News</h2>
+	<i>Click on a part of the transcription, to jump to its video, and get an anchor to it in the address
+		bar<br><br></i>
+	<div id="player-div">
+		<div id="player"></div>
+		<div><label for="autoscroll">auto-scroll: </label>
+			<input type="checkbox" id="autoscroll" checked>
+		</div>
+	</div>
+  <div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_04</span><br>
+				<a href="#00:00:000.05" id="0.0" class="lt" onclick="jumptoTime(0, this.id)"> Hello</a><!--
+				--><a href="#00:00:000.21" id="0.2" class="lt" onclick="jumptoTime(0, this.id)"> there.</a><!--
+				--><a href="#00:00:000.51" id="0.6" class="lt" onclick="jumptoTime(0, this.id)"> We</a><!--
+				--><a href="#00:00:000.59" id="0.6" class="lt" onclick="jumptoTime(0, this.id)"> begin</a><!--
+				--><a href="#00:00:000.93" id="1.0" class="lt" onclick="jumptoTime(0, this.id)"> in</a><!--
+				--><a href="#00:00:001.25" id="1.2" class="lt" onclick="jumptoTime(1, this.id)"> the</a><!--
+				--><a href="#00:00:001.33" id="1.4" class="lt" onclick="jumptoTime(1, this.id)"> United</a><!--
+				--><a href="#00:00:001.59" id="1.6" class="lt" onclick="jumptoTime(1, this.id)"> States</a><!--
+				--><a href="#00:00:002.01" id="2.0" class="lt" onclick="jumptoTime(2, this.id)"> where</a><!--
+				--><a href="#00:00:002.23" id="2.2" class="lt" onclick="jumptoTime(2, this.id)"> time</a><!--
+				--><a href="#00:00:002.57" id="2.6" class="lt" onclick="jumptoTime(2, this.id)"> is</a><!--
+				--><a href="#00:00:002.83" id="2.8" class="lt" onclick="jumptoTime(2, this.id)"> ticking</a><!--
+				--><a href="#00:00:003.17" id="3.2" class="lt" onclick="jumptoTime(3, this.id)"> for</a><!--
+				--><a href="#00:00:003.59" id="3.6" class="lt" onclick="jumptoTime(3, this.id)"> TikTok.</a><!--
+				--><a href="#00:00:004.33" id="4.4" class="lt" onclick="jumptoTime(4, this.id)"> The</a><!--
+				--><a href="#00:00:004.53" id="4.6" class="lt" onclick="jumptoTime(4, this.id)"> chief</a><!--
+				--><a href="#00:00:004.89" id="4.8" class="lt" onclick="jumptoTime(4, this.id)"> of</a><!--
+				--><a href="#00:00:005.03" id="5.0" class="lt" onclick="jumptoTime(5, this.id)"> the</a><!--
+				--><a href="#00:00:005.19" id="5.2" class="lt" onclick="jumptoTime(5, this.id)"> social</a><!--
+				--><a href="#00:00:005.47" id="5.4" class="lt" onclick="jumptoTime(5, this.id)"> media</a><!--
+				--><a href="#00:00:005.87" id="5.8" class="lt" onclick="jumptoTime(5, this.id)"> app,</a><!--
+				--><a href="#00:00:006.63" id="6.6" class="lt" onclick="jumptoTime(6, this.id)"> Shozy</a><!--
+				--><a href="#00:00:007.01" id="7.0" class="lt" onclick="jumptoTime(7, this.id)"> Chu,</a><!--
+				--><a href="#00:00:007.65" id="7.6" class="lt" onclick="jumptoTime(7, this.id)"> was</a><!--
+				--><a href="#00:00:007.89" id="7.8" class="lt" onclick="jumptoTime(7, this.id)"> grilled</a><!--
+				--><a href="#00:00:008.57" id="8.6" class="lt" onclick="jumptoTime(8, this.id)"> by</a><!--
+				--><a href="#00:00:008.93" id="9.0" class="lt" onclick="jumptoTime(8, this.id)"> lawmakers</a><!--
+				--><a href="#00:00:009.39" id="9.4" class="lt" onclick="jumptoTime(9, this.id)"> over</a><!--
+				--><a href="#00:00:009.85" id="9.8" class="lt" onclick="jumptoTime(9, this.id)"> a</a><!--
+				--><a href="#00:00:010.21" id="10.2" class="lt" onclick="jumptoTime(10, this.id)"> whole</a><!--
+				--><a href="#00:00:010.37" id="10.4" class="lt" onclick="jumptoTime(10, this.id)"> range</a><!--
+				--><a href="#00:00:010.65" id="10.6" class="lt" onclick="jumptoTime(10, this.id)"> of</a><!--
+				--><a href="#00:00:010.79" id="10.8" class="lt" onclick="jumptoTime(10, this.id)"> issues,</a><!--
+				--><a href="#00:00:011.15" id="11.2" class="lt" onclick="jumptoTime(11, this.id)"> mostly</a><!--
+				--><a href="#00:00:011.39" id="11.4" class="lt" onclick="jumptoTime(11, this.id)"> related</a><!--
+				--><a href="#00:00:011.81" id="11.8" class="lt" onclick="jumptoTime(11, this.id)"> to</a><!--
+				--><a href="#00:00:012.53" id="12.6" class="lt" onclick="jumptoTime(12, this.id)"> the</a><!--
+				--><a href="#00:00:012.79" id="12.8" class="lt" onclick="jumptoTime(12, this.id)"> company's</a><!--
+				--><a href="#00:00:013.29" id="13.2" class="lt" onclick="jumptoTime(13, this.id)"> Chinese</a><!--
+				--><a href="#00:00:013.59" id="13.6" class="lt" onclick="jumptoTime(13, this.id)"> ownership.</a><!--
+				--><a href="#00:00:014.55" id="14.6" class="lt" onclick="jumptoTime(14, this.id)"> His</a><!--
+				--><a href="#00:00:014.75" id="14.8" class="lt" onclick="jumptoTime(14, this.id)"> appearance</a><!--
+				--><a href="#00:00:015.15" id="15.2" class="lt" onclick="jumptoTime(15, this.id)"> before</a><!--
+				--><a href="#00:00:015.69" id="15.6" class="lt" onclick="jumptoTime(15, this.id)"> the</a><!--
+				--><a href="#00:00:015.97" id="16.0" class="lt" onclick="jumptoTime(15, this.id)"> Congressional</a><!--
+				--><a href="#00:00:016.45" id="16.4" class="lt" onclick="jumptoTime(16, this.id)"> Committee</a><!--
+				--><a href="#00:00:016.79" id="16.8" class="lt" onclick="jumptoTime(16, this.id)"> comes</a><!--
+				--><a href="#00:00:017.29" id="17.2" class="lt" onclick="jumptoTime(17, this.id)"> after</a><!--
+				--><a href="#00:00:017.69" id="17.6" class="lt" onclick="jumptoTime(17, this.id)"> the</a><!--
+				--><a href="#00:00:017.83" id="17.8" class="lt" onclick="jumptoTime(17, this.id)"> Biden</a><!--
+				--><a href="#00:00:018.05" id="18.0" class="lt" onclick="jumptoTime(18, this.id)"> administration</a><!--
+				--><a href="#00:00:018.71" id="18.8" class="lt" onclick="jumptoTime(18, this.id)"> threatened</a><!--
+				--><a href="#00:00:019.43" id="19.4" class="lt" onclick="jumptoTime(19, this.id)"> to</a><!--
+				--><a href="#00:00:019.65" id="19.6" class="lt" onclick="jumptoTime(19, this.id)"> ban</a><!--
+				--><a href="#00:00:019.91" id="20.0" class="lt" onclick="jumptoTime(19, this.id)"> the</a><!--
+				--><a href="#00:00:020.09" id="20.0" class="lt" onclick="jumptoTime(20, this.id)"> social</a><!--
+				--><a href="#00:00:020.37" id="20.4" class="lt" onclick="jumptoTime(20, this.id)"> media</a><!--
+				--><a href="#00:00:020.65" id="20.6" class="lt" onclick="jumptoTime(20, this.id)"> app</a><!--
+				--><a href="#00:00:021.01" id="21.0" class="lt" onclick="jumptoTime(21, this.id)"> if</a><!--
+				--><a href="#00:00:021.15" id="21.2" class="lt" onclick="jumptoTime(21, this.id)"> the</a><!--
+				--><a href="#00:00:021.31" id="21.4" class="lt" onclick="jumptoTime(21, this.id)"> company's</a><!--
+				--><a href="#00:00:021.85" id="21.8" class="lt" onclick="jumptoTime(21, this.id)"> Chinese</a><!--
+				--><a href="#00:00:022.13" id="22.2" class="lt" onclick="jumptoTime(22, this.id)"> owners</a><!--
+				--><a href="#00:00:022.51" id="22.6" class="lt" onclick="jumptoTime(22, this.id)"> didn't</a><!--
+				--><a href="#00:00:022.87" id="22.8" class="lt" onclick="jumptoTime(22, this.id)"> sell</a><!--
+				--><a href="#00:00:023.17" id="23.2" class="lt" onclick="jumptoTime(23, this.id)"> their</a><!--
+				--><a href="#00:00:023.41" id="23.4" class="lt" onclick="jumptoTime(23, this.id)"> shares.</a><!--
+				--><a href="#00:00:024.47" id="24.4" class="lt" onclick="jumptoTime(24, this.id)"> TikTok</a><!--
+				--><a href="#00:00:024.73" id="24.8" class="lt" onclick="jumptoTime(24, this.id)"> is</a><!--
+				--><a href="#00:00:025.21" id="25.2" class="lt" onclick="jumptoTime(25, this.id)"> wildly</a><!--
+				--><a href="#00:00:025.75" id="25.8" class="lt" onclick="jumptoTime(25, this.id)"> popular</a><!--
+				--><a href="#00:00:026.11" id="26.2" class="lt" onclick="jumptoTime(26, this.id)"> in</a><!--
+				--><a href="#00:00:026.39" id="26.4" class="lt" onclick="jumptoTime(26, this.id)"> the</a><!--
+				--><a href="#00:00:026.57" id="26.6" class="lt" onclick="jumptoTime(26, this.id)"> States.</a><!--
+				--><a href="#00:00:026.87" id="26.8" class="lt" onclick="jumptoTime(26, this.id)"> It's</a><!--
+				--><a href="#00:00:027.15" id="27.2" class="lt" onclick="jumptoTime(27, this.id)"> got</a><!--
+				--><a href="#00:00:027.31" id="27.4" class="lt" onclick="jumptoTime(27, this.id)"> over</a><!--
+				--><a href="#00:00:027.55" id="27.6" class="lt" onclick="jumptoTime(27, this.id)"> 150</a><!--
+				--><a href="#00:00:028.21" id="28.2" class="lt" onclick="jumptoTime(28, this.id)"> million</a><!--
+				--><a href="#00:00:028.79" id="28.8" class="lt" onclick="jumptoTime(28, this.id)"> American</a><!--
+				--><a href="#00:00:029.15" id="29.2" class="lt" onclick="jumptoTime(29, this.id)"> users,</a><!--
+				--><a href="#00:00:029.99" id="30.0" class="lt" onclick="jumptoTime(29, this.id)"> including</a><!--
+				--><a href="#00:00:030.41" id="30.4" class="lt" onclick="jumptoTime(30, this.id)"> almost</a><!--
+				--><a href="#00:00:030.93" id="31.0" class="lt" onclick="jumptoTime(30, this.id)"> 5</a><!--
+				--><a href="#00:00:031.29" id="31.2" class="lt" onclick="jumptoTime(31, this.id)"> million</a><!--
+				--><a href="#00:00:031.55" id="31.6" class="lt" onclick="jumptoTime(31, this.id)"> businesses.</a><!--
+				--><a href="#00:00:032.63" id="32.6" class="lt" onclick="jumptoTime(32, this.id)"> Well,</a><!--
+				--><a href="#00:00:032.79" id="32.8" class="lt" onclick="jumptoTime(32, this.id)"> our</a><!--
+				--><a href="#00:00:032.85" id="32.8" class="lt" onclick="jumptoTime(32, this.id)"> North</a><!--
+				--><a href="#00:00:033.01" id="33.0" class="lt" onclick="jumptoTime(33, this.id)"> America</a><!--
+				--><a href="#00:00:033.37" id="33.4" class="lt" onclick="jumptoTime(33, this.id)"> business</a><!--
+				--><a href="#00:00:033.75" id="33.8" class="lt" onclick="jumptoTime(33, this.id)"> correspondent,</a><!--
+				--><a href="#00:00:034.33" id="34.4" class="lt" onclick="jumptoTime(34, this.id)"> Michelle</a><!--
+				--><a href="#00:00:034.53" id="34.6" class="lt" onclick="jumptoTime(34, this.id)"> Flurry,</a><!--
+				--><a href="#00:00:035.11" id="35.2" class="lt" onclick="jumptoTime(35, this.id)"> has</a><!--
+				--><a href="#00:00:035.19" id="35.2" class="lt" onclick="jumptoTime(35, this.id)"> been</a><!--
+				--><a href="#00:00:035.35" id="35.4" class="lt" onclick="jumptoTime(35, this.id)"> following</a><!--
+				--><a href="#00:00:035.69" id="35.6" class="lt" onclick="jumptoTime(35, this.id)"> the</a><!--
+				--><a href="#00:00:035.91" id="36.0" class="lt" onclick="jumptoTime(35, this.id)"> story</a><!--
+				--><a href="#00:00:036.21" id="36.2" class="lt" onclick="jumptoTime(36, this.id)"> from</a><!--
+				--><a href="#00:00:036.45" id="36.4" class="lt" onclick="jumptoTime(36, this.id)"> Washington,</a><!--
+				--><a href="#00:00:037.07" id="37.0" class="lt" onclick="jumptoTime(37, this.id)"> D</a><!--
+				--><a href="#00:00:037.13" id="37.2" class="lt" onclick="jumptoTime(37, this.id)">.C.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_05</span><br>
+				<a href="#00:00:038.51" id="38.6" class="lt" onclick="jumptoTime(38, this.id)"> It</a><!--
+				--><a href="#00:00:038.65" id="38.6" class="lt" onclick="jumptoTime(38, this.id)"> was</a><!--
+				--><a href="#00:00:038.79" id="38.8" class="lt" onclick="jumptoTime(38, this.id)"> never</a><!--
+				--><a href="#00:00:038.97" id="39.0" class="lt" onclick="jumptoTime(38, this.id)"> going</a><!--
+				--><a href="#00:00:039.15" id="39.2" class="lt" onclick="jumptoTime(39, this.id)"> to</a><!--
+				--><a href="#00:00:039.21" id="39.2" class="lt" onclick="jumptoTime(39, this.id)"> be</a><!--
+				--><a href="#00:00:039.35" id="39.4" class="lt" onclick="jumptoTime(39, this.id)"> easy,</a><!--
+				--><a href="#00:00:039.89" id="39.8" class="lt" onclick="jumptoTime(39, this.id)"> but</a><!--
+				--><a href="#00:00:039.97" id="40.0" class="lt" onclick="jumptoTime(39, this.id)"> from</a><!--
+				--><a href="#00:00:040.13" id="40.2" class="lt" onclick="jumptoTime(40, this.id)"> the</a><!--
+				--><a href="#00:00:040.27" id="40.2" class="lt" onclick="jumptoTime(40, this.id)"> moment</a><!--
+				--><a href="#00:00:040.57" id="40.6" class="lt" onclick="jumptoTime(40, this.id)"> the</a><!--
+				--><a href="#00:00:040.75" id="40.8" class="lt" onclick="jumptoTime(40, this.id)"> committee</a><!--
+				--><a href="#00:00:041.03" id="41.0" class="lt" onclick="jumptoTime(41, this.id)"> chairman</a><!--
+				--><a href="#00:00:041.45" id="41.4" class="lt" onclick="jumptoTime(41, this.id)"> opened</a><!--
+				--><a href="#00:00:042.19" id="42.2" class="lt" onclick="jumptoTime(42, this.id)"> the</a><!--
+				--><a href="#00:00:042.37" id="42.4" class="lt" onclick="jumptoTime(42, this.id)"> hearing</a><!--
+				--><a href="#00:00:042.63" id="42.6" class="lt" onclick="jumptoTime(42, this.id)"> calling</a><!--
+				--><a href="#00:00:042.99" id="43.0" class="lt" onclick="jumptoTime(42, this.id)"> for</a><!--
+				--><a href="#00:00:043.25" id="43.2" class="lt" onclick="jumptoTime(43, this.id)"> TikTok</a><!--
+				--><a href="#00:00:043.53" id="43.6" class="lt" onclick="jumptoTime(43, this.id)"> to</a><!--
+				--><a href="#00:00:043.77" id="43.8" class="lt" onclick="jumptoTime(43, this.id)"> be</a><!--
+				--><a href="#00:00:043.89" id="43.8" class="lt" onclick="jumptoTime(43, this.id)"> banned</a><!--
+				--><a href="#00:00:044.11" id="44.2" class="lt" onclick="jumptoTime(44, this.id)"> in</a><!--
+				--><a href="#00:00:044.25" id="44.2" class="lt" onclick="jumptoTime(44, this.id)"> the</a><!--
+				--><a href="#00:00:044.35" id="44.4" class="lt" onclick="jumptoTime(44, this.id)"> United</a><!--
+				--><a href="#00:00:044.63" id="44.6" class="lt" onclick="jumptoTime(44, this.id)"> States,</a><!--
+				--><a href="#00:00:045.55" id="45.6" class="lt" onclick="jumptoTime(45, this.id)"> there</a><!--
+				--><a href="#00:00:045.65" id="45.6" class="lt" onclick="jumptoTime(45, this.id)"> was</a><!--
+				--><a href="#00:00:045.79" id="45.8" class="lt" onclick="jumptoTime(45, this.id)"> no</a><!--
+				--><a href="#00:00:045.99" id="46.0" class="lt" onclick="jumptoTime(45, this.id)"> let</a><!--
+				--><a href="#00:00:046.23" id="46.2" class="lt" onclick="jumptoTime(46, this.id)"> up.</a><!--
+				--><a href="#00:00:046.51" id="46.6" class="lt" onclick="jumptoTime(46, this.id)"> TikTok</a><!--
+				--><a href="#00:00:046.71" id="46.8" class="lt" onclick="jumptoTime(46, this.id)"> CEO,</a><!--
+				--><a href="#00:00:047.81" id="47.8" class="lt" onclick="jumptoTime(47, this.id)"> Shoji</a><!--
+				--><a href="#00:00:048.19" id="48.2" class="lt" onclick="jumptoTime(48, this.id)"> Chu,</a><!--
+				--><a href="#00:00:048.83" id="48.8" class="lt" onclick="jumptoTime(48, this.id)"> was</a><!--
+				--><a href="#00:00:048.99" id="49.0" class="lt" onclick="jumptoTime(48, this.id)"> bombarded</a><!--
+				--><a href="#00:00:049.67" id="49.6" class="lt" onclick="jumptoTime(49, this.id)"> by</a><!--
+				--><a href="#00:00:049.95" id="50.0" class="lt" onclick="jumptoTime(49, this.id)"> lawmakers,</a><!--
+				--><a href="#00:00:050.59" id="50.6" class="lt" onclick="jumptoTime(50, this.id)"> worried</a><!--
+				--><a href="#00:00:050.85" id="50.8" class="lt" onclick="jumptoTime(50, this.id)"> that</a><!--
+				--><a href="#00:00:051.05" id="51.0" class="lt" onclick="jumptoTime(51, this.id)"> the</a><!--
+				--><a href="#00:00:051.17" id="51.2" class="lt" onclick="jumptoTime(51, this.id)"> app's</a><!--
+				--><a href="#00:00:051.49" id="51.4" class="lt" onclick="jumptoTime(51, this.id)"> Chinese</a><!--
+				--><a href="#00:00:051.93" id="52.0" class="lt" onclick="jumptoTime(51, this.id)"> ownership</a><!--
+				--><a href="#00:00:052.49" id="52.4" class="lt" onclick="jumptoTime(52, this.id)"> makes</a><!--
+				--><a href="#00:00:053.17" id="53.2" class="lt" onclick="jumptoTime(53, this.id)"> it</a><!--
+				--><a href="#00:00:053.33" id="53.4" class="lt" onclick="jumptoTime(53, this.id)"> untrustworthy</a><!--
+				--><a href="#00:00:054.29" id="54.2" class="lt" onclick="jumptoTime(54, this.id)"> and</a><!--
+				--><a href="#00:00:054.85" id="54.8" class="lt" onclick="jumptoTime(54, this.id)"> that</a><!--
+				--><a href="#00:00:054.99" id="55.0" class="lt" onclick="jumptoTime(54, this.id)"> it</a><!--
+				--><a href="#00:00:055.11" id="55.2" class="lt" onclick="jumptoTime(55, this.id)"> is</a><!--
+				--><a href="#00:00:055.29" id="55.2" class="lt" onclick="jumptoTime(55, this.id)"> harmful</a><!--
+				--><a href="#00:00:055.77" id="55.8" class="lt" onclick="jumptoTime(55, this.id)"> to</a><!--
+				--><a href="#00:00:056.27" id="56.2" class="lt" onclick="jumptoTime(56, this.id)"> American</a><!--
+				--><a href="#00:00:056.75" id="56.8" class="lt" onclick="jumptoTime(56, this.id)"> teenagers.</a><!--
+				--><a href="#00:00:058.23" id="58.2" class="lt" onclick="jumptoTime(58, this.id)"> Politicians</a><!--
+				--><a href="#00:00:058.79" id="58.8" class="lt" onclick="jumptoTime(58, this.id)"> of</a><!--
+				--><a href="#00:00:059.05" id="59.0" class="lt" onclick="jumptoTime(59, this.id)"> all</a><!--
+				--><a href="#00:00:059.43" id="59.4" class="lt" onclick="jumptoTime(59, this.id)"> stripes</a><!--
+				--><a href="#00:00:059.71" id="59.8" class="lt" onclick="jumptoTime(59, this.id)"> slammed</a><!--
+				--><a href="#00:01:000.25" id="60.2" class="lt" onclick="jumptoTime(60, this.id)"> TikTok,</a><!--
+				--><a href="#00:01:001.19" id="61.2" class="lt" onclick="jumptoTime(61, this.id)"> including</a><!--
+				--><a href="#00:01:001.61" id="61.6" class="lt" onclick="jumptoTime(61, this.id)"> Republican</a><!--
+				--><a href="#00:01:002.21" id="62.2" class="lt" onclick="jumptoTime(62, this.id)"> representative,</a><!--
+				--><a href="#00:01:003.27" id="63.2" class="lt" onclick="jumptoTime(63, this.id)"> Buddy</a><!--
+				--><a href="#00:01:003.43" id="63.4" class="lt" onclick="jumptoTime(63, this.id)"> Hsu.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_06</span><br>
+				<a href="#00:01:003.45" id="63.4" class="lt" onclick="jumptoTime(63, this.id)"> The</a><!--
+				--><a href="#00:01:004.39" id="64.4" class="lt" onclick="jumptoTime(64, this.id)"> Chinese</a><!--
+				--><a href="#00:01:005.17" id="65.2" class="lt" onclick="jumptoTime(65, this.id)"> Communist</a><!--
+				--><a href="#00:01:005.59" id="65.6" class="lt" onclick="jumptoTime(65, this.id)"> Party</a><!--
+				--><a href="#00:01:005.89" id="65.8" class="lt" onclick="jumptoTime(65, this.id)"> is</a><!--
+				--><a href="#00:01:006.09" id="66.0" class="lt" onclick="jumptoTime(66, this.id)"> engaged</a><!--
+				--><a href="#00:01:006.63" id="66.6" class="lt" onclick="jumptoTime(66, this.id)"> in</a><!--
+				--><a href="#00:01:006.85" id="66.8" class="lt" onclick="jumptoTime(66, this.id)"> psychological</a><!--
+				--><a href="#00:01:007.57" id="67.6" class="lt" onclick="jumptoTime(67, this.id)"> warfare</a><!--
+				--><a href="#00:01:008.33" id="68.4" class="lt" onclick="jumptoTime(68, this.id)"> through</a><!--
+				--><a href="#00:01:009.51" id="69.6" class="lt" onclick="jumptoTime(69, this.id)"> TikTok</a><!--
+				--><a href="#00:01:009.99" id="70.0" class="lt" onclick="jumptoTime(69, this.id)"> to</a><!--
+				--><a href="#00:01:010.75" id="70.8" class="lt" onclick="jumptoTime(70, this.id)"> deliberately</a><!--
+				--><a href="#00:01:011.31" id="71.4" class="lt" onclick="jumptoTime(71, this.id)"> influence</a><!--
+				--><a href="#00:01:012.29" id="72.2" class="lt" onclick="jumptoTime(72, this.id)"> US</a><!--
+				--><a href="#00:01:013.17" id="73.2" class="lt" onclick="jumptoTime(73, this.id)"> children.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_05</span><br>
+				<a href="#00:01:014.45" id="74.4" class="lt" onclick="jumptoTime(74, this.id)"> Out</a><!--
+				--><a href="#00:01:014.67" id="74.6" class="lt" onclick="jumptoTime(74, this.id)"> of</a><!--
+				--><a href="#00:01:014.77" id="74.8" class="lt" onclick="jumptoTime(74, this.id)"> the</a><!--
+				--><a href="#00:01:014.89" id="74.8" class="lt" onclick="jumptoTime(74, this.id)"> gate,</a><!--
+				--><a href="#00:01:015.23" id="75.2" class="lt" onclick="jumptoTime(75, this.id)"> the</a><!--
+				--><a href="#00:01:015.29" id="75.2" class="lt" onclick="jumptoTime(75, this.id)"> Singaporean</a><!--
+				--><a href="#00:01:015.89" id="75.8" class="lt" onclick="jumptoTime(75, this.id)"> boss</a><!--
+				--><a href="#00:01:016.19" id="76.2" class="lt" onclick="jumptoTime(76, this.id)"> of</a><!--
+				--><a href="#00:01:016.37" id="76.4" class="lt" onclick="jumptoTime(76, this.id)"> TikTok</a><!--
+				--><a href="#00:01:016.73" id="76.8" class="lt" onclick="jumptoTime(76, this.id)"> sought</a><!--
+				--><a href="#00:01:017.03" id="77.0" class="lt" onclick="jumptoTime(77, this.id)"> to</a><!--
+				--><a href="#00:01:017.23" id="77.2" class="lt" onclick="jumptoTime(77, this.id)"> push</a><!--
+				--><a href="#00:01:017.47" id="77.4" class="lt" onclick="jumptoTime(77, this.id)"> back</a><!--
+				--><a href="#00:01:017.81" id="77.8" class="lt" onclick="jumptoTime(77, this.id)"> against</a><!--
+				--><a href="#00:01:018.45" id="78.4" class="lt" onclick="jumptoTime(78, this.id)"> this</a><!--
+				--><a href="#00:01:018.71" id="78.8" class="lt" onclick="jumptoTime(78, this.id)"> characterisation.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:01:020.04" id="80.0" class="lt" onclick="jumptoTime(80, this.id)"> I</a><!--
+				--><a href="#00:01:020.14" id="80.2" class="lt" onclick="jumptoTime(80, this.id)"> would</a><!--
+				--><a href="#00:01:020.22" id="80.2" class="lt" onclick="jumptoTime(80, this.id)"> also</a><!--
+				--><a href="#00:01:020.42" id="80.4" class="lt" onclick="jumptoTime(80, this.id)"> like</a><!--
+				--><a href="#00:01:020.60" id="80.6" class="lt" onclick="jumptoTime(80, this.id)"> to</a><!--
+				--><a href="#00:01:020.70" id="80.6" class="lt" onclick="jumptoTime(80, this.id)"> talk</a><!--
+				--><a href="#00:01:020.86" id="80.8" class="lt" onclick="jumptoTime(80, this.id)"> about</a><!--
+				--><a href="#00:01:021.00" id="81.0" class="lt" onclick="jumptoTime(80, this.id)"> national</a><!--
+				--><a href="#00:01:021.34" id="81.4" class="lt" onclick="jumptoTime(81, this.id)"> security</a><!--
+				--><a href="#00:01:021.70" id="81.6" class="lt" onclick="jumptoTime(81, this.id)"> concerns</a><!--
+				--><a href="#00:01:022.22" id="82.2" class="lt" onclick="jumptoTime(82, this.id)"> that</a><!--
+				--><a href="#00:01:022.58" id="82.6" class="lt" onclick="jumptoTime(82, this.id)"> you</a><!--
+				--><a href="#00:01:022.72" id="82.8" class="lt" onclick="jumptoTime(82, this.id)"> have</a><!--
+				--><a href="#00:01:022.90" id="82.8" class="lt" onclick="jumptoTime(82, this.id)"> raised,</a><!--
+				--><a href="#00:01:023.78" id="83.8" class="lt" onclick="jumptoTime(83, this.id)"> that</a><!--
+				--><a href="#00:01:023.94" id="84.0" class="lt" onclick="jumptoTime(83, this.id)"> we</a><!--
+				--><a href="#00:01:024.14" id="84.2" class="lt" onclick="jumptoTime(84, this.id)"> take</a><!--
+				--><a href="#00:01:024.48" id="84.4" class="lt" onclick="jumptoTime(84, this.id)"> very,</a><!--
+				--><a href="#00:01:025.52" id="85.6" class="lt" onclick="jumptoTime(85, this.id)"> very</a><!--
+				--><a href="#00:01:025.86" id="85.8" class="lt" onclick="jumptoTime(85, this.id)"> seriously.</a><!--
+				--><a href="#00:01:027.52" id="87.6" class="lt" onclick="jumptoTime(87, this.id)"> Let</a><!--
+				--><a href="#00:01:027.88" id="87.8" class="lt" onclick="jumptoTime(87, this.id)"> me</a><!--
+				--><a href="#00:01:027.98" id="88.0" class="lt" onclick="jumptoTime(87, this.id)"> start</a><!--
+				--><a href="#00:01:028.24" id="88.2" class="lt" onclick="jumptoTime(88, this.id)"> by</a><!--
+				--><a href="#00:01:028.42" id="88.4" class="lt" onclick="jumptoTime(88, this.id)"> addressing</a><!--
+				--><a href="#00:01:028.74" id="88.8" class="lt" onclick="jumptoTime(88, this.id)"> a</a><!--
+				--><a href="#00:01:028.96" id="89.0" class="lt" onclick="jumptoTime(88, this.id)"> few</a><!--
+				--><a href="#00:01:029.12" id="89.2" class="lt" onclick="jumptoTime(89, this.id)"> misconceptions</a><!--
+				--><a href="#00:01:029.66" id="89.6" class="lt" onclick="jumptoTime(89, this.id)"> about</a><!--
+				--><a href="#00:01:030.14" id="90.2" class="lt" onclick="jumptoTime(90, this.id)"> ByteDance,</a><!--
+				--><a href="#00:01:031.04" id="91.0" class="lt" onclick="jumptoTime(91, this.id)"> of</a><!--
+				--><a href="#00:01:031.26" id="91.2" class="lt" onclick="jumptoTime(91, this.id)"> which</a><!--
+				--><a href="#00:01:031.44" id="91.4" class="lt" onclick="jumptoTime(91, this.id)"> we</a><!--
+				--><a href="#00:01:031.62" id="91.6" class="lt" onclick="jumptoTime(91, this.id)"> are</a><!--
+				--><a href="#00:01:031.76" id="91.8" class="lt" onclick="jumptoTime(91, this.id)"> a</a><!--
+				--><a href="#00:01:031.88" id="91.8" class="lt" onclick="jumptoTime(91, this.id)"> subsidiary.</a><!--
+				--><a href="#00:01:034.02" id="94.0" class="lt" onclick="jumptoTime(94, this.id)"> ByteDance</a><!--
+				--><a href="#00:01:034.54" id="94.6" class="lt" onclick="jumptoTime(94, this.id)"> is</a><!--
+				--><a href="#00:01:034.88" id="94.8" class="lt" onclick="jumptoTime(94, this.id)"> not</a><!--
+				--><a href="#00:01:035.22" id="95.2" class="lt" onclick="jumptoTime(95, this.id)"> owned</a><!--
+				--><a href="#00:01:035.54" id="95.6" class="lt" onclick="jumptoTime(95, this.id)"> or</a><!--
+				--><a href="#00:01:036.00" id="96.0" class="lt" onclick="jumptoTime(95, this.id)"> controlled</a><!--
+				--><a href="#00:01:036.40" id="96.4" class="lt" onclick="jumptoTime(96, this.id)"> by</a><!--
+				--><a href="#00:01:036.86" id="96.8" class="lt" onclick="jumptoTime(96, this.id)"> the</a><!--
+				--><a href="#00:01:037.02" id="97.0" class="lt" onclick="jumptoTime(97, this.id)"> Chinese</a><!--
+				--><a href="#00:01:037.34" id="97.4" class="lt" onclick="jumptoTime(97, this.id)"> government.</a><!--
+				--><a href="#00:01:038.44" id="98.4" class="lt" onclick="jumptoTime(98, this.id)"> It's</a><!--
+				--><a href="#00:01:038.64" id="98.6" class="lt" onclick="jumptoTime(98, this.id)"> a</a><!--
+				--><a href="#00:01:038.76" id="98.8" class="lt" onclick="jumptoTime(98, this.id)"> private</a><!--
+				--><a href="#00:01:038.96" id="99.0" class="lt" onclick="jumptoTime(98, this.id)"> company.</a><!--
+				--><a href="#00:01:040.10" id="100.0" class="lt" onclick="jumptoTime(100, this.id)"> 60</a><!--
+				--><a href="#00:01:040.42" id="100.4" class="lt" onclick="jumptoTime(100, this.id)">%</a><!--
+				--><a href="#00:01:040.68" id="100.6" class="lt" onclick="jumptoTime(100, this.id)"> of</a><!--
+				--><a href="#00:01:040.88" id="100.8" class="lt" onclick="jumptoTime(100, this.id)"> the</a><!--
+				--><a href="#00:01:041.02" id="101.0" class="lt" onclick="jumptoTime(101, this.id)"> company</a><!--
+				--><a href="#00:01:041.30" id="101.2" class="lt" onclick="jumptoTime(101, this.id)"> is</a><!--
+				--><a href="#00:01:041.68" id="101.6" class="lt" onclick="jumptoTime(101, this.id)"> owned</a><!--
+				--><a href="#00:01:041.86" id="101.8" class="lt" onclick="jumptoTime(101, this.id)"> by</a><!--
+				--><a href="#00:01:042.00" id="102.0" class="lt" onclick="jumptoTime(101, this.id)"> global</a><!--
+				--><a href="#00:01:042.36" id="102.4" class="lt" onclick="jumptoTime(102, this.id)"> institutional</a><!--
+				--><a href="#00:01:042.90" id="102.8" class="lt" onclick="jumptoTime(102, this.id)"> investors,</a><!--
+				--><a href="#00:01:044.06" id="104.0" class="lt" onclick="jumptoTime(104, this.id)"> 20</a><!--
+				--><a href="#00:01:044.42" id="104.4" class="lt" onclick="jumptoTime(104, this.id)">%</a><!--
+				--><a href="#00:01:044.66" id="104.6" class="lt" onclick="jumptoTime(104, this.id)"> is</a><!--
+				--><a href="#00:01:044.84" id="104.8" class="lt" onclick="jumptoTime(104, this.id)"> owned</a><!--
+				--><a href="#00:01:044.94" id="105.0" class="lt" onclick="jumptoTime(104, this.id)"> by</a><!--
+				--><a href="#00:01:045.06" id="105.0" class="lt" onclick="jumptoTime(105, this.id)"> the</a><!--
+				--><a href="#00:01:045.24" id="105.2" class="lt" onclick="jumptoTime(105, this.id)"> founder,</a><!--
+				--><a href="#00:01:045.98" id="106.0" class="lt" onclick="jumptoTime(105, this.id)"> and</a><!--
+				--><a href="#00:01:046.10" id="106.0" class="lt" onclick="jumptoTime(106, this.id)"> 20</a><!--
+				--><a href="#00:01:046.36" id="106.4" class="lt" onclick="jumptoTime(106, this.id)">%</a><!--
+				--><a href="#00:01:046.64" id="106.6" class="lt" onclick="jumptoTime(106, this.id)"> owned</a><!--
+				--><a href="#00:01:046.80" id="106.8" class="lt" onclick="jumptoTime(106, this.id)"> by</a><!--
+				--><a href="#00:01:046.94" id="107.0" class="lt" onclick="jumptoTime(106, this.id)"> employees</a><!--
+				--><a href="#00:01:047.34" id="107.4" class="lt" onclick="jumptoTime(107, this.id)"> around</a><!--
+				--><a href="#00:01:047.68" id="107.6" class="lt" onclick="jumptoTime(107, this.id)"> the</a><!--
+				--><a href="#00:01:047.88" id="107.8" class="lt" onclick="jumptoTime(107, this.id)"> world.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_05</span><br>
+				<a href="#00:01:048.50" id="108.6" class="lt" onclick="jumptoTime(108, this.id)"> But</a><!--
+				--><a href="#00:01:048.70" id="108.8" class="lt" onclick="jumptoTime(108, this.id)"> lawmakers</a><!--
+				--><a href="#00:01:049.25" id="109.2" class="lt" onclick="jumptoTime(109, this.id)"> remain</a><!--
+				--><a href="#00:01:049.75" id="109.8" class="lt" onclick="jumptoTime(109, this.id)"> sceptical,</a><!--
+				--><a href="#00:01:050.58" id="110.6" class="lt" onclick="jumptoTime(110, this.id)"> leading</a><!--
+				--><a href="#00:01:050.83" id="110.8" class="lt" onclick="jumptoTime(110, this.id)"> to</a><!--
+				--><a href="#00:01:051.25" id="111.2" class="lt" onclick="jumptoTime(111, this.id)"> some</a><!--
+				--><a href="#00:01:051.44" id="111.4" class="lt" onclick="jumptoTime(111, this.id)"> contentious</a><!--
+				--><a href="#00:01:052.11" id="112.2" class="lt" onclick="jumptoTime(112, this.id)"> exchanges</a><!--
+				--><a href="#00:01:052.64" id="112.6" class="lt" onclick="jumptoTime(112, this.id)"> like</a><!--
+				--><a href="#00:01:053.20" id="113.2" class="lt" onclick="jumptoTime(113, this.id)"> this</a><!--
+				--><a href="#00:01:053.42" id="113.4" class="lt" onclick="jumptoTime(113, this.id)"> one.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:01:053.74" id="113.8" class="lt" onclick="jumptoTime(113, this.id)"> Have</a><!--
+				--><a href="#00:01:053.96" id="114.0" class="lt" onclick="jumptoTime(113, this.id)"> you</a><!--
+				--><a href="#00:01:054.10" id="114.0" class="lt" onclick="jumptoTime(114, this.id)"> directed</a><!--
+				--><a href="#00:01:054.56" id="114.6" class="lt" onclick="jumptoTime(114, this.id)"> them</a><!--
+				--><a href="#00:01:054.84" id="114.8" class="lt" onclick="jumptoTime(114, this.id)"> to</a><!--
+				--><a href="#00:01:055.00" id="115.0" class="lt" onclick="jumptoTime(114, this.id)"> change</a><!--
+				--><a href="#00:01:055.32" id="115.4" class="lt" onclick="jumptoTime(115, this.id)"> that</a><!--
+				--><a href="#00:01:055.56" id="115.6" class="lt" onclick="jumptoTime(115, this.id)"> source</a><!--
+				--><a href="#00:01:055.84" id="115.8" class="lt" onclick="jumptoTime(115, this.id)"> code?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkorange;font-weight: bold;">Call Center</span><br>
+				<a href="#00:01:056.35" id="116.4" class="lt" onclick="jumptoTime(116, this.id)"> Congressman,</a><!--
+				--><a href="#00:01:056.89" id="116.8" class="lt" onclick="jumptoTime(116, this.id)"> if</a><!--
+				--><a href="#00:01:057.09" id="117.0" class="lt" onclick="jumptoTime(117, this.id)"> you</a><!--
+				--><a href="#00:01:057.17" id="117.2" class="lt" onclick="jumptoTime(117, this.id)"> give</a><!--
+				--><a href="#00:01:057.29" id="117.2" class="lt" onclick="jumptoTime(117, this.id)"> me</a><!--
+				--><a href="#00:01:057.43" id="117.4" class="lt" onclick="jumptoTime(117, this.id)"> a</a><!--
+				--><a href="#00:01:057.53" id="117.6" class="lt" onclick="jumptoTime(117, this.id)"> bit</a><!--
+				--><a href="#00:01:057.65" id="117.6" class="lt" onclick="jumptoTime(117, this.id)"> of</a><!--
+				--><a href="#00:01:057.75" id="117.8" class="lt" onclick="jumptoTime(117, this.id)"> time</a><!--
+				--><a href="#00:01:057.97" id="118.0" class="lt" onclick="jumptoTime(117, this.id)"> to</a><!--
+				--><a href="#00:01:058.17" id="118.2" class="lt" onclick="jumptoTime(118, this.id)"> just...</a><!--
+				--><a href="#00:01:058.55" id="118.6" class="lt" onclick="jumptoTime(118, this.id)"> No.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: #e1ffc7">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:darkgreen;font-weight: bold;">Customer</span><br>
+				<a href="#00:01:058.39" id="118.4" class="lt" onclick="jumptoTime(118, this.id)"> No,</a><!--
+				--><a href="#00:01:058.83" id="118.8" class="lt" onclick="jumptoTime(118, this.id)"> I</a><!--
+				--><a href="#00:01:058.95" id="119.0" class="lt" onclick="jumptoTime(118, this.id)"> don't.</a><!--
+				--><a href="#00:01:059.51" id="119.6" class="lt" onclick="jumptoTime(119, this.id)"> It's</a><!--
+				--><a href="#00:01:059.79" id="119.8" class="lt" onclick="jumptoTime(119, this.id)"> a</a><!--
+				--><a href="#00:01:059.87" id="119.8" class="lt" onclick="jumptoTime(119, this.id)"> yes</a><!--
+				--><a href="#00:02:000.05" id="120.0" class="lt" onclick="jumptoTime(120, this.id)"> or</a><!--
+				--><a href="#00:02:000.15" id="120.2" class="lt" onclick="jumptoTime(120, this.id)"> no</a><!--
+				--><a href="#00:02:000.27" id="120.2" class="lt" onclick="jumptoTime(120, this.id)"> question.</a><!--
+				--><a href="#00:02:000.71" id="120.8" class="lt" onclick="jumptoTime(120, this.id)"> Have</a><!--
+				--><a href="#00:02:000.81" id="120.8" class="lt" onclick="jumptoTime(120, this.id)"> you</a><!--
+				--><a href="#00:02:000.93" id="121.0" class="lt" onclick="jumptoTime(120, this.id)"> directed</a><!--
+				--><a href="#00:02:001.29" id="121.2" class="lt" onclick="jumptoTime(121, this.id)"> your</a><!--
+				--><a href="#00:02:001.57" id="121.6" class="lt" onclick="jumptoTime(121, this.id)"> engineers</a><!--
+				--><a href="#00:02:001.99" id="122.0" class="lt" onclick="jumptoTime(121, this.id)"> to</a><!--
+				--><a href="#00:02:002.29" id="122.2" class="lt" onclick="jumptoTime(122, this.id)"> change</a><!--
+				--><a href="#00:02:002.57" id="122.6" class="lt" onclick="jumptoTime(122, this.id)"> that</a><!--
+				--><a href="#00:02:002.75" id="122.8" class="lt" onclick="jumptoTime(122, this.id)"> source</a><!--
+				--><a href="#00:02:003.01" id="123.0" class="lt" onclick="jumptoTime(123, this.id)"> code?</a><!--
+				--><a href="#00:02:003.67" id="123.6" class="lt" onclick="jumptoTime(123, this.id)"> I'm</a><!--
+				--><a href="#00:02:004.29" id="124.2" class="lt" onclick="jumptoTime(124, this.id)"> not</a><!--
+				--><a href="#00:02:004.57" id="124.6" class="lt" onclick="jumptoTime(124, this.id)"> sure</a><!--
+				--><a href="#00:02:004.69" id="124.6" class="lt" onclick="jumptoTime(124, this.id)"> I</a><!--
+				--><a href="#00:02:004.81" id="124.8" class="lt" onclick="jumptoTime(124, this.id)"> understand.</a><!--
+				--><a href="#00:02:005.19" id="125.2" class="lt" onclick="jumptoTime(125, this.id)"> Why</a><!--
+				--><a href="#00:02:005.37" id="125.4" class="lt" onclick="jumptoTime(125, this.id)"> are</a><!--
+				--><a href="#00:02:005.57" id="125.6" class="lt" onclick="jumptoTime(125, this.id)"> you</a><!--
+				--><a href="#00:02:005.77" id="125.8" class="lt" onclick="jumptoTime(125, this.id)"> allowing</a><!--
+				--><a href="#00:02:006.33" id="126.4" class="lt" onclick="jumptoTime(126, this.id)"> TikTok</a><!--
+				--><a href="#00:02:006.83" id="126.8" class="lt" onclick="jumptoTime(126, this.id)"> to</a><!--
+				--><a href="#00:02:007.29" id="127.2" class="lt" onclick="jumptoTime(127, this.id)"> continue</a><!--
+				--><a href="#00:02:007.71" id="127.8" class="lt" onclick="jumptoTime(127, this.id)"> to</a><!--
+				--><a href="#00:02:007.91" id="128.0" class="lt" onclick="jumptoTime(127, this.id)"> have</a><!--
+				--><a href="#00:02:008.13" id="128.2" class="lt" onclick="jumptoTime(128, this.id)"> the</a><!--
+				--><a href="#00:02:008.29" id="128.2" class="lt" onclick="jumptoTime(128, this.id)"> capacity</a><!--
+				--><a href="#00:02:008.79" id="128.8" class="lt" onclick="jumptoTime(128, this.id)"> for</a><!--
+				--><a href="#00:02:009.13" id="129.2" class="lt" onclick="jumptoTime(129, this.id)"> censorship,</a><!--
+				--><a href="#00:02:010.11" id="130.2" class="lt" onclick="jumptoTime(130, this.id)"> and</a><!--
+				--><a href="#00:02:010.21" id="130.2" class="lt" onclick="jumptoTime(130, this.id)"> yet</a><!--
+				--><a href="#00:02:010.39" id="130.4" class="lt" onclick="jumptoTime(130, this.id)"> you</a><!--
+				--><a href="#00:02:010.59" id="130.6" class="lt" onclick="jumptoTime(130, this.id)"> claim</a><!--
+				--><a href="#00:02:010.93" id="131.0" class="lt" onclick="jumptoTime(130, this.id)"> here</a><!--
+				--><a href="#00:02:011.35" id="131.4" class="lt" onclick="jumptoTime(131, this.id)"> that</a><!--
+				--><a href="#00:02:011.99" id="132.0" class="lt" onclick="jumptoTime(131, this.id)"> you</a><!--
+				--><a href="#00:02:012.17" id="132.2" class="lt" onclick="jumptoTime(132, this.id)"> don't?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_05</span><br>
+				<a href="#00:02:013.18" id="133.2" class="lt" onclick="jumptoTime(133, this.id)"> On</a><!--
+				--><a href="#00:02:013.34" id="133.4" class="lt" onclick="jumptoTime(133, this.id)"> Wednesday,</a><!--
+				--><a href="#00:02:014.00" id="134.0" class="lt" onclick="jumptoTime(133, this.id)"> TikTok</a><!--
+				--><a href="#00:02:014.28" id="134.2" class="lt" onclick="jumptoTime(134, this.id)"> gathered</a><!--
+				--><a href="#00:02:014.92" id="135.0" class="lt" onclick="jumptoTime(134, this.id)"> a</a><!--
+				--><a href="#00:02:015.14" id="135.2" class="lt" onclick="jumptoTime(135, this.id)"> group</a><!--
+				--><a href="#00:02:015.34" id="135.4" class="lt" onclick="jumptoTime(135, this.id)"> of</a><!--
+				--><a href="#00:02:015.50" id="135.4" class="lt" onclick="jumptoTime(135, this.id)"> influencers</a><!--
+				--><a href="#00:02:016.06" id="136.0" class="lt" onclick="jumptoTime(136, this.id)"> to</a><!--
+				--><a href="#00:02:016.32" id="136.4" class="lt" onclick="jumptoTime(136, this.id)"> protest</a><!--
+				--><a href="#00:02:016.66" id="136.6" class="lt" onclick="jumptoTime(136, this.id)"> the</a><!--
+				--><a href="#00:02:016.84" id="136.8" class="lt" onclick="jumptoTime(136, this.id)"> Biden</a><!--
+				--><a href="#00:02:017.08" id="137.0" class="lt" onclick="jumptoTime(137, this.id)"> administration's</a><!--
+				--><a href="#00:02:017.96" id="138.0" class="lt" onclick="jumptoTime(137, this.id)"> threat</a><!--
+				--><a href="#00:02:018.20" id="138.2" class="lt" onclick="jumptoTime(138, this.id)"> to</a><!--
+				--><a href="#00:02:018.38" id="138.4" class="lt" onclick="jumptoTime(138, this.id)"> ban</a><!--
+				--><a href="#00:02:018.62" id="138.6" class="lt" onclick="jumptoTime(138, this.id)"> the</a><!--
+				--><a href="#00:02:018.76" id="138.8" class="lt" onclick="jumptoTime(138, this.id)"> app</a><!--
+				--><a href="#00:02:019.02" id="139.0" class="lt" onclick="jumptoTime(139, this.id)"> unless</a><!--
+				--><a href="#00:02:019.56" id="139.6" class="lt" onclick="jumptoTime(139, this.id)"> it</a><!--
+				--><a href="#00:02:019.78" id="139.8" class="lt" onclick="jumptoTime(139, this.id)"> divests</a><!--
+				--><a href="#00:02:020.34" id="140.4" class="lt" onclick="jumptoTime(140, this.id)"> from</a><!--
+				--><a href="#00:02:020.58" id="140.6" class="lt" onclick="jumptoTime(140, this.id)"> its</a><!--
+				--><a href="#00:02:020.76" id="140.8" class="lt" onclick="jumptoTime(140, this.id)"> Chinese</a><!--
+				--><a href="#00:02:021.24" id="141.2" class="lt" onclick="jumptoTime(141, this.id)"> owners.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_02</span><br>
+				<a href="#00:02:022.58" id="142.6" class="lt" onclick="jumptoTime(142, this.id)"> TikTok</a><!--
+				--><a href="#00:02:022.98" id="143.0" class="lt" onclick="jumptoTime(142, this.id)"> has</a><!--
+				--><a href="#00:02:023.28" id="143.2" class="lt" onclick="jumptoTime(143, this.id)"> done</a><!--
+				--><a href="#00:02:023.46" id="143.4" class="lt" onclick="jumptoTime(143, this.id)"> much</a><!--
+				--><a href="#00:02:023.70" id="143.8" class="lt" onclick="jumptoTime(143, this.id)"> more</a><!--
+				--><a href="#00:02:023.90" id="144.0" class="lt" onclick="jumptoTime(143, this.id)"> than</a><!--
+				--><a href="#00:02:024.02" id="144.0" class="lt" onclick="jumptoTime(144, this.id)"> just</a><!--
+				--><a href="#00:02:024.22" id="144.2" class="lt" onclick="jumptoTime(144, this.id)"> give</a><!--
+				--><a href="#00:02:024.38" id="144.4" class="lt" onclick="jumptoTime(144, this.id)"> me</a><!--
+				--><a href="#00:02:024.50" id="144.6" class="lt" onclick="jumptoTime(144, this.id)"> exposure.</a><!--
+				--><a href="#00:02:025.46" id="145.4" class="lt" onclick="jumptoTime(145, this.id)"> It</a><!--
+				--><a href="#00:02:025.50" id="145.6" class="lt" onclick="jumptoTime(145, this.id)"> has</a><!--
+				--><a href="#00:02:026.14" id="146.2" class="lt" onclick="jumptoTime(146, this.id)"> actually</a><!--
+				--><a href="#00:02:026.50" id="146.6" class="lt" onclick="jumptoTime(146, this.id)"> allowed</a><!--
+				--><a href="#00:02:026.96" id="147.0" class="lt" onclick="jumptoTime(146, this.id)"> me</a><!--
+				--><a href="#00:02:027.10" id="147.2" class="lt" onclick="jumptoTime(147, this.id)"> to</a><!--
+				--><a href="#00:02:027.24" id="147.2" class="lt" onclick="jumptoTime(147, this.id)"> increase</a><!--
+				--><a href="#00:02:027.62" id="147.6" class="lt" onclick="jumptoTime(147, this.id)"> my</a><!--
+				--><a href="#00:02:027.82" id="147.8" class="lt" onclick="jumptoTime(147, this.id)"> income</a><!--
+				--><a href="#00:02:028.12" id="148.2" class="lt" onclick="jumptoTime(148, this.id)"> by</a><!--
+				--><a href="#00:02:028.38" id="148.4" class="lt" onclick="jumptoTime(148, this.id)"> 700%.</a><!--
+				--><a href="#00:02:029.28" id="149.2" class="lt" onclick="jumptoTime(149, this.id)"> And</a><!--
+				--><a href="#00:02:029.80" id="149.8" class="lt" onclick="jumptoTime(149, this.id)"> this</a><!--
+				--><a href="#00:02:029.96" id="150.0" class="lt" onclick="jumptoTime(149, this.id)"> extra</a><!--
+				--><a href="#00:02:030.26" id="150.2" class="lt" onclick="jumptoTime(150, this.id)"> income</a><!--
+				--><a href="#00:02:030.74" id="150.8" class="lt" onclick="jumptoTime(150, this.id)"> has</a><!--
+				--><a href="#00:02:031.14" id="151.2" class="lt" onclick="jumptoTime(151, this.id)"> allowed</a><!--
+				--><a href="#00:02:031.40" id="151.4" class="lt" onclick="jumptoTime(151, this.id)"> me</a><!--
+				--><a href="#00:02:031.54" id="151.6" class="lt" onclick="jumptoTime(151, this.id)"> to</a><!--
+				--><a href="#00:02:031.70" id="151.8" class="lt" onclick="jumptoTime(151, this.id)"> support</a><!--
+				--><a href="#00:02:032.46" id="152.4" class="lt" onclick="jumptoTime(152, this.id)"> myself,</a><!--
+				--><a href="#00:02:033.54" id="153.6" class="lt" onclick="jumptoTime(153, this.id)"> build</a><!--
+				--><a href="#00:02:033.70" id="153.8" class="lt" onclick="jumptoTime(153, this.id)"> a</a><!--
+				--><a href="#00:02:033.90" id="154.0" class="lt" onclick="jumptoTime(153, this.id)"> studio,</a><!--
+				--><a href="#00:02:034.68" id="154.6" class="lt" onclick="jumptoTime(154, this.id)"> and</a><!--
+				--><a href="#00:02:034.76" id="154.8" class="lt" onclick="jumptoTime(154, this.id)"> pay</a><!--
+				--><a href="#00:02:034.98" id="155.0" class="lt" onclick="jumptoTime(154, this.id)"> staff.</a><!--
+				--><a href="#00:02:035.86" id="155.8" class="lt" onclick="jumptoTime(155, this.id)"> And</a><!--
+				--><a href="#00:02:035.90" id="156.0" class="lt" onclick="jumptoTime(155, this.id)"> if</a><!--
+				--><a href="#00:02:036.06" id="156.0" class="lt" onclick="jumptoTime(156, this.id)"> this</a><!--
+				--><a href="#00:02:036.22" id="156.2" class="lt" onclick="jumptoTime(156, this.id)"> platform</a><!--
+				--><a href="#00:02:036.56" id="156.6" class="lt" onclick="jumptoTime(156, this.id)"> is</a><!--
+				--><a href="#00:02:036.76" id="156.8" class="lt" onclick="jumptoTime(156, this.id)"> taken</a><!--
+				--><a href="#00:02:036.96" id="157.0" class="lt" onclick="jumptoTime(156, this.id)"> away,</a><!--
+				--><a href="#00:02:037.62" id="157.6" class="lt" onclick="jumptoTime(157, this.id)"> then</a><!--
+				--><a href="#00:02:037.72" id="157.8" class="lt" onclick="jumptoTime(157, this.id)"> I'm</a><!--
+				--><a href="#00:02:037.86" id="157.8" class="lt" onclick="jumptoTime(157, this.id)"> not</a><!--
+				--><a href="#00:02:038.04" id="158.0" class="lt" onclick="jumptoTime(158, this.id)"> sure</a><!--
+				--><a href="#00:02:038.22" id="158.2" class="lt" onclick="jumptoTime(158, this.id)"> if</a><!--
+				--><a href="#00:02:038.36" id="158.4" class="lt" onclick="jumptoTime(158, this.id)"> I'll</a><!--
+				--><a href="#00:02:038.50" id="158.6" class="lt" onclick="jumptoTime(158, this.id)"> be</a><!--
+				--><a href="#00:02:038.60" id="158.6" class="lt" onclick="jumptoTime(158, this.id)"> able</a><!--
+				--><a href="#00:02:038.78" id="158.8" class="lt" onclick="jumptoTime(158, this.id)"> to</a><!--
+				--><a href="#00:02:038.98" id="159.0" class="lt" onclick="jumptoTime(158, this.id)"> continue</a><!--
+				--><a href="#00:02:039.32" id="159.4" class="lt" onclick="jumptoTime(159, this.id)"> to</a><!--
+				--><a href="#00:02:039.50" id="159.6" class="lt" onclick="jumptoTime(159, this.id)"> do</a><!--
+				--><a href="#00:02:039.64" id="159.6" class="lt" onclick="jumptoTime(159, this.id)"> that.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_05</span><br>
+				<a href="#00:02:040.14" id="160.2" class="lt" onclick="jumptoTime(160, this.id)"> Despite</a><!--
+				--><a href="#00:02:040.60" id="160.6" class="lt" onclick="jumptoTime(160, this.id)"> the</a><!--
+				--><a href="#00:02:040.82" id="160.8" class="lt" onclick="jumptoTime(160, this.id)"> app's</a><!--
+				--><a href="#00:02:041.12" id="161.2" class="lt" onclick="jumptoTime(161, this.id)"> rapid</a><!--
+				--><a href="#00:02:041.62" id="161.6" class="lt" onclick="jumptoTime(161, this.id)"> growth</a><!--
+				--><a href="#00:02:042.00" id="162.0" class="lt" onclick="jumptoTime(162, this.id)"> in</a><!--
+				--><a href="#00:02:042.12" id="162.2" class="lt" onclick="jumptoTime(162, this.id)"> America,</a><!--
+				--><a href="#00:02:042.86" id="162.8" class="lt" onclick="jumptoTime(162, this.id)"> and</a><!--
+				--><a href="#00:02:042.92" id="163.0" class="lt" onclick="jumptoTime(162, this.id)"> despite</a><!--
+				--><a href="#00:02:043.24" id="163.2" class="lt" onclick="jumptoTime(163, this.id)"> the</a><!--
+				--><a href="#00:02:043.44" id="163.4" class="lt" onclick="jumptoTime(163, this.id)"> CEO's</a><!--
+				--><a href="#00:02:043.88" id="163.8" class="lt" onclick="jumptoTime(163, this.id)"> promise</a><!--
+				--><a href="#00:02:044.24" id="164.2" class="lt" onclick="jumptoTime(164, this.id)"> to</a><!--
+				--><a href="#00:02:044.44" id="164.4" class="lt" onclick="jumptoTime(164, this.id)"> earn</a><!--
+				--><a href="#00:02:044.66" id="164.6" class="lt" onclick="jumptoTime(164, this.id)"> the</a><!--
+				--><a href="#00:02:044.80" id="164.8" class="lt" onclick="jumptoTime(164, this.id)"> country's</a><!--
+				--><a href="#00:02:045.26" id="165.2" class="lt" onclick="jumptoTime(165, this.id)"> trust,</a><!--
+				--><a href="#00:02:046.10" id="166.2" class="lt" onclick="jumptoTime(166, this.id)"> it's</a><!--
+				--><a href="#00:02:046.28" id="166.2" class="lt" onclick="jumptoTime(166, this.id)"> unlikely</a><!--
+				--><a href="#00:02:046.64" id="166.6" class="lt" onclick="jumptoTime(166, this.id)"> that</a><!--
+				--><a href="#00:02:046.94" id="167.0" class="lt" onclick="jumptoTime(166, this.id)"> those</a><!--
+				--><a href="#00:02:047.16" id="167.2" class="lt" onclick="jumptoTime(167, this.id)"> worried</a><!--
+				--><a href="#00:02:047.48" id="167.4" class="lt" onclick="jumptoTime(167, this.id)"> about</a><!--
+				--><a href="#00:02:047.78" id="167.8" class="lt" onclick="jumptoTime(167, this.id)"> TikTok</a><!--
+				--><a href="#00:02:048.20" id="168.2" class="lt" onclick="jumptoTime(168, this.id)"> will</a><!--
+				--><a href="#00:02:048.80" id="168.8" class="lt" onclick="jumptoTime(168, this.id)"> have</a><!--
+				--><a href="#00:02:048.94" id="169.0" class="lt" onclick="jumptoTime(168, this.id)"> changed</a><!--
+				--><a href="#00:02:049.28" id="169.2" class="lt" onclick="jumptoTime(169, this.id)"> their</a><!--
+				--><a href="#00:02:049.48" id="169.4" class="lt" onclick="jumptoTime(169, this.id)"> minds</a><!--
+				--><a href="#00:02:049.90" id="170.0" class="lt" onclick="jumptoTime(169, this.id)"> after</a><!--
+				--><a href="#00:02:050.50" id="170.6" class="lt" onclick="jumptoTime(170, this.id)"> this</a><!--
+				--><a href="#00:02:050.74" id="170.8" class="lt" onclick="jumptoTime(170, this.id)"> hearing.</a><!--
+				--><a href="#00:02:051.80" id="171.8" class="lt" onclick="jumptoTime(171, this.id)"> Michelle</a><!--
+				--><a href="#00:02:052.20" id="172.2" class="lt" onclick="jumptoTime(172, this.id)"> Flurry,</a><!--
+				--><a href="#00:02:052.98" id="173.0" class="lt" onclick="jumptoTime(172, this.id)"> BBC</a><!--
+				--><a href="#00:02:053.24" id="173.2" class="lt" onclick="jumptoTime(173, this.id)"> News</a><!--
+				--><a href="#00:02:053.66" id="173.6" class="lt" onclick="jumptoTime(173, this.id)"> in</a><!--
+				--><a href="#00:02:053.88" id="173.8" class="lt" onclick="jumptoTime(173, this.id)"> Washington.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_04</span><br>
+				<a href="#00:02:055.45" id="175.4" class="lt" onclick="jumptoTime(175, this.id)"> Well,</a><!--
+				--><a href="#00:02:055.67" id="175.6" class="lt" onclick="jumptoTime(175, this.id)"> Jasmine</a><!--
+				--><a href="#00:02:055.99" id="176.0" class="lt" onclick="jumptoTime(175, this.id)"> Enberg</a><!--
+				--><a href="#00:02:056.59" id="176.6" class="lt" onclick="jumptoTime(176, this.id)"> is</a><!--
+				--><a href="#00:02:056.85" id="176.8" class="lt" onclick="jumptoTime(176, this.id)"> a</a><!--
+				--><a href="#00:02:056.97" id="177.0" class="lt" onclick="jumptoTime(176, this.id)"> principal</a><!--
+				--><a href="#00:02:057.31" id="177.4" class="lt" onclick="jumptoTime(177, this.id)"> analyst</a><!--
+				--><a href="#00:02:057.87" id="177.8" class="lt" onclick="jumptoTime(177, this.id)"> at</a><!--
+				--><a href="#00:02:058.15" id="178.2" class="lt" onclick="jumptoTime(178, this.id)"> social</a><!--
+				--><a href="#00:02:058.55" id="178.6" class="lt" onclick="jumptoTime(178, this.id)"> media</a><!--
+				--><a href="#00:02:058.93" id="179.0" class="lt" onclick="jumptoTime(178, this.id)"> in</a><!--
+				--><a href="#00:02:059.41" id="179.4" class="lt" onclick="jumptoTime(179, this.id)"> Insider</a><!--
+				--><a href="#00:03:000.27" id="180.2" class="lt" onclick="jumptoTime(180, this.id)"> Intelligence.</a><!--
+				--><a href="#00:03:001.03" id="181.0" class="lt" onclick="jumptoTime(181, this.id)"> And</a><!--
+				--><a href="#00:03:001.07" id="181.0" class="lt" onclick="jumptoTime(181, this.id)"> I</a><!--
+				--><a href="#00:03:001.21" id="181.2" class="lt" onclick="jumptoTime(181, this.id)"> put</a><!--
+				--><a href="#00:03:001.47" id="181.4" class="lt" onclick="jumptoTime(181, this.id)"> it</a><!--
+				--><a href="#00:03:001.65" id="181.6" class="lt" onclick="jumptoTime(181, this.id)"> to</a><!--
+				--><a href="#00:03:001.87" id="181.8" class="lt" onclick="jumptoTime(181, this.id)"> her</a><!--
+				--><a href="#00:03:002.11" id="182.2" class="lt" onclick="jumptoTime(182, this.id)"> that</a><!--
+				--><a href="#00:03:002.31" id="182.4" class="lt" onclick="jumptoTime(182, this.id)"> since</a><!--
+				--><a href="#00:03:002.61" id="182.6" class="lt" onclick="jumptoTime(182, this.id)"> there's</a><!--
+				--><a href="#00:03:002.79" id="182.8" class="lt" onclick="jumptoTime(182, this.id)"> no</a><!--
+				--><a href="#00:03:002.93" id="183.0" class="lt" onclick="jumptoTime(182, this.id)"> evidence</a><!--
+				--><a href="#00:03:003.41" id="183.4" class="lt" onclick="jumptoTime(183, this.id)"> that</a><!--
+				--><a href="#00:03:003.67" id="183.6" class="lt" onclick="jumptoTime(183, this.id)"> TikTok</a><!--
+				--><a href="#00:03:004.05" id="184.0" class="lt" onclick="jumptoTime(184, this.id)"> has</a><!--
+				--><a href="#00:03:004.33" id="184.4" class="lt" onclick="jumptoTime(184, this.id)"> passed</a><!--
+				--><a href="#00:03:004.67" id="184.6" class="lt" onclick="jumptoTime(184, this.id)"> data</a><!--
+				--><a href="#00:03:005.05" id="185.0" class="lt" onclick="jumptoTime(185, this.id)"> on</a><!--
+				--><a href="#00:03:005.25" id="185.2" class="lt" onclick="jumptoTime(185, this.id)"> to</a><!--
+				--><a href="#00:03:005.39" id="185.4" class="lt" onclick="jumptoTime(185, this.id)"> the</a><!--
+				--><a href="#00:03:005.51" id="185.6" class="lt" onclick="jumptoTime(185, this.id)"> Chinese</a><!--
+				--><a href="#00:03:005.79" id="185.8" class="lt" onclick="jumptoTime(185, this.id)"> government,</a><!--
+				--><a href="#00:03:006.67" id="186.6" class="lt" onclick="jumptoTime(186, this.id)"> how</a><!--
+				--><a href="#00:03:006.81" id="186.8" class="lt" onclick="jumptoTime(186, this.id)"> does</a><!--
+				--><a href="#00:03:006.97" id="187.0" class="lt" onclick="jumptoTime(186, this.id)"> the</a><!--
+				--><a href="#00:03:007.11" id="187.2" class="lt" onclick="jumptoTime(187, this.id)"> chief</a><!--
+				--><a href="#00:03:007.31" id="187.4" class="lt" onclick="jumptoTime(187, this.id)"> executive</a><!--
+				--><a href="#00:03:007.81" id="187.8" class="lt" onclick="jumptoTime(187, this.id)"> go</a><!--
+				--><a href="#00:03:008.13" id="188.2" class="lt" onclick="jumptoTime(188, this.id)"> about</a><!--
+				--><a href="#00:03:008.35" id="188.4" class="lt" onclick="jumptoTime(188, this.id)"> proving</a><!--
+				--><a href="#00:03:008.69" id="188.6" class="lt" onclick="jumptoTime(188, this.id)"> a</a><!--
+				--><a href="#00:03:008.83" id="188.8" class="lt" onclick="jumptoTime(188, this.id)"> negative?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_03</span><br>
+				<a href="#00:03:010.20" id="190.2" class="lt" onclick="jumptoTime(190, this.id)"> It</a><!--
+				--><a href="#00:03:010.38" id="190.4" class="lt" onclick="jumptoTime(190, this.id)"> was</a><!--
+				--><a href="#00:03:010.62" id="190.6" class="lt" onclick="jumptoTime(190, this.id)"> incredibly</a><!--
+				--><a href="#00:03:011.34" id="191.4" class="lt" onclick="jumptoTime(191, this.id)"> tough</a><!--
+				--><a href="#00:03:012.16" id="192.2" class="lt" onclick="jumptoTime(192, this.id)"> questioning,</a><!--
+				--><a href="#00:03:013.38" id="193.4" class="lt" onclick="jumptoTime(193, this.id)"> and</a><!--
+				--><a href="#00:03:013.68" id="193.6" class="lt" onclick="jumptoTime(193, this.id)"> there</a><!--
+				--><a href="#00:03:013.80" id="193.8" class="lt" onclick="jumptoTime(193, this.id)"> was</a><!--
+				--><a href="#00:03:013.96" id="194.0" class="lt" onclick="jumptoTime(193, this.id)"> very,</a><!--
+				--><a href="#00:03:014.42" id="194.4" class="lt" onclick="jumptoTime(194, this.id)"> very</a><!--
+				--><a href="#00:03:014.52" id="194.6" class="lt" onclick="jumptoTime(194, this.id)"> little</a><!--
+				--><a href="#00:03:014.84" id="194.8" class="lt" onclick="jumptoTime(194, this.id)"> that</a><!--
+				--><a href="#00:03:015.28" id="195.2" class="lt" onclick="jumptoTime(195, this.id)"> Chu</a><!--
+				--><a href="#00:03:015.50" id="195.4" class="lt" onclick="jumptoTime(195, this.id)"> could</a><!--
+				--><a href="#00:03:015.76" id="195.8" class="lt" onclick="jumptoTime(195, this.id)"> say</a><!--
+				--><a href="#00:03:016.14" id="196.2" class="lt" onclick="jumptoTime(196, this.id)"> to</a><!--
+				--><a href="#00:03:016.48" id="196.4" class="lt" onclick="jumptoTime(196, this.id)"> sway</a><!--
+				--><a href="#00:03:016.98" id="197.0" class="lt" onclick="jumptoTime(196, this.id)"> U</a><!--
+				--><a href="#00:03:017.26" id="197.2" class="lt" onclick="jumptoTime(197, this.id)">.S.</a><!--
+				--><a href="#00:03:017.52" id="197.6" class="lt" onclick="jumptoTime(197, this.id)"> lawmakers'</a><!--
+				--><a href="#00:03:018.32" id="198.4" class="lt" onclick="jumptoTime(198, this.id)"> minds.</a><!--
+				--><a href="#00:03:018.82" id="198.8" class="lt" onclick="jumptoTime(198, this.id)"> He</a><!--
+				--><a href="#00:03:019.20" id="199.2" class="lt" onclick="jumptoTime(199, this.id)"> really</a><!--
+				--><a href="#00:03:019.66" id="199.6" class="lt" onclick="jumptoTime(199, this.id)"> had</a><!--
+				--><a href="#00:03:020.22" id="200.2" class="lt" onclick="jumptoTime(200, this.id)"> to</a><!--
+				--><a href="#00:03:020.44" id="200.4" class="lt" onclick="jumptoTime(200, this.id)"> prove</a><!--
+				--><a href="#00:03:020.80" id="200.8" class="lt" onclick="jumptoTime(200, this.id)"> a</a><!--
+				--><a href="#00:03:021.00" id="201.0" class="lt" onclick="jumptoTime(200, this.id)"> negative,</a><!--
+				--><a href="#00:03:021.52" id="201.6" class="lt" onclick="jumptoTime(201, this.id)"> that</a><!--
+				--><a href="#00:03:021.88" id="201.8" class="lt" onclick="jumptoTime(201, this.id)"> TikTok</a><!--
+				--><a href="#00:03:022.28" id="202.2" class="lt" onclick="jumptoTime(202, this.id)"> isn't</a><!--
+				--><a href="#00:03:023.12" id="203.2" class="lt" onclick="jumptoTime(203, this.id)"> or</a><!--
+				--><a href="#00:03:023.42" id="203.4" class="lt" onclick="jumptoTime(203, this.id)"> can't</a><!--
+				--><a href="#00:03:023.84" id="203.8" class="lt" onclick="jumptoTime(203, this.id)"> be</a><!--
+				--><a href="#00:03:024.00" id="204.0" class="lt" onclick="jumptoTime(203, this.id)"> used</a><!--
+				--><a href="#00:03:024.26" id="204.2" class="lt" onclick="jumptoTime(204, this.id)"> by</a><!--
+				--><a href="#00:03:024.44" id="204.4" class="lt" onclick="jumptoTime(204, this.id)"> the</a><!--
+				--><a href="#00:03:024.60" id="204.6" class="lt" onclick="jumptoTime(204, this.id)"> Chinese</a><!--
+				--><a href="#00:03:024.94" id="205.0" class="lt" onclick="jumptoTime(204, this.id)"> Communist</a><!--
+				--><a href="#00:03:025.40" id="205.4" class="lt" onclick="jumptoTime(205, this.id)"> Party</a><!--
+				--><a href="#00:03:025.90" id="205.8" class="lt" onclick="jumptoTime(205, this.id)"> to</a><!--
+				--><a href="#00:03:026.50" id="206.4" class="lt" onclick="jumptoTime(206, this.id)"> influence</a><!--
+				--><a href="#00:03:027.12" id="207.2" class="lt" onclick="jumptoTime(207, this.id)"> U</a><!--
+				--><a href="#00:03:027.34" id="207.4" class="lt" onclick="jumptoTime(207, this.id)">.S.</a><!--
+				--><a href="#00:03:027.60" id="207.6" class="lt" onclick="jumptoTime(207, this.id)"> public</a><!--
+				--><a href="#00:03:027.86" id="207.8" class="lt" onclick="jumptoTime(207, this.id)"> opinion.</a><!--
+				--><a href="#00:03:028.58" id="208.6" class="lt" onclick="jumptoTime(208, this.id)"> In</a><!--
+				--><a href="#00:03:028.84" id="208.8" class="lt" onclick="jumptoTime(208, this.id)"> that</a><!--
+				--><a href="#00:03:029.04" id="209.0" class="lt" onclick="jumptoTime(209, this.id)"> sense,</a><!--
+				--><a href="#00:03:029.38" id="209.4" class="lt" onclick="jumptoTime(209, this.id)"> it's</a><!--
+				--><a href="#00:03:029.64" id="209.6" class="lt" onclick="jumptoTime(209, this.id)"> not</a><!--
+				--><a href="#00:03:029.88" id="209.8" class="lt" onclick="jumptoTime(209, this.id)"> just</a><!--
+				--><a href="#00:03:030.22" id="210.2" class="lt" onclick="jumptoTime(210, this.id)"> about</a><!--
+				--><a href="#00:03:030.54" id="210.6" class="lt" onclick="jumptoTime(210, this.id)"> data</a><!--
+				--><a href="#00:03:030.84" id="210.8" class="lt" onclick="jumptoTime(210, this.id)"> privacy.</a><!--
+				--><a href="#00:03:031.36" id="211.4" class="lt" onclick="jumptoTime(211, this.id)"> It's</a><!--
+				--><a href="#00:03:032.04" id="212.0" class="lt" onclick="jumptoTime(212, this.id)"> about</a><!--
+				--><a href="#00:03:032.30" id="212.2" class="lt" onclick="jumptoTime(212, this.id)"> soft</a><!--
+				--><a href="#00:03:032.72" id="212.8" class="lt" onclick="jumptoTime(212, this.id)"> influence</a><!--
+				--><a href="#00:03:033.24" id="213.2" class="lt" onclick="jumptoTime(213, this.id)"> and</a><!--
+				--><a href="#00:03:033.38" id="213.4" class="lt" onclick="jumptoTime(213, this.id)"> the</a><!--
+				--><a href="#00:03:033.50" id="213.4" class="lt" onclick="jumptoTime(213, this.id)"> type</a><!--
+				--><a href="#00:03:033.72" id="213.8" class="lt" onclick="jumptoTime(213, this.id)"> of</a><!--
+				--><a href="#00:03:033.88" id="213.8" class="lt" onclick="jumptoTime(213, this.id)"> content</a><!--
+				--><a href="#00:03:034.30" id="214.2" class="lt" onclick="jumptoTime(214, this.id)"> that</a><!--
+				--><a href="#00:03:034.70" id="214.6" class="lt" onclick="jumptoTime(214, this.id)"> is</a><!--
+				--><a href="#00:03:034.90" id="214.8" class="lt" onclick="jumptoTime(214, this.id)"> served</a><!--
+				--><a href="#00:03:035.30" id="215.2" class="lt" onclick="jumptoTime(215, this.id)"> on</a><!--
+				--><a href="#00:03:035.60" id="215.6" class="lt" onclick="jumptoTime(215, this.id)"> TikTok.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_04</span><br>
+				<a href="#00:03:036.89" id="216.8" class="lt" onclick="jumptoTime(216, this.id)"> How</a><!--
+				--><a href="#00:03:037.15" id="217.2" class="lt" onclick="jumptoTime(217, this.id)"> important</a><!--
+				--><a href="#00:03:037.61" id="217.6" class="lt" onclick="jumptoTime(217, this.id)"> is</a><!--
+				--><a href="#00:03:038.01" id="218.0" class="lt" onclick="jumptoTime(218, this.id)"> TikTok</a><!--
+				--><a href="#00:03:038.39" id="218.4" class="lt" onclick="jumptoTime(218, this.id)"> to</a><!--
+				--><a href="#00:03:038.91" id="219.0" class="lt" onclick="jumptoTime(218, this.id)"> American</a><!--
+				--><a href="#00:03:039.51" id="219.6" class="lt" onclick="jumptoTime(219, this.id)"> consumers</a><!--
+				--><a href="#00:03:040.17" id="220.2" class="lt" onclick="jumptoTime(220, this.id)"> and</a><!--
+				--><a href="#00:03:040.45" id="220.4" class="lt" onclick="jumptoTime(220, this.id)"> American</a><!--
+				--><a href="#00:03:040.79" id="220.8" class="lt" onclick="jumptoTime(220, this.id)"> businesses?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_03</span><br>
+				<a href="#00:03:042.68" id="222.6" class="lt" onclick="jumptoTime(222, this.id)"> It's</a><!--
+				--><a href="#00:03:042.96" id="223.0" class="lt" onclick="jumptoTime(222, this.id)"> becoming</a><!--
+				--><a href="#00:03:043.36" id="223.4" class="lt" onclick="jumptoTime(223, this.id)"> incredibly</a><!--
+				--><a href="#00:03:043.82" id="223.8" class="lt" onclick="jumptoTime(223, this.id)"> important.</a><!--
+				--><a href="#00:03:044.68" id="224.6" class="lt" onclick="jumptoTime(224, this.id)"> There</a><!--
+				--><a href="#00:03:044.76" id="224.8" class="lt" onclick="jumptoTime(224, this.id)"> is</a><!--
+				--><a href="#00:03:044.92" id="225.0" class="lt" onclick="jumptoTime(224, this.id)"> a</a><!--
+				--><a href="#00:03:045.08" id="225.0" class="lt" onclick="jumptoTime(225, this.id)"> lot</a><!--
+				--><a href="#00:03:045.24" id="225.2" class="lt" onclick="jumptoTime(225, this.id)"> of</a><!--
+				--><a href="#00:03:045.40" id="225.4" class="lt" onclick="jumptoTime(225, this.id)"> creators</a><!--
+				--><a href="#00:03:045.84" id="225.8" class="lt" onclick="jumptoTime(225, this.id)"> who</a><!--
+				--><a href="#00:03:046.64" id="226.6" class="lt" onclick="jumptoTime(226, this.id)"> have</a><!--
+				--><a href="#00:03:047.14" id="227.2" class="lt" onclick="jumptoTime(227, this.id)"> built</a><!--
+				--><a href="#00:03:047.46" id="227.4" class="lt" onclick="jumptoTime(227, this.id)"> their</a><!--
+				--><a href="#00:03:047.66" id="227.6" class="lt" onclick="jumptoTime(227, this.id)"> brands</a><!--
+				--><a href="#00:03:048.10" id="228.2" class="lt" onclick="jumptoTime(228, this.id)"> and</a><!--
+				--><a href="#00:03:048.26" id="228.2" class="lt" onclick="jumptoTime(228, this.id)"> built</a><!--
+				--><a href="#00:03:048.48" id="228.4" class="lt" onclick="jumptoTime(228, this.id)"> their</a><!--
+				--><a href="#00:03:048.64" id="228.6" class="lt" onclick="jumptoTime(228, this.id)"> businesses</a><!--
+				--><a href="#00:03:049.10" id="229.2" class="lt" onclick="jumptoTime(229, this.id)"> on</a><!--
+				--><a href="#00:03:049.50" id="229.6" class="lt" onclick="jumptoTime(229, this.id)"> tick</a><!--
+				--><a href="#00:03:049.72" id="229.8" class="lt" onclick="jumptoTime(229, this.id)"> tock</a><!--
+				--><a href="#00:03:050.04" id="230.0" class="lt" onclick="jumptoTime(230, this.id)"> and</a><!--
+				--><a href="#00:03:050.24" id="230.2" class="lt" onclick="jumptoTime(230, this.id)"> who</a><!--
+				--><a href="#00:03:050.34" id="230.4" class="lt" onclick="jumptoTime(230, this.id)"> would</a><!--
+				--><a href="#00:03:050.46" id="230.4" class="lt" onclick="jumptoTime(230, this.id)"> be</a><!--
+				--><a href="#00:03:050.62" id="230.6" class="lt" onclick="jumptoTime(230, this.id)"> severely</a><!--
+				--><a href="#00:03:051.08" id="231.0" class="lt" onclick="jumptoTime(231, this.id)"> impacted</a><!--
+				--><a href="#00:03:051.72" id="231.8" class="lt" onclick="jumptoTime(231, this.id)"> if</a><!--
+				--><a href="#00:03:052.18" id="232.2" class="lt" onclick="jumptoTime(232, this.id)"> the</a><!--
+				--><a href="#00:03:052.34" id="232.4" class="lt" onclick="jumptoTime(232, this.id)"> app</a><!--
+				--><a href="#00:03:052.74" id="232.8" class="lt" onclick="jumptoTime(232, this.id)"> were</a><!--
+				--><a href="#00:03:052.88" id="232.8" class="lt" onclick="jumptoTime(232, this.id)"> to</a><!--
+				--><a href="#00:03:053.04" id="233.0" class="lt" onclick="jumptoTime(233, this.id)"> be</a><!--
+				--><a href="#00:03:053.20" id="233.2" class="lt" onclick="jumptoTime(233, this.id)"> banned</a><!--
+				--><a href="#00:03:053.50" id="233.6" class="lt" onclick="jumptoTime(233, this.id)"> here.</a><!--
+				--><a href="#00:03:054.32" id="234.4" class="lt" onclick="jumptoTime(234, this.id)"> That</a><!--
+				--><a href="#00:03:054.38" id="234.4" class="lt" onclick="jumptoTime(234, this.id)"> said</a><!--
+				--><a href="#00:03:054.64" id="234.6" class="lt" onclick="jumptoTime(234, this.id)"> a</a><!--
+				--><a href="#00:03:054.84" id="234.8" class="lt" onclick="jumptoTime(234, this.id)"> lot</a><!--
+				--><a href="#00:03:054.98" id="235.0" class="lt" onclick="jumptoTime(234, this.id)"> of</a><!--
+				--><a href="#00:03:055.10" id="235.2" class="lt" onclick="jumptoTime(235, this.id)"> creators</a><!--
+				--><a href="#00:03:055.40" id="235.4" class="lt" onclick="jumptoTime(235, this.id)"> are</a><!--
+				--><a href="#00:03:055.74" id="235.8" class="lt" onclick="jumptoTime(235, this.id)"> prepared</a><!--
+				--><a href="#00:03:056.18" id="236.2" class="lt" onclick="jumptoTime(236, this.id)"> for</a><!--
+				--><a href="#00:03:056.40" id="236.4" class="lt" onclick="jumptoTime(236, this.id)"> the</a><!--
+				--><a href="#00:03:056.54" id="236.6" class="lt" onclick="jumptoTime(236, this.id)"> potential</a><!--
+				--><a href="#00:03:056.90" id="237.0" class="lt" onclick="jumptoTime(236, this.id)"> of</a><!--
+				--><a href="#00:03:057.08" id="237.0" class="lt" onclick="jumptoTime(237, this.id)"> a</a><!--
+				--><a href="#00:03:057.16" id="237.2" class="lt" onclick="jumptoTime(237, this.id)"> ban.</a><!--
+				--><a href="#00:03:057.58" id="237.6" class="lt" onclick="jumptoTime(237, this.id)"> They're</a><!--
+				--><a href="#00:03:057.72" id="237.8" class="lt" onclick="jumptoTime(237, this.id)"> already</a><!--
+				--><a href="#00:03:058.14" id="238.2" class="lt" onclick="jumptoTime(238, this.id)"> using</a><!--
+				--><a href="#00:03:059.04" id="239.0" class="lt" onclick="jumptoTime(239, this.id)"> other</a><!--
+				--><a href="#00:03:059.44" id="239.4" class="lt" onclick="jumptoTime(239, this.id)"> platforms.</a><!--
+				--><a href="#00:04:000.28" id="240.2" class="lt" onclick="jumptoTime(240, this.id)"> Many</a><!--
+				--><a href="#00:04:000.40" id="240.4" class="lt" onclick="jumptoTime(240, this.id)"> of</a><!--
+				--><a href="#00:04:000.54" id="240.6" class="lt" onclick="jumptoTime(240, this.id)"> them</a><!--
+				--><a href="#00:04:000.68" id="240.6" class="lt" onclick="jumptoTime(240, this.id)"> have</a><!--
+				--><a href="#00:04:000.84" id="240.8" class="lt" onclick="jumptoTime(240, this.id)"> set</a><!--
+				--><a href="#00:04:001.04" id="241.0" class="lt" onclick="jumptoTime(241, this.id)"> up</a><!--
+				--><a href="#00:04:001.18" id="241.2" class="lt" onclick="jumptoTime(241, this.id)"> small</a><!--
+				--><a href="#00:04:001.46" id="241.4" class="lt" onclick="jumptoTime(241, this.id)"> businesses</a><!--
+				--><a href="#00:04:001.92" id="242.0" class="lt" onclick="jumptoTime(241, this.id)"> so</a><!--
+				--><a href="#00:04:002.18" id="242.2" class="lt" onclick="jumptoTime(242, this.id)"> they</a><!--
+				--><a href="#00:04:002.34" id="242.4" class="lt" onclick="jumptoTime(242, this.id)"> do</a><!--
+				--><a href="#00:04:002.54" id="242.6" class="lt" onclick="jumptoTime(242, this.id)"> have</a><!--
+				--><a href="#00:04:002.72" id="242.8" class="lt" onclick="jumptoTime(242, this.id)"> other</a><!--
+				--><a href="#00:04:002.96" id="243.0" class="lt" onclick="jumptoTime(242, this.id)"> ways</a><!--
+				--><a href="#00:04:003.34" id="243.4" class="lt" onclick="jumptoTime(243, this.id)"> of</a><!--
+				--><a href="#00:04:003.56" id="243.6" class="lt" onclick="jumptoTime(243, this.id)"> reaching</a><!--
+				--><a href="#00:04:004.04" id="244.0" class="lt" onclick="jumptoTime(244, this.id)"> their</a><!--
+				--><a href="#00:04:004.84" id="244.8" class="lt" onclick="jumptoTime(244, this.id)"> customers</a><!--
+				--><a href="#00:04:005.30" id="245.4" class="lt" onclick="jumptoTime(245, this.id)"> and</a><!--
+				--><a href="#00:04:005.72" id="245.8" class="lt" onclick="jumptoTime(245, this.id)"> their</a><!--
+				--><a href="#00:04:005.88" id="245.8" class="lt" onclick="jumptoTime(245, this.id)"> audiences.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_04</span><br>
+				<a href="#00:04:007.32" id="247.4" class="lt" onclick="jumptoTime(247, this.id)"> Can</a><!--
+				--><a href="#00:04:008.00" id="248.0" class="lt" onclick="jumptoTime(247, this.id)"> TikTok</a><!--
+				--><a href="#00:04:008.36" id="248.4" class="lt" onclick="jumptoTime(248, this.id)"> actually</a><!--
+				--><a href="#00:04:008.90" id="248.8" class="lt" onclick="jumptoTime(248, this.id)"> do</a><!--
+				--><a href="#00:04:009.32" id="249.4" class="lt" onclick="jumptoTime(249, this.id)"> without</a><!--
+				--><a href="#00:04:009.82" id="249.8" class="lt" onclick="jumptoTime(249, this.id)"> an</a><!--
+				--><a href="#00:04:010.32" id="250.4" class="lt" onclick="jumptoTime(250, this.id)"> American</a><!--
+				--><a href="#00:04:010.76" id="250.8" class="lt" onclick="jumptoTime(250, this.id)"> market</a><!--
+				--><a href="#00:04:011.26" id="251.2" class="lt" onclick="jumptoTime(251, this.id)"> if</a><!--
+				--><a href="#00:04:011.68" id="251.6" class="lt" onclick="jumptoTime(251, this.id)"> it</a><!--
+				--><a href="#00:04:011.84" id="251.8" class="lt" onclick="jumptoTime(251, this.id)"> needed</a><!--
+				--><a href="#00:04:012.20" id="252.2" class="lt" onclick="jumptoTime(252, this.id)"> to?</a><!--
+				--><a href="#00:04:012.62" id="252.6" class="lt" onclick="jumptoTime(252, this.id)"> Is</a><!--
+				--><a href="#00:04:012.70" id="252.6" class="lt" onclick="jumptoTime(252, this.id)"> that</a><!--
+				--><a href="#00:04:012.82" id="252.8" class="lt" onclick="jumptoTime(252, this.id)"> a</a><!--
+				--><a href="#00:04:012.94" id="253.0" class="lt" onclick="jumptoTime(252, this.id)"> possibility</a><!--
+				--><a href="#00:04:013.38" id="253.4" class="lt" onclick="jumptoTime(253, this.id)"> or</a><!--
+				--><a href="#00:04:013.58" id="253.6" class="lt" onclick="jumptoTime(253, this.id)"> not</a><!--
+				--><a href="#00:04:013.70" id="253.6" class="lt" onclick="jumptoTime(253, this.id)"> at</a><!--
+				--><a href="#00:04:013.84" id="253.8" class="lt" onclick="jumptoTime(253, this.id)"> all?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_03</span><br>
+				<a href="#00:04:015.33" id="255.4" class="lt" onclick="jumptoTime(255, this.id)"> Well</a><!--
+				--><a href="#00:04:015.63" id="255.6" class="lt" onclick="jumptoTime(255, this.id)"> the</a><!--
+				--><a href="#00:04:016.13" id="256.2" class="lt" onclick="jumptoTime(256, this.id)"> US</a><!--
+				--><a href="#00:04:016.37" id="256.4" class="lt" onclick="jumptoTime(256, this.id)"> is</a><!--
+				--><a href="#00:04:016.51" id="256.6" class="lt" onclick="jumptoTime(256, this.id)"> an</a><!--
+				--><a href="#00:04:016.63" id="256.6" class="lt" onclick="jumptoTime(256, this.id)"> incredibly</a><!--
+				--><a href="#00:04:017.13" id="257.2" class="lt" onclick="jumptoTime(257, this.id)"> important</a><!--
+				--><a href="#00:04:017.79" id="257.8" class="lt" onclick="jumptoTime(257, this.id)"> market</a><!--
+				--><a href="#00:04:018.17" id="258.2" class="lt" onclick="jumptoTime(258, this.id)"> for</a><!--
+				--><a href="#00:04:018.37" id="258.4" class="lt" onclick="jumptoTime(258, this.id)"> tick</a><!--
+				--><a href="#00:04:018.57" id="258.6" class="lt" onclick="jumptoTime(258, this.id)"> tock</a><!--
+				--><a href="#00:04:018.81" id="258.8" class="lt" onclick="jumptoTime(258, this.id)"> and</a><!--
+				--><a href="#00:04:018.99" id="259.0" class="lt" onclick="jumptoTime(258, this.id)"> billions</a><!--
+				--><a href="#00:04:019.41" id="259.4" class="lt" onclick="jumptoTime(259, this.id)"> of</a><!--
+				--><a href="#00:04:019.63" id="259.6" class="lt" onclick="jumptoTime(259, this.id)"> dollars</a><!--
+				--><a href="#00:04:019.97" id="260.0" class="lt" onclick="jumptoTime(259, this.id)"> are</a><!--
+				--><a href="#00:04:020.17" id="260.2" class="lt" onclick="jumptoTime(260, this.id)"> at</a><!--
+				--><a href="#00:04:020.33" id="260.4" class="lt" onclick="jumptoTime(260, this.id)"> stake</a><!--
+				--><a href="#00:04:020.65" id="260.6" class="lt" onclick="jumptoTime(260, this.id)"> here.</a><!--
+				--><a href="#00:04:021.29" id="261.2" class="lt" onclick="jumptoTime(261, this.id)"> So</a><!--
+				--><a href="#00:04:021.35" id="261.4" class="lt" onclick="jumptoTime(261, this.id)"> at</a><!--
+				--><a href="#00:04:021.49" id="261.4" class="lt" onclick="jumptoTime(261, this.id)"> Insider</a><!--
+				--><a href="#00:04:021.81" id="261.8" class="lt" onclick="jumptoTime(261, this.id)"> Intelligence</a><!--
+				--><a href="#00:04:022.29" id="262.2" class="lt" onclick="jumptoTime(262, this.id)"> we</a><!--
+				--><a href="#00:04:022.67" id="262.6" class="lt" onclick="jumptoTime(262, this.id)"> estimate</a><!--
+				--><a href="#00:04:023.17" id="263.2" class="lt" onclick="jumptoTime(263, this.id)"> that</a><!--
+				--><a href="#00:04:023.47" id="263.4" class="lt" onclick="jumptoTime(263, this.id)"> tick</a><!--
+				--><a href="#00:04:023.67" id="263.6" class="lt" onclick="jumptoTime(263, this.id)"> tock</a><!--
+				--><a href="#00:04:023.91" id="264.0" class="lt" onclick="jumptoTime(263, this.id)"> will</a><!--
+				--><a href="#00:04:024.05" id="264.0" class="lt" onclick="jumptoTime(264, this.id)"> rake</a><!--
+				--><a href="#00:04:024.33" id="264.4" class="lt" onclick="jumptoTime(264, this.id)"> in</a><!--
+				--><a href="#00:04:024.47" id="264.4" class="lt" onclick="jumptoTime(264, this.id)"> about</a><!--
+				--><a href="#00:04:024.73" id="264.8" class="lt" onclick="jumptoTime(264, this.id)"> seven</a><!--
+				--><a href="#00:04:025.19" id="265.2" class="lt" onclick="jumptoTime(265, this.id)"> billion</a><!--
+				--><a href="#00:04:025.71" id="265.8" class="lt" onclick="jumptoTime(265, this.id)"> dollars</a><!--
+				--><a href="#00:04:026.21" id="266.2" class="lt" onclick="jumptoTime(266, this.id)"> in</a><!--
+				--><a href="#00:04:026.49" id="266.4" class="lt" onclick="jumptoTime(266, this.id)"> the</a><!--
+				--><a href="#00:04:026.63" id="266.6" class="lt" onclick="jumptoTime(266, this.id)"> US</a><!--
+				--><a href="#00:04:026.95" id="267.0" class="lt" onclick="jumptoTime(266, this.id)"> alone.</a><!--
+				--><a href="#00:04:027.71" id="267.8" class="lt" onclick="jumptoTime(267, this.id)"> And</a><!--
+				--><a href="#00:04:027.75" id="267.8" class="lt" onclick="jumptoTime(267, this.id)"> that's</a><!--
+				--><a href="#00:04:027.97" id="268.0" class="lt" onclick="jumptoTime(267, this.id)"> about</a><!--
+				--><a href="#00:04:028.19" id="268.2" class="lt" onclick="jumptoTime(268, this.id)"> half</a><!--
+				--><a href="#00:04:028.55" id="268.6" class="lt" onclick="jumptoTime(268, this.id)"> of</a><!--
+				--><a href="#00:04:028.69" id="268.6" class="lt" onclick="jumptoTime(268, this.id)"> its</a><!--
+				--><a href="#00:04:028.85" id="268.8" class="lt" onclick="jumptoTime(268, this.id)"> worldwide</a><!--
+				--><a href="#00:04:029.29" id="269.2" class="lt" onclick="jumptoTime(269, this.id)"> ad</a><!--
+				--><a href="#00:04:029.69" id="269.6" class="lt" onclick="jumptoTime(269, this.id)"> revenues.</a><!--
+				--><a href="#00:04:030.57" id="270.6" class="lt" onclick="jumptoTime(270, this.id)"> Now</a><!--
+				--><a href="#00:04:030.67" id="270.6" class="lt" onclick="jumptoTime(270, this.id)"> a</a><!--
+				--><a href="#00:04:030.99" id="271.0" class="lt" onclick="jumptoTime(270, this.id)"> lot</a><!--
+				--><a href="#00:04:031.17" id="271.2" class="lt" onclick="jumptoTime(271, this.id)"> of</a><!--
+				--><a href="#00:04:031.33" id="271.4" class="lt" onclick="jumptoTime(271, this.id)"> tick</a><!--
+				--><a href="#00:04:031.53" id="271.6" class="lt" onclick="jumptoTime(271, this.id)"> tocks</a><!--
+				--><a href="#00:04:031.85" id="271.8" class="lt" onclick="jumptoTime(271, this.id)"> meteoric</a><!--
+				--><a href="#00:04:032.51" id="272.6" class="lt" onclick="jumptoTime(272, this.id)"> growth</a><!--
+				--><a href="#00:04:032.97" id="273.0" class="lt" onclick="jumptoTime(272, this.id)"> over</a><!--
+				--><a href="#00:04:033.11" id="273.2" class="lt" onclick="jumptoTime(273, this.id)"> the</a><!--
+				--><a href="#00:04:033.25" id="273.2" class="lt" onclick="jumptoTime(273, this.id)"> past</a><!--
+				--><a href="#00:04:033.45" id="273.4" class="lt" onclick="jumptoTime(273, this.id)"> couple</a><!--
+				--><a href="#00:04:033.65" id="273.6" class="lt" onclick="jumptoTime(273, this.id)"> of</a><!--
+				--><a href="#00:04:033.79" id="273.8" class="lt" onclick="jumptoTime(273, this.id)"> years</a><!--
+				--><a href="#00:04:034.03" id="274.0" class="lt" onclick="jumptoTime(274, this.id)"> has</a><!--
+				--><a href="#00:04:034.37" id="274.4" class="lt" onclick="jumptoTime(274, this.id)"> also</a><!--
+				--><a href="#00:04:035.01" id="275.0" class="lt" onclick="jumptoTime(275, this.id)"> come</a><!--
+				--><a href="#00:04:035.75" id="275.8" class="lt" onclick="jumptoTime(275, this.id)"> at</a><!--
+				--><a href="#00:04:035.87" id="275.8" class="lt" onclick="jumptoTime(275, this.id)"> the</a><!--
+				--><a href="#00:04:036.01" id="276.0" class="lt" onclick="jumptoTime(276, this.id)"> expense</a><!--
+				--><a href="#00:04:036.47" id="276.4" class="lt" onclick="jumptoTime(276, this.id)"> of</a><!--
+				--><a href="#00:04:036.75" id="276.8" class="lt" onclick="jumptoTime(276, this.id)"> some</a><!--
+				--><a href="#00:04:036.95" id="277.0" class="lt" onclick="jumptoTime(276, this.id)"> US</a><!--
+				--><a href="#00:04:037.29" id="277.2" class="lt" onclick="jumptoTime(277, this.id)"> based</a><!--
+				--><a href="#00:04:037.59" id="277.6" class="lt" onclick="jumptoTime(277, this.id)"> companies</a><!--
+				--><a href="#00:04:038.01" id="278.0" class="lt" onclick="jumptoTime(278, this.id)"> including</a><!--
+				--><a href="#00:04:038.53" id="278.6" class="lt" onclick="jumptoTime(278, this.id)"> Meta</a><!--
+				--><a href="#00:04:038.93" id="279.0" class="lt" onclick="jumptoTime(278, this.id)"> and</a><!--
+				--><a href="#00:04:039.13" id="279.2" class="lt" onclick="jumptoTime(279, this.id)"> YouTube.</a><!--
+				--><a href="#00:04:039.93" id="280.0" class="lt" onclick="jumptoTime(279, this.id)"> So</a><!--
+				--><a href="#00:04:040.15" id="280.2" class="lt" onclick="jumptoTime(280, this.id)"> it's</a><!--
+				--><a href="#00:04:040.43" id="280.4" class="lt" onclick="jumptoTime(280, this.id)"> incredibly</a><!--
+				--><a href="#00:04:040.89" id="280.8" class="lt" onclick="jumptoTime(280, this.id)"> important.</a><!--
+				--><a href="#00:04:041.53" id="281.6" class="lt" onclick="jumptoTime(281, this.id)"> And</a><!--
+				--><a href="#00:04:041.59" id="281.6" class="lt" onclick="jumptoTime(281, this.id)"> there's</a><!--
+				--><a href="#00:04:041.75" id="281.8" class="lt" onclick="jumptoTime(281, this.id)"> a</a><!--
+				--><a href="#00:04:041.91" id="282.0" class="lt" onclick="jumptoTime(281, this.id)"> lot</a><!--
+				--><a href="#00:04:042.05" id="282.0" class="lt" onclick="jumptoTime(282, this.id)"> of</a><!--
+				--><a href="#00:04:042.19" id="282.2" class="lt" onclick="jumptoTime(282, this.id)"> factors</a><!--
+				--><a href="#00:04:042.51" id="282.6" class="lt" onclick="jumptoTime(282, this.id)"> at</a><!--
+				--><a href="#00:04:042.71" id="282.8" class="lt" onclick="jumptoTime(282, this.id)"> play</a><!--
+				--><a href="#00:04:042.91" id="283.0" class="lt" onclick="jumptoTime(282, this.id)"> here</a><!--
+				--><a href="#00:04:043.19" id="283.2" class="lt" onclick="jumptoTime(283, this.id)"> for</a><!--
+				--><a href="#00:04:043.47" id="283.4" class="lt" onclick="jumptoTime(283, this.id)"> for</a><!--
+				--><a href="#00:04:043.75" id="283.8" class="lt" onclick="jumptoTime(283, this.id)"> why</a><!--
+				--><a href="#00:04:043.97" id="284.0" class="lt" onclick="jumptoTime(283, this.id)"> this</a><!--
+				--><a href="#00:04:044.19" id="284.2" class="lt" onclick="jumptoTime(284, this.id)"> is</a><!--
+				--><a href="#00:04:044.35" id="284.4" class="lt" onclick="jumptoTime(284, this.id)"> happening.</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_04</span><br>
+				<a href="#00:04:046.17" id="286.2" class="lt" onclick="jumptoTime(286, this.id)"> And</a><!--
+				--><a href="#00:04:046.40" id="286.4" class="lt" onclick="jumptoTime(286, this.id)"> what</a><!--
+				--><a href="#00:04:046.88" id="286.8" class="lt" onclick="jumptoTime(286, this.id)"> did</a><!--
+				--><a href="#00:04:047.44" id="287.4" class="lt" onclick="jumptoTime(287, this.id)"> we</a><!--
+				--><a href="#00:04:047.61" id="287.6" class="lt" onclick="jumptoTime(287, this.id)"> actually</a><!--
+				--><a href="#00:04:047.87" id="287.8" class="lt" onclick="jumptoTime(287, this.id)"> learn</a><!--
+				--><a href="#00:04:048.35" id="288.4" class="lt" onclick="jumptoTime(288, this.id)"> from</a><!--
+				--><a href="#00:04:048.85" id="288.8" class="lt" onclick="jumptoTime(288, this.id)"> the</a><!--
+				--><a href="#00:04:049.11" id="289.2" class="lt" onclick="jumptoTime(289, this.id)"> committee</a><!--
+				--><a href="#00:04:049.43" id="289.4" class="lt" onclick="jumptoTime(289, this.id)"> hearing</a><!--
+				--><a href="#00:04:049.90" id="290.0" class="lt" onclick="jumptoTime(289, this.id)"> yesterday?</a><!--
+				--><a href="#00:04:050.49" id="290.4" class="lt" onclick="jumptoTime(290, this.id)"> Did</a><!--
+				--><a href="#00:04:050.58" id="290.6" class="lt" onclick="jumptoTime(290, this.id)"> we</a><!--
+				--><a href="#00:04:050.75" id="290.8" class="lt" onclick="jumptoTime(290, this.id)"> learn</a><!--
+				--><a href="#00:04:051.00" id="291.0" class="lt" onclick="jumptoTime(291, this.id)"> any</a><!--
+				--><a href="#00:04:051.20" id="291.2" class="lt" onclick="jumptoTime(291, this.id)"> more</a><!--
+				--><a href="#00:04:051.70" id="291.8" class="lt" onclick="jumptoTime(291, this.id)"> about</a><!--
+				--><a href="#00:04:052.12" id="292.2" class="lt" onclick="jumptoTime(292, this.id)"> the</a><!--
+				--><a href="#00:04:052.35" id="292.4" class="lt" onclick="jumptoTime(292, this.id)"> access</a><!--
+				--><a href="#00:04:052.90" id="293.0" class="lt" onclick="jumptoTime(292, this.id)"> that</a><!--
+				--><a href="#00:04:053.64" id="293.6" class="lt" onclick="jumptoTime(293, this.id)"> the</a><!--
+				--><a href="#00:04:053.81" id="293.8" class="lt" onclick="jumptoTime(293, this.id)"> Chinese</a><!--
+				--><a href="#00:04:054.11" id="294.2" class="lt" onclick="jumptoTime(294, this.id)"> government</a><!--
+				--><a href="#00:04:054.40" id="294.4" class="lt" onclick="jumptoTime(294, this.id)"> might</a><!--
+				--><a href="#00:04:054.64" id="294.6" class="lt" onclick="jumptoTime(294, this.id)"> have</a><!--
+				--><a href="#00:04:054.87" id="294.8" class="lt" onclick="jumptoTime(294, this.id)"> to</a><!--
+				--><a href="#00:04:055.02" id="295.0" class="lt" onclick="jumptoTime(295, this.id)"> data</a><!--
+				--><a href="#00:04:055.32" id="295.4" class="lt" onclick="jumptoTime(295, this.id)"> or</a><!--
+				--><a href="#00:04:055.70" id="295.8" class="lt" onclick="jumptoTime(295, this.id)"> not</a><!--
+				--><a href="#00:04:056.23" id="296.2" class="lt" onclick="jumptoTime(296, this.id)"> really?</a><!--
+				--></p>
+</div>
+<div class="e" style="background-color: white">
+<p  style="margin:0;padding: 5px 10px 10px 10px;word-wrap:normal;white-space:normal;">
+<span style="color:orange;font-weight: bold;">SPEAKER_03</span><br>
+				<a href="#00:04:057.64" id="297.6" class="lt" onclick="jumptoTime(297, this.id)"> There</a><!--
+				--><a href="#00:04:057.84" id="297.8" class="lt" onclick="jumptoTime(297, this.id)"> weren't</a><!--
+				--><a href="#00:04:058.16" id="298.2" class="lt" onclick="jumptoTime(298, this.id)"> really</a><!--
+				--><a href="#00:04:058.40" id="298.4" class="lt" onclick="jumptoTime(298, this.id)"> any</a><!--
+				--><a href="#00:04:058.76" id="298.8" class="lt" onclick="jumptoTime(298, this.id)"> big</a><!--
+				--><a href="#00:04:059.28" id="299.2" class="lt" onclick="jumptoTime(299, this.id)"> revelations</a><!--
+				--><a href="#00:05:000.04" id="300.0" class="lt" onclick="jumptoTime(300, this.id)"> today.</a><!--
+				--><a href="#00:05:000.94" id="301.0" class="lt" onclick="jumptoTime(300, this.id)"> Chu</a><!--
+				--><a href="#00:05:001.10" id="301.2" class="lt" onclick="jumptoTime(301, this.id)"> stuck</a><!--
+				--><a href="#00:05:001.50" id="301.6" class="lt" onclick="jumptoTime(301, this.id)"> mainly</a><!--
+				--><a href="#00:05:001.90" id="302.0" class="lt" onclick="jumptoTime(301, this.id)"> to</a><!--
+				--><a href="#00:05:002.30" id="302.4" class="lt" onclick="jumptoTime(302, this.id)"> his</a><!--
+				--><a href="#00:05:002.66" id="302.6" class="lt" onclick="jumptoTime(302, this.id)"> talking</a><!--
+				--><a href="#00:05:003.02" id="303.0" class="lt" onclick="jumptoTime(303, this.id)"> points.</a><!--
+				--><a href="#00:05:003.50" id="303.6" class="lt" onclick="jumptoTime(303, this.id)"> He</a><!--
+				--><a href="#00:05:003.50" id="303.6" class="lt" onclick="jumptoTime(303, this.id)"> talked</a><!--
+				--><a href="#00:05:003.72" id="303.8" class="lt" onclick="jumptoTime(303, this.id)"> a</a><!--
+				--><a href="#00:05:003.86" id="303.8" class="lt" onclick="jumptoTime(303, this.id)"> lot</a><!--
+				--><a href="#00:05:004.00" id="304.0" class="lt" onclick="jumptoTime(304, this.id)"> about</a><!--
+				--><a href="#00:05:004.22" id="304.2" class="lt" onclick="jumptoTime(304, this.id)"> Project</a><!--
+				--><a href="#00:05:004.58" id="304.6" class="lt" onclick="jumptoTime(304, this.id)"> Texas</a><!--
+				--><a href="#00:05:004.98" id="305.0" class="lt" onclick="jumptoTime(304, this.id)"> and</a><!--
+				--><a href="#00:05:005.70" id="305.6" class="lt" onclick="jumptoTime(305, this.id)"> the</a><!--
+				--><a href="#00:05:005.84" id="305.8" class="lt" onclick="jumptoTime(305, this.id)"> work</a><!--
+				--><a href="#00:05:006.04" id="306.0" class="lt" onclick="jumptoTime(306, this.id)"> that</a><!--
+				--><a href="#00:05:006.20" id="306.2" class="lt" onclick="jumptoTime(306, this.id)"> they're</a><!--
+				--><a href="#00:05:006.34" id="306.4" class="lt" onclick="jumptoTime(306, this.id)"> doing</a><!--
+				--><a href="#00:05:006.62" id="306.6" class="lt" onclick="jumptoTime(306, this.id)"> to</a><!--
+				--><a href="#00:05:006.84" id="306.8" class="lt" onclick="jumptoTime(306, this.id)"> protect</a><!--
+				--><a href="#00:05:007.20" id="307.2" class="lt" onclick="jumptoTime(307, this.id)"> and</a><!--
+				--><a href="#00:05:007.48" id="307.4" class="lt" onclick="jumptoTime(307, this.id)"> store</a><!--
+				--><a href="#00:05:007.94" id="308.0" class="lt" onclick="jumptoTime(307, this.id)"> American</a><!--
+				--><a href="#00:05:008.94" id="309.0" class="lt" onclick="jumptoTime(308, this.id)"> data</a><!--
+				--><a href="#00:05:009.36" id="309.4" class="lt" onclick="jumptoTime(309, this.id)"> on</a><!--
+				--><a href="#00:05:009.64" id="309.6" class="lt" onclick="jumptoTime(309, this.id)"> U</a><!--
+				--><a href="#00:05:009.80" id="309.8" class="lt" onclick="jumptoTime(309, this.id)">.S.</a><!--
+				--><a href="#00:05:010.04" id="310.0" class="lt" onclick="jumptoTime(310, this.id)"> soil,</a><!--
+				--><a href="#00:05:010.30" id="310.4" class="lt" onclick="jumptoTime(310, this.id)"> but</a><!--
+				--><a href="#00:05:010.44" id="310.4" class="lt" onclick="jumptoTime(310, this.id)"> he</a><!--
+				--><a href="#00:05:010.56" id="310.6" class="lt" onclick="jumptoTime(310, this.id)"> didn't</a><!--
+				--><a href="#00:05:010.82" id="310.8" class="lt" onclick="jumptoTime(310, this.id)"> really</a><!--
+				--><a href="#00:05:011.10" id="311.2" class="lt" onclick="jumptoTime(311, this.id)"> offer</a><!--
+				--><a href="#00:05:011.54" id="311.6" class="lt" onclick="jumptoTime(311, this.id)"> much</a><!--
+				--><a href="#00:05:012.40" id="312.4" class="lt" onclick="jumptoTime(312, this.id)"> new</a><!--
+				--><a href="#00:05:013.48" id="313.4" class="lt" onclick="jumptoTime(313, this.id)"> evidence</a><!--
+				--><a href="#00:05:014.38" id="314.4" class="lt" onclick="jumptoTime(314, this.id)"> or</a><!--
+				--><a href="#00:05:014.82" id="314.8" class="lt" onclick="jumptoTime(314, this.id)"> much</a><!--
+				--><a href="#00:05:015.28" id="315.2" class="lt" onclick="jumptoTime(315, this.id)"> new</a><!--
+				--><a href="#00:05:015.74" id="315.8" class="lt" onclick="jumptoTime(315, this.id)"> in</a><!--
+				--><a href="#00:05:015.96" id="316.0" class="lt" onclick="jumptoTime(315, this.id)"> terms</a><!--
+				--><a href="#00:05:016.22" id="316.2" class="lt" onclick="jumptoTime(316, this.id)"> of</a><!--
+				--><a href="#00:05:016.38" id="316.4" class="lt" onclick="jumptoTime(316, this.id)"> what</a><!--
+				--><a href="#00:05:016.54" id="316.6" class="lt" onclick="jumptoTime(316, this.id)"> they're</a><!--
+				--><a href="#00:05:017.14" id="317.2" class="lt" onclick="jumptoTime(317, this.id)"> doing.</a><!--
+				--><a href="#00:05:017.84" id="317.8" class="lt" onclick="jumptoTime(317, this.id)"> That</a><!--
+				--><a href="#00:05:018.08" id="318.0" class="lt" onclick="jumptoTime(318, this.id)"> said,</a><!--
+				--><a href="#00:05:018.46" id="318.4" class="lt" onclick="jumptoTime(318, this.id)"> he</a><!--
+				--><a href="#00:05:018.58" id="318.6" class="lt" onclick="jumptoTime(318, this.id)"> also</a><!--
+				--><a href="#00:05:018.82" id="318.8" class="lt" onclick="jumptoTime(318, this.id)"> didn't</a><!--
+				--><a href="#00:05:019.16" id="319.2" class="lt" onclick="jumptoTime(319, this.id)"> always</a><!--
+				--><a href="#00:05:019.44" id="319.4" class="lt" onclick="jumptoTime(319, this.id)"> have</a><!--
+				--><a href="#00:05:019.62" id="319.6" class="lt" onclick="jumptoTime(319, this.id)"> a</a><!--
+				--><a href="#00:05:019.76" id="319.8" class="lt" onclick="jumptoTime(319, this.id)"> lot</a><!--
+				--><a href="#00:05:019.90" id="320.0" class="lt" onclick="jumptoTime(319, this.id)"> of</a><!--
+				--><a href="#00:05:020.02" id="320.0" class="lt" onclick="jumptoTime(320, this.id)"> time</a><!--
+				--><a href="#00:05:020.32" id="320.4" class="lt" onclick="jumptoTime(320, this.id)"> to</a><!--
+				--><a href="#00:05:020.48" id="320.4" class="lt" onclick="jumptoTime(320, this.id)"> be</a><!--
+				--><a href="#00:05:020.62" id="320.6" class="lt" onclick="jumptoTime(320, this.id)"> able</a><!--
+				--><a href="#00:05:020.86" id="320.8" class="lt" onclick="jumptoTime(320, this.id)"> to</a><!--
+				--><a href="#00:05:021.08" id="321.0" class="lt" onclick="jumptoTime(321, this.id)"> answer</a><!--
+				--><a href="#00:05:021.36" id="321.4" class="lt" onclick="jumptoTime(321, this.id)"> a</a><!--
+				--><a href="#00:05:021.60" id="321.6" class="lt" onclick="jumptoTime(321, this.id)"> lot</a><!--
+				--><a href="#00:05:021.72" id="321.8" class="lt" onclick="jumptoTime(321, this.id)"> of</a><!--
+				--><a href="#00:05:021.84" id="321.8" class="lt" onclick="jumptoTime(321, this.id)"> the</a><!--
+				--><a href="#00:05:021.98" id="322.0" class="lt" onclick="jumptoTime(321, this.id)"> questions</a><!--
+				--><a href="#00:05:022.32" id="322.4" class="lt" onclick="jumptoTime(322, this.id)"> that</a><!--
+				--><a href="#00:05:022.52" id="322.6" class="lt" onclick="jumptoTime(322, this.id)"> the</a><!--
+				--><a href="#00:05:022.66" id="322.6" class="lt" onclick="jumptoTime(322, this.id)"> lawmakers</a><!--
+				--><a href="#00:05:023.04" id="323.0" class="lt" onclick="jumptoTime(323, this.id)"> proposed.</a><!--
+				--><a href="#00:05:023.96" id="324.0" class="lt" onclick="jumptoTime(323, this.id)"> Again,</a><!--
+				--><a href="#00:05:024.26" id="324.2" class="lt" onclick="jumptoTime(324, this.id)"> it</a><!--
+				--><a href="#00:05:024.36" id="324.4" class="lt" onclick="jumptoTime(324, this.id)"> was</a><!--
+				--><a href="#00:05:024.50" id="324.4" class="lt" onclick="jumptoTime(324, this.id)"> really</a><!--
+				--><a href="#00:05:024.92" id="325.0" class="lt" onclick="jumptoTime(324, this.id)"> incredibly</a><!--
+				--><a href="#00:05:025.44" id="325.4" class="lt" onclick="jumptoTime(325, this.id)"> tough</a><!--
+				--><a href="#00:05:025.86" id="325.8" class="lt" onclick="jumptoTime(325, this.id)"> questioning,</a><!--
+				--><a href="#00:05:026.96" id="327.0" class="lt" onclick="jumptoTime(326, this.id)"> and</a><!--
+				--><a href="#00:05:027.70" id="327.6" class="lt" onclick="jumptoTime(327, this.id)"> he</a><!--
+				--><a href="#00:05:027.94" id="328.0" class="lt" onclick="jumptoTime(327, this.id)"> stuck</a><!--
+				--><a href="#00:05:028.30" id="328.4" class="lt" onclick="jumptoTime(328, this.id)"> mainly</a><!--
+				--><a href="#00:05:028.64" id="328.6" class="lt" onclick="jumptoTime(328, this.id)"> to</a><!--
+				--><a href="#00:05:028.84" id="328.8" class="lt" onclick="jumptoTime(328, this.id)"> those</a><!--
+				--><a href="#00:05:029.04" id="329.0" class="lt" onclick="jumptoTime(329, this.id)"> talking</a><!--
+				--><a href="#00:05:029.30" id="329.2" class="lt" onclick="jumptoTime(329, this.id)"> points.</a><!--
+				--></p>
+</div>
+	</body>
+</html>

@@ -1,0 +1,1086 @@
+{
+    "text": " It's clear that if anything, this case has highlighted the gross incompetency of people in power. I know, old news, but it especially warrants saying because we get to see it on full display, broadcasted right before our eyes. No term limits and plenty of other systemic flaws have stocked our legislative body with people that are straight up out of touch. These are the kinds of people that write off younger voices as stupid and inexperienced, when those are the kids that are going to be around much longer than them. These are the posterity and they're adapting to this world and learning to communicate their thoughts about it way faster than any of these walking bathroom tiles. Meanwhile, all they care about is their power.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.12,
+            "text": " It's clear that if anything, this case has highlighted the gross incompetency of people in power.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                1850,
+                300,
+                498,
+                1340,
+                11,
+                341,
+                1389,
+                575,
+                17173,
+                264,
+                11367,
+                41602,
+                3020,
+                295,
+                561,
+                294,
+                1347,
+                13,
+                50630
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8965453803539276
+                },
+                {
+                    "word": " clear",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.8121839165687561
+                },
+                {
+                    "word": " that",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.8685717582702637
+                },
+                {
+                    "word": " if",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.5637949705123901
+                },
+                {
+                    "word": " anything,",
+                    "start": 0.92,
+                    "end": 1.36,
+                    "probability": 0.8443925976753235
+                },
+                {
+                    "word": " this",
+                    "start": 1.56,
+                    "end": 1.68,
+                    "probability": 0.8727478384971619
+                },
+                {
+                    "word": " case",
+                    "start": 1.68,
+                    "end": 1.98,
+                    "probability": 0.7910888195037842
+                },
+                {
+                    "word": " has",
+                    "start": 1.98,
+                    "end": 2.16,
+                    "probability": 0.8739672899246216
+                },
+                {
+                    "word": " highlighted",
+                    "start": 2.16,
+                    "end": 2.54,
+                    "probability": 0.7730243802070618
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 2.8,
+                    "probability": 0.8022622466087341
+                },
+                {
+                    "word": " gross",
+                    "start": 2.8,
+                    "end": 3.22,
+                    "probability": 0.8043901920318604
+                },
+                {
+                    "word": " incompetency",
+                    "start": 3.22,
+                    "end": 4.1,
+                    "probability": 0.7714850008487701
+                },
+                {
+                    "word": " of",
+                    "start": 4.1,
+                    "end": 4.3,
+                    "probability": 0.9055179953575134
+                },
+                {
+                    "word": " people",
+                    "start": 4.3,
+                    "end": 4.6,
+                    "probability": 0.8870753645896912
+                },
+                {
+                    "word": " in",
+                    "start": 4.6,
+                    "end": 4.78,
+                    "probability": 0.906038761138916
+                },
+                {
+                    "word": " power.",
+                    "start": 4.78,
+                    "end": 5.12,
+                    "probability": 0.8078469634056091
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.48,
+            "end": 10.74,
+            "text": " I know, old news, but it especially warrants saying because we get to see it on full display,",
+            "tokens": [
+                50630,
+                286,
+                458,
+                11,
+                1331,
+                2583,
+                11,
+                457,
+                309,
+                2318,
+                1516,
+                10968,
+                1566,
+                570,
+                321,
+                483,
+                281,
+                536,
+                309,
+                322,
+                1577,
+                4674,
+                11,
+                50910
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 5.48,
+                    "end": 5.54,
+                    "probability": 0.9732688665390015
+                },
+                {
+                    "word": " know,",
+                    "start": 5.54,
+                    "end": 5.72,
+                    "probability": 0.8090798854827881
+                },
+                {
+                    "word": " old",
+                    "start": 5.84,
+                    "end": 6.1,
+                    "probability": 0.8590626120567322
+                },
+                {
+                    "word": " news,",
+                    "start": 6.1,
+                    "end": 6.42,
+                    "probability": 0.720328688621521
+                },
+                {
+                    "word": " but",
+                    "start": 6.58,
+                    "end": 6.78,
+                    "probability": 0.8890829682350159
+                },
+                {
+                    "word": " it",
+                    "start": 6.78,
+                    "end": 7.1,
+                    "probability": 0.6756616234779358
+                },
+                {
+                    "word": " especially",
+                    "start": 7.1,
+                    "end": 7.64,
+                    "probability": 0.7014782428741455
+                },
+                {
+                    "word": " warrants",
+                    "start": 7.64,
+                    "end": 8.12,
+                    "probability": 0.9126043021678925
+                },
+                {
+                    "word": " saying",
+                    "start": 8.12,
+                    "end": 8.46,
+                    "probability": 0.8250257968902588
+                },
+                {
+                    "word": " because",
+                    "start": 8.46,
+                    "end": 8.8,
+                    "probability": 0.7570136785507202
+                },
+                {
+                    "word": " we",
+                    "start": 8.8,
+                    "end": 9.1,
+                    "probability": 0.8891929388046265
+                },
+                {
+                    "word": " get",
+                    "start": 9.1,
+                    "end": 9.22,
+                    "probability": 0.8982088565826416
+                },
+                {
+                    "word": " to",
+                    "start": 9.22,
+                    "end": 9.36,
+                    "probability": 0.9032289385795593
+                },
+                {
+                    "word": " see",
+                    "start": 9.36,
+                    "end": 9.52,
+                    "probability": 0.8188738226890564
+                },
+                {
+                    "word": " it",
+                    "start": 9.52,
+                    "end": 9.64,
+                    "probability": 0.8985775709152222
+                },
+                {
+                    "word": " on",
+                    "start": 9.64,
+                    "end": 9.82,
+                    "probability": 0.9047667980194092
+                },
+                {
+                    "word": " full",
+                    "start": 9.82,
+                    "end": 10.18,
+                    "probability": 0.7917104363441467
+                },
+                {
+                    "word": " display,",
+                    "start": 10.18,
+                    "end": 10.74,
+                    "probability": 0.8574845790863037
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.02,
+            "end": 13.02,
+            "text": " broadcasted right before our eyes.",
+            "tokens": [
+                50910,
+                9975,
+                292,
+                558,
+                949,
+                527,
+                2575,
+                13,
+                51030
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " broadcasted",
+                    "start": 11.02,
+                    "end": 11.78,
+                    "probability": 0.9007714092731476
+                },
+                {
+                    "word": " right",
+                    "start": 11.78,
+                    "end": 12.14,
+                    "probability": 0.8872086405754089
+                },
+                {
+                    "word": " before",
+                    "start": 12.14,
+                    "end": 12.46,
+                    "probability": 0.7875602841377258
+                },
+                {
+                    "word": " our",
+                    "start": 12.46,
+                    "end": 12.74,
+                    "probability": 0.8086962103843689
+                },
+                {
+                    "word": " eyes.",
+                    "start": 12.74,
+                    "end": 13.02,
+                    "probability": 0.837315559387207
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.42,
+            "end": 18.4,
+            "text": " No term limits and plenty of other systemic flaws have stocked our legislative body",
+            "tokens": [
+                51030,
+                883,
+                1433,
+                10406,
+                293,
+                7140,
+                295,
+                661,
+                23789,
+                27108,
+                362,
+                4127,
+                292,
+                527,
+                21331,
+                1772,
+                51292
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " No",
+                    "start": 13.42,
+                    "end": 13.66,
+                    "probability": 0.8553299307823181
+                },
+                {
+                    "word": " term",
+                    "start": 13.66,
+                    "end": 14.02,
+                    "probability": 0.6312642693519592
+                },
+                {
+                    "word": " limits",
+                    "start": 14.02,
+                    "end": 14.36,
+                    "probability": 0.8723904490470886
+                },
+                {
+                    "word": " and",
+                    "start": 14.36,
+                    "end": 14.7,
+                    "probability": 0.5172725319862366
+                },
+                {
+                    "word": " plenty",
+                    "start": 14.7,
+                    "end": 15.1,
+                    "probability": 0.8723934292793274
+                },
+                {
+                    "word": " of",
+                    "start": 15.1,
+                    "end": 15.3,
+                    "probability": 0.9062967300415039
+                },
+                {
+                    "word": " other",
+                    "start": 15.3,
+                    "end": 15.54,
+                    "probability": 0.7781428098678589
+                },
+                {
+                    "word": " systemic",
+                    "start": 15.54,
+                    "end": 15.94,
+                    "probability": 0.8320049047470093
+                },
+                {
+                    "word": " flaws",
+                    "start": 15.94,
+                    "end": 16.42,
+                    "probability": 0.72984379529953
+                },
+                {
+                    "word": " have",
+                    "start": 16.42,
+                    "end": 16.72,
+                    "probability": 0.8603757619857788
+                },
+                {
+                    "word": " stocked",
+                    "start": 16.72,
+                    "end": 17.24,
+                    "probability": 0.7410987466573715
+                },
+                {
+                    "word": " our",
+                    "start": 17.24,
+                    "end": 17.42,
+                    "probability": 0.7910267114639282
+                },
+                {
+                    "word": " legislative",
+                    "start": 17.42,
+                    "end": 17.9,
+                    "probability": 0.8400804400444031
+                },
+                {
+                    "word": " body",
+                    "start": 17.9,
+                    "end": 18.4,
+                    "probability": 0.7946256399154663
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.4,
+            "end": 20.52,
+            "text": " with people that are straight up out of touch.",
+            "tokens": [
+                51292,
+                365,
+                561,
+                300,
+                366,
+                2997,
+                493,
+                484,
+                295,
+                2557,
+                13,
+                51408
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 18.4,
+                    "end": 18.72,
+                    "probability": 0.8001833558082581
+                },
+                {
+                    "word": " people",
+                    "start": 18.72,
+                    "end": 18.96,
+                    "probability": 0.91773921251297
+                },
+                {
+                    "word": " that",
+                    "start": 18.96,
+                    "end": 19.16,
+                    "probability": 0.85993891954422
+                },
+                {
+                    "word": " are",
+                    "start": 19.16,
+                    "end": 19.3,
+                    "probability": 0.8956037163734436
+                },
+                {
+                    "word": " straight",
+                    "start": 19.3,
+                    "end": 19.62,
+                    "probability": 0.8418435454368591
+                },
+                {
+                    "word": " up",
+                    "start": 19.62,
+                    "end": 19.78,
+                    "probability": 0.6797055602073669
+                },
+                {
+                    "word": " out",
+                    "start": 19.78,
+                    "end": 20.04,
+                    "probability": 0.756738543510437
+                },
+                {
+                    "word": " of",
+                    "start": 20.04,
+                    "end": 20.14,
+                    "probability": 0.865541398525238
+                },
+                {
+                    "word": " touch.",
+                    "start": 20.14,
+                    "end": 20.52,
+                    "probability": 0.707162618637085
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.96,
+            "end": 25.64,
+            "text": " These are the kinds of people that write off younger voices as stupid and inexperienced,",
+            "tokens": [
+                51408,
+                1981,
+                366,
+                264,
+                3685,
+                295,
+                561,
+                300,
+                2464,
+                766,
+                7037,
+                9802,
+                382,
+                6631,
+                293,
+                29961,
+                610,
+                47592,
+                11,
+                51652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 20.96,
+                    "end": 21.34,
+                    "probability": 0.8986040353775024
+                },
+                {
+                    "word": " are",
+                    "start": 21.34,
+                    "end": 21.44,
+                    "probability": 0.8964650630950928
+                },
+                {
+                    "word": " the",
+                    "start": 21.44,
+                    "end": 21.56,
+                    "probability": 0.8109444975852966
+                },
+                {
+                    "word": " kinds",
+                    "start": 21.56,
+                    "end": 21.76,
+                    "probability": 0.7142032384872437
+                },
+                {
+                    "word": " of",
+                    "start": 21.76,
+                    "end": 21.9,
+                    "probability": 0.9027314186096191
+                },
+                {
+                    "word": " people",
+                    "start": 21.9,
+                    "end": 22.1,
+                    "probability": 0.9242686629295349
+                },
+                {
+                    "word": " that",
+                    "start": 22.1,
+                    "end": 22.38,
+                    "probability": 0.8608164191246033
+                },
+                {
+                    "word": " write",
+                    "start": 22.38,
+                    "end": 22.64,
+                    "probability": 0.8087800145149231
+                },
+                {
+                    "word": " off",
+                    "start": 22.64,
+                    "end": 22.82,
+                    "probability": 0.7877750992774963
+                },
+                {
+                    "word": " younger",
+                    "start": 22.82,
+                    "end": 23.18,
+                    "probability": 0.7919846773147583
+                },
+                {
+                    "word": " voices",
+                    "start": 23.18,
+                    "end": 23.54,
+                    "probability": 0.916887640953064
+                },
+                {
+                    "word": " as",
+                    "start": 23.54,
+                    "end": 23.94,
+                    "probability": 0.9078336358070374
+                },
+                {
+                    "word": " stupid",
+                    "start": 23.94,
+                    "end": 24.38,
+                    "probability": 0.7735463380813599
+                },
+                {
+                    "word": " and",
+                    "start": 24.38,
+                    "end": 24.74,
+                    "probability": 0.889809250831604
+                },
+                {
+                    "word": " inexperienced,",
+                    "start": 24.74,
+                    "end": 25.64,
+                    "probability": 0.9144514203071594
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 25.8,
+            "end": 29.22,
+            "text": " when those are the kids that are going to be around much longer than them.",
+            "tokens": [
+                51652,
+                562,
+                729,
+                366,
+                264,
+                2301,
+                300,
+                366,
+                516,
+                281,
+                312,
+                926,
+                709,
+                2854,
+                813,
+                552,
+                13,
+                51840
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28745245164440525,
+            "compression_ratio": 1.6645367412140575,
+            "no_speech_prob": 0.0013441579649224877,
+            "words": [
+                {
+                    "word": " when",
+                    "start": 25.8,
+                    "end": 26.02,
+                    "probability": 0.8686267137527466
+                },
+                {
+                    "word": " those",
+                    "start": 26.02,
+                    "end": 26.38,
+                    "probability": 0.852678120136261
+                },
+                {
+                    "word": " are",
+                    "start": 26.38,
+                    "end": 26.5,
+                    "probability": 0.886522650718689
+                },
+                {
+                    "word": " the",
+                    "start": 26.5,
+                    "end": 26.62,
+                    "probability": 0.8075752258300781
+                },
+                {
+                    "word": " kids",
+                    "start": 26.62,
+                    "end": 26.94,
+                    "probability": 0.796754777431488
+                },
+                {
+                    "word": " that",
+                    "start": 26.94,
+                    "end": 27.16,
+                    "probability": 0.8633570671081543
+                },
+                {
+                    "word": " are",
+                    "start": 27.16,
+                    "end": 27.24,
+                    "probability": 0.8749693632125854
+                },
+                {
+                    "word": " going",
+                    "start": 27.24,
+                    "end": 27.34,
+                    "probability": 0.5917242765426636
+                },
+                {
+                    "word": " to",
+                    "start": 27.34,
+                    "end": 27.38,
+                    "probability": 0.9050383567810059
+                },
+                {
+                    "word": " be",
+                    "start": 27.38,
+                    "end": 27.5,
+                    "probability": 0.8998847603797913
+                },
+                {
+                    "word": " around",
+                    "start": 27.5,
+                    "end": 27.78,
+                    "probability": 0.8754794597625732
+                },
+                {
+                    "word": " much",
+                    "start": 27.78,
+                    "end": 28.24,
+                    "probability": 0.6070409417152405
+                },
+                {
+                    "word": " longer",
+                    "start": 28.24,
+                    "end": 28.68,
+                    "probability": 0.8272305130958557
+                },
+                {
+                    "word": " than",
+                    "start": 28.68,
+                    "end": 28.92,
+                    "probability": 0.8858842253684998
+                },
+                {
+                    "word": " them.",
+                    "start": 28.92,
+                    "end": 29.22,
+                    "probability": 0.7367168068885803
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2922,
+            "start": 29.36,
+            "end": 34.1,
+            "text": " These are the posterity and they're adapting to this world and learning to communicate",
+            "tokens": [
+                50380,
+                1981,
+                366,
+                264,
+                17171,
+                507,
+                293,
+                436,
+                434,
+                34942,
+                281,
+                341,
+                1002,
+                293,
+                2539,
+                281,
+                7890,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.313356358954247,
+            "compression_ratio": 1.4482758620689655,
+            "no_speech_prob": 0.0014236347051337361,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 29.36,
+                    "end": 29.92,
+                    "probability": 0.748313844203949
+                },
+                {
+                    "word": " are",
+                    "start": 29.92,
+                    "end": 30.14,
+                    "probability": 0.8926548361778259
+                },
+                {
+                    "word": " the",
+                    "start": 30.14,
+                    "end": 30.3,
+                    "probability": 0.7569966316223145
+                },
+                {
+                    "word": " posterity",
+                    "start": 30.3,
+                    "end": 31.02,
+                    "probability": 0.8421216309070587
+                },
+                {
+                    "word": " and",
+                    "start": 31.02,
+                    "end": 31.34,
+                    "probability": 0.5859792232513428
+                },
+                {
+                    "word": " they're",
+                    "start": 31.34,
+                    "end": 31.6,
+                    "probability": 0.7884462177753448
+                },
+                {
+                    "word": " adapting",
+                    "start": 31.6,
+                    "end": 32.02,
+                    "probability": 0.8326409459114075
+                },
+                {
+                    "word": " to",
+                    "start": 32.02,
+                    "end": 32.2,
+                    "probability": 0.903700590133667
+                },
+                {
+                    "word": " this",
+                    "start": 32.2,
+                    "end": 32.4,
+                    "probability": 0.8743066787719727
+                },
+                {
+                    "word": " world",
+                    "start": 32.4,
+                    "end": 32.76,
+                    "probability": 0.880979061126709
+                },
+                {
+                    "word": " and",
+                    "start": 32.76,
+                    "end": 33.08,
+                    "probability": 0.792853057384491
+                },
+                {
+                    "word": " learning",
+                    "start": 33.08,
+                    "end": 33.48,
+                    "probability": 0.827220618724823
+                },
+                {
+                    "word": " to",
+                    "start": 33.48,
+                    "end": 33.68,
+                    "probability": 0.9095888137817383
+                },
+                {
+                    "word": " communicate",
+                    "start": 33.68,
+                    "end": 34.1,
+                    "probability": 0.7504144310951233
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2922,
+            "start": 34.1,
+            "end": 38.6,
+            "text": " their thoughts about it way faster than any of these walking bathroom tiles.",
+            "tokens": [
+                50612,
+                641,
+                4598,
+                466,
+                309,
+                636,
+                4663,
+                813,
+                604,
+                295,
+                613,
+                4494,
+                8687,
+                21982,
+                13,
+                50844
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.313356358954247,
+            "compression_ratio": 1.4482758620689655,
+            "no_speech_prob": 0.0014236347051337361,
+            "words": [
+                {
+                    "word": " their",
+                    "start": 34.1,
+                    "end": 34.38,
+                    "probability": 0.9144516587257385
+                },
+                {
+                    "word": " thoughts",
+                    "start": 34.38,
+                    "end": 34.72,
+                    "probability": 0.7994709610939026
+                },
+                {
+                    "word": " about",
+                    "start": 34.72,
+                    "end": 34.96,
+                    "probability": 0.8143764734268188
+                },
+                {
+                    "word": " it",
+                    "start": 34.96,
+                    "end": 35.14,
+                    "probability": 0.8969501852989197
+                },
+                {
+                    "word": " way",
+                    "start": 35.14,
+                    "end": 35.56,
+                    "probability": 0.7314423322677612
+                },
+                {
+                    "word": " faster",
+                    "start": 35.56,
+                    "end": 36.02,
+                    "probability": 0.7506259083747864
+                },
+                {
+                    "word": " than",
+                    "start": 36.02,
+                    "end": 36.3,
+                    "probability": 0.8729344010353088
+                },
+                {
+                    "word": " any",
+                    "start": 36.3,
+                    "end": 36.76,
+                    "probability": 0.8132449388504028
+                },
+                {
+                    "word": " of",
+                    "start": 36.76,
+                    "end": 37.0,
+                    "probability": 0.9029018878936768
+                },
+                {
+                    "word": " these",
+                    "start": 37.0,
+                    "end": 37.18,
+                    "probability": 0.7166175842285156
+                },
+                {
+                    "word": " walking",
+                    "start": 37.18,
+                    "end": 37.56,
+                    "probability": 0.6972001791000366
+                },
+                {
+                    "word": " bathroom",
+                    "start": 37.56,
+                    "end": 38.08,
+                    "probability": 0.9146932363510132
+                },
+                {
+                    "word": " tiles.",
+                    "start": 38.08,
+                    "end": 38.6,
+                    "probability": 0.7583332657814026
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2922,
+            "start": 38.9,
+            "end": 41.06,
+            "text": " Meanwhile, all they care about is their power.",
+            "tokens": [
+                50844,
+                13879,
+                11,
+                439,
+                436,
+                1127,
+                466,
+                307,
+                641,
+                1347,
+                13,
+                50960
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.313356358954247,
+            "compression_ratio": 1.4482758620689655,
+            "no_speech_prob": 0.0014236347051337361,
+            "words": [
+                {
+                    "word": " Meanwhile,",
+                    "start": 38.9,
+                    "end": 39.28,
+                    "probability": 0.9134325385093689
+                },
+                {
+                    "word": " all",
+                    "start": 39.56,
+                    "end": 39.68,
+                    "probability": 0.9003429412841797
+                },
+                {
+                    "word": " they",
+                    "start": 39.68,
+                    "end": 39.86,
+                    "probability": 0.7478378415107727
+                },
+                {
+                    "word": " care",
+                    "start": 39.86,
+                    "end": 40.08,
+                    "probability": 0.819939374923706
+                },
+                {
+                    "word": " about",
+                    "start": 40.08,
+                    "end": 40.34,
+                    "probability": 0.8234103918075562
+                },
+                {
+                    "word": " is",
+                    "start": 40.34,
+                    "end": 40.56,
+                    "probability": 0.8954700827598572
+                },
+                {
+                    "word": " their",
+                    "start": 40.56,
+                    "end": 40.74,
+                    "probability": 0.903949499130249
+                },
+                {
+                    "word": " power.",
+                    "start": 40.74,
+                    "end": 41.06,
+                    "probability": 0.8179168701171875
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

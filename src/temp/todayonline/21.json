@@ -1,0 +1,53 @@
+{
+    "text": " Yes or no, please.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.9,
+            "text": " Yes or no, please.",
+            "tokens": [
+                50364,
+                1079,
+                420,
+                572,
+                11,
+                1767,
+                13,
+                50874
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5214461750454373,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.043056998401880264,
+            "words": [
+                {
+                    "word": " Yes",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7437989115715027
+                },
+                {
+                    "word": " or",
+                    "start": 0.22,
+                    "end": 0.34,
+                    "probability": 0.8861120939254761
+                },
+                {
+                    "word": " no,",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.8734666705131531
+                },
+                {
+                    "word": " please.",
+                    "start": 0.6,
+                    "end": 0.9,
+                    "probability": 0.7521827220916748
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

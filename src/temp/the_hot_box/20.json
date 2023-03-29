@@ -1,0 +1,132 @@
+{
+    "text": " You apparently don't care about getting the name of the person you're speaking to, right?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " You apparently don't care about getting the name of the person you're speaking to, right?",
+            "tokens": [
+                50364,
+                509,
+                7970,
+                500,
+                380,
+                1127,
+                466,
+                1242,
+                264,
+                1315,
+                295,
+                264,
+                954,
+                291,
+                434,
+                4124,
+                281,
+                11,
+                558,
+                30,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2960080016743053,
+            "compression_ratio": 1.0853658536585367,
+            "no_speech_prob": 0.013101502321660519,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7189843058586121
+                },
+                {
+                    "word": " apparently",
+                    "start": 0.18,
+                    "end": 0.56,
+                    "probability": 0.7350199818611145
+                },
+                {
+                    "word": " don't",
+                    "start": 0.56,
+                    "end": 0.88,
+                    "probability": 0.9484862983226776
+                },
+                {
+                    "word": " care",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.8213954567909241
+                },
+                {
+                    "word": " about",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.8144291639328003
+                },
+                {
+                    "word": " getting",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9253379702568054
+                },
+                {
+                    "word": " the",
+                    "start": 1.5,
+                    "end": 1.68,
+                    "probability": 0.8084462285041809
+                },
+                {
+                    "word": " name",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.8016854524612427
+                },
+                {
+                    "word": " of",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.9041245579719543
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 2.14,
+                    "probability": 0.8170357346534729
+                },
+                {
+                    "word": " person",
+                    "start": 2.14,
+                    "end": 2.4,
+                    "probability": 0.8084393739700317
+                },
+                {
+                    "word": " you're",
+                    "start": 2.4,
+                    "end": 2.64,
+                    "probability": 0.9167706668376923
+                },
+                {
+                    "word": " speaking",
+                    "start": 2.64,
+                    "end": 3.0,
+                    "probability": 0.773455023765564
+                },
+                {
+                    "word": " to,",
+                    "start": 3.0,
+                    "end": 3.3,
+                    "probability": 0.8942367434501648
+                },
+                {
+                    "word": " right?",
+                    "start": 3.38,
+                    "end": 3.58,
+                    "probability": 0.8865489959716797
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

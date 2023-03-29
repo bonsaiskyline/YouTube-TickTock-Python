@@ -1,0 +1,144 @@
+{
+    "text": " We may not always agree on how to get there, but we care about our national security.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " We may not always agree on how to get there, but we care about our national security.",
+            "tokens": [
+                50364,
+                492,
+                815,
+                406,
+                1009,
+                3986,
+                322,
+                577,
+                281,
+                483,
+                456,
+                11,
+                457,
+                321,
+                1127,
+                466,
+                527,
+                4048,
+                3825,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24804045937278055,
+            "compression_ratio": 1.103896103896104,
+            "no_speech_prob": 0.003103880910202861,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8433815836906433
+                },
+                {
+                    "word": " may",
+                    "start": 0.2,
+                    "end": 0.44,
+                    "probability": 0.8983176350593567
+                },
+                {
+                    "word": " not",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.8980599045753479
+                },
+                {
+                    "word": " always",
+                    "start": 0.72,
+                    "end": 1.18,
+                    "probability": 0.7523983716964722
+                },
+                {
+                    "word": " agree",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.8524159789085388
+                },
+                {
+                    "word": " on",
+                    "start": 1.58,
+                    "end": 1.8,
+                    "probability": 0.9102799892425537
+                },
+                {
+                    "word": " how",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.9045611619949341
+                },
+                {
+                    "word": " to",
+                    "start": 1.96,
+                    "end": 2.1,
+                    "probability": 0.9088390469551086
+                },
+                {
+                    "word": " get",
+                    "start": 2.1,
+                    "end": 2.28,
+                    "probability": 0.9001091122627258
+                },
+                {
+                    "word": " there,",
+                    "start": 2.28,
+                    "end": 2.52,
+                    "probability": 0.8646903038024902
+                },
+                {
+                    "word": " but",
+                    "start": 2.58,
+                    "end": 2.66,
+                    "probability": 0.9029889106750488
+                },
+                {
+                    "word": " we",
+                    "start": 2.66,
+                    "end": 2.84,
+                    "probability": 0.9147053360939026
+                },
+                {
+                    "word": " care",
+                    "start": 2.84,
+                    "end": 3.16,
+                    "probability": 0.8384064435958862
+                },
+                {
+                    "word": " about",
+                    "start": 3.16,
+                    "end": 3.46,
+                    "probability": 0.8281285166740417
+                },
+                {
+                    "word": " our",
+                    "start": 3.46,
+                    "end": 3.64,
+                    "probability": 0.8116127848625183
+                },
+                {
+                    "word": " national",
+                    "start": 3.64,
+                    "end": 4.32,
+                    "probability": 0.5904235243797302
+                },
+                {
+                    "word": " security.",
+                    "start": 4.32,
+                    "end": 4.84,
+                    "probability": 0.9211481809616089
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

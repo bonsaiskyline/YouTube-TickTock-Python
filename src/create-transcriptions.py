@@ -62,8 +62,6 @@ for folder_name in os.listdir(current):
         os.chdir(folder_path)
 
         print(f"Folder found: {folder_name}")
-        # if (folder_name == 'the_hot_box'):
-        #     continue
         output_file = "diarization.txt"
         groups = group(output_file)
         transcript = print_transcript(groups)

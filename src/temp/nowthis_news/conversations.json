@@ -1,0 +1,12 @@
+{
+    "conversations": [
+        [
+            "==> SPEAKER_01:: Mr. Chude, does TikTok access the home Wi-Fi network?",
+            "==> SPEAKER_00:: Only if the user turns on the Wi-Fi. I'm sorry, I may not understand the question.",
+            "==> SPEAKER_01:: So if I have a TikTok app on my phone and my phone is on my home Wi-Fi network, does TikTok access that network?",
+            "==> SPEAKER_00:: you will have to access the network to get connections to the internet, if that's the question.",
+            "==> SPEAKER_01:: Is it possible, then, that it could access other devices on that home Wi-Fi network?",
+            "==> SPEAKER_00:: Congressman, we do not do anything that is beyond any industry norms. I believe the answer to your question is no. It could be technical. Let me get back to you."
+        ]
+    ]
+}

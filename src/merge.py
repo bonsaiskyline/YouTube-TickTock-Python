@@ -95,6 +95,33 @@ def merge(items):
     output = ffmpeg.output(output_stream, output_file)
     ffmpeg.run(output)
 
+
+def moviepy_merge(items):
+    clips = []
+    for item in items:
+        folder = item[0]
+        number = item[1]
+        start = (item[2] - SPACERMILLI) / 1000
+        start = 0 if start < 0 else start
+        end = (item[3] - SPACERMILLI) / 1000
+        print(folder, number, start, end)
+        os.chdir(folder)
+        clip = VideoFileClip(f"{folder}.mp4")
+        subclip = clip.subclip(start, end)
+        clips.append(subclip)
+        os.chdir('..')
+    for clip in clips:
+        print("fps: ", clip.fps, "size: ", clip.size, "duration: ", clip.duration, "end: ", clip.end, "start: ",
+              clip.start, "has_audio: ", clip.audio, "has_mask: ", clip.mask, "has_subclip: ", clip.subclip)
+    final_clip = concatenate_videoclips(clips)
+    print("Final clip stats")
+    print("fps: ", final_clip.fps, "size: ", final_clip.size, "duration: ", final_clip.duration, "end: ", final_clip.end, "start: ",
+          final_clip.start, "has_audio: ", final_clip.audio, "has_mask: ", final_clip.mask, "has_subclip: ", final_clip.subclip)
+    final_clip.write_videofile("merged_video.mp4")
+    final_clip.close()
+    for clip in clips:
+        clip.close()
+
 FILES = ['insider_news-2', 'bbc_news-2', 'dw_news-2', 'todayonline-0']
 if __name__ == "__main__":
     mapping = create_mapping()

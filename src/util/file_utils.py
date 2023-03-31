@@ -13,4 +13,6 @@ def get_filenames(
     Returns:
             list: List of transcription files.
     """
-    return [f for f in os.listdir(dir_path) if f.endswith(extension)]
+    filenames = [f for f in os.listdir(dir_path) if f.endswith(extension)]
+    filenames.sort()
+    return filenames

@@ -30,5 +30,5 @@ def group(filename):
 
     if g:
         groups.append(g)
-    print(*groups, sep='\n')
+    # print(*groups, sep='\n')
     return groups

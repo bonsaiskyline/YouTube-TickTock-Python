@@ -2,39 +2,66 @@
 import os
 import re
 import json
-from util.transcript_utils import group
+from util.transcript_utils import group, millisec
 
-def print_transcript(groups):
-    gidx = -1
-    transcript = ""
-    for g in groups:
-        gidx += 1
-        captions = json.load(open(str(gidx) + '.json'))['segments']
+def map(folder, groups):
+    mapping = {}
+    print(len(groups))
+    for i, group in enumerate(groups):
+        captions = json.load(open(str(i) + '.json'))['segments']
+
+        start = re.findall('[0-9]+:[0-9]+:[0-9]+\.[0-9]+', string=group[0])[0]
+        end = re.findall('[0-9]+:[0-9]+:[0-9]+\.[0-9]+', string=group[-1])[1]
+        start = millisec(start) #- SPACERMILLI
+        end = millisec(end)  #- SPACERMILLI
 
         if captions:
-            speaker = g[0].split()[-1]
-            transcript += f"==> {speaker}: \n"
-
+            speaker = group[0].split()[-1]
+            transcript = ""
             for c in captions:
-                for i, w in enumerate(c['words']):
-                    if w == "":
-                        continue
-                    transcript += w["word"]
+                for j, word in enumerate(c['words']):
+                    transcript += word["word"]
             transcript += '\n'
-    return transcript
+            mapping[transcript.strip()] = [folder, i, start, end]
 
-os.chdir('temp')
-current = os.getcwd()
-for folder_name in os.listdir(current):
-    folder_path = os.path.join(current, folder_name)
-    if os.path.isdir(folder_path):
-        os.chdir(folder_path)
+    return mapping
 
-        print(f"Folder found: {folder_name}")
-        output_file = "diarization.txt"
-        groups = group(output_file)
-        transcript = print_transcript(groups)
-        print(transcript)
-        with open('transcript.txt', 'w') as f:
-            f.write(transcript)
-        os.chdir('..')
+def create_mapping():
+    os.chdir('temp')
+    current = os.getcwd()
+    mapping = {}
+    for folder_name in os.listdir(current):
+        folder_path = os.path.join(current, folder_name)
+        if os.path.isdir(folder_path):
+            os.chdir(folder_path)
+            output_file = "diarization.txt"
+            groups = group(output_file)
+            local = map(folder_name, groups)
+            mapping.update(local)
+            os.chdir('..')
+
+    # print(mapping)
+    return mapping
+
+
+def merge(mapping, items):
+    for item in items:
+        folder = item[0]
+        number = item[1]
+        start = item[2]
+        end = item[3]
+        os.chdir(folder)
+        # captions = json.load(open(str(number) + '.json'))['segments']
+
+mapping = create_mapping()
+
+
+
+print("=====================================")
+a = " Oh tick tock CEO goes under oath and says his company is not a glaring risk to U.S. national security. Lawmakers though in both parties clearly not convinced. Piercing questions today up on Capitol Hill the hearing in the House Energy and Commerce Committee kicking off with a reminder that misleading Congress is a federal crime. Tick tocks chief very very careful in his answers. He says the app can keep data for millions of American users off limits from the Chinese government. But lawmakers counter. They say simply they don't believe it. They see tick tock as a weapon for the Chinese regime."
+b = "Hello there. We begin in the United States where time is ticking for TikTok. The chief of the social media app, Shozy Chu, was grilled by lawmakers over a whole range of issues, mostly related to the company's Chinese ownership. His appearance before the Congressional Committee comes after the Biden administration threatened to ban the social media app if the company's Chinese owners didn't sell their shares. TikTok is wildly popular in the States. It's got over 150 million American users, including almost 5 million businesses. Well, our North America business correspondent, Michelle Flurry, has been following the story from Washington, D.C."
+
+print(mapping[a.strip()])
+print(mapping[b.strip()])
+
+

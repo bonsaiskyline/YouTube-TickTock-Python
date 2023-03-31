@@ -4,6 +4,7 @@ import re
 import json
 from util.transcript_utils import group, millisec, SPACERMILLI
 from moviepy.editor import VideoFileClip, concatenate_videoclips
+import ffmpeg
 
 def get_items(
   mapping,
@@ -65,6 +66,8 @@ def create_mapping():
 
 def merge(items):
     clips = []
+    output_file = 'merged_video.mp4'
+
     for item in items:
         folder = item[0]
         number = item[1]
@@ -72,15 +75,37 @@ def merge(items):
         start = 0 if start < 0 else start
         end = (item[3]  - SPACERMILLI) / 1000
         print(folder, number, start, end)
+        filename = f"/root/code/YouTube-TickTock-Python/src/temp/{folder}/{folder}.mp4"
         os.chdir(folder)
-        clip = VideoFileClip(f"{folder}.mp4").subclip(start, end)
-        clips.append(clip)
+        print(f"{folder}.mp4")
+
+        # clip = VideoFileClip(f"{folder}.mp4").subclip(start, end)
+        # video = VideoFileClip(f"{folder}.mp4")
+        video_stream = ffmpeg.input(filename, ss=(start), t=(end - start))
+        audio_stream = video_stream.audio
+        # Filter the audio stream to match the duration of the video stream
+        audio_stream = audio_stream.filter('atrim', start=0, end=(end - start))
+        clips.append(video_stream)
+        clips.append(audio_stream)
+
+        # print("Video duration:", video.duration, "seconds")
+        # clip = video.subclip(7.555, 10.555)
+        # print(clip.duration)
+        # clips.append(clip)
         os.chdir('..')
-    final_clip = concatenate_videoclips(clips)
-    final_clip.write_videofile("merged_video.mp4")
+    # Concatenate the video streams
+    output_stream = ffmpeg.concat(*clips, v=1, a=1)
+    # # Concatenate the audio streams
+    # output_audio = ffmpeg.concat(*audio_clips)
+    # output_stream = ffmpeg.merge_outputs(output_video, output_audio)
+    output = ffmpeg.output(output_stream, output_file)
+    ffmpeg.run(output)
+    # final_clip = concatenate_videoclips(clips)
+    # final_clip.write_videofile("merged_video.mp4")
+    # TODO close all clips
 
-FILES = ['bbc_news-2', 'dw_news-2', 'insider_news-2', 'todayonline-0']
-
+FILES = ['dw_news-2']
+# 'bbc-news-2', 'dw_news-2', 'insider_news-2', 'todayonline-0'
 if __name__ == "__main__":
     mapping = create_mapping()
     items = get_items(mapping, FILES)

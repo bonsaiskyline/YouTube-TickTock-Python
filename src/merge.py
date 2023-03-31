@@ -1,7 +1,8 @@
 
 import os
-from util.transcript_utils import group
+import re
 import json
+from util.transcript_utils import group
 
 def print_transcript(groups):
     gidx = -1

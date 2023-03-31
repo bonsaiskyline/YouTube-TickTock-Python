@@ -8,8 +8,8 @@ from pytube import YouTube
 VIDEO_DIR = "../video/"
 
 YOUTUBE_URLS = [
-    # "https://www.youtube.com/watch?v=sZDpJHl6amo",
-    # "https://www.youtube.com/shorts/vbXfyNxnkcs",
+    "https://www.youtube.com/watch?v=sZDpJHl6amo",
+    "https://www.youtube.com/shorts/vbXfyNxnkcs",
     "https://www.youtube.com/watch?v=AvsIogVNs7w",
     "https://www.youtube.com/shorts/xq3aFCEnFrQ",
     "https://www.youtube.com/shorts/IhvEU-6bnrM",
@@ -37,8 +37,10 @@ def download_youtube_videos(
     for url in youtube_urls:
         try:
             youtube = YouTube(url)
-            name = youtube.author.lower().replace(" ", "") + '.mp4'
-            if not os.path.isfile(save_path + name):
+            author = youtube.author.lower().replace(" ", "_")
+            name = author + '.mp4'
+            path = save_path + author + "/"
+            if not os.path.isfile(save_path + author + "/" + name):
                 filtered_streams = youtube.streams.filter(
                     progressive=True,
                     file_extension='mp4'
@@ -47,7 +49,7 @@ def download_youtube_videos(
                     'resolution'
                 )[-1]
                 ordered_streams.download(
-                    save_path,
+                    path,
                     filename=name
                 )
                 print("Downloaded " + name)
@@ -59,5 +61,5 @@ def download_youtube_videos(
 if __name__ == "__main__":
     download_youtube_videos(
         youtube_urls=YOUTUBE_URLS,
-        save_path=VIDEO_DIR
+        save_path='temp/'
     )

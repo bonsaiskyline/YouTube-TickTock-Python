@@ -5,3 +5,6 @@ ffmpeg-master-latest-linux64-gpl/
 *.wav
 __pycache__/
 .vscode/
+*.mp4
+
+

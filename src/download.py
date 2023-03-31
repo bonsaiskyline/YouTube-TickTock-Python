@@ -5,7 +5,7 @@ Author: bonsaiskyline
 import os
 from pytube import YouTube
 
-VIDEO_DIR = "../video/"
+VIDEO_DIR = "tmp/video/"
 
 YOUTUBE_URLS = [
     "https://www.youtube.com/watch?v=sZDpJHl6amo",

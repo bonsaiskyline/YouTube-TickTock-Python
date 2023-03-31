@@ -4,6 +4,7 @@ import re
 import json
 from util.transcript_utils import group, millisec, SPACERMILLI
 from moviepy.editor import VideoFileClip, concatenate_videoclips
+import ffmpeg
 
 def get_items(
   mapping,
@@ -13,19 +14,19 @@ def get_items(
     for file in files:
         path = "../tmp/stripped-conversation/" + file + ".txt"
         print(path)
+        source = file.split("-")[0]
         if os.path.exists(path):
-            print(path)
             with open(path, "r") as f:
                 stripped_conversation = f.read()
                 speakers = stripped_conversation.split("||")
                 for speaker in speakers:
                     print(speaker)
-                    items.append(mapping[speaker])
+                    print(mapping[speaker])
+                    items.append(mapping[speaker][source])
     return items
 
-def map(folder, groups):
-    mapping = {}
-    print(len(groups))
+def map(mapping, folder, groups):
+    # print(len(groups))
     for i, group in enumerate(groups):
         captions = json.load(open(str(i) + '.json'))['segments']
 
@@ -41,9 +42,17 @@ def map(folder, groups):
                 for j, word in enumerate(c['words']):
                     transcript += word["word"]
             transcript += '\n'
-            mapping[transcript.strip()] = [folder, i, start, end]
-
-    return mapping
+            key = transcript.strip()
+            if key in mapping:
+                print("======================")
+                print("ALREADY EXISTS!!!!!!!!!!!!!!!")
+                print(key)
+                print("======================")
+                existing = mapping[key]
+                existing[folder] = [folder, i, start, end]
+                mapping[key] = existing
+            else:
+                mapping[key] = {folder: [folder, i, start, end]}
 
 def create_mapping():
     os.chdir('temp')
@@ -55,8 +64,7 @@ def create_mapping():
             os.chdir(folder_path)
             output_file = "diarization.txt"
             groups = group(output_file)
-            local = map(folder_name, groups)
-            mapping.update(local)
+            map(mapping, folder_name, groups)
             os.chdir('..')
 
     # print(mapping)
@@ -65,6 +73,8 @@ def create_mapping():
 
 def merge(items):
     clips = []
+    output_file = 'merged_video.mp4'
+
     for item in items:
         folder = item[0]
         number = item[1]
@@ -72,17 +82,23 @@ def merge(items):
         start = 0 if start < 0 else start
         end = (item[3]  - SPACERMILLI) / 1000
         print(folder, number, start, end)
+        filename = f"/root/code/YouTube-TickTock-Python/src/temp/{folder}/{folder}.mp4"
         os.chdir(folder)
-        clip = VideoFileClip(f"{folder}.mp4").subclip(start, end)
-        clips.append(clip)
+        video_stream = ffmpeg.input(filename, ss=(start), t=(end - start))
+        audio_stream = video_stream.audio
+        audio_stream = audio_stream.filter('atrim', start=0, end=(end - start))
+        video_stream = video_stream.filter('scale', 1280, 720).filter('setdar', '16/9').filter('setsar', '1/1')
+        clips.append(video_stream)
+        clips.append(audio_stream)
         os.chdir('..')
-    final_clip = concatenate_videoclips(clips)
-    final_clip.write_videofile("merged_video.mp4")
+    output_stream = ffmpeg.concat(*clips, v=1, a=1)
+    output = ffmpeg.output(output_stream, output_file)
+    ffmpeg.run(output)
 
-FILES = ['bbc_news-2', 'dw_news-2', 'insider_news-2', 'todayonline-0']
-
+FILES = ['insider_news-2', 'bbc_news-2', 'dw_news-2', 'todayonline-0']
 if __name__ == "__main__":
     mapping = create_mapping()
     items = get_items(mapping, FILES)
+    print(items)
     merge(items)
 

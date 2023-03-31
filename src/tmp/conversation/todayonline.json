@@ -1,0 +1,55 @@
+{
+  "conversations": [
+    [
+      "==> SPEAKER_02:: So, Mr. Chu, if the CCP tells ByteDance to turn over all data that TikTok has collected inside the U.S., even within Project Texas, do they have to do so according to Chinese law?",
+      "==> SPEAKER_04:: Congressman, first, I'm Singaporean.",
+      "==> SPEAKER_02:: That's fine, but there are employees of yours and by dances in China",
+      "==> SPEAKER_04:: We understand this concern. In my opening statement, we said we hear these concerns. We didn't try to avoid them or you know, trivialize them. We built something where we take that data and put it out of reach. This is what we did. We put it out of reach. Out of reach, but they own you. No, we put it out of reach by storing them.",
+      "==> SPEAKER_02:: ByteDance owns TikTok. If ByteDance is told, and the CCP owns ByteDance, because the CCP owns everybody in China. So by law, they can make them do whatever they want, and they say that by law, you can't tell anyone about it. So they can make you hand over that data. Is that correct?",
+      "==> SPEAKER_04:: It's a violent.",
+      "==> SPEAKER_04:: Data is stored here in American soil by an American company overseen by American...",
+      "==> SPEAKER_02:: Well, you say that. We've thought that, but leaked audio from 80 internal TikTok meetings shows that US user data has been repeatedly accessed from China when you said it hasn't been."
+    ],
+    [
+      "==> SPEAKER_03:: Can you say with a hundred percent certainty that TikTok does not use the phone's camera to determine whether the content that elicits a pupil dilation should be amplified by the algorithm? Can you tell me that?",
+      "==> SPEAKER_04:: We do not collect body, face or voice data to identify our users. We do not. You don't? No. The only face data that you get, that we collect, is when you use the filters to have sunglasses on your face, we need to know where your eyes are.",
+      "==> SPEAKER_03:: Why do you need to know what the eyes are if you're not seeing if they're dilated?",
+      "==> SPEAKER_04:: ",
+      "==> SPEAKER_04:: And that data is stored on your local device and deleted after use if you use it for facial. Again, we do not collect body, face, or voice data to identify our users."
+    ],
+    [
+      "==> SPEAKER_00:: and",
+      "==> SPEAKER_04:: What percentage of TikTok sources"
+    ],
+    [
+      "==> SPEAKER_06:: What percentage of TikTok's source code is the same as Dolan? What percentage? I can get back to you on the specifics. Okay, I'd appreciate that. Where was the source code for TikTok developed? Was it developed in China or in the United States?",
+      "==> SPEAKER_04:: It's a global collaborative effort.",
+      "==> SPEAKER_06:: Was it developed in China? Some of it? Some of it is. Okay, at ByteDance. When it's compiled in the compilation process, can bytecode be manipulated? We've talked a lot about source code. What about the bytecode, the ones and zeros that actually execute on the device? Can it be manipulated? Yes.",
+      "==> SPEAKER_04:: To give you comfort, Congressman, to give you comfort, that's why we're giving third-party monitors. As an expert, I think you can agree that very few companies have to do this.",
+      "==> SPEAKER_06:: I've got the report."
+    ],
+    [
+      "==> SPEAKER_05:: Mr. Chu, yes or no? Do you have full responsibility for your algorithms used by TikTok to prioritize content to its users?",
+      "==> SPEAKER_04:: Yes or no, please.",
+      "==> SPEAKER_05:: Yes, yes, sir. Yes or no. I'll repeat the question. Do you have full responsibility over the algorithms used by TikTok to prioritize content to its users? Yes or no, please.",
+      "==> SPEAKER_04:: ",
+      "==> SPEAKER_04:: We do take these issues very seriously. Yes or no? And we do provide resources for anyone who types in anything that is suicide-related.",
+      "==> SPEAKER_05:: Very serious.",
+      "==> SPEAKER_05:: Sir, yes or no? I see you're not willing to answer the question or take any responsibility for your parents' companies, the technology and the harms it creates. It's just very, very sad. Very sad."
+    ],
+    [
+      "==> SPEAKER_00:: As was pointed out by Chairwoman Rogers, you have regular contact with Chinese Communist Party Secretary, Mr. Zhang Fuping, who is your boss at ByteDance, correct? No. No?",
+      "==> SPEAKER_04:: No."
+    ],
+    [
+      "==> SPEAKER_01:: No. Mr. Chu, do you agree that the Chinese government has persecuted the Uyghur population?",
+      "==> SPEAKER_04:: Congresswoman, if you use our app and you open it, you will find our users who give all sorts of content. That's not my question.",
+      "==> SPEAKER_01:: get all sorts of content out of that stuff. That's not my question. My question is, do you agree that the Chinese government has persecuted the Uyghur population?",
+      "==> SPEAKER_04:: While it's really concerning to hear about all accounts of human rights abuse, my role here is to explain what our platform does on this.",
+      "==> SPEAKER_01:: I think you're being pretty evasive. It's a pretty easy question. Do you agree that the Chinese government has persecuted the Uyghur population?",
+      "==> SPEAKER_04:: Congressman, I'm here to discard TikTok and what we do as a platform. And as a platform, we allow our users to freely express their views on this issue and any other issue that matters to them.",
+      "==> SPEAKER_01:: All right. We're weird today.",
+      "==> SPEAKER_01:: Well, you didn't answer the question."
+    ]
+  ]
+}

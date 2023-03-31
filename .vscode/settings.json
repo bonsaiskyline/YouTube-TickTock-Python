@@ -1,8 +1,14 @@
 {
-	"[python]": {
-		"editor.formatOnPaste": true,
-		"editor.formatOnSave": false
-	},
-	"editor.detectIndentation": false,
-	"editor.indentSize": "tabSize"
+  "[python]": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false
+  },
+  "editor.detectIndentation": false,
+  "editor.indentSize": "tabSize",
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.showComments": false,
+  "terminal.integrated.cursorBlinking": true,
+  "debug.showInStatusBar": "never",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
 }

@@ -3,3 +3,5 @@ cred.json
 ffmpeg-master-latest-linux64-gpl/
 .env
 *.wav
+__pycache__/
+.vscode/

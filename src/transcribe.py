@@ -6,10 +6,9 @@ import openai_utils
 import os
 
 MAX_MP4_SIZE = 26214400
-VIDEO_DIR = "../video/"
+VIDEO_DIR = "tmp/video/"
+TRANSCIPTION_DIR = "tmp/transcription/"
 MP4_EXTENSION = ".mp4"
-TRANSCIPTION_DIR = "../transcription/"
-
 
 def get_mp4_filenames(
         dir_path: str

@@ -62,6 +62,7 @@ if __name__ == "__main__":
             conversations = create_conversations_from_speakers(
               input_filename="transcript.txt"
             )
-            with open('conversations.json', 'w') as f:
-              f.write(json.dumps(conversations, indent=4))
+            output_filename = "../../tmp/conversation/" + folder_name + ".json"
+            with open(output_filename, 'w') as f:
+              f.write(json.dumps(conversations, indent=2))
             os.chdir('..')

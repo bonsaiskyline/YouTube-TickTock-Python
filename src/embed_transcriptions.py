@@ -1,13 +1,13 @@
 """
-This module created embeddings from text.
+This module created embeddings from transcription text.
 Author: bonsaiskyline
 """
 import pandas as pd
 import openai_utils
 import util.file_utils as file_utils
 
-TRANSCRIPTION_DIR = "../transcription/"
-EMBEDDING_DIR = "../embedding/"
+TRANSCRIPTION_DIR = "temp/transcription/"
+EMBEDDING_DIR = "temp/embedding/"
 TXT_EXTENSION = ".txt"
 EMBEDDING_MODEL = "text-embedding-ada-002"
 UTF_8 = "utf-8"

@@ -24,7 +24,7 @@ def strip_conversations(
       for i, conversation in enumerate(conversations):
         print(conversation)
         stripped_lines = [line.split(":: ")[1] for line in conversation]
-        result = " ".join(stripped_lines)
+        result = "||".join(stripped_lines)
         conversation_name = filename.replace(JSON_EXTENSION, "") + "-" + str(i)
         with open("tmp/stripped-conversation/" + conversation_name + ".txt", 'w') as output:
           output.write(result)
